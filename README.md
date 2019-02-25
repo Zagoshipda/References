@@ -1,9 +1,6 @@
 References
 ==========
 
-All kinds of materials helpful for study
-----------------------------------------
-
 
 ### Algorithm
 - [Dijkstra](https://www.zerocho.com/category/Algorithm/post/584bd46f580277001862f1af)
