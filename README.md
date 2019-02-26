@@ -34,6 +34,7 @@ References
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
+- [안경잡이 개발자](https://ndb796.tistory.com/)
 
 
 ### Git & Github
@@ -41,4 +42,5 @@ References
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
+- [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
 
