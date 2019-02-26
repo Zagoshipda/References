@@ -33,9 +33,11 @@ References
 - [ZeroCho Blog](https://www.zerocho.com/)
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
+- [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
 
 
 ### Git & Github
 - [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
+- [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 
 
