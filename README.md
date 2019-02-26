@@ -39,5 +39,6 @@ References
 ### Git & Github
 - [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
-
+- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
+- [KLDP - diff 보는 법](https://kldp.org/node/103533)
 
