@@ -7,13 +7,13 @@ References
 - [Dijkstra](https://limkydev.tistory.com/172)
 
 
+
 ### Community
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
 - [알고스팟](https://algospot.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
-
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [edwith](https://www.edwith.org/)
@@ -40,7 +40,6 @@ References
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
-
 - [안경잡이 개발자](https://ndb796.tistory.com/)
 
 
@@ -54,4 +53,5 @@ References
 
 ### ETCs
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY)
+- [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
