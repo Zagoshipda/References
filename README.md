@@ -22,6 +22,7 @@ References
 
 
 ### Book
+- [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 
@@ -49,4 +50,8 @@ References
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
+
+
+### ETCs
+- [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY)
 
