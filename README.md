@@ -62,4 +62,5 @@ References
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY)
 - [Mussebio's HuRrah: Java 인자 전달 방식: Call-by-{Value | Reference}?](http://mussebio.blogspot.com/2012/05/java-call-by-valuereference.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 
