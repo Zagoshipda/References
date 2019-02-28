@@ -12,6 +12,7 @@ References
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
 - [알고스팟](https://algospot.com/)
+- [koistudy](http://koistudy.net/)
 - [HackerRank](https://www.hackerrank.com/)
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
