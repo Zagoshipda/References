@@ -50,6 +50,8 @@ References
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
 - [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247)
+- [Github Tutorial : What is Pull Request?](https://www.youtube.com/watch?v=e3bjQX9jIBk)
+
 
 
 ### ETCs
