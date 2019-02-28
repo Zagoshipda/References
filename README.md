@@ -49,9 +49,11 @@ References
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
+- [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247)
 
 
 ### ETCs
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY)
+- [Mussebio's HuRrah: Java 인자 전달 방식: Call-by-{Value | Reference}?](http://mussebio.blogspot.com/2012/05/java-call-by-valuereference.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
