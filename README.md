@@ -28,6 +28,8 @@ References
 ### Book
 - [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
+
 
 
 ### Job & Interview
