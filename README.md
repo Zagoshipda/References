@@ -23,6 +23,10 @@ References
 - [edwith](https://www.edwith.org/)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+- [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
+- [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+- [AtCoder](https://atcoder.jp/)
+- [codeground](https://www.codeground.org/)
 
 
 
