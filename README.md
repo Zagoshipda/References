@@ -29,6 +29,7 @@ References
 - [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
 - [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
 - [codeground-SCPC](https://www.codeground.org/) 
+- [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
 
 
 ### Community
@@ -38,6 +39,7 @@ References
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/) <br/><br/>
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+- [C<>DE & T4LK5](https://www.codentalks.com/)
 
 
 ### Book
