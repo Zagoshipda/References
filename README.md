@@ -7,36 +7,43 @@ References
 - [Dijkstra](https://limkydev.tistory.com/172)
 
 
-
-### Community
-- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
+### Study
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
+- [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
+- [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+- [Codeforces](http://codeforces.com/) 
+- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) <br/><br/>
 - [알고스팟](https://algospot.com/)
 - [koistudy](http://koistudy.net/)
 - [Lavida](https://judge.lavida.us/) 
-<br/><br/>- [ACM-ICPC Korea Regional Site](http://icpckorea.org/)
-- [HackerRank](https://www.hackerrank.com/)
+- [ACM-ICPC Korea Regional Site](http://icpckorea.org/)
+- [HackerRank](https://www.hackerrank.com/) <br/><br/>
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
-- [Codeforces](http://codeforces.com/)
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
 - [UVa Online Judge - Home](https://uva.onlinejudge.org/)
-- [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
-- [SW마에스트로](https://blog.naver.com/sw_maestro)
-- [edwith](https://www.edwith.org/)
-- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
-- [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
-- [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
-- [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 - [AtCoder](https://atcoder.jp/)
-- [codeground](https://www.codeground.org/)
+- [oj.uz - 환영합니다!](https://oj.uz/) <br/><br/>
+- [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
+- [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
+- [USA Computing Olympiad](http://www.usaco.org/index.php)
+- [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
+- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
+- [codeground-SCPC](https://www.codeground.org/) 
 
+
+### Community
+- [SW마에스트로](https://blog.naver.com/sw_maestro)
+- [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
+- [edwith](https://www.edwith.org/)
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/) <br/><br/>
+- [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
 
 
 ### Book
 - [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
-
 
 
 ### Job & Interview
@@ -57,9 +64,8 @@ References
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [SoEn:소프트웨어 공학 연구소](http://soen.kr/)
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
-- [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
+- [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/) <br/><br/>
 - [jinyo의 뇌](https://wingnim.tistory.com/)
-
 
 
 ### Git & Github
@@ -67,12 +73,12 @@ References
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
-- [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011)
+- [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) <br/><br/>
 - [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247)
 - [Github Tutorial : What is Pull Request?](https://www.youtube.com/watch?v=e3bjQX9jIBk)
 - [안경잡이 개발자 :: 아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법](https://ndb796.tistory.com/51)
 - [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
-- [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search)
+- [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search) <br/><br/>
 - [[Git] git add 취소하기, git commit 취소하기, git push 취소하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 
 
