@@ -71,6 +71,7 @@ References
 - [안경잡이 개발자 :: 아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법](https://ndb796.tistory.com/51)
 - [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
 - [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search)
+- [[Git] git add 취소하기, git commit 취소하기, git push 취소하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 
 
 
