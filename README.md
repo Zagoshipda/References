@@ -85,6 +85,10 @@ References
 - [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
 - [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search) <br/><br/>
 - [[Git] git add 취소하기, git commit 취소하기, git push 취소하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
+- [Innovative Thinking IT :: git push, pull (fatal: refusing to merge unrelated histories) 에러](https://jobc.tistory.com/177)
+- [Stack Overflow - LF will be replaced by CRLF in git - What is that and is it important?](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important)
+- [Stack Overflow - Git refusing to merge unrelated histories on rebase](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase/37938036#37938036) <br/><br/>
+- [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
 
 
 
