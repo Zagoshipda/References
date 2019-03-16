@@ -48,6 +48,7 @@ References
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/)
+- [velog](https://velog.io/)
 
  <br/><br/>
 
@@ -55,6 +56,7 @@ References
 - [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
+- [더북(TheBook)](https://thebook.io/)
 
 
  <br/><br/>
