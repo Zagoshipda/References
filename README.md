@@ -39,16 +39,22 @@ References
 
 
 ### Community
+
+- [Google Developers](https://developers.google.com/)
+- [Facebook for Developers](https://developers.facebook.com/)
+- [Amazon developer Services](https://developer.amazon.com/)
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/) <br/><br/>
+
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [edwith](https://www.edwith.org/)
-- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
-- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/) <br/><br/>
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
-- [C<>DE & T4LK5](https://www.codentalks.com/)
+- [C<>DE & T4LK5](https://www.codentalks.com/) <br/><br/>
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/)
 - [velog](https://velog.io/)
+
 
  <br/><br/>
 
