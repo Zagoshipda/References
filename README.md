@@ -45,7 +45,6 @@ References
 - [Amazon developer Services](https://developer.amazon.com/)
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/) <br/><br/>
-
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [edwith](https://www.edwith.org/)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
