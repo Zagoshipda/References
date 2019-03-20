@@ -24,13 +24,13 @@ References
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
 - [UVa Online Judge - Home](https://uva.onlinejudge.org/)
 - [AtCoder](https://atcoder.jp/)
-- [oj.uz - 환영합니다!](https://oj.uz/) <br/><br/>
+- [codeground-SCPC](https://www.codeground.org/) <br/><br/>
+- [oj.uz - 환영합니다!](https://oj.uz/)
 - [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
 - [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
 - [USA Computing Olympiad](http://www.usaco.org/index.php)
-- [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
-- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
-- [codeground-SCPC](https://www.codeground.org/) 
+- [Northwestern Europe Regional Contest](http://www.nwerc.eu/) <br/><br/>
+- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm)
 - [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
 - [온코더 Oncoder](https://www.oncoder.com/)
 
@@ -43,13 +43,18 @@ References
 - [Google Developers](https://developers.google.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
+- [Kakao Developers](https://developers.kakao.com/)
+- [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
+- [LINE developers](https://developers.line.biz/en/)
+- [NAVER D2](https://d2.naver.com/home) <br/><br/>
+
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
-- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/) <br/><br/>
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [edwith](https://www.edwith.org/)
-- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/) <br/><br/>
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
-- [C<>DE & T4LK5](https://www.codentalks.com/) <br/><br/>
+- [C<>DE & T4LK5](https://www.codentalks.com/)
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/)
 - [velog](https://velog.io/)
