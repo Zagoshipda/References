@@ -11,26 +11,26 @@ References
 
 ### Study
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
+- [Codeforces](http://codeforces.com/) 
 - [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
 - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
-- [Codeforces](http://codeforces.com/) 
+- [AtCoder](https://atcoder.jp/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) <br/><br/>
 - [알고스팟](https://algospot.com/)
 - [koistudy](http://koistudy.net/)
 - [Lavida](https://judge.lavida.us/) 
-- [ACM-ICPC Korea Regional Site](http://icpckorea.org/)
-- [HackerRank](https://www.hackerrank.com/) <br/><br/>
+- [codeground-SCPC](https://www.codeground.org/)
+- [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
+- [HackerRank](https://www.hackerrank.com/)
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
 - [UVa Online Judge - Home](https://uva.onlinejudge.org/)
-- [AtCoder](https://atcoder.jp/)
-- [codeground-SCPC](https://www.codeground.org/) <br/><br/>
-- [oj.uz - 환영합니다!](https://oj.uz/)
+- [oj.uz - 환영합니다!](https://oj.uz/) <br/><br/>
 - [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
 - [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
 - [USA Computing Olympiad](http://www.usaco.org/index.php)
-- [Northwestern Europe Regional Contest](http://www.nwerc.eu/) <br/><br/>
-- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm)
+- [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
+- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
 - [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
 - [온코더 Oncoder](https://www.oncoder.com/)
 
@@ -47,7 +47,6 @@ References
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) <br/><br/>
-
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
