@@ -82,6 +82,9 @@ References
  <br/><br/>
 
 ### Blog
+- [우아한형제들 기술 블로그](http://woowabros.github.io/)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) <br/><br/>
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
@@ -94,9 +97,8 @@ References
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/) <br/><br/>
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [Nextree](http://www.nextree.co.kr/)
-- [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [소년코딩](https://boycoding.tistory.com/category) <br/><br/>
+- [소년코딩](https://boycoding.tistory.com/category)
+
 
 
  <br/><br/>
