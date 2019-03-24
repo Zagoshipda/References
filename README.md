@@ -99,7 +99,7 @@ References
 - [demun(대문블로그)](https://demun.tistory.com/)
 - [Nextree](http://www.nextree.co.kr/)
 - [소년코딩](https://boycoding.tistory.com/category)
-- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)
+- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/) (-> design pattern)
 
 
  <br/><br/>
