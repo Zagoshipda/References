@@ -17,10 +17,10 @@ References
 - [AtCoder](https://atcoder.jp/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) <br/><br/>
 - [알고스팟](https://algospot.com/)
-- [koistudy](http://koistudy.net/)
+- [koistudy](http://koistudy.net/)  (Korea Olympiad in Informatics)
 - [Lavida](https://judge.lavida.us/) 
 - [선데이 코딩](https://www.sundaycoding.xyz/) 
-- [codeground-SCPC](https://www.codeground.org/)
+- [codeground-SCPC](https://www.codeground.org/)  (Samsung Collegiate Programming Cup)
 - [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
 - [HackerRank](https://www.hackerrank.com/)
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
@@ -34,6 +34,7 @@ References
 - [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
 - [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
 - [온코더 Oncoder](https://www.oncoder.com/)
+- [MIT Deep Learning](https://deeplearning.mit.edu/)
 
 
  <br/><br/>
@@ -94,12 +95,13 @@ References
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [SoEn:소프트웨어 공학 연구소](http://soen.kr/)
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
+- [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/) <br/><br/>
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
 - [Nextree](http://www.nextree.co.kr/)
 - [소년코딩](https://boycoding.tistory.com/category)
-- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/) (-> design pattern)
+- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 
 
  <br/><br/>
