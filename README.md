@@ -84,24 +84,25 @@ References
 
 ### Blog
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
+- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) <br/><br/>
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
-- [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
-- [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/) <br/><br/>
 - [안경잡이 개발자](https://ndb796.tistory.com/)
-- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [SoEn:소프트웨어 공학 연구소](http://soen.kr/)
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
-- [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
-- [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/) <br/><br/>
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
 - [Nextree](http://www.nextree.co.kr/)
 - [소년코딩](https://boycoding.tistory.com/category)
-- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
+- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern) <br/><br/>
+- [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
+- [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
+- [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/) <br/><br/>
+- [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
+- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 
  <br/><br/>
