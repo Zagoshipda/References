@@ -30,13 +30,14 @@ Startup References
 ### Media
 - [플래텀(Platum) - 'Startup's Story Platform’](https://platum.kr/)
 - [스타트업 전문 미디어 서비스 플랫폼 - 벤처스퀘어](http://www.venturesquare.net/)
-- [Startups - Medium](https://medium.com/topic/startups)
+- [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
 
 
  <br/><br/>
 
 
 ### Blog
+- [Startups - Medium](https://medium.com/topic/startups)
 - [에스티마의 인터넷이야기 EstimaStory.com | Thoughts on Internet](https://estimastory.com/) (임정욱 Startup Alliance 센터장)
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
 - [VCNC Blog](https://blog.vcnc.co.kr/) (쏘카, 타다, 비트윈)
