@@ -42,7 +42,8 @@ Startup References
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
 - [VCNC Blog](https://blog.vcnc.co.kr/) (쏘카, 타다, 비트윈)
 - [Opensurvey Blog](https://www.opensurvey.co.kr/blog/) (trend report, statistics)
-
+- [브런치 키워드: IT 트렌드](https://brunch.co.kr/keyword/IT_%ED%8A%B8%EB%A0%8C%EB%93%9C?q=g)
+- [브런치 키워드: 스타트업 경험담](https://brunch.co.kr/keyword/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%EA%B2%BD%ED%97%98%EB%8B%B4?q=g)
 
 
  <br/><br/>
