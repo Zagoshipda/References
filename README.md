@@ -58,6 +58,7 @@ References
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
+- [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/)
 - [velog](https://velog.io/)
 
