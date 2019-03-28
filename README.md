@@ -50,6 +50,8 @@ References
 - [NAVER D2](https://d2.naver.com/home) 
 - [NVIDIA Developer](https://developer.nvidia.com/) <br/><br/>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+- [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
+- [throw bug](https://throwbug.com/)  (Q & A)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/) <br/><br/>
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
@@ -57,13 +59,21 @@ References
 - [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
+- [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
+
 
 
 <br><br>
 
 
-### Study
+### Online Study
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
+- [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
+- [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
+- [edX | Online courses from the world's best universities](https://www.edx.org/)
+- [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
+- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  <br><br>
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
