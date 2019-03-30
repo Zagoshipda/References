@@ -48,7 +48,8 @@ References
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
-- [NVIDIA Developer](https://developer.nvidia.com/) <br/><br/>
+- [NVIDIA Developer](https://developer.nvidia.com/)
+- [Android Developers](https://developer.android.com/) <br/><br/>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
 - [throw bug](https://throwbug.com/)  (Q & A)
@@ -60,6 +61,7 @@ References
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
+
 
 
 
@@ -81,6 +83,7 @@ References
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
+- [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 
