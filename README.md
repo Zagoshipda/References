@@ -87,6 +87,7 @@ References
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 
@@ -155,6 +156,8 @@ References
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
 - [더북(TheBook)](https://thebook.io/)
+- [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
+
 
 
  <br/><br/>
