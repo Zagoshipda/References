@@ -75,7 +75,8 @@ References
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
-- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  <br><br>
+- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
+- [OSSU - Open Source Society University](https://ossu.firebaseapp.com) <br><br>
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
@@ -135,6 +136,7 @@ References
 - [Stack Overflow - LF will be replaced by CRLF in git - What is that and is it important?](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important)
 - [Stack Overflow - Git refusing to merge unrelated histories on rebase](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase/37938036#37938036) <br/><br/>
 - [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
+- [Resources to learn Git](http://try.github.io/)
 
 
  <br/><br/>
