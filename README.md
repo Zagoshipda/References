@@ -91,6 +91,9 @@ References
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
+- [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
+
+
 
 
  <br/><br/>
@@ -111,7 +114,7 @@ References
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
-- [소년코딩](https://boycoding.tistory.com/category)
+- [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
 
