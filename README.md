@@ -64,12 +64,12 @@ References
 
 
 
-
 <br><br>
 
 
 ### Online Study
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
@@ -169,5 +169,6 @@ References
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [Mussebio's HuRrah: Java 인자 전달 방식: Call-by-{Value | Reference}?](http://mussebio.blogspot.com/2012/05/java-call-by-valuereference.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+- [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 
 
