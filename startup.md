@@ -31,6 +31,7 @@ Startup References
 - [플래텀(Platum) - 'Startup's Story Platform’](https://platum.kr/)
 - [스타트업 전문 미디어 서비스 플랫폼 - 벤처스퀘어](http://www.venturesquare.net/)
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
+- [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 
 
  <br/><br/>
