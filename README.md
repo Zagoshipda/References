@@ -53,7 +53,9 @@ References
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
 - [NVIDIA Developer](https://developer.nvidia.com/)
-- [Android Developers](https://developer.android.com/) <br/><br/>
+- [Android Developers](https://developer.android.com/)
+- [네이버 클로바](https://clova.ai/ko) (Naver Clova)
+- [Kakao i](https://kakao.ai/) (Kakao ai) <br/><br/>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
 - [throw bug](https://throwbug.com/)  (Q & A)
