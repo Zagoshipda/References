@@ -124,6 +124,7 @@ References
 - [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
+- [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
 
 
 
@@ -180,5 +181,7 @@ References
 - [Mussebio's HuRrah: Java 인자 전달 방식: Call-by-{Value | Reference}?](http://mussebio.blogspot.com/2012/05/java-call-by-valuereference.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
+- [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
+
 
 
