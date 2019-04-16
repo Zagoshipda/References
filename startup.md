@@ -5,7 +5,7 @@ Startup References
  <br/><br/>
 
 
-### Community
+### Community & Accelerator
 - [Startup Alliance Korea](https://startupall.kr/)
 - [Primer | Primer Club](https://www.primer.kr/)
 - [정주영창업경진대회](https://startup.asan-nanum.org/)
@@ -14,6 +14,7 @@ Startup References
 - [FTAccelerator – Fashion Technology Accelerator](http://ftaccelerator.com/)
 - [SparkLabs](http://www.sparklabs.co.kr/sp/index.php)
 - [SparkLabs Demo Day](http://www.sparklabsdemoday.com/en/index.php)
+- [sopoong](http://sopoong.net/) (social venture accelerator)
 
 
  <br/><br/>
@@ -52,7 +53,7 @@ Startup References
 
 
 ### Gov
-- [스타트업캠퍼스](https://www.gstartupcampus.or.kr/)
+- [스타트업캠퍼스](https://www.gstartupcampus.or.kr/) (판교)
 - [서울창업허브](http://seoulstartuphub.com/)
 - [창업진흥원](https://www.kised.or.kr/)
 
