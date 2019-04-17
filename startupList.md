@@ -34,6 +34,8 @@ Startup lists
 - [Deep Medi](http://deep-medi.co.kr/) : Fast, Smart, Easy, Economic solution to manage your health 바이오/의료 검사/테스트, 혈압측정
 - [김박사넷 - 대학원의 모든 것](https://phdkim.net/info/) : 팔루썸니Palusomni, 대학원 고급 정보 플랫폼
 - [디플리](https://deeply.co.kr/) : AI sound processing 
+- [클리닝타임](http://cleaningtime.co.kr/) : 화학성분 없는 천연 구강 파우더
+- [순번이](https://www.soonbuny.com/) : 순번 대기, 줄서기 앱 서비스 
 
 
 
