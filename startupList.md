@@ -37,5 +37,19 @@ Startup lists
 - [클리닝타임](http://cleaningtime.co.kr/) : 화학성분 없는 천연 구강 파우더
 - [순번이](https://www.soonbuny.com/) : 순번 대기, 줄서기 앱 서비스 
 - [스노우폭스코리아 – Snowfox Korea](https://snowfoxkorea.com/) : 도시락, 일식, 케이터링
+- [WAUG - Explore More](https://www.waug.com/main/) : 액티비티 여행 ([1년간 페북질만 하던 그는 어떻게 ‘와그’를 만들었나](https://byline.network/2018/08/6-12/?fbclid=IwAR0fdMvr-j3ADcHgFdeDuaGDMnLP15dKDpm3169JukJfps7x2s5KUvbQQFY))
+- [Mask Moments | Specialty Face Mask Subscriptions : Beauty habits to glow!](https://www.maskmoments.com/) : premium, transformative sheet mask skincare
+- [인스턴트타투 Instant Tattoo](https://instanttattoo.co.kr/) : 누구나, 어디서든, 쉽게하는 진짜보다 더 진짜같은 인스턴트타투
+- [액스 AX](http://axchange.co/) : 액티비티, 투어 예약관리 (구)누리다트립
+- [가장 가벼운 쇼핑 - Inpock](http://inpock.com/) : 블로그 마켓 관리
+- [원티드 - 지인 추천하고 보상금 받기](https://www.wanted.co.kr/) : 채용추천
+- [BLOCKO](https://www.blocko.io/) : Stable and secure blockchain operating system for Enterprises
+- [제노플랜 - Genoplan](https://www.genoplan.com/#/) : Customized genetic service for Health & Beauty life-style
+- [심플키친](https://simplekitchen.co.kr/) : 공유주방
+- [Global Bridge 무선통신 보안의 새로운 시대를 열다](http://www.globalbridge.co.kr/) : 보안 알고리즘, 무선 데이터 송수신
+- [THIRTEENTH FLOOR | 360 CINEMATIC VIRTUAL REALITY](http://thirteenthfloorcorp.com/) : Virtual Reality
+- [bp-index | 비스트플래닛](https://www.beast-planet.com/) : fitness
+
+
 
 
