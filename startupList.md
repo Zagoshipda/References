@@ -49,6 +49,7 @@ Startup lists
 - [Global Bridge 무선통신 보안의 새로운 시대를 열다](http://www.globalbridge.co.kr/) : 보안 알고리즘, 무선 데이터 송수신
 - [THIRTEENTH FLOOR | 360 CINEMATIC VIRTUAL REALITY](http://thirteenthfloorcorp.com/) : Virtual Reality
 - [bp-index | 비스트플래닛](https://www.beast-planet.com/) : fitness
+- [KST Holdings 주식회사 케이에스티홀딩스](http://www.kstholdings.kr/html/main) : mobility tour parking
 
 
 
