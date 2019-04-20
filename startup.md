@@ -55,6 +55,7 @@ Startup References
 - [에스티마의 인터넷이야기 EstimaStory.com | Thoughts on Internet](https://estimastory.com/) (임정욱 Startup Alliance 센터장)
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
+- [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
 
 
  <br/><br/>
