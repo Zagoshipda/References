@@ -148,6 +148,8 @@ References
 - [Stack Overflow - Git refusing to merge unrelated histories on rebase](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase/37938036#37938036) <br/><br/>
 - [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
 - [Resources to learn Git](http://try.github.io/)
+- [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
+- [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 
 
  <br/><br/>
