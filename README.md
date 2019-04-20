@@ -125,6 +125,8 @@ References
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
 - [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
+- [Kisang Pak – Medium](https://medium.com/@kpak) (박기상, LinkedIn, senior software engineer)
+- [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)
 
 
 
