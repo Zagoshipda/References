@@ -22,6 +22,7 @@ Startup References
 - [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
 - [Bluepoint Partners](http://bluepoint.vc/)
 - [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
+- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 
 
 
