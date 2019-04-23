@@ -58,6 +58,7 @@ Startup References
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)
+- [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
 
 
  <br/><br/>
