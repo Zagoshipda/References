@@ -82,7 +82,7 @@ References
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
-- [OSSU - Open Source Society University](https://ossu.firebaseapp.com) <br><br>
+- [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
@@ -96,23 +96,20 @@ References
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
-- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
-- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
-
+- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)  <br/><br/>
+- [우아한형제들 기술 블로그](http://woowabros.github.io/)
+- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
+- [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
 
 
  <br/><br/>
  
 
 ### Blog
-- [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
-- [Nextree](http://www.nextree.co.kr/) (넥스트리소프트) <br/><br/>
 - [velog](https://velog.io/) (developer blog)
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
@@ -124,11 +121,14 @@ References
 - [demun(대문블로그)](https://demun.tistory.com/)
 - [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
-- [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
 - [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
 - [Kisang Pak – Medium](https://medium.com/@kpak) (박기상, LinkedIn, senior software engineer)
-- [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)
-
+- [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)  <br/><br/>
+- [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
+- [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
+- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
+- [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 
 
  <br/><br/>
