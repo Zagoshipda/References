@@ -57,6 +57,7 @@ Startup References
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
+- [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)
 
 
  <br/><br/>
