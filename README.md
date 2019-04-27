@@ -75,6 +75,10 @@ References
 
 ### Online Study
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
+- [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
+- [OpenAI](https://openai.com/)
+- [Home - deeplearning.ai](https://deeplearning.mit.edu/) <br/><br/>
 - [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
