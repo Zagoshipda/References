@@ -104,6 +104,8 @@ References
 - [Google AI Blog](https://ai.googleblog.com/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
+- [Project Jupyter | Home](https://jupyter.org/)
+- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
 
 
  <br/><br/>
