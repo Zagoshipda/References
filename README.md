@@ -74,6 +74,8 @@ References
 
 
 ### Online Study
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
+- [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
@@ -110,6 +112,7 @@ References
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
 - [Project Jupyter | Home](https://jupyter.org/)
 - [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
+- [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
 
 
  <br/><br/>
