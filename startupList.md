@@ -50,6 +50,8 @@ Startup lists
 - [THIRTEENTH FLOOR | 360 CINEMATIC VIRTUAL REALITY](http://thirteenthfloorcorp.com/) : Virtual Reality
 - [bp-index | 비스트플래닛](https://www.beast-planet.com/) : fitness
 - [KST Holdings 주식회사 케이에스티홀딩스](http://www.kstholdings.kr/html/main) : mobility tour parking
+- [포스타입 - POSTYPE](https://www.postype.com/) : 팬들의 후원과 지지를 기반으로 작가의 지속적인 창작 활동을 돕는 플랫폼 (만화, 소설 문학, 예술)
+- [코딩의 시작 코딩샘 Codingsam](http://codingsam.com/) : 코딩교육
 
 
 
