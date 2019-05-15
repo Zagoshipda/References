@@ -31,6 +31,7 @@ References
 - [USA Computing Olympiad](http://www.usaco.org/index.php)
 - [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
 - [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
+- [CS Academy](https://csacademy.com/)
 - [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
 - [UVa Online Judge - Home](https://uva.onlinejudge.org/)
 - [oj.uz - 환영합니다!](https://oj.uz/)
@@ -140,6 +141,9 @@ References
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
+- [알고리즘 부수기](https://algwang.tistory.com/)
+- [plzrun's algorithm :: 알고리즘 문제풀이(PS) 시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [박트리의 블로그](https://baactree.tistory.com/notice/16) (알고리즘 공부, 어떻게 해야하나요? / 알고리즘 공부 방법/순서)
 
 
  <br/><br/>
