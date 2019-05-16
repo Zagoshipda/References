@@ -55,6 +55,8 @@ Startup lists
 - [Bear Robotics, Inc. | Future of Restaurants](https://www.bearrobotics.ai/) : 서빙 로봇
 - [맛집 컨시어지 서비스, 밥면빵](https://www.rinobr.com/) : 맛집 추천, 상담
 - [웨딩북](https://www.wdgbook.com/) : 결혼준비
+- [Away: Thoughtful luggage for modern travel](https://www.awaytravel.com/) : 여행 가방 
+- [Book Top Things to Do in Korea & Thailand - Trazy, Your Travel Shop for Asia](https://www.trazy.com/) : 여행
 
 
 
