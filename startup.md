@@ -21,6 +21,7 @@ Startup References
 - [빅뱅엔젤스(주)](http://www.bigbangangels.com/)
 - [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
 - [Bluepoint Partners](http://bluepoint.vc/)
+- [SoftBank Ventures Asia](http://www.softbank.co.kr/en/)
 - [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
 - [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 
@@ -32,6 +33,7 @@ Startup References
 ### Info
 - [더브이씨 (THE VC) - 한국 스타트업 투자 데이터베이스](https://thevc.kr/)
 - [데모데이 - 스타트업 포털 서비스](http://www.demoday.co.kr/)
+- [Startup Genome | Decoding Startup Success](https://startupgenome.com/?home=true)
 
 
  <br/><br/>
