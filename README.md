@@ -6,8 +6,16 @@ References
 ### Algorithm
 - [Dijkstra](https://www.zerocho.com/category/Algorithm/post/584bd46f580277001862f1af)
 - [Dijkstra](https://limkydev.tistory.com/172)
+- [알광(Algwang) - 알고리즘 부수기](https://algwang.tistory.com/)
+- [plzrun's algorithm :: 알고리즘 문제풀이(PS) 시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [박트리의 블로그](https://baactree.tistory.com/notice/16) (알고리즘 공부, 어떻게 해야하나요? / 알고리즘 공부 방법/순서)
+- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [PS 이야기](https://blog.myungwoo.kr/)  (전명우)
+- [Ries 마법의 슈퍼마리오 : 네이버 블로그](https://kks227.blog.me/)
+
 
  <br/><br/>
+ 
 
 ### Online Judge/ Algorithm training
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
@@ -47,17 +55,29 @@ References
 
 ### Company
 - [Google Developers](https://developers.google.com/)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Kakao Developers](https://developers.kakao.com/)
+- [Kakao i](https://kakao.ai/) (Kakao ai)
+- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles) <br/><br/>
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
 - [NVIDIA Developer](https://developer.nvidia.com/)
-- [Android Developers](https://developer.android.com/)
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
-- [Kakao i](https://kakao.ai/) (Kakao ai) <br/><br/>
+- [우아한형제들 기술 블로그](http://woowabros.github.io/)
+- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
+- [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
+
+
+ <br/><br/>
+ 
+
+### Community
+- [velog](https://velog.io/) (blog platform for developers)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
 - [throw bug](https://throwbug.com/)  (Q & A)
@@ -71,11 +91,10 @@ References
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 
 
-
 <br><br>
 
 
-### Online Study
+### Machine Learning/ Deep Learning/ AI
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
@@ -83,9 +102,23 @@ References
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 - [OpenAI](https://openai.com/)
 - [Home - deeplearning.ai](https://deeplearning.mit.edu/) <br/><br/>
+- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
+- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
+- [Project Jupyter | Home](https://jupyter.org/)
+- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
+- [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
+- [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
+- [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
+
+
+<br><br>
+
+
+### Online Study
 - [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
+- [NAVER - edwith](https://www.edwith.org/) (Naver, Web programming- Spring, android, ios)  <br><br>
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
@@ -96,27 +129,16 @@ References
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
 - [코딩의 시작, TCP School](http://tcpschool.com/) (web, java, C/C++)
 - [코딩 도장](https://dojang.io/) (C, Python)
+- [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
-- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
+- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)  <br/><br/>
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
-- [edwith](https://www.edwith.org/) (Naver, Web programming- Spring, android, ios)
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
-- [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
-- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
-- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)  <br/><br/>
-- [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
-- [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
-- [Project Jupyter | Home](https://jupyter.org/)
-- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
-- [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
 
 
@@ -125,7 +147,6 @@ References
  
 
 ### Blog
-- [velog](https://velog.io/) (developer blog)
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
@@ -135,18 +156,13 @@ References
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
 - [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)
-- [마르코의 브런치](https://brunch.co.kr/@imagineer#info)
+- [마르코의 브런치](https://brunch.co.kr/@imagineer#info)  <br/><br/>
 - [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
 - [Kisang Pak – Medium](https://medium.com/@kpak) (박기상, LinkedIn, senior software engineer)
-- [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)  <br/><br/>
-- [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
-- [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
-- [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-- [PS 이야기](https://blog.myungwoo.kr/)  (전명우, 알고리즘 문제 풀이)
+- [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
-- [알고리즘 부수기](https://algwang.tistory.com/)
-- [plzrun's algorithm :: 알고리즘 문제풀이(PS) 시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-- [박트리의 블로그](https://baactree.tistory.com/notice/16) (알고리즘 공부, 어떻게 해야하나요? / 알고리즘 공부 방법/순서)
+- [RuvendiX : 네이버 블로그](https://ruvendix.blog.me/)  (C/C++)
+
 
 
  <br/><br/>
@@ -172,6 +188,7 @@ References
 - [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
+
 
  <br/><br/>
 
