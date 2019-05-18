@@ -45,7 +45,7 @@ References
  <br/><br/>
 
 
-### Community
+### Company
 - [Google Developers](https://developers.google.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
@@ -98,6 +98,7 @@ References
 - [코딩 도장](https://dojang.io/) (C, Python)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
+- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
 - [edwith](https://www.edwith.org/) (Naver, Web programming- Spring, android, ios)
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
@@ -116,6 +117,8 @@ References
 - [Project Jupyter | Home](https://jupyter.org/)
 - [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
 - [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
+- [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
+
 
 
  <br/><br/>
