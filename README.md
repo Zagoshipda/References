@@ -22,6 +22,7 @@ References
 - [Codeforces](http://codeforces.com/) 
 - [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
 - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
 - [AtCoder](https://atcoder.jp/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/) <br/><br/>
 - [알고스팟](https://algospot.com/)
