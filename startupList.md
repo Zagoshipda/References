@@ -58,7 +58,7 @@ Startup lists
 - [Away: Thoughtful luggage for modern travel](https://www.awaytravel.com/) : 여행 가방 
 - [Book Top Things to Do in Korea & Thailand - Trazy, Your Travel Shop for Asia](https://www.trazy.com/) : 여행
 - [Reality Reflection](https://www.realityreflection.com/index.html) : VR
-
+- [프리랜서 마켓 No.1 크몽](https://kmong.com/) : freelancer market 
 
 
 
