@@ -163,6 +163,7 @@ References
 - [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 - [RuvendiX : 네이버 블로그](https://ruvendix.blog.me/)  (C/C++)
+- [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
 
 
 
