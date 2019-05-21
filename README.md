@@ -98,6 +98,7 @@ References
 
 
 ### Machine Learning/ Deep Learning/ AI
+- [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/) (TensorFlow, PyTorch)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/)
@@ -167,7 +168,7 @@ References
 - [TARDIS's Note :: TARDIS's Note](https://tadis.tistory.com/)  (design pattern)
 - [RuvendiX : 네이버 블로그](https://ruvendix.blog.me/)  (C/C++)
 - [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
-
+- [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 
 
  <br/><br/>
@@ -213,7 +214,7 @@ References
 - [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
-- [더북(TheBook)](https://thebook.io/)
+- [더북(TheBook)](https://thebook.io/) ((주)도서출판 길벗 IT 도서 열람 서비스)
 - [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
 
 
@@ -230,5 +231,5 @@ References
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
-
+- [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
