@@ -98,21 +98,24 @@ References
 
 
 ### Machine Learning/ Deep Learning/ AI
+- [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) (Kim Sung Hun, RL, DL)
 - [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/) (TensorFlow, PyTorch)
-- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
+- [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
-- [MIT Deep Learning](https://deeplearning.mit.edu/)
+- [Project Jupyter | Home](https://jupyter.org/)
+- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
+- [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
+- [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 - [OpenAI](https://openai.com/)
-- [Home - deeplearning.ai](https://deeplearning.mit.edu/) <br/><br/>
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
 - [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
-- [Project Jupyter | Home](https://jupyter.org/)
-- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
 - [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
 - [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
 - [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
+- [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
+- [C++로 배우는 딥러닝 : 네이버 블로그](https://blog.naver.com/atelierjpro/220697890605) (홍정모)
 
 
 <br><br>
