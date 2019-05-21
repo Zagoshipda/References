@@ -4,8 +4,10 @@ References
  <br/><br/>
 
 ### Algorithm
-- [Dijkstra](https://www.zerocho.com/category/Algorithm/post/584bd46f580277001862f1af)
-- [Dijkstra](https://limkydev.tistory.com/172)
+- [(Algorithm) 최단 경로 알고리즘 - 다익스트라(dijkstra) 알고리즘 - ZeroCho Blog](https://www.zerocho.com/category/Algorithm/post/584bd46f580277001862f1af)
+- [(Algorithm) 네트워크 플로우(network flow) - ZeroCho Blog](https://www.zerocho.com/category/Algorithm/post/5893405b588acb00186d39e0)
+- [[알고리즘] 다익스트라 최단거리 알고리즘(Dijkstra)](https://limkydev.tistory.com/172)
+- [아는만큼 Search tree | hackerwins blog](https://hackerwins.github.io/2019-05-10/search-tree?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social) <br/><br/>
 - [알광(Algwang) - 알고리즘 부수기](https://algwang.tistory.com/)
 - [plzrun's algorithm :: 알고리즘 문제풀이(PS) 시작하기](https://plzrun.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4PS-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [박트리의 블로그](https://baactree.tistory.com/notice/16) (알고리즘 공부, 어떻게 해야하나요? / 알고리즘 공부 방법/순서)
@@ -148,6 +150,7 @@ References
  
 
 ### Blog
+- [어썸데브블로그](https://awesome-devblog.netlify.com/) (국내외 개발 블로그 모음)
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
 - [Heee's Development Blog](https://gmlwjd9405.github.io/)
@@ -225,6 +228,7 @@ References
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
-
+- [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
+- [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
 
 
