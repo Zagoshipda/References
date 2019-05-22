@@ -147,7 +147,7 @@ References
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
-
+- [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
 
 
  <br/><br/>
@@ -173,6 +173,7 @@ References
 - [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
 - [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 - [PYRASIS.COM](http://www.pyrasis.com) (이재홍, Go, Docker, AWS)
+- [개발자스럽다](https://blog.gaerae.com/)
 
 
  <br/><br/>
