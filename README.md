@@ -199,6 +199,7 @@ References
 - [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
+- [git 초보를 위한 풀리퀘스트(pull request) 방법 · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
 
  <br/><br/>
@@ -237,4 +238,6 @@ References
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
+- [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, 
 
