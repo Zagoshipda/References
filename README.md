@@ -62,9 +62,11 @@ References
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
+- [GitHub Developer](https://developer.github.com/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (Kakao ai)
-- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles) <br/><br/>
+- [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
@@ -92,6 +94,7 @@ References
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
+- [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
 
 
 <br><br>
