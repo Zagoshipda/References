@@ -59,6 +59,8 @@ Startup lists
 - [Book Top Things to Do in Korea & Thailand - Trazy, Your Travel Shop for Asia](https://www.trazy.com/) : 여행
 - [Reality Reflection](https://www.realityreflection.com/index.html) : VR
 - [프리랜서 마켓 No.1 크몽](https://kmong.com/) : freelancer market 
+- [Braincolla :: Innovation of Contents Business through The Data distribution](http://braincolla.com/) : 책 골라주는 책방, 잉크(iinnk) 
+- [AI어플리케이션 그룹 마이셀럽스 | 말로 찾는 취향포털 말해 운영사](https://www.mycelebs.com/) : AI 추천 
 
 
 
