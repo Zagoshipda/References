@@ -117,13 +117,15 @@ References
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 - [OpenAI](https://openai.com/)
-- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
-- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
 - [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
-- [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
 - [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
-- [C++로 배우는 딥러닝 : 네이버 블로그](https://blog.naver.com/atelierjpro/220697890605) (홍정모)
+- [C++로 배우는 딥러닝 : 네이버 블로그](https://blog.naver.com/atelierjpro/220697890605) (홍정모)  <br/><br/>
+- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
+- [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
+- [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
+- [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) (
+- [Deep RL Bootcamp - Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR0HNAcMkAbAnP5LaRopCCIJg_-wSUSmQdbxpgSJM0gTwODnHLzKj3oBcNw)  (video & slides & labs)
 
 
 <br><br>
