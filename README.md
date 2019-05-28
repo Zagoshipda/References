@@ -19,7 +19,7 @@ References
  <br/><br/>
  
 
-### Online Judge/ Algorithm training
+### Online Judge & Algorithm training
 - [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
 - [Codeforces](http://codeforces.com/) 
 - [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
@@ -77,12 +77,13 @@ References
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
+- [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5) 
 
 
  <br/><br/>
  
 
-### Community
+### Community & media
 - [velog](https://velog.io/) (blog platform for developers)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
@@ -96,12 +97,15 @@ References
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 - [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
+- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
+- [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
 
 
 <br><br>
 
 
-### Machine Learning/ Deep Learning/ AI
+### Machine Learning & Deep Learning & AI
 - [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) (Kim Sung Hun, RL, DL)
 - [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/) (TensorFlow, PyTorch)
 - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
