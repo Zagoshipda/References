@@ -61,6 +61,7 @@ Startup lists
 - [프리랜서 마켓 No.1 크몽](https://kmong.com/) : freelancer market 
 - [Braincolla :: Innovation of Contents Business through The Data distribution](http://braincolla.com/) : 책 골라주는 책방, 잉크(iinnk) 
 - [AI어플리케이션 그룹 마이셀럽스 | 말로 찾는 취향포털 말해 운영사](https://www.mycelebs.com/) : AI 추천 
+- [프레시코드 - 프리미엄 샐러드 배달 서비스](https://www.freshcode.me/) : 신선식품, 배달 
 
 
 
