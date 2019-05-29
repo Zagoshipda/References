@@ -62,6 +62,14 @@ Startup lists
 - [Braincolla :: Innovation of Contents Business through The Data distribution](http://braincolla.com/) : 책 골라주는 책방, 잉크(iinnk) 
 - [AI어플리케이션 그룹 마이셀럽스 | 말로 찾는 취향포털 말해 운영사](https://www.mycelebs.com/) : AI 추천 
 - [프레시코드 - 프리미엄 샐러드 배달 서비스](https://www.freshcode.me/) : 신선식품, 배달 
+- [일과 일상을 네모에서 찾다, 네모](https://www.nemoapp.kr/) : 공유오피스
+- [패스트파이브 :: 국내 대표 공유오피스](https://www.fastfive.co.kr/) : 공유오피스
+- [아트쉐어 artshare](http://artshare.kr/index.html) : 예술, 디자인  
+- [홈핏 :: 찾아가는 전문 코치](https://homefit.co.kr/) : 운동  
+- [서울의 의사 리스트 (2019) | 병의원 리뷰, 후기는 모두닥!](https://www.modoodoc.com/) : 의료 
+- [보이스루 - JAMAKE](https://voithru.com/) : Voithru, AI 자막제작
+- [Avokado Lab](https://www.avokadolab.com/) : 음식 로봇 
+
 
 
 
