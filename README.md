@@ -144,6 +144,7 @@ References
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
+- [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
 - [코딩의 시작, TCP School](http://tcpschool.com/) (web, java, C/C++)
 - [코딩 도장](https://dojang.io/) (C, Python)
@@ -185,6 +186,7 @@ References
 - [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 - [PYRASIS.COM](http://www.pyrasis.com) (이재홍, Go, Docker, AWS)
 - [개발자스럽다](https://blog.gaerae.com/)
+- [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 
 
  <br/><br/>
@@ -252,4 +254,5 @@ References
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
+- [cppreference.com](https://en.cppreference.com/w/)
 
