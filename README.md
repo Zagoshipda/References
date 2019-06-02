@@ -113,6 +113,7 @@ References
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [Project Jupyter | Home](https://jupyter.org/)
 - [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
+- [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
@@ -142,6 +143,7 @@ References
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
+- [cppreference.com](https://en.cppreference.com/w/)
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
 - [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)
@@ -254,5 +256,5 @@ References
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
-- [cppreference.com](https://en.cppreference.com/w/)
+
 
