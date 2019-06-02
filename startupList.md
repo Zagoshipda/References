@@ -69,6 +69,7 @@ Startup lists
 - [서울의 의사 리스트 (2019) | 병의원 리뷰, 후기는 모두닥!](https://www.modoodoc.com/) : 의료 
 - [보이스루 - JAMAKE](https://voithru.com/) : Voithru, AI 자막제작
 - [Avokado Lab](https://www.avokadolab.com/) : 음식 로봇 
+- [LUXROBO](https://modi.luxrobo.com/) : 코딩교육
 
 
 
