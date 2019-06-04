@@ -92,6 +92,7 @@ References
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/) <br/><br/>
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
+- [Samsung Software Membership](http://www.secmem.org/)
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
