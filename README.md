@@ -163,6 +163,7 @@ References
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
 - [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
+- [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 
 
  <br/><br/>
