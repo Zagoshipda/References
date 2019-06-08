@@ -70,6 +70,8 @@ Startup lists
 - [보이스루 - JAMAKE](https://voithru.com/) : Voithru, AI 자막제작
 - [Avokado Lab](https://www.avokadolab.com/) : 음식 로봇 
 - [LUXROBO](https://modi.luxrobo.com/) : 코딩교육
+- [도도 :: 매장 마케팅 솔루션](http://www.dodopoint.com/) : 매장 관리 솔루션 - 포인트 멤버십, 고객관리
+- [슬로워크](https://slowalk.co.kr/) : 빠띠(시민 참여 민주주의 플랫폼), 스티비(이메일 마케팅 솔루션)
 
 
 
