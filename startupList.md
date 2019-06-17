@@ -75,6 +75,10 @@ Startup lists
 - [HealingPaper](http://www.healingpaper.com/) : 모바일 헬스케어, 강남언니 
 - [메디프레소](http://www.mediespresso.com/) : 푸드테크, 한방차
 - [Looxid Labs – Explore User Mind](https://looxidlabs.com/) : VR, 생체신호센서
+- [Superb AI - AI-Powered Training Data](https://www.superb-ai.com/) : AI
+- [바닐라브릿지- 주선자가 해주는 신뢰가는 소개팅 - Google Play 앱](https://play.google.com/store/apps/details?id=com.vanillabridge.app&hl=ko) : 소개팅
+
+
 
 
 
