@@ -157,6 +157,7 @@ References
 - [코딩 도장](https://dojang.io/) (C, Python)
 - [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
+- [Welcome to Python.org](https://www.python.org/)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
 - [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)  <br/><br/>
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
@@ -196,6 +197,7 @@ References
 - [개발자스럽다](https://blog.gaerae.com/)
 - [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 - [Project Nayuki](https://www.nayuki.io/)
+- [SchoolofWeb :: Home](http://schoolofweb.net/) (이상희, python)
 
 
  <br/><br/>
