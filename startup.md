@@ -27,6 +27,7 @@ Startup References
 - [DREAMPLUS](https://dreamplus.io/)
 - [Altos Ventures](https://altos.vc/)
 - [SpringCamp](http://springcamp.co/)
+- [Strong Ventures | A seed fund, based in California, that finances, supports and mentors Korean/Asian/Global entrepreneurs](http://www.strongvc.com/)
 - [청년창업네트워크 PRISM](http://prismnetwork.kr/)
 - [HEYGROUND, Co-working community for changemakers](https://heyground.com/#/)
 - [Campus  - Google for Startups Campus](https://www.campus.co/)
@@ -67,6 +68,7 @@ Startup References
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)
 - [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
+- [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
 
 
  <br/><br/>
