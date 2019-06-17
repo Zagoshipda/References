@@ -105,6 +105,7 @@ References
 - [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
 - [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
+- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 
 
 <br><br>
