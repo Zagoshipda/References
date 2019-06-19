@@ -7,7 +7,13 @@ Startup References
 
 ### Community & Accelerator
 - [Startup Alliance Korea](https://startupall.kr/)
+- [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
+- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
+- [청년창업네트워크 PRISM](http://prismnetwork.kr/)
+- [HEYGROUND, Co-working community for changemakers](https://heyground.com/#/)
+- [Campus  - Google for Startups Campus](https://www.campus.co/)  <br/><br/>
 - [Primer | Primer Club](https://www.primer.kr/)
+- [Primer Sazze Partners 프라이머 사제 파트너스](https://primersazze.com/)
 - [정주영창업경진대회](https://startup.asan-nanum.org/)
 - [500 Startups Korea – 실리콘밸리를 대표하는 글로벌 벤처케피탈인 500 Startups](http://500startups.co.kr/)
 - [Y Combinator](https://www.ycombinator.com/)
@@ -22,16 +28,10 @@ Startup References
 - [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
 - [Bluepoint Partners](http://bluepoint.vc/)
 - [SoftBank Ventures Asia](http://www.softbank.co.kr/en/)
-- [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
-- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 - [DREAMPLUS](https://dreamplus.io/)
 - [Altos Ventures](https://altos.vc/)
 - [SpringCamp](http://springcamp.co/)
 - [Strong Ventures | A seed fund, based in California, that finances, supports and mentors Korean/Asian/Global entrepreneurs](http://www.strongvc.com/)
-- [청년창업네트워크 PRISM](http://prismnetwork.kr/)
-- [HEYGROUND, Co-working community for changemakers](https://heyground.com/#/)
-- [Campus  - Google for Startups Campus](https://www.campus.co/)
-
 
 
  <br/><br/>
