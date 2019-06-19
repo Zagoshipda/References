@@ -26,6 +26,7 @@ References
 - [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
 - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 - [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
+- [Past Rounds | Facebook Hacker Cup 2019 Qualification Round](https://www.facebook.com/hackercup/past_rounds/)
 - [AtCoder](https://atcoder.jp/)
 - [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
 - [codechef - Programming Competition, Programming Contest, Online Computer Programming](https://www.codechef.com/) <br/><br/>
@@ -158,6 +159,7 @@ References
 - [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
 - [Welcome to Python.org](https://www.python.org/)
+- [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
 - [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)  <br/><br/>
 - [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
