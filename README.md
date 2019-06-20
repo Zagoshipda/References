@@ -109,6 +109,7 @@ References
 - [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
+- [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
 
 
 <br><br>
@@ -202,6 +203,7 @@ References
 - [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 - [Project Nayuki](https://www.nayuki.io/)
 - [SchoolofWeb :: Home](http://schoolofweb.net/) (이상희, python)
+- [Crocus](https://www.crocus.co.kr) (고관우)
 
 
  <br/><br/>
