@@ -67,10 +67,12 @@ References
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
+- [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [GitHub Developer](https://developer.github.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
-- [Kakao i](https://kakao.ai/) (Kakao ai)
+- [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
+- [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
@@ -170,7 +172,7 @@ References
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
 - [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
-- [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
+- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/)
 
 
  <br/><br/>
