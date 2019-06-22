@@ -7,6 +7,7 @@ Python Study
 
 ## 
 - [The Python Language Reference — Python 3.7.4rc1 documentation](https://docs.python.org/3/reference/index.html)
+- [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 
  <br/><br/>
