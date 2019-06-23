@@ -66,6 +66,7 @@ References
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
+- [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
@@ -82,7 +83,8 @@ References
 - [NAVER D2](https://d2.naver.com/home) 
 - [NVIDIA Developer](https://developer.nvidia.com/)
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
-- [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
+- [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL) <br/><br/>
+- [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
