@@ -84,6 +84,7 @@ References
 - [NVIDIA Developer](https://developer.nvidia.com/)
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL) <br/><br/>
+- [SK Telecom AI Center](https://www.skt.ai/)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
