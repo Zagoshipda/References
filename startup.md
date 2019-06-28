@@ -32,6 +32,8 @@ Startup References
 - [Altos Ventures](https://altos.vc/)
 - [SpringCamp](http://springcamp.co/)
 - [Strong Ventures | A seed fund, based in California, that finances, supports and mentors Korean/Asian/Global entrepreneurs](http://www.strongvc.com/)
+- [Register – 82startups](https://82startups.com/register)
+
 
 
  <br/><br/>
