@@ -54,7 +54,7 @@ References
 - [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
 - [온코더 Oncoder](https://www.oncoder.com/)
 - [JUNGOL](http://www.jungol.co.kr/)
-- [한국정보올림피아드](http://www.digitalculture.or.kr/koi/KoiMain.do)
+- [한국코드페어](http://www.digitalculture.or.kr/koi/KoiMain.do) (한국정보올림피아드 - 교재, 온라인 강좌, 기출문제)
 - [ ::국제정보올림피아드:: ](http://ioikorea.or.kr/main/index.asp)
 
 
@@ -116,6 +116,7 @@ References
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
+- [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
 
 
 <br><br>
