@@ -239,6 +239,7 @@ References
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [git 초보를 위한 풀리퀘스트(pull request) 방법 · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- [github - Git Desktop error " ! [remote rejected] master -> master (permission denied)" - Stack Overflow](https://stackoverflow.com/questions/51976794/git-desktop-error-remote-rejected-master-master-permission-denied)
 
 
  <br/><br/>
