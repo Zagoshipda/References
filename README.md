@@ -222,15 +222,17 @@ References
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Resources to learn Git](http://try.github.io/)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+- [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
-- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard)
+- [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+- [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
+- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) <br/><br/>
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) 
-- [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247) <br/><br/>
+- [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247)
 - [안경잡이 개발자 :: 아톰(Atom) 개발 환경과 깃허브(GitHub) 연동하는 방법](https://ndb796.tistory.com/51)
-- [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
 - [아톰(atom) 에디터 깃(git) 연동 :: 깃(git) 편하게 사용하자 !!](http://blog.naver.com/PostView.nhn?blogId=wlgh325&logNo=221443819508&categoryNo=46&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search) 
 - [[Git] git add 취소하기, git commit 취소하기, git push 취소하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
 - [Innovative Thinking IT :: git push, pull (fatal: refusing to merge unrelated histories) 에러](https://jobc.tistory.com/177)
@@ -239,12 +241,12 @@ References
 - [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
 - [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
-- [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [Github Tutorial : What is Pull Request?](https://www.youtube.com/watch?v=e3bjQX9jIBk)
 - [git 초보를 위한 풀리퀘스트(pull request) 방법 · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)  <br/><br/>
 - [github - Git Desktop error " ! [remote rejected] master -> master (permission denied)" - Stack Overflow](https://stackoverflow.com/questions/51976794/git-desktop-error-remote-rejected-master-master-permission-denied)
 - [git - What do you do with your branch after a pull request on GitHub? - Stack Overflow](https://stackoverflow.com/questions/7904038/what-do-you-do-with-your-branch-after-a-pull-request-on-github)
-- [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+- [[Git] 명령어(5) - reset, revert :: victolee](https://victorydntmd.tistory.com/79)
+
 
 
  <br/><br/>
