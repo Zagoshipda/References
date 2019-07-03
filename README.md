@@ -221,8 +221,11 @@ References
 ### Git & Github
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Resources to learn Git](http://try.github.io/)
-- [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
+- [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
+- [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
+- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard)
+
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) 
