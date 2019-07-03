@@ -227,8 +227,9 @@ References
 - [Github를 이용하는 전체 흐름 이해하기 #1](https://blog.outsider.ne.kr/865)
 - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
-- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
-- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) <br/><br/>
+- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html) <br/><br/>
+- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) 
+- [GIT4 - Reset & Revert 4.1. reset --soft vs --mixed vs --hard](https://www.youtube.com/watch?v=DZSZowycr2o&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=6)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) 
 - [git add -p 와 git commit -v 의 사용 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1247)
