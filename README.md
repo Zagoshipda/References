@@ -239,12 +239,15 @@ References
 - [Stack Overflow - LF will be replaced by CRLF in git - What is that and is it important?](https://stackoverflow.com/questions/5834014/lf-will-be-replaced-by-crlf-in-git-what-is-that-and-is-it-important) <br/><br/>
 - [Stack Overflow - Git refusing to merge unrelated histories on rebase](https://stackoverflow.com/questions/37937984/git-refusing-to-merge-unrelated-histories-on-rebase/37938036#37938036)
 - [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
+- [What is the difference between `git merge` and `git merge --no-ff`? - Stack Overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff)
 - [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
+- [Git - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_git_amend) (git rebase -i HEAD~n/ git commit --amend)
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 - [Github Tutorial : What is Pull Request?](https://www.youtube.com/watch?v=e3bjQX9jIBk)
 - [git 초보를 위한 풀리퀘스트(pull request) 방법 · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)  <br/><br/>
 - [github - Git Desktop error " ! [remote rejected] master -> master (permission denied)" - Stack Overflow](https://stackoverflow.com/questions/51976794/git-desktop-error-remote-rejected-master-master-permission-denied)
 - [git - What do you do with your branch after a pull request on GitHub? - Stack Overflow](https://stackoverflow.com/questions/7904038/what-do-you-do-with-your-branch-after-a-pull-request-on-github)
+- [[초보용] Git 되돌리기( Reset, Revert ) | devpools blog](http://www.devpools.kr/2017/02/05/%EC%B4%88%EB%B3%B4%EC%9A%A9-git-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0-reset-revert/)
 - [[Git] 명령어(5) - reset, revert :: victolee](https://victorydntmd.tistory.com/79)
 
 
