@@ -184,7 +184,8 @@ References
 - [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
 - [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
-- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/)
+- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)
+- [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483)
 
 
  <br/><br/>
@@ -256,6 +257,7 @@ References
 - [Git Pull | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/syncing/git-pull) (git pull vs git pull --rebase)
 - [Difference between git pull and git pull --rebase - Stack Overflow](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
 - [What's the difference between 'git merge' and 'git rebase'? - Stack Overflow](https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418)
+- [github - git - remote add origin vs remote set-url origin - Stack Overflow](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)
 
 
  <br/><br/>
