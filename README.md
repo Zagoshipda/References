@@ -258,6 +258,9 @@ References
 - [Difference between git pull and git pull --rebase - Stack Overflow](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
 - [What's the difference between 'git merge' and 'git rebase'? - Stack Overflow](https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418)
 - [github - git - remote add origin vs remote set-url origin - Stack Overflow](https://stackoverflow.com/questions/42830557/git-remote-add-origin-vs-remote-set-url-origin/42830632)
+- [[Git] git stash 명령어 사용하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
+- [git stash 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/788)
+- [stash - 생활코딩](https://opentutorials.org/course/2708/15332)
 
 
  <br/><br/>
