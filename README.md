@@ -119,6 +119,7 @@ References
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
+- [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
 
 
 <br><br>
