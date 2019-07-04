@@ -261,6 +261,8 @@ References
 - [[Git] git stash 명령어 사용하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
 - [git stash 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/788)
 - [stash - 생활코딩](https://opentutorials.org/course/2708/15332)
+- [git rebase -i 사용하기](https://jupiny.com/2018/05/07/git-rebase-i-option/)
+- [git amend | Atlassian Git Tutorial](https://ko.atlassian.com/git/tutorials/rewriting-history)
 
 
  <br/><br/>
