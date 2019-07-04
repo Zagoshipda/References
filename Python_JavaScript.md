@@ -29,7 +29,7 @@ Python & JavaScript Study
 - [SchoolofWeb :: 파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
 - [python generator(제너레이터) 란 무엇인가](https://bluese05.tistory.com/56)
 - [파이썬(python) 파일 읽기, 쓰기 :: C언어 예술가](https://thrillfighter.tistory.com/310)
-
+- [Python에서 현재 함수의 이름과 상위 함수의 이름 출력하기 – Splash!](https://terzeron.com/wp/?p=771) (sys._getframe(n).f_code.co_name)
 
 
  <br/><br/>
