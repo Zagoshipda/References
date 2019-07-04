@@ -73,7 +73,9 @@ References
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [GitHub Developer](https://developer.github.com/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) <br/><br/>
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
+- [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
+- [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
@@ -221,6 +223,7 @@ References
 ### Git & Github
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Resources to learn Git](http://try.github.io/)
+- [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [SJ 아카이브 [깃허브 친해지기 2탄] 깃허브에 폴더별로 commit 다르게 설정해서 업로드하기](https://sojungarchive0414.blogspot.com/2018/03/2-commit.html)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
@@ -250,7 +253,9 @@ References
 - [git - What do you do with your branch after a pull request on GitHub? - Stack Overflow](https://stackoverflow.com/questions/7904038/what-do-you-do-with-your-branch-after-a-pull-request-on-github)
 - [[초보용] Git 되돌리기( Reset, Revert ) | devpools blog](http://www.devpools.kr/2017/02/05/%EC%B4%88%EB%B3%B4%EC%9A%A9-git-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0-reset-revert/)
 - [[Git] 명령어(5) - reset, revert :: victolee](https://victorydntmd.tistory.com/79)
-
+- [Git Pull | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/syncing/git-pull) (git pull vs git pull --rebase)
+- [Difference between git pull and git pull --rebase - Stack Overflow](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
+- [What's the difference between 'git merge' and 'git rebase'? - Stack Overflow](https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418)
 
 
  <br/><br/>
