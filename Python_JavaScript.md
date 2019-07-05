@@ -23,13 +23,18 @@ Python & JavaScript Study
 - [[파이썬] 클로져(Closure) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/112)
 - [[Python 문법] 클로저 (Closure) – Che1's Blog](https://nachwon.github.io/closure/)
 - [python - 파이썬 클로저 문법 질문..  | Hashcode](https://hashcode.co.kr/questions/8100/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-%EB%AC%B8%EB%B2%95-%EC%A7%88%EB%AC%B8)
-- [[파이썬] 리스트 컴프리헨션(list comprehension)의 이해 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/110?category=761276)
+- [[파이썬] 리스트 컴프리헨션(list comprehension)의 이해 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/110?category=761276)  <br/><br/>
 - [SchoolofWeb :: 파이썬 - 퍼스트클래스 함수 (First Class Function)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8D%BC%EC%8A%A4%ED%8A%B8%ED%81%B4%EB%9E%98%EC%8A%A4-%ED%95%A8%EC%88%98-first-class-function/)
 - [SchoolofWeb :: 파이썬 - 클로저 (Closure)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%81%B4%EB%A1%9C%EC%A0%80-closure/)
 - [SchoolofWeb :: 파이썬 - 데코레이터 (Decorator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-decorator/)
 - [python generator(제너레이터) 란 무엇인가](https://bluese05.tistory.com/56)
 - [파이썬(python) 파일 읽기, 쓰기 :: C언어 예술가](https://thrillfighter.tistory.com/310)
 - [Python에서 현재 함수의 이름과 상위 함수의 이름 출력하기 – Splash!](https://terzeron.com/wp/?p=771) (sys._getframe(n).f_code.co_name)
+- [8. Compound statements — Python 3.7.4rc2 documentation](https://docs.python.org/3/reference/compound_stmts.html#function-definitions)
+- [python - How to make a chain of function decorators? - Stack Overflow](https://stackoverflow.com/questions/739654/how-to-make-a-chain-of-function-decorators)
+- [python - Decorator execution order - Stack Overflow](https://stackoverflow.com/questions/27342149/decorator-execution-order)
+- [functools — Higher-order functions and operations on callable objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/functools.html)
+- [python - What does functools.wraps do? - Stack Overflow](https://stackoverflow.com/questions/308999/what-does-functools-wraps-do)
 
 
  <br/><br/>
