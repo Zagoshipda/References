@@ -44,9 +44,15 @@ Python & JavaScript Study
 - [Weak Reference Objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/c-api/weakref.html)
 - [(파이썬) 약한 참조 사용하기 · Wireframe](https://soooprmx.com/archives/5074)
 - [[python] 참조 및 발생자 -약한 참조, 반복자(iterator), 발생자(generator) :: To Data Engineer](https://ecycle.tistory.com/27)
-- [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage collection, weak reference)
+- [Under the C: PyObject](https://blog.hanlee.io/2018/under-the-c-2/) (python object, reference counting, garbage collection, weak reference)  <br/><br/>
 - [Python, module weakref [약한참조] : 네이버블로그](https://soooprmx.com/archives/5074)
-
+- [[파이썬] 데코레이터(Decorator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/113?category=761276)
+- [[파이썬] 제너레이터(Generator) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/114?category=761276)
+- [python decorator (데코레이터) 어렵지 않아요](https://bluese05.tistory.com/30)
+- [ :: Python Higher-order function](https://pylab.tistory.com/entry/Higherorder-function)
+- [[Python] Tip - 클로저가 변수 스코프와 상호 작용하는 방법 알기 :: 개인적인공간](https://brownbears.tistory.com/128)
+- [Python 클로저(closure) 와 변수 참조 범위(scope) 이해하기 : 네이버블로그](https://blog.naver.com/itperson/220850755482)
+- [파이썬 동시성 프로그래밍 - (9) 제네레이터 & 코루틴 & asyncio & async/await](https://hamait.tistory.com/830) (generator, coroutine, native coroutine - async & await)
 
 
  <br/><br/>
