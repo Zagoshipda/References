@@ -164,6 +164,7 @@ References
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
+- [kodocs.io](https://kodocs.io/) (language references 한국어 번역)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
 - [cppreference.com](https://en.cppreference.com/w/)
 - [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
@@ -314,5 +315,5 @@ References
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
 - [Docker 로 쾌적한 개발환경 구축하기 – How we build MyRealTrip – Medium](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3)
-
+- [Java Reference와 GC](https://d2.naver.com/helloworld/329631) 
 
