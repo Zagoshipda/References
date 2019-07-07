@@ -93,6 +93,7 @@ References
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
 - [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5) 
 - [Spoqa 기술 블로그](https://spoqa.github.io/index.html) (Spoqa - 도도, 매장 마케팅 솔루션)
+- [RGP Tech Blog -- RGP Tech Blog](https://rgpkorea.github.io/) (요기요, 배달통)
 
 
  <br/><br/>
@@ -265,8 +266,10 @@ References
 - [git stash 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/788)
 - [stash - 생활코딩](https://opentutorials.org/course/2708/15332)
 - [git rebase -i 사용하기](https://jupiny.com/2018/05/07/git-rebase-i-option/)
-- [git amend | Atlassian Git Tutorial](https://ko.atlassian.com/git/tutorials/rewriting-history)
+- [git amend | Atlassian Git Tutorial](https://ko.atlassian.com/git/tutorials/rewriting-history) <br/><br/>
 - [Solved: Clone private repo - GitHub Community Forum](https://github.community/t5/How-to-use-Git-and-GitHub/Clone-private-repo/td-p/12616) (git clone https://(github ID):(github PWD)@github.com/(github ID)/(repository name).git)
+- [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다.](https://thdev.tech/android/git/2018/01/21/Git-Branch/)
+- [요기요 Android 개발 Git Branch와 Release Planning -- RGP Tech Blog](https://rgpkorea.github.io/posts/ygy-android-release-planning/)
 
 
  <br/><br/>
@@ -302,6 +305,7 @@ References
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [Haml](http://haml.info/)
+- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
