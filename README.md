@@ -120,6 +120,7 @@ References
 - [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
+- [StackShare - Software and technology stacks used by top companies](https://stackshare.io/)
 
 
 <br><br>
@@ -164,6 +165,7 @@ References
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
 - [cppreference.com](https://en.cppreference.com/w/)
+- [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)
 - [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)
