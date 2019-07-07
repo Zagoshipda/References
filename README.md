@@ -264,6 +264,7 @@ References
 - [stash - 생활코딩](https://opentutorials.org/course/2708/15332)
 - [git rebase -i 사용하기](https://jupiny.com/2018/05/07/git-rebase-i-option/)
 - [git amend | Atlassian Git Tutorial](https://ko.atlassian.com/git/tutorials/rewriting-history)
+- [Solved: Clone private repo - GitHub Community Forum](https://github.community/t5/How-to-use-Git-and-GitHub/Clone-private-repo/td-p/12616) (git clone https://(github ID):(github PWD)@github.com/(github ID)/(repository name).git)
 
 
  <br/><br/>
@@ -298,6 +299,7 @@ References
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
+- [Haml](http://haml.info/)
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
@@ -305,5 +307,6 @@ References
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
+- [Docker 로 쾌적한 개발환경 구축하기 – How we build MyRealTrip – Medium](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3)
 
 
