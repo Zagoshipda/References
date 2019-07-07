@@ -78,6 +78,8 @@ Startup lists
 - [Superb AI - AI-Powered Training Data](https://www.superb-ai.com/) : AI
 - [바닐라브릿지- 주선자가 해주는 신뢰가는 소개팅 - Google Play 앱](https://play.google.com/store/apps/details?id=com.vanillabridge.app&hl=ko) : 소개팅
 - [코드잇 | 최고의 프로그래밍 교육을 모두에게!](https://www.codeit.kr/) : 코딩 교육
+- [ZOYI Corporation — Retail Computing](https://zoyi.co/ko) : e-commerce
+- [피플펀드 - 보통 사람을 위한 보통이 아닌 금융](https://www.peoplefund.co.kr/) : 금융
 
 
 
