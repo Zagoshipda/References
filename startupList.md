@@ -80,7 +80,7 @@ Startup lists
 - [코드잇 | 최고의 프로그래밍 교육을 모두에게!](https://www.codeit.kr/) : 코딩 교육
 - [ZOYI Corporation — Retail Computing](https://zoyi.co/ko) : e-commerce
 - [피플펀드 - 보통 사람을 위한 보통이 아닌 금융](https://www.peoplefund.co.kr/) : 금융
-
+- [코드스테이츠 | Code States | 혁신적인 코딩 교육 부트캠프](https://codestates.com/#/) : 코딩 교육
 
 
 
