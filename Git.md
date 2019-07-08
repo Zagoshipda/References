@@ -45,6 +45,8 @@ How to Git & Github
 - [How to use Git Revert - Stack Overflow](https://stackoverflow.com/questions/19032296/how-to-use-git-revert)
 - [Git Revert | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)
 - [Git: Revert to a Previous Commit](https://stackabuse.com/git-revert-to-a-previous-commit/)
+- [Git - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+- [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_reverse_commit)
 
 
  <br/><br/>
