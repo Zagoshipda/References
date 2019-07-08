@@ -58,6 +58,11 @@ Python & JavaScript Study
 - [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
 - [[Effective Python] WAY 27. 공개 속성보다는 비공개 속성을 사용하자](https://hcnoh.github.io/2018-10-08-effective-python-way27)
 - [[Python] Tip - 공개 속성보다는 비공개 속성을 사용 :: 개인적인공간](https://brownbears.tistory.com/157)
+- [[Python] 접근 제어자 :: 개인적인공간](https://brownbears.tistory.com/112) (public, protected, private)
+- [configparser 활용하기 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/13963) (configparser with .init file)
+- [configparser — Configuration file parser — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/configparser.html)
+- [[Python]ConfigParser사용하여 설정파일 읽어들이기](https://flowerykeyboard.tistory.com/8)
+- [파이썬에서 설정값 관리하기 · mingrammer's note](https://mingrammer.com/ways-to-manage-the-configuration-in-python/)
 
 
  <br/><br/>
