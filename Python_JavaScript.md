@@ -54,8 +54,10 @@ Python & JavaScript Study
 - [Python 클로저(closure) 와 변수 참조 범위(scope) 이해하기 : 네이버블로그](https://blog.naver.com/itperson/220850755482)
 - [파이썬 동시성 프로그래밍 - (9) 제네레이터 & 코루틴 & asyncio & async/await](https://hamait.tistory.com/830) (generator, coroutine, native coroutine - async & await)
 - [Python(파이썬) 기본 - 43. class 정리 - 정적메소드 @classmethod와 @staticmethod의 정리 | Suwoni-Codelab](https://suwoni-codelab.com/python%20%EA%B8%B0%EB%B3%B8/2018/03/11/Python-Basic-class-staticmethod/)
-- [파이썬의 함정 - 2  (@classmethod 와  @staticmethod 의 차이)](https://hamait.tistory.com/635)
+- [파이썬의 함정 - 2  (@classmethod 와  @staticmethod 의 차이)](https://hamait.tistory.com/635)  <br/><br/>
 - [The definitive guide on how to use static, class or abstract methods in Python](https://julien.danjou.info/guide-python-static-class-abstract-methods/)
+- [[Effective Python] WAY 27. 공개 속성보다는 비공개 속성을 사용하자](https://hcnoh.github.io/2018-10-08-effective-python-way27)
+- [[Python] Tip - 공개 속성보다는 비공개 속성을 사용 :: 개인적인공간](https://brownbears.tistory.com/157)
 
 
  <br/><br/>
