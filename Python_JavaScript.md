@@ -64,6 +64,8 @@ Python & JavaScript Study
 - [configparser — Configuration file parser — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/configparser.html)
 - [[Python]ConfigParser사용하여 설정파일 읽어들이기](https://flowerykeyboard.tistory.com/8)
 - [파이썬에서 설정값 관리하기 · mingrammer's note](https://mingrammer.com/ways-to-manage-the-configuration-in-python/)
+- [An Intro to Threading in Python – Real Python](https://realpython.com/intro-to-python-threading/)  <br/><br/>
+- [Python Multithreaded Programming](https://www.tutorialspoint.com/python/python_multithreading)
 
 
  <br/><br/>
