@@ -82,5 +82,6 @@ Startup lists
 - [피플펀드 - 보통 사람을 위한 보통이 아닌 금융](https://www.peoplefund.co.kr/) : 금융
 - [코드스테이츠 | Code States | 혁신적인 코딩 교육 부트캠프](https://codestates.com/#/) : 코딩 교육
 - [ROBOTIS](http://en.robotis.com/) : 로봇
+- [홈 | Roborus](https://roborus.ai/ko/) : 주문 로봇, AI
 
 
