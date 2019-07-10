@@ -266,4 +266,9 @@ References
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
 - [Docker 로 쾌적한 개발환경 구축하기 – How we build MyRealTrip – Medium](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3)
 - [Java Reference와 GC](https://d2.naver.com/helloworld/329631) 
+- [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
+- [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
+- [Singleton pattern - Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+
+
 
