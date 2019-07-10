@@ -245,7 +245,6 @@ References
 - [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
 
 
-
  <br/><br/>
  
 
@@ -259,7 +258,7 @@ References
 - [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
-- [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)
+- [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)  <br/><br/>
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
@@ -269,6 +268,7 @@ References
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
 - [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
 - [Singleton pattern - Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+- [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)  <br/><br/>
 
 
 
