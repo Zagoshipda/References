@@ -15,6 +15,7 @@ How to Git & Github
 - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
+- [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
 
 
  <br/><br/>
@@ -49,6 +50,9 @@ How to Git & Github
 - [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_reverse_commit)
 - [git rebase | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - [Git Tip: Rebase Your Stash | Heliom](http://heliom.ca/blog/posts/git-tip-rebase-your-stash) (git stash / git reset HEAD~1)
+- [[Git기초] 브랜치 강제로 옮기기](https://cornswrold.tistory.com/251) (branch를 특정 commit에 직접적으로 재지정하기 : git branch -f (branch) (commit ref / branch) ex. git branch -f master HEAD~3)
+- [[Git기초] Git에서 작업 되돌리기](https://cornswrold.tistory.com/252) (git reset vs git revert : local branch의 경우 reset을 사용할 수 있지만, "history를 고쳐쓴다"는 점 때문에 다른 사람과 협업하는 remote branch에는 쓸 수 없음. 변경사항을 되돌리고 이 되돌린 내용을 다른 사람들과 공유하기 위해서는 git revert를 사용해야 함)
+- [What's the difference between "git fetch" and "git pull"?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 
 
  <br/><br/>
