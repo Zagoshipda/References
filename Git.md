@@ -47,6 +47,8 @@ How to Git & Github
 - [Git: Revert to a Previous Commit](https://stackabuse.com/git-revert-to-a-previous-commit/)
 - [Git - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 - [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_reverse_commit)
+- [git rebase | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- [Git Tip: Rebase Your Stash | Heliom](http://heliom.ca/blog/posts/git-tip-rebase-your-stash) (git stash / git reset HEAD~1)
 
 
  <br/><br/>
