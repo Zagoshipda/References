@@ -83,5 +83,9 @@ Startup lists
 - [코드스테이츠 | Code States | 혁신적인 코딩 교육 부트캠프](https://codestates.com/#/) : 코딩 교육
 - [ROBOTIS](http://en.robotis.com/) : 로봇
 - [홈 | Roborus](https://roborus.ai/ko/) : 주문 로봇, AI
+- [리멤버 - 국민 명함앱](https://rememberapp.co.kr/home) : 명함
+- [마플 - 내가 만든 나만의 상품](https://www.marpple.com/kr/) : 개인 맞춤형 상품 (콘텐츠 플랫폼 커머스)
+
+
 
 
