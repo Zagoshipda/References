@@ -122,6 +122,7 @@ References
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
 - [StackShare - Software and technology stacks used by top companies](https://stackshare.io/)
+- [이상한모임](https://www.weirdx.io/)
 
 
 <br><br>
