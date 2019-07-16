@@ -15,6 +15,8 @@ Python & JavaScript Study
  
 
 ### Python
+- [27. 함수 인자(Arguments) - 파이썬 - 기본을 갈고 닦자!](https://wikidocs.net/16053) (positional/keyword argument packing & unpacking)
+- [3) packing, unpacking - 제대로 파이썬](https://wikidocs.net/22801)
 - [Python method-wrapper type? - Stack Overflow](https://stackoverflow.com/questions/10401935/python-method-wrapper-type)
 - [파이썬 언더스코어(_)에 대하여 · mingrammer's note](https://mingrammer.com/underscore-in-python/)
 - [[오늘, 행복하자!] [Python] Functional Programming HOWTO 요약](https://felixblog.tistory.com/120) (iterator, generator, lambda)
