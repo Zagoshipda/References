@@ -87,6 +87,8 @@ Startup lists
 - [마플 - 내가 만든 나만의 상품](https://www.marpple.com/kr/) : 개인 맞춤형 상품 (콘텐츠 플랫폼 커머스)
 - [어피티 - UPPITY -](https://uppity.co.kr/) : 뉴스레터
 - [뉴닉 NEWNEEK](https://newneek.co/) : 뉴스레터
-
+- [당근마켓 - 우리 동네 중고거래](https://www.daangn.com/) : 중고 거래 
+- [스카이스캐너-항공권, 호텔, 렌트카 최저가 비교 예약](https://www.skyscanner.co.kr/) : 여행
+- [트립스토어 - 패키지여행 비교](https://m.tripstore.kr/) : 여행 
 
 
