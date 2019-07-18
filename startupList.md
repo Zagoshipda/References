@@ -85,7 +85,8 @@ Startup lists
 - [홈 | Roborus](https://roborus.ai/ko/) : 주문 로봇, AI
 - [리멤버 - 국민 명함앱](https://rememberapp.co.kr/home) : 명함
 - [마플 - 내가 만든 나만의 상품](https://www.marpple.com/kr/) : 개인 맞춤형 상품 (콘텐츠 플랫폼 커머스)
-
+- [어피티 - UPPITY -](https://uppity.co.kr/) : 뉴스레터
+- [뉴닉 NEWNEEK](https://newneek.co/) : 뉴스레터
 
 
 
