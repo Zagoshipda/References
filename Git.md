@@ -53,7 +53,8 @@ How to Git & Github
 - [[Git기초] 브랜치 강제로 옮기기](https://cornswrold.tistory.com/251) (branch를 특정 commit에 직접적으로 재지정하기 : git branch -f (branch) (commit ref / branch) ex. git branch -f master HEAD~3)
 - [[Git기초] Git에서 작업 되돌리기](https://cornswrold.tistory.com/252) (git reset vs git revert : local branch의 경우 reset을 사용할 수 있지만, "history를 고쳐쓴다"는 점 때문에 다른 사람과 협업하는 remote branch에는 쓸 수 없음. 변경사항을 되돌리고 이 되돌린 내용을 다른 사람들과 공유하기 위해서는 git revert를 사용해야 함)
 - [What's the difference between "git fetch" and "git pull"?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
-- [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop)
+- [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop / git stash list / git stash pop stash@{n})
+- [git 도구 - stashing 과 cleaning · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/05/16/git-07-stashing-cleaning/) (git stash drop stash@{n})
 
 
  <br/><br/>
