@@ -150,6 +150,7 @@ References
 - [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
 - [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) (
 - [Deep RL Bootcamp - Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR0HNAcMkAbAnP5LaRopCCIJg_-wSUSmQdbxpgSJM0gTwODnHLzKj3oBcNw)  (video & slides & labs)
+- [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) (lecture slides & video)
 
 
 <br><br>
