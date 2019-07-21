@@ -72,6 +72,11 @@ Python & JavaScript Study
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)
 - [예제로 배우는 파이썬 프로그래밍 - 쓰레드 (Thread)](http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB%93%9C-Thread)
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(1) - 기초 :: 좋은사람의 개발 노트](https://niceman.tistory.com/138)
+- [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_singleton)
+- [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-with-python/)
+- [[Python] Singleton Pattern을 이용한 Logger 만들기 :: 불로](https://ourcstory.tistory.com/105)
+- [여러가지 싱글톤(singleton) 구현방법 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/3693)
+- [mrfksiv – Medium](https://medium.com/@mrfksiv) (python design patterns : Singleton, Factory, Adapter)
 
 
  <br/><br/>
