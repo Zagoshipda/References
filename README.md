@@ -115,7 +115,7 @@ References
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 - [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
-- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
+- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진) <br/><br/>
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
@@ -123,6 +123,8 @@ References
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
 - [StackShare - Software and technology stacks used by top companies](https://stackshare.io/)
 - [이상한모임](https://www.weirdx.io/)
+- [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
+- [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 
 
 <br><br>
