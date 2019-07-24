@@ -91,5 +91,6 @@ Startup lists
 - [스카이스캐너-항공권, 호텔, 렌트카 최저가 비교 예약](https://www.skyscanner.co.kr/) : 여행
 - [트립스토어 - 패키지여행 비교](https://m.tripstore.kr/) : 여행 
 - [TAGSOLUTION – 태그솔루션](http://tagsolution.kr/) : 디스플레이, LED 
-
+- [Brewguru – 사람과 사회를 중요시하며 가장 맛있는 콤부차를 만드는 회사](https://brewguru.shop/) : 콤부차 
+- [ppLink - Home](https://www.pplink.net/#/) : remote communication 
 
