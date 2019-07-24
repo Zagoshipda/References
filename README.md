@@ -277,5 +277,5 @@ References
 - [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
 - [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
 - [[Java] java static 멤버와 static 메서드 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/08/04/java-static.html)
-
+- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 
