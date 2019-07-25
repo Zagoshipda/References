@@ -94,4 +94,5 @@ Startup lists
 - [Brewguru – 사람과 사회를 중요시하며 가장 맛있는 콤부차를 만드는 회사](https://brewguru.shop/) : 콤부차 
 - [ppLink - Home](https://www.pplink.net/#/) : remote communication 
 - [conalog 커널로그 – 스마트함이 일상에 깃들다](https://www.conalog.com/) : smart device 
+- [CryptoQuant](https://cryptoquant.com/home/) : 금융 IT 
 
