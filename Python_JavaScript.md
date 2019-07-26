@@ -80,6 +80,7 @@ Python & JavaScript Study
 - [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65)  <br/><br/>
 - [How to update json file with python - Stack Overflow](https://stackoverflow.com/questions/13949637/how-to-update-json-file-with-python)
 - [json — JSON encoder and decoder — Python 3.7.4 documentation](https://docs.python.org/3/library/json.html)
+- [if 'a' or 'b' in L, where L is a list (Python) - Stack Overflow](https://stackoverflow.com/questions/21344842/if-a-or-b-in-l-where-l-is-a-list-python)
 
 
  <br/><br/>
