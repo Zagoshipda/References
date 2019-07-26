@@ -133,6 +133,7 @@ References
 ### Machine Learning & Deep Learning & AI
 - [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) (Kim Sung Hun, RL, DL)
 - [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/) (TensorFlow, PyTorch)
+- [[부스트코스] 텐서플로우로 시작하는 딥러닝 기초 Course introduction : edwith](https://www.edwith.org/boostcourse-dl-tensorflow)
 - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [Project Jupyter | Home](https://jupyter.org/)
@@ -153,6 +154,7 @@ References
 - [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) (
 - [Deep RL Bootcamp - Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR0HNAcMkAbAnP5LaRopCCIJg_-wSUSmQdbxpgSJM0gTwODnHLzKj3oBcNw)  (video & slides & labs)
 - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) (lecture slides & video)
+- [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://d2l.ai/)
 
 
 <br><br>
