@@ -212,8 +212,8 @@ References
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
-- [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)
-- [마르코의 브런치](https://brunch.co.kr/@imagineer#info)  <br/><br/>
+- [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern) <br/><br/>
+- [마르코의 브런치](https://brunch.co.kr/@imagineer#info) 
 - [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
 - [Kisang Pak – Medium](https://medium.com/@kpak) (박기상, LinkedIn, senior software engineer)
 - [열혈남아의 브런치](https://brunch.co.kr/@jowlee#articles) (각종 번역 자료들)
@@ -222,11 +222,12 @@ References
 - [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
 - [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 - [PYRASIS.COM](http://www.pyrasis.com) (이재홍, Go, Docker, AWS)
-- [개발자스럽다](https://blog.gaerae.com/)
+- [개발자스럽다](https://blog.gaerae.com/) <br/><br/>
 - [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 - [Project Nayuki](https://www.nayuki.io/)
 - [SchoolofWeb :: Home](http://schoolofweb.net/) (이상희, python)
 - [Crocus](https://www.crocus.co.kr) (고관우)
+- [최윤섭의 Healthcare Innovation](http://www.yoonsupchoi.com/)
 
 
  <br/><br/>
