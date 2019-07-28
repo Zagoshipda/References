@@ -38,6 +38,7 @@ References
 - [선데이 코딩](https://www.sundaycoding.xyz/) 
 - [codeground-SCPC](https://www.codeground.org/)  (Samsung Collegiate Programming Cup)
 - [Samsung - SW Expert Academy](https://www.swexpertacademy.com/main/main.do)
+- [UCPC 2019](https://ucpc.acmicpc.net/info)
 - [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
 - [HackerRank](https://www.hackerrank.com/)
 - [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
