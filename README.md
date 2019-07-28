@@ -127,6 +127,7 @@ References
 - [이상한모임](https://www.weirdx.io/)
 - [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
+- [프로그라피](http://prography.org/)
 
 
 <br><br>
@@ -230,6 +231,7 @@ References
 - [SchoolofWeb :: Home](http://schoolofweb.net/) (이상희, python)
 - [Crocus](https://www.crocus.co.kr) (고관우)
 - [최윤섭의 Healthcare Innovation](http://www.yoonsupchoi.com/)
+- [태그: 파이썬고득점키트 | scarletbreeze의 블로그](https://scarletbreeze.github.io/tag/#/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8)
 
 
  <br/><br/>
