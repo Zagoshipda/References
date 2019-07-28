@@ -76,6 +76,7 @@ How to Git & Github
 - [Difference between git pull and git pull --rebase - Stack Overflow](https://stackoverflow.com/questions/18930527/difference-between-git-pull-and-git-pull-rebase)
 - [github - Git Desktop error " ! [remote rejected] master -> master (permission denied)" - Stack Overflow](https://stackoverflow.com/questions/51976794/git-desktop-error-remote-rejected-master-master-permission-denied)
 - [Innovative Thinking IT :: git push, pull (fatal: refusing to merge unrelated histories) 에러](https://jobc.tistory.com/177)
-
+- [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) 
+- [git - I deleted a branch in remote, how do I synchronize in local? - Stack Overflow](https://stackoverflow.com/questions/46156118/i-deleted-a-branch-in-remote-how-do-i-synchronize-in-local) 
 
 
