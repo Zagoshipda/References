@@ -81,6 +81,7 @@ References
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
+- [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
@@ -282,4 +283,5 @@ References
 - [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
 - [[Java] java static 멤버와 static 메서드 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/08/04/java-static.html)
 - [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+- [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 
