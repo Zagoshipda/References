@@ -10,6 +10,8 @@ Python & JavaScript Study
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
+- [python index | Awesome python](https://python.awesome-programming.com/)
+- [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
 
 
  <br/><br/>
@@ -82,6 +84,22 @@ Python & JavaScript Study
 - [json — JSON encoder and decoder — Python 3.7.4 documentation](https://docs.python.org/3/library/json.html)
 - [if 'a' or 'b' in L, where L is a list (Python) - Stack Overflow](https://stackoverflow.com/questions/21344842/if-a-or-b-in-l-where-l-is-a-list-python)
 - [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구현(1)](https://seolin.tistory.com/97?category=762768)
+- [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
+- [Python Advanced: Threads and Threading](https://www.python-course.eu/threads.php)
+- [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
+- [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)
+- [[Network] Python을 이용한 네트워크 프로그래밍 :: 돼민이](https://jink1982.tistory.com/83)
+- [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)  <br/><br/>
+- [[Python] Tip - 스레드에서 데이터 경쟁을 막으려면 Lock을 사용 :: 개인적인공간](https://brownbears.tistory.com/216)
+- [파이썬 동시성 프로그래밍 - (1) 쓰레드](https://hamait.tistory.com/752)
+- [Python Multithreading Tutorial: Condition objects with Producer and consumer - 2019](https://www.bogotobogo.com/python/Multithread/python_multithreading_Synchronization_Condition_Objects_Producer_Consumer.php)
+- [파이썬의 멀티쓰레딩(python multi threading) :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/7)
+- [멀티프로세싱과 멀티쓰레딩 :: 빠세이~ 빠세~     ](https://jeunjeun.tistory.com/6)
+- [threading — Thread-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/threading.html#lock-objects)
+- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)
+- [python을 이용한 다중 채팅 구현하기 :: 이프이푸이푸](https://lidron.tistory.com/44)
+- [파이썬 소켓 연결 사용법 · Wireframe](https://soooprmx.com/archives/8737)
+- [#파이썬. 파이썬 소켓(socket) 프로그래밍 : 네이버 블로그](https://blog.naver.com/nonamed0000/221259426463)  <br/><br/>
 
 
  <br/><br/>
