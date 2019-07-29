@@ -286,4 +286,5 @@ References
 - [[Java] java static 멤버와 static 메서드 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/08/04/java-static.html)
 - [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
+- [atom 에디터 not responding 오류 해결](https://programmerpsk.tistory.com/148)
 
