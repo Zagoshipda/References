@@ -84,7 +84,10 @@ Startup References
 - [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
 
 
+ <br/><br/>
 
 
-
+### ETC
+- [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
+- [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 
