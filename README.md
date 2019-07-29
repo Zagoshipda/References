@@ -78,6 +78,7 @@ References
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
+- [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
@@ -198,8 +199,9 @@ References
 - [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
 - [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
-- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)
-- [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483)
+- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)  <br/><br/>
+- [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483) 
+- [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
 
 
  <br/><br/>
