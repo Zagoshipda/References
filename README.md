@@ -246,6 +246,7 @@ References
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers 실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
 - [나의 2017년 외국기업 코딩 인터뷰 정리](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 - [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
+- [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
 
 
  <br><br>
