@@ -74,6 +74,8 @@ References
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [GitHub Developer](https://developer.github.com/)
+- [NVIDIA Developer](https://developer.nvidia.com/)
+- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) <br/><br/>
@@ -86,7 +88,6 @@ References
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
-- [NVIDIA Developer](https://developer.nvidia.com/)
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL) <br/><br/>
 - [SK Telecom AI Center](https://www.skt.ai/)
