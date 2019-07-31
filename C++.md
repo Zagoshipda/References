@@ -5,6 +5,13 @@ C++ Study
  <br/><br/>
 
 
+## 
+- [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
+
+
+ <br/><br/>
+
+
 ## Standard Template Library (STL)
 - [[C++] STL 이란. :: 개발자 지망생](https://blockdmask.tistory.com/67)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
@@ -21,7 +28,6 @@ C++ Study
 ### pair, tuple
 - [pair::pair - C++ Reference](http://www.cplusplus.com/reference/utility/pair/pair/)
 - [[C++/STL]pair, vector](https://sarah950716.tistory.com/4)
-
 
  <br/><br/>
 
