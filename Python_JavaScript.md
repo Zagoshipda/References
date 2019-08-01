@@ -13,6 +13,7 @@ Python & JavaScript Study
 - [python index | Awesome python](https://python.awesome-programming.com/)
 - [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
 - [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
+- [Parallel Python - Home](https://www.parallelpython.com/)
 
 
  <br/><br/>
@@ -102,6 +103,15 @@ Python & JavaScript Study
 - [파이썬 소켓 연결 사용법 · Wireframe](https://soooprmx.com/archives/8737)
 - [#파이썬. 파이썬 소켓(socket) 프로그래밍 : 네이버 블로그](https://blog.naver.com/nonamed0000/221259426463)  <br/><br/>
 - [inheritance - Making a variable non-inheritable in python - Stack Overflow](https://stackoverflow.com/questions/1076718/making-a-variable-non-inheritable-in-python)
+- [Parallel Processing in Python - A Practical Guide with Examples | ML+](https://www.machinelearningplus.com/python/parallel-processing-python/)
+- [python - global 변수와 local 변수가 동시에 쓰였을 때 | 코드잇](https://www.codeit.kr/questions/1200)
+- [multiprocessing — Process-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/multiprocessing.html)
+- [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
+- [[번역] 비동기 파이썬 · mingrammer's note](https://mingrammer.com/translation-asynchronous-python/)
+- [architecture - Difference between a "coroutine" and a "thread"? - Stack Overflow](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
+- [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
+- [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501) (slideshare)
+- []() <br/><br/>
 
 
  <br/><br/>
