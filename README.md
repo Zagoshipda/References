@@ -161,6 +161,7 @@ References
 - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) (lecture slides & video)
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://d2l.ai/)
 - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
+- [MLPerf](https://mlperf.org/) (Machine Learning Performance Benchmark)
 
 
 <br><br>
