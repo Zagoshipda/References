@@ -55,6 +55,7 @@ How to Git & Github
 - [What's the difference between "git fetch" and "git pull"?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 - [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop stash@{n} / git stash list / git stash drop stash@{n})
 - [git 도구 - stashing 과 cleaning · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/05/16/git-07-stashing-cleaning/) (git stash drop stash@{n})
+- [git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 : TOAST Meetup](https://meetup.toast.com/posts/45)
 
 
  <br/><br/>
