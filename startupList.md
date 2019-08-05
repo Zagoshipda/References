@@ -97,4 +97,6 @@ Startup lists
 - [CryptoQuant](https://cryptoquant.com/home/) : 금융 IT 
 - [플레이오토 - 쇼핑몰 통합관리 솔루션](https://www.playauto.co.kr/) : 쇼핑몰 
 - [빅펄 - 앞서가는 비즈니스를 위한 인플루언서 마케팅의 새로운 방법](https://ad.bigpearl.io/) : youtube 마케팅 
+- [핑퐁 빌더](https://pingpong.us/) : 챗봇 
+- [제로연회비](https://zeroannualfee.com/) : 금융, 카드 
 
