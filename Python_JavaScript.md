@@ -14,6 +14,8 @@ Python & JavaScript Study
 - [Tutorials, Python Courses: Online and On Site](https://www.python-course.eu/index.php)
 - [PEP 8 -- Style Guide for Python Code | Python.org](https://www.python.org/dev/peps/pep-0008/)
 - [Parallel Python - Home](https://www.parallelpython.com/)
+- [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_python.html)
+- [Choose a language · Django Girls Tutorial](https://tutorial.djangogirls.org/)
 
 
  <br/><br/>
@@ -111,7 +113,7 @@ Python & JavaScript Study
 - [architecture - Difference between a "coroutine" and a "thread"? - Stack Overflow](https://stackoverflow.com/questions/1934715/difference-between-a-coroutine-and-a-thread)
 - [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
 - [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501) (slideshare)
-- []() <br/><br/>
+- [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833) <br/><br/>
 
 
  <br/><br/>
