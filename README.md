@@ -67,6 +67,7 @@ References
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
+- [Instagram Engineering](https://instagram-engineering.com/)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
