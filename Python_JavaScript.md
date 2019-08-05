@@ -114,6 +114,9 @@ Python & JavaScript Study
 - [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
 - [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501) (slideshare)
 - [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833) <br/><br/>
+- [Poppy_Leni♥ :: 코루틴 vs 스레드](https://poppy-leni.tistory.com/entry/%EC%BD%94%EB%A3%A8%ED%8B%B4-vs-%EC%93%B0%EB%A0%88%EB%93%9C)
+- [PyCon APAC 2016 Program | High-performance Networking with Python](https://archive.pycon.kr/2016apac/program/23)
+- [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
 
 
  <br/><br/>
