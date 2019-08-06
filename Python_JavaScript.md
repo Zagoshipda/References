@@ -121,6 +121,7 @@ Python & JavaScript Study
 - [Why python is Slow:Looking Under the Hood - CookAtRice - Medium](https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7)
 - [Python에 대하여, Python은 어떻게 동작하는가? Python의 장단점 – Jihun's Development Blog](https://cjh5414.github.io/about-python-and-how-python-works/)
 - [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현 · mingrammer's note](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation/)
+- [07_정적 메소드(Static Method, Class Method) - 핵심만 간단히, Hello World! 파이썬 3](https://wikidocs.net/21054)
 
 
  <br/><br/>
