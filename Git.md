@@ -82,6 +82,6 @@ How to Git & Github
 - [git - I deleted a branch in remote, how do I synchronize in local? - Stack Overflow](https://stackoverflow.com/questions/46156118/i-deleted-a-branch-in-remote-how-do-i-synchronize-in-local) (git remote prune origin)
 - [Message 'src refspec master does not match any' when pushing commits in Git - Stack Overflow](https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git) (git show-ref)
 - [Differences between git remote update and fetch? - Stack Overflow](https://stackoverflow.com/questions/1856499/differences-between-git-remote-update-and-fetch) (특정 remote만 fetch하기 : git fetch <remote> <remote branch>, update는 branch 단위로는 안되고 remote 단위로만 가능한 듯)
-- [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a ) <br/><br/>
-- [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 git이 저장하고 있는 reference 자체를 삭제하는 방법이 가능 : rm .git/refs/remotes/<remote>/<branch>)
+- [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a / ___git remote show \<remote\>___ : remote repo의 branch 상태를 local repo와 비교해서 각각 확인할 수 있음) <br/><br/>
+- [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 ***git이 저장하고 있는 reference 자체를 삭제***하는 방법이 가능 : rm .git/refs/remotes/\<remote\>/\<branch\>)
 
