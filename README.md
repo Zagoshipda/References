@@ -101,6 +101,7 @@ References
 - [Spoqa 기술 블로그](https://spoqa.github.io/index.html) (Spoqa - 도도, 매장 마케팅 솔루션)
 - [RGP Tech Blog -- RGP Tech Blog](https://rgpkorea.github.io/) (요기요, 배달통)
 - [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)
+- [Pony.ai](https://www.pony.ai/)
 
 
  <br/><br/>
@@ -166,6 +167,8 @@ References
 - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
 - [MLPerf](https://mlperf.org/) (Machine Learning Performance Benchmark)
 - [Designing more efficient convolution neural network](https://www.slideshare.net/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307) (NAVER, Kim Dongyi)
+- [Machine Learning Deep Learning Artificial Intelligence | Techgrabyte](https://techgrabyte.com/)
+- [11 Most Amazing AutoML Tools To Automate The Machine Learning](https://techgrabyte.com/11-automl-tools-automate-machine-learning/)
 
 
 <br><br>
@@ -209,6 +212,7 @@ References
 - [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)  <br/><br/>
 - [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483) 
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
+- [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)
 
 
  <br/><br/>
@@ -254,6 +258,8 @@ References
 - [나의 2017년 외국기업 코딩 인터뷰 정리](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 - [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
 - [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
+- [채용 정보 검색 | Tesla](https://www.tesla.com/ko_KR/careers/search#/?department=1&region=5&country=0) (Software Engineer, Computer Vision and AI)
+- [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
 
 
  <br><br>
@@ -303,4 +309,5 @@ References
 - [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
 - [Darwin Online](http://darwin-online.org.uk/)
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
+- [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
 
