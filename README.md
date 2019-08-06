@@ -57,6 +57,7 @@ References
 - [JUNGOL](http://www.jungol.co.kr/)
 - [한국코드페어](http://www.digitalculture.or.kr/koi/KoiMain.do) (한국정보올림피아드 - 교재, 온라인 강좌, 기출문제)
 - [ ::국제정보올림피아드:: ](http://ioikorea.or.kr/main/index.asp)
+- [International Olympiad in Informatics](https://ioinformatics.org/)
 
 
  <br/><br/>
@@ -164,6 +165,7 @@ References
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://d2l.ai/)
 - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
 - [MLPerf](https://mlperf.org/) (Machine Learning Performance Benchmark)
+- [Designing more efficient convolution neural network](https://www.slideshare.net/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307) (NAVER, Kim Dongyi)
 
 
 <br><br>
