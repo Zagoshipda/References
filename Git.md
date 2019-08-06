@@ -52,7 +52,7 @@ How to Git & Github
 - [Git Tip: Rebase Your Stash | Heliom](http://heliom.ca/blog/posts/git-tip-rebase-your-stash) (git stash / git reset HEAD~1)
 - [[Git기초] 브랜치 강제로 옮기기](https://cornswrold.tistory.com/251) (branch를 특정 commit에 직접적으로 재지정하기 : git branch -f (branch) (commit ref / branch) ex. git branch -f master HEAD~3)
 - [[Git기초] Git에서 작업 되돌리기](https://cornswrold.tistory.com/252) (git reset vs git revert : local branch의 경우 reset을 사용할 수 있지만, "history를 고쳐쓴다"는 점 때문에 다른 사람과 협업하는 remote branch에는 쓸 수 없음. 변경사항을 되돌리고 이 되돌린 내용을 다른 사람들과 공유하기 위해서는 git revert를 사용해야 함)
-- [What's the difference between "git fetch" and "git pull"?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
+- [What's the difference between "git fetch" and "git pull"?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)  <br/><br/>
 - [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop stash@{n} / git stash list / git stash drop stash@{n})
 - [git 도구 - stashing 과 cleaning · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/05/16/git-07-stashing-cleaning/) (git stash drop stash@{n})
 - [git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 : TOAST Meetup](https://meetup.toast.com/posts/45)
@@ -80,5 +80,8 @@ How to Git & Github
 - [Innovative Thinking IT :: git push, pull (fatal: refusing to merge unrelated histories) 에러](https://jobc.tistory.com/177)
 - [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (git push <remote_name> --delete <branch_name>)
 - [git - I deleted a branch in remote, how do I synchronize in local? - Stack Overflow](https://stackoverflow.com/questions/46156118/i-deleted-a-branch-in-remote-how-do-i-synchronize-in-local) (git remote prune origin)
-
+- [Message 'src refspec master does not match any' when pushing commits in Git - Stack Overflow](https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git) (git show-ref)
+- [Differences between git remote update and fetch? - Stack Overflow](https://stackoverflow.com/questions/1856499/differences-between-git-remote-update-and-fetch) (특정 remote만 fetch하기 : git fetch <remote> <remote branch>, update는 branch 단위로는 안되고 remote 단위로만 가능한 듯)
+- [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a ) <br/><br/>
+- [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 git이 저장하고 있는 reference 자체를 삭제하는 방법이 가능 : rm .git/refs/remotes/<remote>/<branch>)
 
