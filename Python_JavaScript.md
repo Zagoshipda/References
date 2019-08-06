@@ -117,6 +117,10 @@ Python & JavaScript Study
 - [Poppy_Leni♥ :: 코루틴 vs 스레드](https://poppy-leni.tistory.com/entry/%EC%BD%94%EB%A3%A8%ED%8B%B4-vs-%EC%93%B0%EB%A0%88%EB%93%9C)
 - [PyCon APAC 2016 Program | High-performance Networking with Python](https://archive.pycon.kr/2016apac/program/23)
 - [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
+- [[Python] Tip - 많은 함수를 동시에 실행하려면 코루틴을 고려 :: 개인적인공간](https://brownbears.tistory.com/237)
+- [Why python is Slow:Looking Under the Hood - CookAtRice - Medium](https://medium.com/@cookatrice/why-python-is-slow-looking-under-the-hood-7126baf936d7)
+- [Python에 대하여, Python은 어떻게 동작하는가? Python의 장단점 – Jihun's Development Blog](https://cjh5414.github.io/about-python-and-how-python-works/)
+- [[번역] 파이썬 내부 동작 원리: 임의 정밀도의 정수 구현 · mingrammer's note](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation/)
 
 
  <br/><br/>
