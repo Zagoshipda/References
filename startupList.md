@@ -101,4 +101,5 @@ Startup lists
 - [제로연회비](https://zeroannualfee.com/) : 금융, 카드 
 - [숨고: 숨은고수 - 150만명이 선택한 No.1 전문가 매칭](https://soomgo.com/) : 구인 
 - [롤체지지 - 롤토체스 전적 검색, 아이템, 랭킹, 시너지 조합표](https://lolchess.gg/) : 게임
+- [Semantic Machines](http://www.semanticmachines.com/) : Machine Learning 
 
