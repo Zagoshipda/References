@@ -69,10 +69,12 @@ References
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
+- [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
+- [The AI Blog](https://blogs.microsoft.com/ai/)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
-- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
+- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) <br/><br/>
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [GitHub Developer](https://developer.github.com/)
