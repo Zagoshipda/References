@@ -136,7 +136,8 @@ References
 - [이상한모임](https://www.weirdx.io/)
 - [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
-- [프로그라피](http://prography.org/)
+- [프로그라피](http://prography.org/) <br/><br/>
+- [TechCrunch](https://techcrunch.com/)
 
 
 <br><br>
