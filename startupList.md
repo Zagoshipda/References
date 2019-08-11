@@ -102,4 +102,7 @@ Startup lists
 - [숨고: 숨은고수 - 150만명이 선택한 No.1 전문가 매칭](https://soomgo.com/) : 구인 
 - [롤체지지 - 롤토체스 전적 검색, 아이템, 랭킹, 시너지 조합표](https://lolchess.gg/) : 게임
 - [Semantic Machines](http://www.semanticmachines.com/) : Machine Learning 
+- [Festa! 이벤트를 만나는 가장 쉬운 방법](https://festa.io/) : 행사
+- [OTR](http://www.otr.co.kr/) : 공연 예술 종합  
+
 
