@@ -10,6 +10,8 @@ Linux commands
 - [초보개발자 이야기. :: UNIX/LINUX : 파일의 문자열 패턴 검색 (grep)](https://ra2kstar.tistory.com/100)
 - [Linux 명령어(grep, egrep, fgrep, find)](https://johyungen.tistory.com/159)
 - [초보개발자 이야기. :: UNIX/LINUX : 파일의 문자열 패턴 검색 (grep)](https://ra2kstar.tistory.com/100)
+- [Linux Ping Command | Linuxize](https://linuxize.com/post/linux-ping-command/)
+- [PING Command in Linux with examples - GeeksforGeeks](https://www.geeksforgeeks.org/ping-command-in-linux-with-examples/)
 
 
  <br/><br/>
