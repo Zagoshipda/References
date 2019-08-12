@@ -73,6 +73,7 @@ References
 - [The AI Blog](https://blogs.microsoft.com/ai/)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
+- [Game Stack | Microsoft Developer](https://developer.microsoft.com/en-us/games)
 - [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) <br/><br/>
