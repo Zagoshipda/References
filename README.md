@@ -83,6 +83,7 @@ References
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino - Home](https://www.arduino.cc/) 
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
@@ -138,6 +139,7 @@ References
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 - [프로그라피](http://prography.org/) <br/><br/>
 - [TechCrunch](https://techcrunch.com/)
+- [로봇신문사](http://www.irobotnews.com/)
 
 
 <br><br>
@@ -315,4 +317,5 @@ References
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 - [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
 - [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
+
 
