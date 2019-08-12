@@ -313,9 +313,10 @@ References
 - [[OS] 프로세스와 스레드의 차이 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
 - [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/)
 - [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
-- [Darwin Online](http://darwin-online.org.uk/)
+- [Darwin Online](http://darwin-online.org.uk/)  <br/><br/>
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 - [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
 - [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
-
+- [소켓 프로그래밍. (Socket Programming) :: 개발자를 위한 레시피](https://recipes4dev.tistory.com/153)
+- [수까락의 프로그래밍 이야기 : 쓰레드 생성/소멸의 자세한 과정](http://sweeper.egloos.com/2982440)
 
