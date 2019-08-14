@@ -39,7 +39,7 @@ How to Git & Github
 - [[Git] 명령어(5) - reset, revert :: victolee](https://victorydntmd.tistory.com/79)
 - [What's the difference between 'git merge' and 'git rebase'? - Stack Overflow](https://stackoverflow.com/questions/16666089/whats-the-difference-between-git-merge-and-git-rebase/16666418#16666418)
 - [[Git] git stash 명령어 사용하기 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
-- [git stash 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/788)
+- [git stash 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/788) (stash 내용 보기 : git stash show stash@{n})
 - [stash - 생활코딩](https://opentutorials.org/course/2708/15332)
 - [git rebase -i 사용하기](https://jupiny.com/2018/05/07/git-rebase-i-option/)
 - [git amend | Atlassian Git Tutorial](https://ko.atlassian.com/git/tutorials/rewriting-history)  <br/><br/>
@@ -56,6 +56,7 @@ How to Git & Github
 - [git stash - Saving Changes | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/saving-changes/git-stash) (git stash / git stash pop stash@{n} / git stash list / git stash drop stash@{n})
 - [git 도구 - stashing 과 cleaning · 초보몽키의 개발공부로그](https://wayhome25.github.io/git/2017/05/16/git-07-stashing-cleaning/) (git stash drop stash@{n})
 - [git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 : TOAST Meetup](https://meetup.toast.com/posts/45)
+- [git 명령어 : git cherry-pick :: 삐멜 소프트웨어 엔지니어](https://imasoftwareengineer.tistory.com/7) (git cherry-pick \<ref1\> \<ref2\> \<ref3\> ... )
 - [Git push/fetch 내부 동작 정리 | 기록하기](https://hongsii.github.io/2018/11/08/git-push-fetch/)
 
 
