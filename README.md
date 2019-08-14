@@ -320,4 +320,8 @@ References
 - [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
 - [소켓 프로그래밍. (Socket Programming) :: 개발자를 위한 레시피](https://recipes4dev.tistory.com/153)
 - [수까락의 프로그래밍 이야기 : 쓰레드 생성/소멸의 자세한 과정](http://sweeper.egloos.com/2982440)
+- [BetaCube: A Deep Reinforcement Learning Approach to Solving 2x2x2 Rubik’s Cubes Without Human Knowledge](https://web.stanford.edu/class/aa228/reports/2018/final28.pdf)
+- [Solving the Rubik’s cube with deep reinforcement learning and search | Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0070-z.epdf?referrer_access_token=V_xdSLZcMc0NpPOK4qU5-dRgN0jAjWel9jnR3ZoTv0Osb8UCgUm5AQaSCMHWqWzspuy7oBsxRTU7jhKFTJ7Yw6OXuH4O6l8dYMFTi6WGbKd52pVGF25odDxVWZ1qmNizPtQspftcdC0PMDFynrF8Dad6PDlYDzCrDmmtdsMImvgSKlAQmNkGcFTPUbeFUbXPeQ_ZdtUpp24Fi1vonALZfDSm9Lb17omgOrWnOnh-REA%3D)
+- [AI researchers test a robot's dexterity by handing it a Rubik's cube | VentureBeat](https://venturebeat.com/2019/07/29/ai-researchers-test-a-robots-dexterity-by-handing-it-a-rubiks-cube/)
+- [Learning  to  Solve  a  Rubik’s  Cube  with  a  Dexterous  Hand](https://arxiv.org/pdf/1907.11388.pdf) (1907.11388.pdf)
 
