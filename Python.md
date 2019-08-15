@@ -27,6 +27,8 @@ Python Study
 - [Parallel Python - Home](https://www.parallelpython.com/)
 - [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_python.html)
 - [Choose a language · Django Girls Tutorial](https://tutorial.djangogirls.org/)
+- [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)
+- [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 
 
  <br/><br/>
@@ -38,7 +40,7 @@ Python Study
 - [Python method-wrapper type? - Stack Overflow](https://stackoverflow.com/questions/10401935/python-method-wrapper-type)
 - [파이썬 언더스코어(_)에 대하여 · mingrammer's note](https://mingrammer.com/underscore-in-python/)
 - [[오늘, 행복하자!] [Python] Functional Programming HOWTO 요약](https://felixblog.tistory.com/120) (iterator, generator, lambda)
-- [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping, )
+- [Python Fundamentals Tutorial: Functional Programming](https://www.protechtraining.com/content/python_fundamentals_tutorial-functional_programming) (Higher-Order Function, closure, lexical scoping, Decorator)
 - [[python] closure (클로저) | 코딩장이](https://itholic.github.io/python-closure/)
 - [functional programming - Can you explain closures (as they relate to Python)? - Stack Overflow](https://stackoverflow.com/questions/13857/can-you-explain-closures-as-they-relate-to-python)
 - [[파이썬] 클로져(Closure) 이해하기 :: 게임회사에서 살아남기](https://whatisthenext.tistory.com/112)
@@ -129,7 +131,11 @@ Python Study
 - [05-6 외장 함수 - 점프 투 파이썬](https://wikidocs.net/33) (sys.argv : 명령 행에서 인수 전달하기/ pickle : 객체의 형태를 그대로 유지하면서 파일에 저장하고 불러올 수 있음)
 - [5.2. 여러가지 모듈 - 왕초보를 위한 Python 2.7](https://wikidocs.net/78) (sys.ps1 = '^^; ')
 - [파일입출력 - 파이썬에서 파일을 읽고, 파일에 쓰는 방법 · Wireframe](https://soooprmx.com/archives/9143)
+- [with 구문과 컨텍스트 매니저 · Wireframe](https://soooprmx.com/archives/4079)
 - [[python] socket (server, client) | 코딩장이](https://itholic.github.io/python-socket/)
 - [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
+- [Context Manager in Python - GeeksforGeeks](https://www.geeksforgeeks.org/context-manager-in-python/)
+- [26. Context Managers — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/context_managers.html)
+
 
 
