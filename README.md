@@ -285,7 +285,6 @@ References
 
 ### ETCs
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
-- [Mussebio's HuRrah: Java 인자 전달 방식: Call-by-{Value | Reference}?](http://mussebio.blogspot.com/2012/05/java-call-by-valuereference.html)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
@@ -299,7 +298,6 @@ References
 - [[docker] 기본편(1/3) - 도커의 기본적인 명령어를 다뤄보자 : 네이버 블로그](https://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221350092204&parentCategoryNo=&categoryNo=112&viewDate=&isShowPopularPosts=false&from=postList)
 - [데이터 사이언스 스쿨 | 도커 이미지 설치 및 실행](https://datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/) (김도형, data science, ML, DL)
 - [Docker 로 쾌적한 개발환경 구축하기 – How we build MyRealTrip – Medium](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3)
-- [Java Reference와 GC](https://d2.naver.com/helloworld/329631) 
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
 - [Proto.io - Prototypes that feel real](https://proto.io/)
 - [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
@@ -307,21 +305,13 @@ References
 - [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)  <br/><br/>
 - [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
 - [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
-- [[Java] java static 멤버와 static 메서드 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/08/04/java-static.html)
 - [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [atom 에디터 not responding 오류 해결](https://programmerpsk.tistory.com/148)
-- [[OS] 프로세스와 스레드의 차이 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/09/14/process-vs-thread.html)
 - [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/)
 - [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
-- [Darwin Online](http://darwin-online.org.uk/)  <br/><br/>
+- [Darwin Online](http://darwin-online.org.uk/)
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
-- [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
-- [Creating and Starting Java Threads](http://tutorials.jenkov.com/java-concurrency/creating-and-starting-threads.html)
-- [소켓 프로그래밍. (Socket Programming) :: 개발자를 위한 레시피](https://recipes4dev.tistory.com/153)
-- [수까락의 프로그래밍 이야기 : 쓰레드 생성/소멸의 자세한 과정](http://sweeper.egloos.com/2982440)
-- [BetaCube: A Deep Reinforcement Learning Approach to Solving 2x2x2 Rubik’s Cubes Without Human Knowledge](https://web.stanford.edu/class/aa228/reports/2018/final28.pdf)
-- [Solving the Rubik’s cube with deep reinforcement learning and search | Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0070-z.epdf?referrer_access_token=V_xdSLZcMc0NpPOK4qU5-dRgN0jAjWel9jnR3ZoTv0Osb8UCgUm5AQaSCMHWqWzspuy7oBsxRTU7jhKFTJ7Yw6OXuH4O6l8dYMFTi6WGbKd52pVGF25odDxVWZ1qmNizPtQspftcdC0PMDFynrF8Dad6PDlYDzCrDmmtdsMImvgSKlAQmNkGcFTPUbeFUbXPeQ_ZdtUpp24Fi1vonALZfDSm9Lb17omgOrWnOnh-REA%3D)
-- [AI researchers test a robot's dexterity by handing it a Rubik's cube | VentureBeat](https://venturebeat.com/2019/07/29/ai-researchers-test-a-robots-dexterity-by-handing-it-a-rubiks-cube/)
-- [Learning  to  Solve  a  Rubik’s  Cube  with  a  Dexterous  Hand](https://arxiv.org/pdf/1907.11388.pdf) (1907.11388.pdf)
+- [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)  <br/><br/>
+
 
