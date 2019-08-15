@@ -7,6 +7,9 @@ Python Study
 
 ## references
 - [The Python Language Reference — Python 3.7.4rc1 documentation](https://docs.python.org/3/reference/index.html)
+- [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
+- [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html)
+- [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) <br/><br/>
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
@@ -88,7 +91,6 @@ Python Study
 - [json — JSON encoder and decoder — Python 3.7.4 documentation](https://docs.python.org/3/library/json.html)
 - [if 'a' or 'b' in L, where L is a list (Python) - Stack Overflow](https://stackoverflow.com/questions/21344842/if-a-or-b-in-l-where-l-is-a-list-python)
 - [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구현(1)](https://seolin.tistory.com/97?category=762768)
-- [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
 - [Python Advanced: Threads and Threading](https://www.python-course.eu/threads.php)
 - [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)
@@ -128,5 +130,7 @@ Python Study
 - [05-6 외장 함수 - 점프 투 파이썬](https://wikidocs.net/33) (sys.argv : 명령 행에서 인수 전달하기/ pickle : 객체의 형태를 그대로 유지하면서 파일에 저장하고 불러올 수 있음)
 - [5.2. 여러가지 모듈 - 왕초보를 위한 Python 2.7](https://wikidocs.net/78) (sys.ps1 = '^^; ')
 - [파일입출력 - 파이썬에서 파일을 읽고, 파일에 쓰는 방법 · Wireframe](https://soooprmx.com/archives/9143)
+- [[python] socket (server, client) | 코딩장이](https://itholic.github.io/python-socket/)
+- [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
 
 
