@@ -106,4 +106,5 @@ Startup lists
 - [OTR](http://www.otr.co.kr/) : 공연 예술 종합  
 - [Scatter Lab](https://www.scatterlab.co.kr/) : AI, ML 
 - [Hair Suit MATCH 헤어수트 매치](http://www.hairsuitmatch.com/main/index.php) : 맞춤형 가발 
+- [케이팝 레이더 K-Pop Radar](https://www.kpop-radar.com/)
 
