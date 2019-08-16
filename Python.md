@@ -136,6 +136,6 @@ Python Study
 - [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
 - [Context Manager in Python - GeeksforGeeks](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [26. Context Managers — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/context_managers.html)
-
+- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)
 
 
