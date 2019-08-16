@@ -104,5 +104,6 @@ Startup lists
 - [Semantic Machines](http://www.semanticmachines.com/) : Machine Learning 
 - [Festa! 이벤트를 만나는 가장 쉬운 방법](https://festa.io/) : 행사
 - [OTR](http://www.otr.co.kr/) : 공연 예술 종합  
-
+- [Scatter Lab](https://www.scatterlab.co.kr/) : AI, ML 
+- [Hair Suit MATCH 헤어수트 매치](http://www.hairsuitmatch.com/main/index.php) : 맞춤형 가발 
 
