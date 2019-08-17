@@ -113,6 +113,7 @@ References
  
 
 ### Community & media
+- [파이콘 한국 2019](https://www.pycon.kr/)
 - [velog](https://velog.io/) (blog platform for developers)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
