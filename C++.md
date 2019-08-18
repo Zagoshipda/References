@@ -5,7 +5,14 @@ C++ Study
  <br/><br/>
 
 
-## 
+## References
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+
+ <br/><br/>
+
+
+## General
 - [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
 
 
