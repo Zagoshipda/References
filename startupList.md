@@ -110,5 +110,6 @@ Startup lists
 - [Spoqa](https://www.spoqa.com/) : 매장 마케팅 솔루션 
 - [소셜 살롱, 문토](https://munto.kr/) : 취미, 모임 
 - [드리머리](https://www.dreamary.net/) : 머리 헤어샵
+- [괜찮아마을](https://dontworryvillage.com/) : 공동체, 청년 
 
 
