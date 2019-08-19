@@ -145,6 +145,7 @@ References
 - [프로그라피](http://prography.org/) <br/><br/>
 - [TechCrunch](https://techcrunch.com/)
 - [로봇신문사](http://www.irobotnews.com/)
+- [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 
 
 <br><br>
@@ -257,6 +258,8 @@ References
 - [Crocus](https://www.crocus.co.kr) (고관우)
 - [최윤섭의 Healthcare Innovation](http://www.yoonsupchoi.com/)
 - [태그: 파이썬고득점키트 | scarletbreeze의 블로그](https://scarletbreeze.github.io/tag/#/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8)
+- [워니의 브런치](https://brunch.co.kr/@hee072794#articles) (정원희, 트레바리)
+- [기억보단 기록을](https://jojoldu.tistory.com/) (이동욱, 우아한 형제들)
 
 
  <br/><br/>
