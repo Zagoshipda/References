@@ -260,6 +260,7 @@ References
 - [태그: 파이썬고득점키트 | scarletbreeze의 블로그](https://scarletbreeze.github.io/tag/#/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%A0%EB%93%9D%EC%A0%90%ED%82%A4%ED%8A%B8)
 - [워니의 브런치](https://brunch.co.kr/@hee072794#articles) (정원희, 트레바리)
 - [기억보단 기록을](https://jojoldu.tistory.com/) (이동욱, 우아한 형제들)
+- [크리에이티브 디렉터 최장순의 브런치](https://brunch.co.kr/@brandiator#articles) (최장순, 엘레멘트컴퍼니)
 
 
  <br/><br/>
