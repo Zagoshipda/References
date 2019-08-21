@@ -106,10 +106,10 @@ Startup lists
 - [OTR](http://www.otr.co.kr/) : 공연 예술 종합  
 - [Scatter Lab](https://www.scatterlab.co.kr/) : AI, ML 
 - [Hair Suit MATCH 헤어수트 매치](http://www.hairsuitmatch.com/main/index.php) : 맞춤형 가발 
-- [케이팝 레이더 K-Pop Radar](https://www.kpop-radar.com/)
+- [케이팝 레이더 K-Pop Radar](https://www.kpop-radar.com/) : k-pop
 - [Spoqa](https://www.spoqa.com/) : 매장 마케팅 솔루션 
 - [소셜 살롱, 문토](https://munto.kr/) : 취미, 모임 
 - [드리머리](https://www.dreamary.net/) : 머리 헤어샵
 - [괜찮아마을](https://dontworryvillage.com/) : 공동체, 청년 
-
+- [BLUESINK](http://www.bluesink.io/) : 로봇 
 
