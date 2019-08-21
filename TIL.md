@@ -3,7 +3,15 @@ Today I Learned
 
  <br/><br/>
 
-### References 
+
+### References
+- [Home | Robots.net](https://robots.net/)
+
+
+ <br/><br/>
+
+
+### Docs 
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)  
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
