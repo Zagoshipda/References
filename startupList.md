@@ -112,4 +112,5 @@ Startup lists
 - [드리머리](https://www.dreamary.net/) : 머리 헤어샵
 - [괜찮아마을](https://dontworryvillage.com/) : 공동체, 청년 
 - [BLUESINK](http://www.bluesink.io/) : 로봇 
+- [미소 | 믿을 수 있는 가사도우미, 이사청소, 가전청소](https://miso.kr/homeclean)
 
