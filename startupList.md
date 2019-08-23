@@ -115,4 +115,8 @@ Startup lists
 - [미소 | 믿을 수 있는 가사도우미, 이사청소, 가전청소](https://miso.kr/homeclean)
 - [시제품부터 양산까지, 당신이 찾던 제조 전문가 | 온라인 제조 서비스, 크리에이터블.](https://creatable.com/) : 3d 프린팅, HW
 - [서울잡스 – 일을 고민하는 청년들을 연결합니다](https://seouljobs.net/) : 구인구직
+- [마이핏](https://www.emyfit.com/) : 운동
+- [아드리엘 - 당신의 인공지능 마케팅 에이전트](https://adriel.ai/kr) : AI, 광고
+- [VIRNECT | 산업용 AR 전문기업](https://www.virnect.com/) : AR
+
 
