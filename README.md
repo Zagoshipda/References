@@ -147,6 +147,7 @@ References
 - [TechCrunch](https://techcrunch.com/)
 - [로봇신문사](http://www.irobotnews.com/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
+- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
 
 
 <br><br>
