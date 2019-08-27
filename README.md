@@ -249,6 +249,7 @@ References
 - [워니의 브런치](https://brunch.co.kr/@hee072794#articles) (정원희, 트레바리)
 - [기억보단 기록을](https://jojoldu.tistory.com/) (이동욱, 우아한 형제들)
 - [크리에이티브 디렉터 최장순의 브런치](https://brunch.co.kr/@brandiator#articles) (최장순, 엘레멘트컴퍼니)
+- [파이쿵 :: 파이쿵](https://pythonkim.tistory.com/) (DL, ML, 김성훈 교수님 강의 해설)
 
 
  <br/><br/>
@@ -304,5 +305,5 @@ References
 - [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 - [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
-
+- [파이쿵 :: 텐서보드 사용법](https://pythonkim.tistory.com/39)
 
