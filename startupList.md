@@ -118,5 +118,6 @@ Startup lists
 - [마이핏](https://www.emyfit.com/) : 운동
 - [아드리엘 - 당신의 인공지능 마케팅 에이전트](https://adriel.ai/kr) : AI, 광고
 - [VIRNECT | 산업용 AR 전문기업](https://www.virnect.com/) : AR
+- [탑아이소프트(주) – AI Integrated Platform R&D](http://ai-soft.co.kr/) : AI platform
 
 
