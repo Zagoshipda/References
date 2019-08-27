@@ -265,6 +265,7 @@ References
 - [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
 - [채용 정보 검색 | Tesla](https://www.tesla.com/ko_KR/careers/search#/?department=1&region=5&country=0) (Software Engineer, Computer Vision and AI)
 - [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
+- [인턴 지원서 – 조성문의 블로그](https://sungmooncho.com/2019/03/02/internship/amp/)
 
 
  <br><br>
