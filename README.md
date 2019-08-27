@@ -57,34 +57,38 @@ References
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
-- [The AI Blog](https://blogs.microsoft.com/ai/)
+- [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
 - [Game Stack | Microsoft Developer](https://developer.microsoft.com/en-us/games)
 - [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
-- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) <br/><br/>
+- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) 
+- [GitHub Developer](https://developer.github.com/)  <br/><br/>
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
-- [GitHub Developer](https://developer.github.com/)
 - [NVIDIA Developer](https://developer.nvidia.com/)
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
-- [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
-- [Arduino - Home](https://www.arduino.cc/) 
-- [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) <br/><br/>
+- [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
+- [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
+- [Riot Games Technology](https://technology.riotgames.com/)
+- [Engineering](https://engineering.grab.com/) (Grab)
+- [Pony.ai](https://www.pony.ai/)  <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
+- [kakao 기술 블로그](http://tech.kakao.com/)
 - [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
-- [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL) <br/><br/>
+- [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
+- [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)  <br/><br/>
 - [SK Telecom AI Center](https://www.skt.ai/)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
@@ -94,8 +98,10 @@ References
 - [Banksalad Tech – Medium](https://medium.com/rainist-engineering)
 - [Spoqa 기술 블로그](https://spoqa.github.io/index.html) (Spoqa - 도도, 매장 마케팅 솔루션)
 - [RGP Tech Blog -- RGP Tech Blog](https://rgpkorea.github.io/) (요기요, 배달통)
-- [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)
-- [Pony.ai](https://www.pony.ai/)
+- [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)  <br/><br/>
+- [티몬의 개발이야기 : 네이버 블로그](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev)
+- [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
+- [DAILYHOTEL](https://dailyhotel.io/)
 
 
  <br/><br/>
@@ -283,26 +289,29 @@ References
  
 
 ### ETCs
+- [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino - Home](https://www.arduino.cc/) 
+- [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Darwin Online](http://darwin-online.org.uk/)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [Haml](http://haml.info/)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
+- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)  <br/><br/>
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
-- [Proto.io - Prototypes that feel real](https://proto.io/)  <br/><br/>
+- [Proto.io - Prototypes that feel real](https://proto.io/)
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
 - [Singleton pattern - Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
 - [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)
 - [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
 - [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
-- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)  <br/><br/>
 - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [atom 에디터 not responding 오류 해결](https://programmerpsk.tistory.com/148)
-- [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 수업자료)  <br/><br/>
+- [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 수업자료)
 - [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 - [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
