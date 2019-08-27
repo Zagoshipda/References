@@ -13,6 +13,7 @@ How to Git & Github
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
+- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
@@ -86,5 +87,6 @@ How to Git & Github
 - [Remote Git branches not visible - Stack Overflow](https://stackoverflow.com/questions/41406903/remote-git-branches-not-visible) (git branch -r / git branch -a / ___git remote show \<remote\>___ : remote repo의 branch 상태를 local repo와 비교해서 각각 확인할 수 있음) <br/><br/>
 - [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 ***local directory에서 git이 저장하고 있는 reference 자체를 삭제***하는 방법이 가능 : rm .git/refs/remotes/\<remote\>/\<branch\>)
 - [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows) (<Centralized/ Feature Branch/ Gitflow/ Forking> Workflow)
+- [Git, 가장 쉽게 사용하기 - (2) commit, branch 전략 잘 짜는 법 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog)
 
 
