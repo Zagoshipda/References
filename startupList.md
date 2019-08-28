@@ -112,12 +112,14 @@ Startup lists
 - [드리머리](https://www.dreamary.net/) : 머리 헤어샵
 - [괜찮아마을](https://dontworryvillage.com/) : 공동체, 청년 
 - [BLUESINK](http://www.bluesink.io/) : 로봇 
-- [미소 | 믿을 수 있는 가사도우미, 이사청소, 가전청소](https://miso.kr/homeclean)
+- [미소 | 믿을 수 있는 가사도우미, 이사청소, 가전청소](https://miso.kr/homeclean) : 가사도우미
 - [시제품부터 양산까지, 당신이 찾던 제조 전문가 | 온라인 제조 서비스, 크리에이터블.](https://creatable.com/) : 3d 프린팅, HW
 - [서울잡스 – 일을 고민하는 청년들을 연결합니다](https://seouljobs.net/) : 구인구직
 - [마이핏](https://www.emyfit.com/) : 운동
 - [아드리엘 - 당신의 인공지능 마케팅 에이전트](https://adriel.ai/kr) : AI, 광고
 - [VIRNECT | 산업용 AR 전문기업](https://www.virnect.com/) : AR
 - [탑아이소프트(주) – AI Integrated Platform R&D](http://ai-soft.co.kr/) : AI platform
+- [NEWT](https://newt.news/) : 뉴스
+- [행복을 전하는 꽃배달 서비스 - 원모먼트 플라워](https://www.1moment.co.kr/) : 꽃, 선물
 
 
