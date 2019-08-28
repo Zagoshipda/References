@@ -172,10 +172,11 @@ References
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://d2l.ai/)
 - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
 - [MLPerf](https://mlperf.org/) (Machine Learning Performance Benchmark)
-- [Designing more efficient convolution neural network](https://www.slideshare.net/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307) (NAVER, Kim Dongyi)
+- [Designing more efficient convolution neural network](https://www.slideshare.net/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307) (NAVER, Kim Dongyi)  <br/><br/>
 - [Machine Learning Deep Learning Artificial Intelligence | Techgrabyte](https://techgrabyte.com/)
 - [11 Most Amazing AutoML Tools To Automate The Machine Learning](https://techgrabyte.com/11-automl-tools-automate-machine-learning/)
 - [Machine Learning 정리 · GitBook](http://soopsaram.com/ml/) (김지훈 jihuun, Andrew Ng Coursera 강의 정리) 
+- [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
 
 
 <br><br>
