@@ -75,6 +75,7 @@ Startup References
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)
 - [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
 - [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
+- [원모먼트 인사이드 매거진](https://brunch.co.kr/magazine/1moment-people)
 
 
  <br/><br/>
