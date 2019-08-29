@@ -159,6 +159,7 @@ References
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
 - [OpenAI](https://openai.com/)
+- [Homepage | DeepMind](https://deepmind.com/) (What if solving one problem could unlock solutions to thousands more?)
 - [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
 - [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
@@ -221,6 +222,7 @@ References
 - [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483) 
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
 - [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)
+- [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
 
 
  <br/><br/>
@@ -257,6 +259,7 @@ References
 - [기억보단 기록을](https://jojoldu.tistory.com/) (이동욱, 우아한 형제들)
 - [크리에이티브 디렉터 최장순의 브런치](https://brunch.co.kr/@brandiator#articles) (최장순, 엘레멘트컴퍼니)
 - [파이쿵 :: 파이쿵](https://pythonkim.tistory.com/) (DL, ML, 김성훈 교수님 강의 해설)
+- [Geek's Voyage](https://geeksvoyage.com/) (라즈베리파이가 취미인 개발자입니다.)
 
 
  <br/><br/>
@@ -317,4 +320,7 @@ References
 - [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 - [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
 - [파이쿵 :: 텐서보드 사용법](https://pythonkim.tistory.com/39)
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)  <br/><br/>
+
 
