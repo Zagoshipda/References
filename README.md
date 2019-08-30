@@ -178,6 +178,10 @@ References
 - [11 Most Amazing AutoML Tools To Automate The Machine Learning](https://techgrabyte.com/11-automl-tools-automate-machine-learning/)
 - [Machine Learning 정리 · GitBook](http://soopsaram.com/ml/) (김지훈 jihuun, Andrew Ng Coursera 강의 정리) 
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+- [Shelley](http://shelley.ai/)
+- [QuillBot | Free Paraphrasing Tool - Best Article Rewriter](https://quillbot.com/)
+- [Lightkey - Predictive Typing Software For Windows](https://www.lightkey.io/)
+- [StoryAI - Ask the A.I. to complete your ideas, and discover which text the A.I. generates](https://storyai.botsociety.io/show/40599vcejzxsvxvb)
 
 
 <br><br>
@@ -322,5 +326,5 @@ References
 - [파이쿵 :: 텐서보드 사용법](https://pythonkim.tistory.com/39)
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
 - [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)  <br/><br/>
-
+- [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
 
