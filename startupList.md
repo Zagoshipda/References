@@ -121,5 +121,8 @@ Startup lists
 - [탑아이소프트(주) – AI Integrated Platform R&D](http://ai-soft.co.kr/) : AI platform
 - [NEWT](https://newt.news/) : 뉴스
 - [행복을 전하는 꽃배달 서비스 - 원모먼트 플라워](https://www.1moment.co.kr/) : 꽃, 선물
+- [담화관](http://www.damhwagwan.com/) : 영화, 모임
+- [와이즐리 :: 정직한 가격의 독일산 프리미엄 면도날](https://www.wiselyshave.com/) : 면도기, 정기배송
+- [클래스101 | 준비물까지 챙겨주는 온라인 클래스](https://class101.net/) : 취미, 수업
 
 
