@@ -182,6 +182,8 @@ References
 - [QuillBot | Free Paraphrasing Tool - Best Article Rewriter](https://quillbot.com/)
 - [Lightkey - Predictive Typing Software For Windows](https://www.lightkey.io/)
 - [StoryAI - Ask the A.I. to complete your ideas, and discover which text the A.I. generates](https://storyai.botsociety.io/show/40599vcejzxsvxvb)
+- [Bayesian Deep Learning 101 (Yarin Gal)](http://bdl101.ml/)
+- [Sungchul Lee - YouTube](https://www.youtube.com/user/sungchulyonseiackr/playlists) (이승철, 연세대학교 수학과, ML, DL, RL)  <br/><br/> 
 
 
 <br><br>
