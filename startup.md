@@ -91,9 +91,19 @@ Startup References
 
 
  <br/><br/>
+ 
+ 
+### Job
+- [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
+
+
+ <br/><br/>
 
 
 ### ETC
 - [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
 - [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
+
+
+ <br/><br/>
 
