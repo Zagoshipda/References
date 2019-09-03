@@ -71,6 +71,7 @@ References
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
+- [Uber Engineering Blog](https://eng.uber.com/)
 - [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
 - [Riot Games Technology](https://technology.riotgames.com/)
 - [Engineering](https://engineering.grab.com/) (Grab)
