@@ -6,7 +6,6 @@ How to Git & Github
 
 
 ### references
-
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [Resources to learn Git](http://try.github.io/)
 - [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
@@ -59,6 +58,11 @@ How to Git & Github
 - [git cherry-pick: 다른 브랜치의 일부 커밋만 반영하고 싶을 때 : TOAST Meetup](https://meetup.toast.com/posts/45)
 - [git 명령어 : git cherry-pick :: 삐멜 소프트웨어 엔지니어](https://imasoftwareengineer.tistory.com/7) (git cherry-pick \<ref1\> \<ref2\> \<ref3\> ... )
 - [Git push/fetch 내부 동작 정리 | 기록하기](https://hongsii.github.io/2018/11/08/git-push-fetch/)
+- [Git - git-reflog Documentation](https://git-scm.com/docs/git-reflog)
+- [[git] REFLOG - REBASE 취소하기](https://americanopeople.tistory.com/206)
+- [shaking blog :: [GIT] reset 한거 취소하는 방법](https://88240.tistory.com/284) (git reflog / git reset --hard HEAD@{n})
+- [#git reflog - HEAD 변경 이력을 볼 수 있다. 커밋은 어디 안 간다.](http://ohyecloudy.com/pnotes/archives/1994/)
+- [Git을 잘 써보자- 12. git 복구 - git reflog | Suwoni-Codelab](https://suwoni-codelab.com/git/2018/04/07/Git-reflog/)  <br/><br/>
 
 
  <br/><br/>
