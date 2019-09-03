@@ -6,6 +6,7 @@ C# Study
 
 
 ## References
+- [C# Development with Visual Studio - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/get-started/csharp/?view=vs-2019)
 - [C# Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 - [CSharp4.0.pdf](https://direct.co.kr/cs/CSharp4.0.pdf)
 - [Unity로 배우는 C# | 프로그래머스](https://programmers.co.kr/learn/courses/1)
@@ -17,3 +18,13 @@ C# Study
 - [인프런 - C# 네트워크 프로그래밍](https://www.inflearn.com/course/c-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D#)
 
 
+ <br/><br/>
+
+
+## 
+- [C# Tutorial - YouTube](https://www.youtube.com/watch?v=lisiwUZJXqQ) : learn C# in one video tutorial
+
+
+ <br/><br/>
+ 
+ 
