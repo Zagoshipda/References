@@ -11,7 +11,7 @@ Today I Learned
  <br/><br/>
 
 
-### Docs 
+### Software
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)  
 - [윈도우 10에 텐서플로우 CPU 버전 설치하기 - 인공지능 개발자 블로그](http://www.aiblog.kr/tensorflow/%EC%9C%88%EB%8F%84%EC%9A%B0-10%EC%97%90-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-cpu-%EB%B2%84%EC%A0%84/)
@@ -33,5 +33,20 @@ Today I Learned
 - [타다 시스템 아키텍처 - VCNC Engineering Blog](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/?utm_source=gaerae.com&utm_campaign=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4&utm_medium=social)
 - [[GDG seoul] 디자이너의 눈과 생각 빌리기: 개발자를 위한 디자인 특강](https://www.slideshare.net/jisunpark13/gdg-seoul) (jisun park) <br/><br/>
 - [소켓 강좌 - GpGiki](https://gpgstudy.com/gpgiki/%EC%86%8C%EC%BC%93_%EA%B0%95%EC%A2%8C)
+- [Using Causal Inference to Improve the Uber User Experience | Uber Engineering Blog](https://eng.uber.com/causal-inference-at-uber/)
+- [인과율 : Causality](http://www.aistudy.co.kr/logic/causality.htm)
+- [ 뭐 좀 재밌는 일 없나? ](http://blog.daum.net/iatrus13/213) : 인과성 추론(causality inference)
 
 
+ <br/><br/>
+
+
+### Startup
+- [중국의 인터넷 삼두마차 BAT | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2014/06/06/bat/)
+- [PINDUODUO - a Close Look at the Fastest Growing E-commerce App in China, 2018.08 (WalkTheChat)](https://www.slideshare.net/truonghang297/pinduoduo-a-close-look-at-the-fastest-growing-ecommerce-app-in-china-201808-walkthechat)
+
+
+ <br/><br/>
+ 
+ 
+ 
