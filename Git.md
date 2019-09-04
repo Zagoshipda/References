@@ -92,5 +92,6 @@ How to Git & Github
 - [Can git permanently ignore a remote branch? - Stack Overflow](https://stackoverflow.com/questions/16842426/can-git-permanently-ignore-a-remote-branch) (remote branch를 log에서 삭제하고 싶다면 ***local directory에서 git이 저장하고 있는 reference 자체를 삭제***하는 방법이 가능 : rm .git/refs/remotes/\<remote\>/\<branch\>)
 - [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows) (<Centralized/ Feature Branch/ Gitflow/ Forking> Workflow)
 - [Git, 가장 쉽게 사용하기 - (2) commit, branch 전략 잘 짜는 법 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog)
+- [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (___git push --delete <remote_name> <branch_name>___)
 
 
