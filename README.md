@@ -268,6 +268,7 @@ References
 - [파이쿵 :: 파이쿵](https://pythonkim.tistory.com/) (DL, ML, 김성훈 교수님 강의 해설) <br/><br/>
 - [Geek's Voyage](https://geeksvoyage.com/) (라즈베리파이가 취미인 개발자입니다.)
 - [AI Study](http://www.aistudy.co.kr/) (오현석, 서울대학교 컴퓨터공학과 대학원)
+- [youngk.im – On Humans, Javascript, and Tech](https://youngk.im/) (김영민, Netflix Senior UI Engineer)
 
 
  <br/><br/>
