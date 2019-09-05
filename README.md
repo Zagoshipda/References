@@ -269,6 +269,8 @@ References
 - [Geek's Voyage](https://geeksvoyage.com/) (라즈베리파이가 취미인 개발자입니다.)
 - [AI Study](http://www.aistudy.co.kr/) (오현석, 서울대학교 컴퓨터공학과 대학원)
 - [youngk.im – On Humans, Javascript, and Tech](https://youngk.im/) (김영민, Netflix Senior UI Engineer)
+- [Poppy_Leni♥ :: Poppy_Leni♥](https://poppy-leni.tistory.com/)
+- [Evan's Tech Blog](https://evan-moon.github.io/)
 
 
  <br/><br/>
@@ -332,4 +334,10 @@ References
 - [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
 - [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)  <br/><br/>
 - [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
+- [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
+- [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
 
+
+ <br/><br/>
+ 
+ 
