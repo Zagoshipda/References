@@ -65,6 +65,7 @@ References
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) 
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
+- [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [NVIDIA Developer](https://developer.nvidia.com/)
@@ -141,6 +142,7 @@ References
 - [로봇신문사](http://www.irobotnews.com/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 - [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
+- [GeekHub](https://geekhub.co.kr/)
 
 
 <br><br>
@@ -271,6 +273,7 @@ References
 - [youngk.im – On Humans, Javascript, and Tech](https://youngk.im/) (김영민, Netflix Senior UI Engineer)
 - [Poppy_Leni♥ :: Poppy_Leni♥](https://poppy-leni.tistory.com/)
 - [Evan's Tech Blog](https://evan-moon.github.io/)
+- [Home | 코딩장이](https://itholic.github.io/)
 
 
  <br/><br/>
@@ -336,6 +339,8 @@ References
 - [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
 - [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
 - [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
+- [Mellowbeat Seeker - YouTube](https://www.youtube.com/channel/UCO1jhQjMhiI0YrHUGHyev7A) (playlist from Raphael)
+- [Home - Astro Pi](https://astro-pi.org/)
 
 
  <br/><br/>
