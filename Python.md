@@ -17,7 +17,9 @@ Python Study
 - [multiprocessing — Process-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/multiprocessing.html)
 - [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
 - [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html)
-- [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions) <br/><br/>
+- [Glossary — Python 3.7.4 documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock) (global interpreter lock)
+- [8. Errors and Exceptions — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/errors.html)
+- [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)  <br/><br/>
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
@@ -30,6 +32,7 @@ Python Study
 - [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)
 - [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 - [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+- [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
 
 
  <br/><br/>
@@ -118,7 +121,7 @@ Python Study
 - [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](https://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02) (slideshare)
 - [파이썬 병렬프로그래밍](https://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501) (slideshare)
 - [파이썬과 동시성에 대한 정리](https://hamait.tistory.com/833)  <br/><br/>
-- [Poppy_Leni♥ :: 코루틴 vs 스레드](https://poppy-leni.tistory.com/entry/%EC%BD%94%EB%A3%A8%ED%8B%B4-vs-%EC%93%B0%EB%A0%88%EB%93%9C)
+- [[python] threading (쓰레드, thread) | 코딩장이](https://itholic.github.io/python-threading/)
 - [PyCon APAC 2016 Program | High-performance Networking with Python](https://archive.pycon.kr/2016apac/program/23)
 - [Luavis' Dev Story - Instagram이 Python garbage collection 없앤 이유 ](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
 - [[Python] Tip - 많은 함수를 동시에 실행하려면 코루틴을 고려 :: 개인적인공간](https://brownbears.tistory.com/237)
@@ -137,12 +140,19 @@ Python Study
 - [[python] select (I/O 멀티플렉싱) | 코딩장이](https://itholic.github.io/python-select/)
 - [Context Manager in Python - GeeksforGeeks](https://www.geeksforgeeks.org/context-manager-in-python/)
 - [26. Context Managers — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/context_managers.html)
-- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html) <br/><br/>
+- [{ DoKy's Blog } | Python - Basic Socket Programming in Python](https://kimdoky.github.io/python/2018/07/30/python-socket.html)  <br/><br/>
 - [Python | Different ways to kill a Thread - GeeksforGeeks](https://www.geeksforgeeks.org/python-different-ways-to-kill-a-thread/)
 - [Python 소켓 모듈 사용 :: 그저그런 컴공생](https://bnzn2426.tistory.com/53)
 - [Socket Programming in Python (Guide) – Real Python](https://realpython.com/python-sockets/)
 - [Socket Programming in Python - GeeksforGeeks](https://www.geeksforgeeks.org/socket-programming-python/)
 - [[Python] Socket과 TCPServer를 이용한 TCP/IP 프로그래밍 (작성중) :: 개인적인공간](https://brownbears.tistory.com/207)
 - [TCP/IP 소켓 프로그래밍 주의할 점](https://sunyzero.tistory.com/167)
+- [Gevent 튜토리얼](http://leekchan.com/gevent-tutorial-ko/)
+- [[python] threading, multiprocessing, GIL, concurrent.futures.ThreadPoolExecutor :: 엄범](https://umbum.tistory.com/179)
+- [파이썬의 스레드 사용법 · Wireframe](https://soooprmx.com/archives/8834)
+- [[Python] #16  if \_\_name__ == "\_\_main__" 의 의미 :: 생각 없는 자의 싸움](https://battlewithmyself.tistory.com/49?category=687656)  <br/><br/>
+- [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
+
+
 
 
