@@ -124,5 +124,7 @@ Startup lists
 - [담화관](http://www.damhwagwan.com/) : 영화, 모임
 - [와이즐리 :: 정직한 가격의 독일산 프리미엄 면도날](https://www.wiselyshave.com/) : 면도기, 정기배송
 - [클래스101 | 준비물까지 챙겨주는 온라인 클래스](https://class101.net/) : 취미, 수업
+- [마켓컬리 :: 내일의 장보기, 마켓컬리](https://www.kurly.com/shop/main/index.php) : 쇼핑몰
+- [헬로네이처 - 잠들 때 주문, 눈뜨면 도착](https://www.hellonature.net/shop/main/index.php) : 쇼핑몰
 
 
