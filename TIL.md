@@ -36,6 +36,16 @@ Today I Learned
 - [Using Causal Inference to Improve the Uber User Experience | Uber Engineering Blog](https://eng.uber.com/causal-inference-at-uber/)
 - [인과율 : Causality](http://www.aistudy.co.kr/logic/causality.htm)
 - [ 뭐 좀 재밌는 일 없나? ](http://blog.daum.net/iatrus13/213) : 인과성 추론(causality inference)
+- [Poppy_Leni♥ :: 동시성 vs 병렬성](https://poppy-leni.tistory.com/entry/%EB%8F%99%EC%8B%9C%EC%84%B1-vs-%EB%B3%91%EB%A0%AC%EC%84%B1)
+- [Poppy_Leni♥ :: 코루틴 vs 스레드](https://poppy-leni.tistory.com/entry/%EC%BD%94%EB%A3%A8%ED%8B%B4-vs-%EC%93%B0%EB%A0%88%EB%93%9C)
+- [Poppy_Leni♥ :: 프로그램, 프로세스, 데몬이란?](https://poppy-leni.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%8D%B0%EB%AA%AC%EC%9D%B4%EB%9E%80)
+- [[ 기본정리 ] 데몬 프로세스 - 기억 저장소](https://rrhh234cm.tistory.com/194)
+- [TCP/IP 주소 지정 및 서브넷 구성 기본 사항의 이해](https://support.microsoft.com/ko-kr/help/164015/understanding-tcp-ip-addressing-and-subnetting-basics)
+- [[Network] 서브넷마스크(Subnet Mask)란?](https://limkydev.tistory.com/166)  <br/><br/>
+- [DNS 변경 방법 및 DNS 서버 리스트 : 네이버 블로그](https://blog.naver.com/windmush/221244803347)
+- [Process와 Thread의 차이 - Parkito's on the way](https://shoark7.github.io/programming/knowledge/difference-between-process-and-thread)
+- [Cross entropy - Wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
+- [Loss Functions — ML Cheatsheet  documentation](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 
 
  <br/><br/>
@@ -48,5 +58,11 @@ Today I Learned
 
  <br/><br/>
  
+ 
+ ### Papers
+ - [1902.09843.pdf](https://arxiv.org/pdf/1902.09843.pdf) (ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE)
+ 
+ 
+  <br/><br/>
  
  
