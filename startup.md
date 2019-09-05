@@ -40,6 +40,7 @@ Startup References
 - [NH 디지털 Challenge+](http://www.nhd-challengeplus.com/)
 - [Trucks Venture Capital funds the entrepreneurs building the future of transportation](http://www.trucks.vc/)
 - [Khosla Ventures](https://www.khoslaventures.com/)
+- [네오플라이 - 진심을 다해 스타트업을 돕는 액셀러레이터](http://www.neoply.com/)
 
 
  <br/><br/>
@@ -95,6 +96,7 @@ Startup References
  
 ### Job
 - [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
+- [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 
 
  <br/><br/>
@@ -102,7 +104,6 @@ Startup References
 
 ### ETC
 - [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
-- [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 
 
  <br/><br/>
