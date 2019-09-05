@@ -126,5 +126,9 @@ Startup lists
 - [클래스101 | 준비물까지 챙겨주는 온라인 클래스](https://class101.net/) : 취미, 수업
 - [마켓컬리 :: 내일의 장보기, 마켓컬리](https://www.kurly.com/shop/main/index.php) : 쇼핑몰
 - [헬로네이처 - 잠들 때 주문, 눈뜨면 도착](https://www.hellonature.net/shop/main/index.php) : 쇼핑몰
+- [코멘토 - 현직자가 도와주는 취업사이트](https://comento.kr/) : 온라인 (취업) 멘토링
+- [캐치패션 - 세상의 명품을 한 눈에 - Catch](https://www.catchfashion.com/) : 명품, 쇼핑
+- [CLOSET SHARE](https://www.closetshare.com/theclozet/main/index) : 패션 공유
+- [FORESTING](https://foresting.io/) : 블록체인
 
 
