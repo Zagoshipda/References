@@ -130,5 +130,7 @@ Startup lists
 - [캐치패션 - 세상의 명품을 한 눈에 - Catch](https://www.catchfashion.com/) : 명품, 쇼핑
 - [CLOSET SHARE](https://www.closetshare.com/theclozet/main/index) : 패션 공유
 - [FORESTING](https://foresting.io/) : 블록체인
+- [아하 | 지식커머스플랫폼](https://www.a-ha.io/) : 지식공유, 블록체인
+- [잼페이스](https://www.zamface.co.kr/main.php) : 메이크업, 화장
 
 
