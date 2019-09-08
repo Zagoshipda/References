@@ -142,7 +142,8 @@ References
 - [로봇신문사](http://www.irobotnews.com/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 - [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
-- [GeekHub](https://geekhub.co.kr/)
+- [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
+- [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 
 
 <br><br>
