@@ -63,6 +63,7 @@ How to Git & Github
 - [shaking blog :: [GIT] reset 한거 취소하는 방법](https://88240.tistory.com/284) (git reflog / git reset --hard HEAD@{n})
 - [#git reflog - HEAD 변경 이력을 볼 수 있다. 커밋은 어디 안 간다.](http://ohyecloudy.com/pnotes/archives/1994/)
 - [Git을 잘 써보자- 12. git 복구 - git reflog | Suwoni-Codelab](https://suwoni-codelab.com/git/2018/04/07/Git-reflog/)  <br/><br/>
+- [Display your Resume/CV PDF in website using GitHub - Kekayan - Medium](https://medium.com/@kekayan/display-your-resume-cv-pdf-in-website-using-github-73a088ac961d)
 
 
  <br/><br/>
@@ -93,5 +94,6 @@ How to Git & Github
 - [Git Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows) (<Centralized/ Feature Branch/ Gitflow/ Forking> Workflow)
 - [Git, 가장 쉽게 사용하기 - (2) commit, branch 전략 잘 짜는 법 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog)
 - [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (___git push --delete <remote_name> <branch_name>___)
-
+- [Renaming a remote - GitHub Help](https://help.github.com/en/articles/renaming-a-remote) (Change remote name from 'origin' to 'destination' : git remote rename \<origin> \<destination>)
+ 
 
