@@ -46,6 +46,8 @@ Today I Learned
 - [Process와 Thread의 차이 - Parkito's on the way](https://shoark7.github.io/programming/knowledge/difference-between-process-and-thread)
 - [Cross entropy - Wikipedia](https://en.wikipedia.org/wiki/Cross_entropy)
 - [Loss Functions — ML Cheatsheet  documentation](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
+- [[Agile] 애자일이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/26/what-is-agile.html)
+- [Google AI Blog: Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)
 
 
  <br/><br/>
