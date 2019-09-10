@@ -23,7 +23,8 @@ Python Study
     - [Built-in Types — Python 3.7.4 documentation](https://docs.python.org/3/library/stdtypes.html#typecontextmanager) (Context Manager Types : \_\_enter__() / \_\_exit__() method)
     - [Built-in Types — Python 3.7.4 documentation](https://docs.python.org/3/library/stdtypes.html#truth-value-testing) (Truth Value Testing)
     - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/datamodel.html#special-method-names) (Special method names)
-    - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)  
+    - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
+    - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
@@ -37,6 +38,7 @@ Python Study
 - [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 - [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
+- [Python HOWTOs — Python 3.7.4 documentation](https://docs.python.org/3/howto/index.html)
 
 
  <br/><br/>
