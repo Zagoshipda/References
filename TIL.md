@@ -48,6 +48,7 @@ Today I Learned
 - [Loss Functions — ML Cheatsheet  documentation](https://ml-cheatsheet.readthedocs.io/en/latest/loss_functions.html)
 - [[Agile] 애자일이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/26/what-is-agile.html)
 - [Google AI Blog: Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)
+- [Distributionally Robust Language Modeling](https://www.notion.so/Distributionally-Robust-Language-Modeling-6b1a139328554871bb9297eb7988edb0)
 
 
  <br/><br/>
@@ -56,6 +57,7 @@ Today I Learned
 ### Startup
 - [중국의 인터넷 삼두마차 BAT | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2014/06/06/bat/)
 - [PINDUODUO - a Close Look at the Fastest Growing E-commerce App in China, 2018.08 (WalkTheChat)](https://www.slideshare.net/truonghang297/pinduoduo-a-close-look-at-the-fastest-growing-ecommerce-app-in-china-201808-walkthechat)
+- [보이저엑스에서의 인턴생활 - Jiseop Han - Medium](https://medium.com/@jiseop_han/%EB%B3%B4%EC%9D%B4%EC%A0%80%EC%97%91%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%83%9D%ED%99%9C-f5ccb8eeabc8)
 
 
  <br/><br/>
