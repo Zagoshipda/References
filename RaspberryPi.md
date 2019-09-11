@@ -12,6 +12,7 @@ References for Raspberry Pi
 - [Adafruit Industries, Unique & fun DIY electronics and kits](https://www.adafruit.com/)
 - [Adafruit CircuitPython API Reference — Adafruit CircuitPython 0.0.0 documentation](https://circuitpython.readthedocs.io/en/3.x/docs/index.html)
     - [busio — Hardware accelerated behavior — Adafruit CircuitPython 0.0.0 documentation](https://circuitpython.readthedocs.io/en/3.x/shared-bindings/busio/__init__.html)
+- [Home - Astro Pi](https://astro-pi.org/)
 
 
  <br/><br/>
