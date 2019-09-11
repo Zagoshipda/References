@@ -5,71 +5,28 @@ References
  <br/><br/>
 
 
-### Online Judge & Algorithm training
-- [Project Euler](https://projecteuler.net/)
-- [BaekJoon Onlilne Judge](https://www.acmicpc.net/)
-- [Codeforces](http://codeforces.com/) 
-- [Code Jam - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/codejam)
-- [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
-- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
-- [Past Rounds | Facebook Hacker Cup 2019 Qualification Round](https://www.facebook.com/hackercup/past_rounds/)
-- [AtCoder](https://atcoder.jp/)
-- [LeetCode - The World's Leading Online Programming Learning Platform](https://leetcode.com/)
-- [codechef - Programming Competition, Programming Contest, Online Computer Programming](https://www.codechef.com/) <br/><br/>
-- [알고스팟](https://algospot.com/)
-- [koistudy](http://koistudy.net/)  (Korea Olympiad in Informatics)
-- [Codeup](codeup.kr/index.php)
-- [Judgeon](http://www.judgeon.net/)
-- [Lavida](https://judge.lavida.us/) 
-- [선데이 코딩](https://www.sundaycoding.xyz/) 
-- [codeground-SCPC](https://www.codeground.org/)  (Samsung Collegiate Programming Cup)
-- [Samsung - SW Expert Academy](https://www.swexpertacademy.com/main/main.do)
-- [UCPC 2019](https://ucpc.acmicpc.net/info)
-- [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
-- [HackerRank](https://www.hackerrank.com/)
-- [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
-- [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
-- [Train with Programming Challenges/Kata | Codewars](https://www.codewars.com/)
-- [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
-- [USA Computing Olympiad](http://www.usaco.org/index.php)
-- [Northwestern Europe Regional Contest](http://www.nwerc.eu/)
-- [Home - DMOJ: Modern Online Judge](https://dmoj.ca/)
-- [CS Academy](https://csacademy.com/)
-- [ACM - Pacific Northwest Region Programming Contest](http://acmicpc-pacnw.org/results.htm) <br/><br/>
-- [UVa Online Judge - Home](https://uva.onlinejudge.org/)
-- [oj.uz - 환영합니다!](https://oj.uz/)
-- [더블릿 - 알고리즘 트레이닝 사이트](http://59.23.150.58/index.php)
-- [온코더 Oncoder](https://www.oncoder.com/)
-- [JUNGOL](http://www.jungol.co.kr/)
-- [한국코드페어](http://www.digitalculture.or.kr/koi/KoiMain.do) (한국정보올림피아드 - 교재, 온라인 강좌, 기출문제)
-- [ ::국제정보올림피아드:: ](http://ioikorea.or.kr/main/index.asp)
-- [International Olympiad in Informatics](https://ioinformatics.org/)
-
-
- <br/><br/>
-
-
 ### Company
+- [Learn to Develop with Microsoft Developer Network | MSDN](https://msdn.microsoft.com/en-us)
+- [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
+- [Visual Studio IDE, Code Editor, Azure DevOps, & App Center - Visual Studio](https://visualstudio.microsoft.com/)
+- [Microsoft for Startups – Building Startups | Microsoft for Startups](https://startups.microsoft.com/en-us/)
+- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
+- [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
+- [Microsoft Developer](https://developer.microsoft.com/en-us/)
+- [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
+- [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
+- [GitHub Developer](https://developer.github.com/)  <br/><br/>
 - [Google Developers](https://developers.google.com/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
 - [Android Developers](https://developer.android.com/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
-- [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
-- [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
-- [Microsoft Developer](https://developer.microsoft.com/en-us/)
-- [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
-- [Game Stack | Microsoft Developer](https://developer.microsoft.com/en-us/games)
-- [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
-- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
-- [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/) 
-- [GitHub Developer](https://developer.github.com/)  <br/><br/>
-- [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [NVIDIA Developer](https://developer.nvidia.com/)
-- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
+- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)  <br/><br/>
+- [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 - [Uber Engineering Blog](https://eng.uber.com/)
