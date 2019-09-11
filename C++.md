@@ -6,6 +6,7 @@ C++ Study
 
 
 ## References
+- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 
