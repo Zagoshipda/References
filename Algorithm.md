@@ -60,10 +60,13 @@ Algorithm
 - [BaaaaaaaarkingDog 강좌/실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우)
 - [Ries 마법의 슈퍼마리오 : 네이버 블로그](https://kks227.blog.me/) <br/><br/>
-- []()
-- []()
-- []()
-
+- [한 점이 삼각형 내부에 있는지를 체크하기 · Wireframe](https://soooprmx.com/archives/10607#more-10607)
+- [임의의 한점이 삼각형 내부에 포함 되는지 판별 하는 방법..? - GpgStudy 포럼](https://gpgstudy.com/forum/viewtopic.php?t=15797)
+- [n각형의 안팎을 판단하는 알고리즘이 궁금합니다. | KLDP](https://kldp.org/node/65088) (way to figure out if a point is inside or outside a polygon)
+- [How to check if two given line segments intersect? - GeeksforGeeks](https://www.geeksforgeeks.org/check-if-two-given-line-segments-intersect/)
+- [How to check if a given point lies inside or outside a polygon? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)
+- [Point in polygon - Wikipedia](https://en.wikipedia.org/wiki/Point_in_polygon)
+- [Point location - Wikipedia](https://en.wikipedia.org/wiki/Point_location)
 
 
  <br/><br/>
