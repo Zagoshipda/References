@@ -7,8 +7,9 @@ Python Study
 
 ## references
 - [The Python Language Reference — Python 3.7.4rc1 documentation](https://docs.python.org/3/reference/index.html)
+ <br/><br/>
     - [3. Data model — Python 3.7.4rc2 documentation](https://docs.python.org/3.7/reference/datamodel.html#object.__repr__) (object.__repr__(self) - “official” string representation of an object vs object.__str__(self) - “informal” or nicely printable string representation of an object)
-    - [configparser — Configuration file parser — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/configparser.html)
+    - [configparser — Configuration file parser — Python 3.7.4 documentation](https://docs.python.org/3/library/configparser.html)
     - [functools — Higher-order functions and operations on callable objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/functools.html)
     - [weakref — Weak references — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/weakref.html)
     - [Weak Reference Objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/c-api/weakref.html)
@@ -25,6 +26,8 @@ Python Study
     - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/datamodel.html#special-method-names) (Special method names)
     - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
     - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
+    - [ast — Abstract Syntax Trees — Python 3.7.4 documentation](https://docs.python.org/3/library/ast.html) (literal_eval() method)
+ <br/><br/>
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
@@ -34,12 +37,13 @@ Python Study
 - [Parallel Python - Home](https://www.parallelpython.com/)
 - [A Byte of Python](byteofpython-korean.sourceforge.net/byte_of_python.html)
 - [Choose a language · Django Girls Tutorial](https://tutorial.djangogirls.org/)
-- [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)
+- [Intermediate Python — Python Tips 0.1 documentation](http://book.pythontips.com/en/latest/index.html) (Yasoob)  <br/><br/>
 - [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
 - [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
 - [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
 - [Python HOWTOs — Python 3.7.4 documentation](https://docs.python.org/3/howto/index.html)
 - [Azure for Python developers - Tutorials, API Reference | Microsoft Docs](https://docs.microsoft.com/en-us/azure/python/)
+- [목차 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/)
 
 
  <br/><br/>
@@ -96,7 +100,7 @@ Python Study
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)
 - [예제로 배우는 파이썬 프로그래밍 - 쓰레드 (Thread)](http://pythonstudy.xyz/python/article/24-%EC%93%B0%EB%A0%88%EB%93%9C-Thread)
 - [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(1) - 기초 :: 좋은사람의 개발 노트](https://niceman.tistory.com/138)
-- [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_singleton)
+- [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)
 - [The Singleton Pattern implemented with Python « Python recipes « ActiveState Code](http://code.activestate.com/recipes/52558-the-singleton-pattern-implemented-with-python/) <br/><br/>
 - [[Python] Singleton Pattern을 이용한 Logger 만들기 :: 불로](https://ourcstory.tistory.com/105)
 - [여러가지 싱글톤(singleton) 구현방법 - Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/3693)
@@ -107,7 +111,7 @@ Python Study
 - [파이썬 소켓 프로그래밍 - 1. 간단한 채팅 프로그램 구현(1)](https://seolin.tistory.com/97?category=762768)
 - [Python Advanced: Threads and Threading](https://www.python-course.eu/threads.php)
 - [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
-- [파이썬(Python) - Thread(쓰레드) 설명 및 예제 소스 코드(2) - 동기화 :: 좋은사람의 개발 노트](https://niceman.tistory.com/139?category=940952)  <br/><br/>
+- [Python Design Patterns Singleton](https://www.tutorialspoint.com/python_design_patterns/python_design_patterns_singleton)  <br/><br/>
 - [[Network] Python을 이용한 네트워크 프로그래밍 :: 돼민이](https://jink1982.tistory.com/83)
 - [[Python] 파이썬 멀티 쓰레드(thread)와 멀티 프로세스(process)](https://monkey3199.github.io/develop/python/2018/12/04/python-pararrel.html)  
 - [[Python] Tip - 스레드에서 데이터 경쟁을 막으려면 Lock을 사용 :: 개인적인공간](https://brownbears.tistory.com/216)
@@ -159,7 +163,11 @@ Python Study
 - [파이썬의 스레드 사용법 · Wireframe](https://soooprmx.com/archives/8834)
 - [[Python] #16  if \_\_name__ == "\_\_main__" 의 의미 :: 생각 없는 자의 싸움](https://battlewithmyself.tistory.com/49?category=687656)  <br/><br/>
 - [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
+- [python eval 과 literal_eval 의 차이](https://bluese05.tistory.com/65) (python eval() 함수 - 사용을 조심해야 하는 이유)
+- [Python select 함수를 이용한 간단한 에코 서버/클라이언트 예제 - 데이터 사이언스](https://scienceofdata.tistory.com/entry/Python-select-%ED%95%A8%EC%88%98%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%97%90%EC%BD%94-%EC%84%9C%EB%B2%84%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%98%88%EC%A0%9C)
+- [python의 soocket 통신시 send()와 sendall()의 차이에 대해서 :: 코드 조각-Android, Java, C#, C, C++, JavaScript, PHP, HTML, CSS, Delphi](https://developer-joe.tistory.com/146)
+- [5.5 패킹과 언패킹 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/chapter-5-5.html)
 
 
-
+ <br/><br/>
 
