@@ -145,6 +145,7 @@ References
 - [StoryAI - Ask the A.I. to complete your ideas, and discover which text the A.I. generates](https://storyai.botsociety.io/show/40599vcejzxsvxvb)
 - [Bayesian Deep Learning 101 (Yarin Gal)](http://bdl101.ml/)
 - [Sungchul Lee - YouTube](https://www.youtube.com/user/sungchulyonseiackr/playlists) (이승철, 연세대학교 수학과, ML, DL, RL)  <br/><br/> 
+- [Home - AI College](http://aic.yangjaehub.com/) (6 Unsolved Real Problems)
 
 
 <br><br>
@@ -233,6 +234,7 @@ References
 - [Evan's Tech Blog](https://evan-moon.github.io/)
 - [Home | 코딩장이](https://itholic.github.io/)
 - [신현묵의 브런치](https://brunch.co.kr/@supims#articles)
+- [Page 1 | ERecord](https://eunajjing.github.io/)
 
 
  <br/><br/>
@@ -299,7 +301,10 @@ References
 - [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
 - [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
 - [Mellowbeat Seeker - YouTube](https://www.youtube.com/channel/UCO1jhQjMhiI0YrHUGHyev7A) (playlist from Raphael)
-- [Home - Astro Pi](https://astro-pi.org/)
+- [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
+- [Open Source Design](https://opensourcedesign.net/)
+- [Dainty](https://dainty.site/) (color theme generator)
+- [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
 
 
  <br/><br/>
