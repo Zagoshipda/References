@@ -70,6 +70,11 @@ Algorithm
 
 
  <br/><br/>
+
+
+### ETC
+- [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30) (안수빈, Subinium)
+
  
- 
- 
+<br/><br/>
+
