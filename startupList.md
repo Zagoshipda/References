@@ -134,5 +134,7 @@ Startup lists
 - [잼페이스](https://www.zamface.co.kr/main.php) : 메이크업, 화장
 - [꾸까 | 꽃이 필요한 순간, 전국 꽃배달서비스](https://kukka.kr/) : 꽃, 구독
 - [에이블하우스](http://www.ablehouse.kr/) : 셰어하우스
+- [라스트오더](https://lastorder.co.kr/) : 마감세일, 음식
+- [코너마켓](https://www.cornermarket.co.kr/shop/main/index.php) : 아동복, 쇼핑몰, 리세일
 
 
