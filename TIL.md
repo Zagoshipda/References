@@ -49,6 +49,8 @@ Today I Learned
 - [[Agile] 애자일이란 - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/26/what-is-agile.html)
 - [Google AI Blog: Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)
 - [Distributionally Robust Language Modeling](https://www.notion.so/Distributionally-Robust-Language-Modeling-6b1a139328554871bb9297eb7988edb0)
+- [MainWindowViewModel](https://social.msdn.microsoft.com/Forums/vstudio/en-US/e843a72e-75d8-4cca-a54a-b7bb3fec690c/mainwindowviewmodel?forum=wpf)
+- [Patterns - WPF Apps With The Model-View-ViewModel Design Pattern](https://msdn.microsoft.com/en-us/magazine/dd419663.aspx#id0090071)
 
 
  <br/><br/>
