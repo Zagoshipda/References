@@ -67,7 +67,6 @@ Today I Learned
  
  
  ### Papers
- - [1902.09843.pdf](https://arxiv.org/pdf/1902.09843.pdf) (ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE)
  
  
   <br/><br/>
