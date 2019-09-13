@@ -7,6 +7,7 @@ How to Git & Github
 
 ### references
 - [Git - Book](https://git-scm.com/book/en/v2)
+- [GitHub Guides](https://guides.github.com/)
 - [Resources to learn Git](http://try.github.io/)
 - [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
