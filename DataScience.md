@@ -1,4 +1,4 @@
-Data Science & Artificial Intelligence & Machine Learning & Deep Learning
+Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Reinforement Learning
 ==========
 
 
@@ -27,7 +27,6 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning
 - [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
 - [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
 - [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
-- [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) (
 - [Deep RL Bootcamp - Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR0HNAcMkAbAnP5LaRopCCIJg_-wSUSmQdbxpgSJM0gTwODnHLzKj3oBcNw)  (video & slides & labs)
 - [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) (lecture slides & video)
 - [Dive into Deep Learning — Dive into Deep Learning 0.7 documentation](https://d2l.ai/)
@@ -38,7 +37,7 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning
 - [11 Most Amazing AutoML Tools To Automate The Machine Learning](https://techgrabyte.com/11-automl-tools-automate-machine-learning/)
 - [Machine Learning 정리 · GitBook](http://soopsaram.com/ml/) (김지훈 jihuun, Andrew Ng Coursera 강의 정리) 
 - [fast.ai · Making neural nets uncool again](https://www.fast.ai/) (Making neural nets uncool again)
-- [Shelley](http://shelley.ai/)
+- [Shelley](http://shelley.ai/) (Human-AI collaborated horror stories)
 - [QuillBot | Free Paraphrasing Tool - Best Article Rewriter](https://quillbot.com/)
 - [Lightkey - Predictive Typing Software For Windows](https://www.lightkey.io/)
 - [StoryAI - Ask the A.I. to complete your ideas, and discover which text the A.I. generates](https://storyai.botsociety.io/show/40599vcejzxsvxvb)
@@ -58,6 +57,8 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning
 
 
 ### Papers
+- [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) 
+- [1902.09843.pdf](https://arxiv.org/pdf/1902.09843.pdf) (ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE)
 
 
  <br><br>
