@@ -1,0 +1,35 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compile", //ctrl+alt+c
+            "type": "shell",
+            "command": "g++",
+            "args" : [
+                "-g", 
+                "${file}",
+                "-o",
+                "${fileBasenameNoExtension}"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "execute", //ctrl+alt+v
+            "command": "cmd",
+            "args" : [
+                "/C",   //what this means? , and why C, not c? 
+                "&{fileDirname}/${fileBasenameNoExtension}"
+            ],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            },
+            "dependsOn": ["compile"]
+        }
+    ]
+}
