@@ -6,15 +6,17 @@ C++ Study
 
 
 ## References
-- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-
+- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
+- [cppreference.com](https://en.cppreference.com/w/)
+- [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 
  <br/><br/>
 
 
 ## General
 - [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
+- [floating point - C: i got different results with pow(10,2) and pow(10,j), j=2; - Stack Overflow](https://stackoverflow.com/questions/19126809/c-i-got-different-results-with-pow10-2-and-pow10-j-j-2)
 
 
  <br/><br/>
@@ -22,12 +24,10 @@ C++ Study
 
 ## Standard Template Library (STL)
 - [[C++] STL 이란. :: 개발자 지망생](https://blockdmask.tistory.com/67)
-- [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
-- [cppreference.com](https://en.cppreference.com/w/)
-- [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 - [개발이 하고 싶어요 :: [STL] 역방향 반복자 (reverse_iterator)](https://hyeonstorage.tistory.com/322)
 - [[C++11] cbegin()과 cend(), crbegin()과 crend()](https://psychoria.tistory.com/70)
 - [c++ - What is the difference between cbegin and begin for vector? - Stack Overflow](https://stackoverflow.com/questions/31208640/what-is-the-difference-between-cbegin-and-begin-for-vector)
+- [씹어먹는 C++ - <10 - 1. C++ STL - 벡터(std::vector), 리스트(list), 데크(deque)>](https://modoocode.com/223)
 
 
  <br/><br/>
