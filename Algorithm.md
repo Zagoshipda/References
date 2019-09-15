@@ -67,6 +67,8 @@ Algorithm
 - [How to check if a given point lies inside or outside a polygon? - GeeksforGeeks](https://www.geeksforgeeks.org/how-to-check-if-a-given-point-lies-inside-a-polygon/)
 - [Point in polygon - Wikipedia](https://en.wikipedia.org/wiki/Point_in_polygon)
 - [Point location - Wikipedia](https://en.wikipedia.org/wiki/Point_location)
+- [Yet another domino problem](https://artofproblemsolving.com/community/c6t520112f6h1818715_yet_another_domino_problem)
+- [[C++] 소수 구하기 최적의 알고리즘 (2) - 에라토스테네스의 체](https://marobiana.tistory.com/91)
 
 
  <br/><br/>
@@ -74,6 +76,7 @@ Algorithm
 
 ### ETC
 - [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30) (안수빈, Subinium)
+- [AoPS Community](https://artofproblemsolving.com/community) (Art of Problem Solving)
 
  
 <br/><br/>
