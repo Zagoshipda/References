@@ -102,6 +102,9 @@ References
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 - [모두의연구소](http://www.modulabs.co.kr/)
+- [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
+- [ :: SLiPP](https://www.slipp.net/)
+- [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  <br/><br/>
 
 
 <br><br>
@@ -111,43 +114,44 @@ References
 - [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
-- [NAVER - edwith](https://www.edwith.org/) (Web programming- Spring, android, ios)  <br><br>
+- [NAVER - edwith](https://www.edwith.org/) (Web programming- Spring, android, ios)
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
-- [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  <br><br>
+- [| K-MOOC](http://www.kmooc.kr/)
+- [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)  <br><br>
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/) (Javascript, Python, Java)
+- [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
+- [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  
+- [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) (Python, C++, Java, C#, JavaScript tutorial)
+- [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
 - [kodocs.io](https://kodocs.io/) (language references 한국어 번역)
-- [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
 - [cppreference.com](https://en.cppreference.com/w/)
 - [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
-- [Learn C++](https://www.learncpp.com/)
+- [Learn C++](https://www.learncpp.com/)  <br/><br/>
 - [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)
 - [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
 - [코딩의 시작, TCP School](http://tcpschool.com/) (web, java, C/C++)
 - [코딩 도장](https://dojang.io/) (C, Python)
 - [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
-- [Welcome to Python.org](https://www.python.org/)
-- [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
-- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)  <br/><br/>
-- [구름EDU - Be Really Excellent!](https://edu.goorm.io/) (free lectrues- C, Nodejs)
+- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
+- [Welcome to Python.org](https://www.python.org/)
+- [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)  <br/><br/>
+- [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
+- [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
+- [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
-- [W3Schools Online Web Tutorials](https://www.w3schools.com/) (Javascript, Python, Java)
-- [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
-- [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
-- [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
-- [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
-- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)  <br/><br/>
+- [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)
 - [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483) 
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
-- [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)
+- [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)  <br/><br/>
 - [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
-- [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) (Python, C++, Java, C#, JavaScript tutorial)
 - [Gazebo](http://gazebosim.org/) (Robot simulation made easy)
 
 
