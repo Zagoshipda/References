@@ -52,6 +52,9 @@ Today I Learned
 - [MainWindowViewModel](https://social.msdn.microsoft.com/Forums/vstudio/en-US/e843a72e-75d8-4cca-a54a-b7bb3fec690c/mainwindowviewmodel?forum=wpf)
 - [Patterns - WPF Apps With The Model-View-ViewModel Design Pattern](https://msdn.microsoft.com/en-us/magazine/dd419663.aspx#id0090071)
 - [웹서버란 무엇인가 · Wireframe](https://soooprmx.com/archives/5135)  <br/><br/>
+- [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
+- [AWS 클라우드 기술 강연 모음 - YouTube](https://www.youtube.com/playlist?list=PLVKMvBGg2tCfrIhMQ-5dKcUiPhIPdb6td) (윤석찬, AWS tech evangelist)
+- [[특별기획]로봇과 AI 학습 위한 '오픈소스 데이터 세트'는 어떤 것들이 있나? - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=14191)
 
 
  <br/><br/>
