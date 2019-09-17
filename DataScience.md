@@ -44,6 +44,7 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [Bayesian Deep Learning 101 (Yarin Gal)](http://bdl101.ml/)
 - [Sungchul Lee - YouTube](https://www.youtube.com/user/sungchulyonseiackr/playlists) (이승철, 연세대학교 수학과, ML, DL, RL)  <br/><br/> 
 - [Home - AI College](http://aic.yangjaehub.com/) (6 Unsolved Real Problems)
+- [ParlAI](https://parl.ai/)
 
 
  <br><br>
