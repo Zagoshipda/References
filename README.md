@@ -61,6 +61,7 @@ References
 - [티몬의 개발이야기 : 네이버 블로그](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev)
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
 - [DAILYHOTEL](https://dailyhotel.io/)
+- [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
 
 
  <br/><br/>
@@ -105,6 +106,9 @@ References
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
 - [ :: SLiPP](https://www.slipp.net/)
 - [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  <br/><br/>
+- [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
+COEX Grand Ballroom)
+- [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colorado, USA)
 
 
 <br><br>
