@@ -10,11 +10,14 @@ C++ Study
 - [C++ Standard Library Reference | Microsoft Docs](https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=vs-2019)
 - [cppreference.com](https://en.cppreference.com/w/)
 - [cplusplus.com - The C++ Resources Network](http://www.cplusplus.com/)
+- [C++ Team Blog](https://devblogs.microsoft.com/cppblog/)
+
 
  <br/><br/>
 
 
 ## General
+- [Open Sourcing MSVC's STL | C++ Team Blog](https://devblogs.microsoft.com/cppblog/open-sourcing-msvcs-stl/)
 - [Power Function in C/C++ - GeeksforGeeks](https://www.geeksforgeeks.org/power-function-cc/) (add 0.5 to the result and then typecast to int)
 - [floating point - C: i got different results with pow(10,2) and pow(10,j), j=2; - Stack Overflow](https://stackoverflow.com/questions/19126809/c-i-got-different-results-with-pow10-2-and-pow10-j-j-2)
 
