@@ -55,6 +55,10 @@ Today I Learned
 - [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
 - [AWS 클라우드 기술 강연 모음 - YouTube](https://www.youtube.com/playlist?list=PLVKMvBGg2tCfrIhMQ-5dKcUiPhIPdb6td) (윤석찬, AWS tech evangelist)
 - [[특별기획]로봇과 AI 학습 위한 '오픈소스 데이터 세트'는 어떤 것들이 있나? - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=14191)
+- [Amazon re:MARS를 통해 본 클라우드 기술의 미래 - 윤석찬 (AWS 테크에반젤리스트) ](https://www.slideshare.net/awskorea/amazon-remars-2019-recap)
+- [The Top Programming Languages 2019 - IEEE Spectrum](https://www.slideshare.net/awskorea/amazon-remars-2019-recap)
+- [Universal Robots Introduces Its Strongest Robotic Arm Yet IEEE Spectrum - IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/industrial-robots/universal-robots-introduces-its-strongest-robotic-arm-yet)
+- [코도 없는 인공지능이 만든 향수 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=16990786)
 
 
  <br/><br/>
