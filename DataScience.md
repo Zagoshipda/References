@@ -44,7 +44,9 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [Bayesian Deep Learning 101 (Yarin Gal)](http://bdl101.ml/)
 - [Sungchul Lee - YouTube](https://www.youtube.com/user/sungchulyonseiackr/playlists) (이승철, 연세대학교 수학과, ML, DL, RL)  <br/><br/> 
 - [Home - AI College](http://aic.yangjaehub.com/) (6 Unsolved Real Problems)
-- [ParlAI](https://parl.ai/)
+- [ParlAI](https://parl.ai/) (facebook research)
+- [GIS Developer – 공간정보시스템 기반 기술 연구소 @지오서비스(GEOSERVICE)](http://www.gisdeveloper.co.kr/)
+- [AIHub | AI 오픈 이노베이션 허브](http://aihub.or.kr/)
 
 
  <br><br>
@@ -52,6 +54,8 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 
 ### Articles
 - [AI For Filmmaking](https://rsomani95.github.io/ai-film-1.html)
+- [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
+- [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
 
 
  <br><br>
@@ -60,6 +64,8 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 ### Papers
 - [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) 
 - [1902.09843.pdf](https://arxiv.org/pdf/1902.09843.pdf) (ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE)
+- [[1909.05379v1] Specifying Object Attributes and Relations in Interactive Scene Generation](https://arxiv.org/abs/1909.05379v1)
+- [Specifying Object Attributes and Relations in Interactive Scene Generation - YouTube](https://www.youtube.com/watch?v=V2v0qEPsjr0)
 
 
  <br><br>
