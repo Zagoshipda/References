@@ -113,6 +113,7 @@ COEX Grand Ballroom)
 - [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
+- [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 
 
 <br><br>
