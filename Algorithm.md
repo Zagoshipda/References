@@ -50,6 +50,7 @@ Algorithm
 
 
 ### Algorithm
+- [최단 경로 탐색 – A* 알고리즘 – GIS Developer](http://www.gisdeveloper.co.kr/?p=3897)
 - [(Algorithm) 최단 경로 알고리즘 - 다익스트라(dijkstra) 알고리즘 - ZeroCho Blog](https://www.zerocho.com/category/Algorithm/post/584bd46f580277001862f1af)
 - [(Algorithm) 네트워크 플로우(network flow) - ZeroCho Blog](https://www.zerocho.com/category/Algorithm/post/5893405b588acb00186d39e0)
 - [[알고리즘] 다익스트라 최단거리 알고리즘(Dijkstra)](https://limkydev.tistory.com/172)
