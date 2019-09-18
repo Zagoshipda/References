@@ -24,6 +24,7 @@ References
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
+- [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
 - [NVIDIA Developer](https://developer.nvidia.com/)
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)  <br/><br/>
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
@@ -109,6 +110,9 @@ References
 - [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
 COEX Grand Ballroom)
 - [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colorado, USA)
+- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
+- [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
+- [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
 
 
 <br><br>
@@ -201,6 +205,7 @@ COEX Grand Ballroom)
 - [Home | 코딩장이](https://itholic.github.io/)
 - [신현묵의 브런치](https://brunch.co.kr/@supims#articles)
 - [Page 1 | ERecord](https://eunajjing.github.io/)
+- [Changjoo's website](https://sites.google.com/site/changjoonam/home) (남창주, Senior Research Scientist, Center for Robotics Research, KIST)
 
 
  <br/><br/>
@@ -271,6 +276,7 @@ COEX Grand Ballroom)
 - [Open Source Design](https://opensourcedesign.net/)
 - [Dainty](https://dainty.site/) (color theme generator)
 - [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
+- [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 
 
  <br/><br/>
