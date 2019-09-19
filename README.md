@@ -162,6 +162,7 @@ COEX Grand Ballroom)
 - [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)  <br/><br/>
 - [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
 - [Gazebo](http://gazebosim.org/) (Robot simulation made easy)
+- [데이터 사이언스 스쿨](https://datascienceschool.net/)
 
 
  <br/><br/>
@@ -278,6 +279,7 @@ COEX Grand Ballroom)
 - [Dainty](https://dainty.site/) (color theme generator)
 - [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
+- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
 
 
  <br/><br/>
