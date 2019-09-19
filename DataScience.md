@@ -56,6 +56,7 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [AI For Filmmaking](https://rsomani95.github.io/ai-film-1.html)
 - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 - [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-gpt2/)
 
 
  <br><br>
