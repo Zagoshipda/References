@@ -136,5 +136,8 @@ Startup lists
 - [에이블하우스](http://www.ablehouse.kr/) : 셰어하우스
 - [라스트오더](https://lastorder.co.kr/) : 마감세일, 음식
 - [코너마켓](https://www.cornermarket.co.kr/shop/main/index.php) : 아동복, 쇼핑몰, 리세일
+- [포잉](https://www.poing.co.kr/#) : 레스토랑 맛집 검색 및 예약
+- [Pixo](https://www.pixo.co/) : 앱 개발
+- [휴마니타스](http://www.hmnts.co.kr/) : 의료, IT
 
 
