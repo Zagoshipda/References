@@ -139,6 +139,10 @@ Startup lists
 - [포잉](https://www.poing.co.kr/#) : 레스토랑 맛집 검색 및 예약
 - [Pixo](https://www.pixo.co/) : 앱 개발
 - [휴마니타스](http://www.hmnts.co.kr/) : 의료, IT
-- [Food Culture Lab.™](http://www.fclab.co.kr/)
+- [Food Culture Lab.™](http://www.fclab.co.kr/) : 음식
+- [퇴사학교](https://t-school.kr/) : 자기계발, 교육
+- [나누다키친](https://www.nanudakitchen.com/) : 공유 주방
+- [블루핵](http://bluehack.net/) : IT
+- [인썸니아 - INSOMENIA 스타트업 전문 개발사](https://insomenia.com/) : IT, 개발 외주
 
 
