@@ -15,9 +15,20 @@ Robotics
  <br/><br/>
  
 
-### 
+### References
+- [로봇신문사](http://www.irobotnews.com/)
+- [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
+- [Arduino - Home](https://www.arduino.cc/) 
+- [Gazebo](http://gazebosim.org/) (Robot simulation made easy)
+
+
+ <br/><br/>
+
+
+### Study
 - [OpenAI Robotics Symposium 2019 - YouTube](https://www.youtube.com/watch?v=WRsxoVB8Yng)
 - [Generalizing from Simulation](https://openai.com/blog/generalizing-from-simulation/)
+
 
 
  <br/><br/>
