@@ -104,6 +104,7 @@ References
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 - [모두의연구소](http://www.modulabs.co.kr/)
+- [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
 - [ :: SLiPP](https://www.slipp.net/)
 - [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  <br/><br/>
@@ -114,6 +115,7 @@ COEX Grand Ballroom)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
+- [DEVIEW 2019](https://deview.kr/2019)
 
 
 <br><br>
@@ -235,6 +237,7 @@ COEX Grand Ballroom)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
 - [더북(TheBook)](https://thebook.io/) ((주)도서출판 길벗 IT 도서 열람 서비스)
 - [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
+- [Graph Algorithms - Graph_Algorithms_Neo4j.pdf](https://neo4j.com/neoassets/graphbooks/Graph_Algorithms_Neo4j.pdf)
 
 
  <br/><br/>
@@ -279,7 +282,9 @@ COEX Grand Ballroom)
 - [Dainty](https://dainty.site/) (color theme generator)
 - [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
-- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
+- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)  <br/><br/>
+- [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
+- [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
 
 
  <br/><br/>
