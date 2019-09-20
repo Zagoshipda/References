@@ -20,6 +20,7 @@ References
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
 - [Android Developers](https://developer.android.com/)
+- [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
@@ -69,53 +70,55 @@ References
  
 
 ### Community & media
-- [파이콘 한국 2019](https://www.pycon.kr/)
-- [velog](https://velog.io/) (blog platform for developers)
-- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
-- [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
-- [throw bug](https://throwbug.com/)  (Q & A)
-- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
-- [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/) <br/><br/>
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [Samsung Software Membership](http://www.secmem.org/)
-- [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
+- [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
+- [StackShare - Software and technology stacks used by top companies](https://stackshare.io/)
+- [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
+- [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
+- [velog](https://velog.io/) (blog platform for developers)
+- [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
+- [throw bug](https://throwbug.com/)  (Q & A)
+- [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)  <br><br>
 - [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 - [GpgStudy 메인 페이지](https://gpgstudy.com/)
-- [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
-- [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
-- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진) <br/><br/>
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
-- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
+- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
 - [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
-- [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
-- [StackShare - Software and technology stacks used by top companies](https://stackshare.io/)
-- [이상한모임](https://www.weirdx.io/)
-- [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
+- [이상한모임](https://www.weirdx.io/)  <br/><br/>
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 - [프로그라피](http://prography.org/) <br/><br/>
 - [TechCrunch](https://techcrunch.com/)
-- [로봇신문사](http://www.irobotnews.com/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
-- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 - [모두의연구소](http://www.modulabs.co.kr/)
 - [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
-- [ :: SLiPP](https://www.slipp.net/)
-- [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  <br/><br/>
+- [ :: SLiPP](https://www.slipp.net/)  <br/><br/>
+- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
+- [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
+
+
+<br/><br/>
+
+
+### Conference
+- [파이콘 한국 2019](https://www.pycon.kr/)
+- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
+- [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
+- [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  
 - [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
 COEX Grand Ballroom)
 - [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colorado, USA)
-- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
-- [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [DEVIEW 2019](https://deview.kr/2019)
+- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)  <br/><br/>
 
 
 <br><br>
@@ -132,6 +135,7 @@ COEX Grand Ballroom)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
 - [| K-MOOC](http://www.kmooc.kr/)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)  <br><br>
+- [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/) (Javascript, Python, Java)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  
@@ -163,7 +167,6 @@ COEX Grand Ballroom)
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
 - [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)  <br/><br/>
 - [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
-- [Gazebo](http://gazebosim.org/) (Robot simulation made easy)
 - [데이터 사이언스 스쿨](https://datascienceschool.net/)
 
 
@@ -244,8 +247,8 @@ COEX Grand Ballroom)
  
 
 ### ETCs
-- [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
-- [Arduino - Home](https://www.arduino.cc/) 
+- [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
+- [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
@@ -285,6 +288,7 @@ COEX Grand Ballroom)
 - [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)  <br/><br/>
 - [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
+- [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 
 
  <br/><br/>
