@@ -289,6 +289,7 @@ COEX Grand Ballroom)
 - [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
+- [Blender Guru](https://www.blenderguru.com/)
 
 
  <br/><br/>
