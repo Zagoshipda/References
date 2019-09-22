@@ -15,6 +15,8 @@ Design Pattern
 
 
 ### Design Pattern
+- [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
+- [Singleton pattern - Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
 - [[Unity] Command Pattern (명령 패턴)](https://unity-programmer.tistory.com/18)
 - [코딩스타트 :: 디자인패턴 - 커맨드 패턴(Command Pattern),매크로 커맨드 패턴(Macro Command Pattern)](https://coding-start.tistory.com/249)
 
