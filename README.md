@@ -25,9 +25,9 @@ References
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
-- [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
+- [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)  <br/><br/>
 - [NVIDIA Developer](https://developer.nvidia.com/)
-- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)  <br/><br/>
+- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
@@ -289,6 +289,7 @@ COEX Grand Ballroom)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 - [Blender Guru](https://www.blenderguru.com/)
+- [Quip](https://quip.com/) (collaborative productivity software)
 
 
  <br/><br/>
