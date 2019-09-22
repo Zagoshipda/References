@@ -91,8 +91,8 @@ References
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
 - [이상한모임](https://www.weirdx.io/)  <br/><br/>
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
-- [프로그라피](http://prography.org/) <br/><br/>
-- [TechCrunch](https://techcrunch.com/)
+- [프로그라피](http://prography.org/)
+- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
@@ -100,8 +100,9 @@ References
 - [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
 - [ :: SLiPP](https://www.slipp.net/)  <br/><br/>
-- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
+- [TechCrunch](https://techcrunch.com/)
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
+- [Devpost - The home for hackathons](https://devpost.com/)
 
 
 <br/><br/>
@@ -261,8 +262,6 @@ COEX Grand Ballroom)
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
 - [Proto.io - Prototypes that feel real](https://proto.io/)
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [Decorator pattern - Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
-- [Singleton pattern - Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
 - [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)
 - [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
 - [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
