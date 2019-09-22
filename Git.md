@@ -15,8 +15,10 @@ How to Git & Github
 - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
 - [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
-- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
+- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)  <br/><br/>
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
+- [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+- [Code Review에 대한 정리 · Issue #13 · JaeYeopHan/tip-archive](https://github.com/JaeYeopHan/tip-archive/issues/13)
 
 
  <br/><br/>
@@ -47,7 +49,7 @@ How to Git & Github
 - [How to use Git Revert - Stack Overflow](https://stackoverflow.com/questions/19032296/how-to-use-git-revert)
 - [Git Revert | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/undoing-changes/git-revert)
 - [Git: Revert to a Previous Commit](https://stackabuse.com/git-revert-to-a-previous-commit/)
-- [Git - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+- [Git - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) (git merge vs git rebase)
 - [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_reverse_commit)
 - [git rebase | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - [Git Tip: Rebase Your Stash | Heliom](http://heliom.ca/blog/posts/git-tip-rebase-your-stash) (git stash / git reset HEAD~1)
@@ -65,6 +67,8 @@ How to Git & Github
 - [#git reflog - HEAD 변경 이력을 볼 수 있다. 커밋은 어디 안 간다.](http://ohyecloudy.com/pnotes/archives/1994/)
 - [Git을 잘 써보자- 12. git 복구 - git reflog | Suwoni-Codelab](https://suwoni-codelab.com/git/2018/04/07/Git-reflog/)  <br/><br/>
 - [Display your Resume/CV PDF in website using GitHub - Kekayan - Medium](https://medium.com/@kekayan/display-your-resume-cv-pdf-in-website-using-github-73a088ac961d)
+- [[Git] 커밋 히스토리 수정하기 :: PlanB의 백엔드 엔지니어링](https://planbs.tistory.com/entry/Git-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) (git rebase -i HEAD~n)
+- [깃(git) - 특정 커밋의 수정 내용 확인하기](https://awesometic.tistory.com/179) (git show \<ref\>)
 
 
  <br/><br/>
@@ -96,5 +100,9 @@ How to Git & Github
 - [Git, 가장 쉽게 사용하기 - (2) commit, branch 전략 잘 짜는 법 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=tmondev&logNo=220763012361&redirect=Dlog)
 - [How do I delete a Git branch locally and remotely? - Stack Overflow](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely) (___git push --delete <remote_name> <branch_name>___)
 - [Renaming a remote - GitHub Help](https://help.github.com/en/articles/renaming-a-remote) (Change remote name from 'origin' to 'destination' : git remote rename \<origin> \<destination>)
- 
+- [Solved: re-opening pull request - GitHub Community Forum](https://github.community/t5/How-to-use-Git-and-GitHub/re-opening-pull-request/td-p/12154)
+- [Reverting a pull request - GitHub Help](https://help.github.com/en/articles/reverting-a-pull-request)
+- [Changing the base branch of a pull request - GitHub Help](https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request)
+- [git pull --rebase 를 쓰자](https://jusths.tistory.com/60)
+
 
