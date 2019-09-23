@@ -16,6 +16,7 @@ References
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
+- [Apple Developer](https://developer.apple.com/)
 - [Google Developers](https://developers.google.com/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
@@ -120,10 +121,10 @@ COEX Grand Ballroom)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
 - [DEVIEW 2019](https://deview.kr/2019)  <br/><br/>
-- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
+- [AI WorldCup](http://aiworldcup.org/) (AI World Cup 2019 Nov 1 ~ Nov 3, 2019 KAIST, Korea)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
-
+- [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/)
 
 <br><br>
 
