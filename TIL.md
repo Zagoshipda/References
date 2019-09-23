@@ -69,6 +69,7 @@ Today I Learned
 - [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
+- [아날로그(Analog)와 디지털(Digital)의 차이는 무엇일까? — Steemit](https://steemit.com/wisdom/@sc100/analog-digital)
 
 
  <br/><br/>
