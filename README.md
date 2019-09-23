@@ -29,6 +29,7 @@ References
 - [NVIDIA Developer](https://developer.nvidia.com/)
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
+- [Intel AI](https://www.intel.ai/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 - [Uber Engineering Blog](https://eng.uber.com/)
@@ -37,14 +38,12 @@ References
 - [Engineering](https://engineering.grab.com/) (Grab)
 - [Pony.ai](https://www.pony.ai/)  <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
-- [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [kakao 기술 블로그](http://tech.kakao.com/)
 - [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
-- [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
 - [LINE developers](https://developers.line.biz/en/)
 - [NAVER D2](https://d2.naver.com/home) 
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
@@ -103,6 +102,7 @@ References
 - [TechCrunch](https://techcrunch.com/)
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [Devpost - The home for hackathons](https://devpost.com/)
+- [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 
 
 <br/><br/>
@@ -110,7 +110,8 @@ References
 
 ### Conference
 - [파이콘 한국 2019](https://www.pycon.kr/)
-- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
+- [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
+- [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
 - [Home - DevGround](http://devground.hanbit.co.kr/) (DevGround 2019: 인공지능 AI, 데이터과학 Data Science, 블록체인 Blockchain)
 - [UDC 2019](https://udc.upbit.com/) (Upbit Developer Conference)  
 - [Agile Korea Conference 2019](https://agilekorea.kr/index.html) (Agile, Culture, Human : Be The Change - 2019. 10. 18 FRI
@@ -118,8 +119,10 @@ COEX Grand Ballroom)
 - [CppCon | The C++ Conference](https://cppcon.org/) (September 15~20 2019 Aurora, Colorado, USA)
 - [MODERN GROWTH STACK 2019](https://mgs-2019.splashthat.com/) (AB180)
 - [데브옵스의 날](https://devopsday.devopskorea.org/) (2019 10 01)
-- [DEVIEW 2019](https://deview.kr/2019)
-- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)  <br/><br/>
+- [DEVIEW 2019](https://deview.kr/2019)  <br/><br/>
+- [AI WorldCup](http://aiworldcup.org/) (KAIST AI World Cup)
+- [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
+- [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
 
 
 <br><br>
@@ -164,11 +167,10 @@ COEX Grand Ballroom)
 - [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
 - [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)
-- [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483) 
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
-- [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)  <br/><br/>
-- [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
-- [데이터 사이언스 스쿨](https://datascienceschool.net/)
+- [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)
+- [데이터 사이언스 스쿨](https://datascienceschool.net/)  <br/><br/>
+- [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 강의자료)
 
 
  <br/><br/>
@@ -225,11 +227,13 @@ COEX Grand Ballroom)
 - [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-1/)
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers 실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
 - [나의 2017년 외국기업 코딩 인터뷰 정리](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
-- [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
-- [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
+- [인턴 지원서 – 조성문의 블로그](https://sungmooncho.com/2019/03/02/internship/amp/)
 - [채용 정보 검색 | Tesla](https://www.tesla.com/ko_KR/careers/search#/?department=1&region=5&country=0) (Software Engineer, Computer Vision and AI)
 - [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
-- [인턴 지원서 – 조성문의 블로그](https://sungmooncho.com/2019/03/02/internship/amp/)
+- [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
+- [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)  <br/><br/>
+- [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
+- [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 
 
  <br><br>
@@ -251,30 +255,15 @@ COEX Grand Ballroom)
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
-- [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Darwin Online](http://darwin-online.org.uk/)
-- [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [Haml](http://haml.info/)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)  <br/><br/>
-- [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
+- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
-- [Proto.io - Prototypes that feel real](https://proto.io/)
-- [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
-- [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)
-- [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
-- [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
-- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)  <br/><br/>
+- [Proto.io - Prototypes that feel real](https://proto.io/)  <br/><br/>
 - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
-- [atom 에디터 not responding 오류 해결](https://programmerpsk.tistory.com/148)
-- [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 수업자료)
-- [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
-- [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
-- [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
-- [파이쿵 :: 텐서보드 사용법](https://pythonkim.tistory.com/39)
-- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
-- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)  <br/><br/>
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)
 - [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
 - [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
 - [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
@@ -282,14 +271,17 @@ COEX Grand Ballroom)
 - [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
 - [Open Source Design](https://opensourcedesign.net/)
 - [Dainty](https://dainty.site/) (color theme generator)
-- [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)
+- [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)  <br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
-- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)  <br/><br/>
+- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
 - [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 - [Blender Guru](https://www.blenderguru.com/)
 - [Quip](https://quip.com/) (collaborative productivity software)
+- [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
+- [RStudio Cloud](https://rstudio.cloud/)
+- [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)  <br/><br/>
 
 
  <br/><br/>
