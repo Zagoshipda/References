@@ -20,6 +20,8 @@ Robotics
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
 - [Arduino - Home](https://www.arduino.cc/) 
 - [Gazebo](http://gazebosim.org/) (Robot simulation made easy)
+- [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
+- [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483)
 
 
  <br/><br/>
@@ -28,7 +30,7 @@ Robotics
 ### Study
 - [OpenAI Robotics Symposium 2019 - YouTube](https://www.youtube.com/watch?v=WRsxoVB8Yng)
 - [Generalizing from Simulation](https://openai.com/blog/generalizing-from-simulation/)
-
+- [2016 :: 아두이노 기초](https://opentutorials.org/module/2106)
 
 
  <br/><br/>
