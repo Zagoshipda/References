@@ -52,13 +52,23 @@ Today I Learned
 - [MainWindowViewModel](https://social.msdn.microsoft.com/Forums/vstudio/en-US/e843a72e-75d8-4cca-a54a-b7bb3fec690c/mainwindowviewmodel?forum=wpf)
 - [Patterns - WPF Apps With The Model-View-ViewModel Design Pattern](https://msdn.microsoft.com/en-us/magazine/dd419663.aspx#id0090071)
 - [웹서버란 무엇인가 · Wireframe](https://soooprmx.com/archives/5135)  <br/><br/>
-- [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
 - [AWS 클라우드 기술 강연 모음 - YouTube](https://www.youtube.com/playlist?list=PLVKMvBGg2tCfrIhMQ-5dKcUiPhIPdb6td) (윤석찬, AWS tech evangelist)
 - [[특별기획]로봇과 AI 학습 위한 '오픈소스 데이터 세트'는 어떤 것들이 있나? - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=14191)
 - [Amazon re:MARS를 통해 본 클라우드 기술의 미래 - 윤석찬 (AWS 테크에반젤리스트) ](https://www.slideshare.net/awskorea/amazon-remars-2019-recap)
 - [The Top Programming Languages 2019 - IEEE Spectrum](https://www.slideshare.net/awskorea/amazon-remars-2019-recap)
 - [Universal Robots Introduces Its Strongest Robotic Arm Yet IEEE Spectrum - IEEE Spectrum](https://spectrum.ieee.org/automaton/robotics/industrial-robots/universal-robots-introduces-its-strongest-robotic-arm-yet)
 - [코도 없는 인공지능이 만든 향수 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=16990786)
+- [조대협의 블로그 :: 개발과 운영의 조화 - Devops #2/2](https://bcho.tistory.com/817) (DevOps : 개발과 운영이 분리되면서 오는 문제점을 해결하기 위해서, 개발과 운영을 하나의 조직으로 합쳐서 팀을 운영하는 문화이자 방법론, 개발과 운영 뿐만 아니라 테스트까지 하나의 팀에 합치는 것)
+- [vi 단축키 정리 · 초보몽키의 개발공부로그](https://wayhome25.github.io/etc/2017/03/27/vi/)
+- [originalchoi :: [펌] BASH 쉘 profile, bashrc 설정](https://originalchoi.tistory.com/19)
+- [atom 에디터 not responding 오류 해결](https://programmerpsk.tistory.com/148)   <br/><br/>
+- [Docker와 쿠버네티스의 이해 · 어쩐지 오늘은](https://zzsza.github.io/development/2018/04/17/docker-kubernetes/)
+- [How to Think Like a Data Scientist in 12 Steps - Cracking The Data Science Interview - Medium](https://medium.com/cracking-the-data-science-interview/how-to-think-like-a-data-scientist-in-12-steps-157ea8ad5da8)
+- [파이쿵 :: 텐서보드 사용법](https://pythonkim.tistory.com/39)
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
+- [시작 - Visual Studio Code tutorial](https://demun.github.io/vscode-tutorial/) (vscode tutorial from demun.github.io)
+- [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
+- [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 
 
  <br/><br/>
