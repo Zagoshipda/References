@@ -47,12 +47,14 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [ParlAI](https://parl.ai/) (facebook research)
 - [GIS Developer – 공간정보시스템 기반 기술 연구소 @지오서비스(GEOSERVICE)](http://www.gisdeveloper.co.kr/)
 - [AIHub | AI 오픈 이노베이션 허브](http://aihub.or.kr/)
+- [Towards Data Science](https://towardsdatascience.com/) (Medium, Sharing concepts, ideas, and codes)
 
 
  <br><br>
 
 
 ### Articles
+- [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [AI For Filmmaking](https://rsomani95.github.io/ai-film-1.html)
 - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 - [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
