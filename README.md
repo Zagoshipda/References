@@ -283,6 +283,8 @@ COEX Grand Ballroom)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
 - [RStudio Cloud](https://rstudio.cloud/)
 - [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)  <br/><br/>
+- [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)
+- [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
 
 
  <br/><br/>
