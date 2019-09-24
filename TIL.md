@@ -70,6 +70,7 @@ Today I Learned
 - [Set Up C++ Development With Visual Studio Code on Windows 10 (VS Code)](https://www.youtube.com/watch?v=DIw02CaEusY) (youtube)
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [아날로그(Analog)와 디지털(Digital)의 차이는 무엇일까? — Steemit](https://steemit.com/wisdom/@sc100/analog-digital)
+- [20 Blockchain Projects With the Most Dev Activity — September, 2019](https://media.consensys.net/20-blockchain-projects-with-the-most-dev-activity-september-2019-d4f6d617392e)
 
 
  <br/><br/>
