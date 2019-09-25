@@ -5,7 +5,7 @@ Startup References
  <br/><br/>
 
 
-### Community & Accelerator
+### Accelerator & Venture Capital
 - [Startup Alliance Korea](https://startupall.kr/)
 - [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
 - [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
@@ -44,6 +44,7 @@ Startup References
 - [Namsan Lab Korea](https://namsanlabkorea.splashthat.com/) (from facebook)
 - [D.CAMP – 은행권청년창업재단](https://dcamp.kr/)
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
+- [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
 
 
  <br/><br/>
@@ -64,6 +65,17 @@ Startup References
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 - [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
+- [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
+
+
+ <br/><br/>
+
+
+### Job & Community
+- [로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/)
+- [원티드 - 지인 추천하고 보상금 받기](https://www.wanted.co.kr/)
+- [채용보기 | 더팀스(THE TEAMS)](https://www.theteams.kr/recruit)
+- [AngelList - Where the world meets startups](https://angel.co/)
 
 
  <br/><br/>
