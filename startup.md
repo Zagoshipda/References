@@ -41,6 +41,9 @@ Startup References
 - [Trucks Venture Capital funds the entrepreneurs building the future of transportation](http://www.trucks.vc/)
 - [Khosla Ventures](https://www.khoslaventures.com/)
 - [네오플라이 - 진심을 다해 스타트업을 돕는 액셀러레이터](http://www.neoply.com/)
+- [Namsan Lab Korea](https://namsanlabkorea.splashthat.com/) (from facebook)
+- [D.CAMP – 은행권청년창업재단](https://dcamp.kr/)
+- [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
 
 
  <br/><br/>
@@ -60,6 +63,7 @@ Startup References
 - [스타트업 전문 미디어 서비스 플랫폼 - 벤처스퀘어](http://www.venturesquare.net/)
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
+- [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
 
 
  <br/><br/>
