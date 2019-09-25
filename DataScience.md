@@ -1,4 +1,4 @@
-Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Reinforement Learning
+Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Reinforcement Learning
 ==========
 
 
