@@ -13,6 +13,9 @@ References
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
 - [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
+- [.NET | Free. Cross-platform. Open Source.](https://dotnet.microsoft.com/)
+- [.NET Blog](https://devblogs.microsoft.com/dotnet/)
+- [Reference Source](https://referencesource.microsoft.com/) (Browse the .NET Framework source code online)
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
@@ -42,7 +45,7 @@ References
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
-- [kakao 기술 블로그](http://tech.kakao.com/)
+- [tech.kakao.com – 카카오는 사람과 사람, 사람과 기술을 한층 가깝게 연결함으로써, 어제보다 더 나은 세상을 만들어 갑니다.](http://tech.kakao.com/) (kakao 기술 블로그)
 - [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
 - [LINE developers](https://developers.line.biz/en/)
@@ -127,6 +130,9 @@ COEX Grand Ballroom)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
 - [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/)
+- [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
+- [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
+
 
 <br><br>
 
@@ -219,6 +225,7 @@ COEX Grand Ballroom)
 - [신현묵의 브런치](https://brunch.co.kr/@supims#articles)
 - [Page 1 | ERecord](https://eunajjing.github.io/)
 - [Changjoo's website](https://sites.google.com/site/changjoonam/home) (남창주, Senior Research Scientist, Center for Robotics Research, KIST)
+- [076923](https://076923.github.io/) (Daehee Yun)
 
 
  <br/><br/>
@@ -287,6 +294,8 @@ COEX Grand Ballroom)
 - [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)  <br/><br/>
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
 - [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+- [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
+- [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 
 
  <br/><br/>
