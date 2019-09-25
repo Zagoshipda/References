@@ -78,6 +78,8 @@ Algorithm
 ### ETC
 - [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30) (안수빈, Subinium)
 - [AoPS Community](https://artofproblemsolving.com/community) (Art of Problem Solving)
+- [저는 Competitive programming이 싫습니다.](https://www.acmicpc.net/blog/view/49)
+- [Are programming competitions a good use of time? - Codeforces](http://codeforces.com/blog/entry/49289#comment-332844)
 
  
 <br/><br/>
