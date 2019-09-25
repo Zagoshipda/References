@@ -18,6 +18,7 @@ References
 - [Reference Source](https://referencesource.microsoft.com/) (Browse the .NET Framework source code online)
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
+- [The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.](https://octoverse.github.com/)
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
 - [Apple Developer](https://developer.apple.com/)
 - [Google Developers](https://developers.google.com/)
