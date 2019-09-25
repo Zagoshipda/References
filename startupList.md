@@ -149,5 +149,9 @@ Startup lists
 - [(주)알리버 2017 * 빅데이터 기반 소프트웨어 제작을 통해, 미래형 라이프 스타일의 새로운 가치를 창출합니다.](http://www.alli-ver.com/) : Big Data, IT
 - [고스트키친 |](https://ghostkitchen.net/) : 공유주방
 - [코스믹그린](http://www.cosmicgreen.co.kr/) : 바이오 비료
+- [Stronghold Technology](https://www.stronghold-technology.com/) : 로봇, 커피
+- [라피움](http://rafium.co.kr/) : 명상, 마음, 치유
+- [식자재 주문은 #식봄(식자재의봄)](https://www.foodspring.co.kr/) : 음식 재료 주문
+- [YBRAIN](http://www.ybrain.com/ko/) : 디지털 헬스케어, 뇌과학 (Think Healthy)
 
 
