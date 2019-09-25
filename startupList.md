@@ -144,5 +144,10 @@ Startup lists
 - [나누다키친](https://www.nanudakitchen.com/) : 공유 주방
 - [블루핵](http://bluehack.net/) : IT
 - [인썸니아 - INSOMENIA 스타트업 전문 개발사](https://insomenia.com/) : IT, 개발 외주
+- [비긴메이트 - 스타트업 팀빌딩 플랫폼](https://beginmate.com/) : 스타트업, 구인구직
+- [Home - STDIO.H](https://www.stdioh.com/) : 구인구직
+- [(주)알리버 2017 * 빅데이터 기반 소프트웨어 제작을 통해, 미래형 라이프 스타일의 새로운 가치를 창출합니다.](http://www.alli-ver.com/) : Big Data, IT
+- [고스트키친 |](https://ghostkitchen.net/) : 공유주방
+- [코스믹그린](http://www.cosmicgreen.co.kr/) : 바이오 비료
 
 
