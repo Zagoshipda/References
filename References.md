@@ -104,6 +104,8 @@ References
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [Devpost - The home for hackathons](https://devpost.com/)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
+- [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제](https://makerfaire.co.kr/)
+- [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 
 
 <br/><br/>
@@ -273,7 +275,6 @@ COEX Grand Ballroom)
 - [Open Source Design](https://opensourcedesign.net/)
 - [Dainty](https://dainty.site/) (color theme generator)
 - [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)  <br/><br/>
-- [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
 - [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
@@ -282,9 +283,10 @@ COEX Grand Ballroom)
 - [Quip](https://quip.com/) (collaborative productivity software)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
 - [RStudio Cloud](https://rstudio.cloud/)
-- [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)  <br/><br/>
-- [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)
+- [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)
+- [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)  <br/><br/>
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
+- [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 
 
  <br/><br/>
