@@ -297,6 +297,8 @@ COEX Grand Ballroom)
 - [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
 - [GitHub Pages | Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.](https://pages.github.com/)
 - [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+- [about.me | your personal homepage](https://about.me/)
+- [The future of forms is here | Typeform](https://www.typeform.com/)
 
 
  <br/><br/>
