@@ -31,7 +31,7 @@ README
 
 - RaspberryPi.md
 
-- <h3> ___References.md___ : Main </h3>
+- <h3> References.md : Main </h3>
 
 - Robotics.md
 
