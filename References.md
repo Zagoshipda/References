@@ -23,7 +23,9 @@ References
 - [Apple Developer](https://developer.apple.com/)
 - [Google Developers](https://developers.google.com/)
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
+- [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
 - [Android Developers](https://developer.android.com/)
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
@@ -133,6 +135,8 @@ COEX Grand Ballroom)
 - [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/)
 - [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
+- [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
+- [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
 
 
 <br><br>
@@ -150,6 +154,7 @@ COEX Grand Ballroom)
 - [| K-MOOC](http://www.kmooc.kr/)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)  <br><br>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+- [Stack Overflow Insights - Developer Hiring, Marketing, and User Research](https://insights.stackoverflow.com/survey)
 - [W3Schools Online Web Tutorials](https://www.w3schools.com/) (Javascript, Python, Java)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  
@@ -299,6 +304,7 @@ COEX Grand Ballroom)
 - [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
 - [about.me | your personal homepage](https://about.me/)
 - [The future of forms is here | Typeform](https://www.typeform.com/)
+- [Rider: The Cross-Platform .NET IDE from JetBrains](https://www.jetbrains.com/rider/)
 
 
  <br/><br/>
