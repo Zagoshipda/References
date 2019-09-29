@@ -1,4 +1,4 @@
-Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Reinforcement Learning
+Data Science : Artificial Intelligence & Machine Learning & Deep Learning & Reinforcement Learning
 ==========
 
 
@@ -48,6 +48,7 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [GIS Developer – 공간정보시스템 기반 기술 연구소 @지오서비스(GEOSERVICE)](http://www.gisdeveloper.co.kr/)
 - [AIHub | AI 오픈 이노베이션 허브](http://aihub.or.kr/)
 - [Towards Data Science](https://towardsdatascience.com/) (Medium, Sharing concepts, ideas, and codes)
+- [Home - Andrew NgAndrew Ng](https://www.andrewng.org/)
 
 
  <br><br>
@@ -70,9 +71,10 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
 
 ### Papers
 - [[1811.12560] An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560) 
-- [1902.09843.pdf](https://arxiv.org/pdf/1902.09843.pdf) (ADAPTIVE GRADIENT METHODS WITH DYNAMIC BOUND OF LEARNING RATE)
+- [[1902.09843] Adaptive Gradient Methods with Dynamic Bound of Learning Rate](https://arxiv.org/abs/1902.09843)
 - [[1909.05379v1] Specifying Object Attributes and Relations in Interactive Scene Generation](https://arxiv.org/abs/1909.05379v1)
-- [Specifying Object Attributes and Relations in Interactive Scene Generation - YouTube](https://www.youtube.com/watch?v=V2v0qEPsjr0)
+    - [Specifying Object Attributes and Relations in Interactive Scene Generation - YouTube](https://www.youtube.com/watch?v=V2v0qEPsjr0)
+- [[1812.03664] Learning Embedding Adaptation for Few-Shot Learning](https://arxiv.org/abs/1812.03664)
 
 
  <br><br>
