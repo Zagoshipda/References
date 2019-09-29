@@ -258,6 +258,8 @@ COEX Grand Ballroom)
 - [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)  <br/><br/>
 - [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
 - [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
+- [DeepNatural Crew](https://www.notion.so/DeepNatural-Crew-c90ab612ac3a42a8999d59b2e54f99db)
+    - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
 
 
  <br><br>
