@@ -71,12 +71,16 @@ References
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
 - [DAILYHOTEL](https://dailyhotel.io/)
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
+- [ Watcha, Inc.](https://team.watcha.com/)
+- [NC 공식 블로그](https://blog.ncsoft.com/)
 
 
  <br/><br/>
  
 
 ### Community & media
+- [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
+- [생활코딩](https://opentutorials.org/course/1)
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [Samsung Software Membership](http://www.secmem.org/)
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
@@ -84,9 +88,9 @@ References
 - [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
 - [Home | Google Summer of Code](https://summerofcode.withgoogle.com/)
 - [velog](https://velog.io/) (blog platform for developers)
-- [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)
+- [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)  <br><br>
 - [throw bug](https://throwbug.com/)  (Q & A)
-- [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)  <br><br>
+- [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
 - [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
@@ -94,9 +98,9 @@ References
 - [GpgStudy 메인 페이지](https://gpgstudy.com/)
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
 - [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
-- [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
+- [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)  <br/><br/>
 - [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
-- [이상한모임](https://www.weirdx.io/)  <br/><br/>
+- [이상한모임](https://www.weirdx.io/)
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 - [프로그라피](http://prography.org/)
 - [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
@@ -104,15 +108,17 @@ References
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 - [모두의연구소](http://www.modulabs.co.kr/)
-- [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)
+- [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)  <br/><br/>
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
-- [ :: SLiPP](https://www.slipp.net/)  <br/><br/>
+- [ :: SLiPP](https://www.slipp.net/)
 - [TechCrunch](https://techcrunch.com/)
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [Devpost - The home for hackathons](https://devpost.com/)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제](https://makerfaire.co.kr/)
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
+- [What will you create? | Code.org](https://code.org/)
+- [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
 
 
 <br/><br/>
@@ -307,6 +313,8 @@ COEX Grand Ballroom)
 - [about.me | your personal homepage](https://about.me/)
 - [The future of forms is here | Typeform](https://www.typeform.com/)
 - [Rider: The Cross-Platform .NET IDE from JetBrains](https://www.jetbrains.com/rider/)
+- [Welcome to BatStudio! — BatStudio](http://www.ibatstudio.com/)
+- [App Ape Lab – 앱에이프 랩](https://ko.lab.appa.pe/)
 
 
  <br/><br/>
