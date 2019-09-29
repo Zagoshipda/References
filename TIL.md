@@ -71,6 +71,9 @@ Today I Learned
 - [Why Performance Matters | Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/performance/why-performance-matters/)
 - [아날로그(Analog)와 디지털(Digital)의 차이는 무엇일까? — Steemit](https://steemit.com/wisdom/@sc100/analog-digital)
 - [20 Blockchain Projects With the Most Dev Activity — September, 2019](https://media.consensys.net/20-blockchain-projects-with-the-most-dev-activity-september-2019-d4f6d617392e)
+- [개발자 머피의 법칙 - 우아한형제들 기술 블로그](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html)  <br/><br/>
+- [fsutil setCaseSensitiveInfo · Issue #977 · MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs/issues/977) (fsutil.exe file setCaseSensitiveInfo <path> enable)
+- [ Total Fix! ](https://slic.tistory.com/1436) ([ Windows 10 ] 파일 및 폴더를 대소 문자 구분하여 사용하는 방법)
 
 
  <br/><br/>
