@@ -162,6 +162,8 @@ Startup lists
 - [DeepNatural AI - Training Corpus for Natural Language Models](https://deepnatural.ai/) : AI
 - [DeepNatural AI](https://app.deepnatural.ai/) : AI
 - [Brighter AI | Deep Natural Anonymization](https://brighter.ai/) : AI
+- [학원 찾을 땐, 강남엄마](https://gangmom.kr/) : 학원 정보 공유
+- [탈잉 - 세상의 모든 재능](https://taling.me/) : 재능 공유, 튜터, 튜티, 수업
 
 
  <br/><br/>
