@@ -1,7 +1,9 @@
 Startup lists
 ==========
 
+
  <br/><br/>
+
 
 ### 
 - [메쉬코리아](https://meshkorea.net/) : 부릉(VROONG), 통합 물류관리 솔루션, 실시간 배송 서비스
@@ -153,5 +155,15 @@ Startup lists
 - [라피움](http://rafium.co.kr/) : 명상, 마음, 치유
 - [식자재 주문은 #식봄(식자재의봄)](https://www.foodspring.co.kr/) : 음식 재료 주문
 - [YBRAIN](http://www.ybrain.com/ko/) : 디지털 헬스케어, 뇌과학 (Think Healthy)
+- [예스나우](https://www.yesnow.co.kr/) : 개인 건강 맞춤 건강기능식품
+- [메인 | YesNow Inc.](https://www.yesnowinc.io/) : PICKY PICKER, 개인 맞춤형 의류 치수 정보
+- [왓챠 - 영화, 도서, TV 추천 앱](https://watcha.com/ko-KR/) : 영화, 도서, TV 추천
+- [DECON | Cryptoeconomics Lab ](https://deconlab.io/en/) : 블록체인
+- [DeepNatural AI - Training Corpus for Natural Language Models](https://deepnatural.ai/) : AI
+- [DeepNatural AI](https://app.deepnatural.ai/) : AI
+- [Brighter AI | Deep Natural Anonymization](https://brighter.ai/) : AI
+
+
+ <br/><br/>
 
 
