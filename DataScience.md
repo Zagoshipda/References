@@ -53,13 +53,17 @@ Data Science & Artificial Intelligence & Machine Learning & Deep Learning & Rein
  <br><br>
 
 
-### Articles
+### Study
 - [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [AI For Filmmaking](https://rsomani95.github.io/ai-film-1.html)
 - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 - [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-gpt2/)
-
+- [2019 구글 스터디 잼 - 머신러닝 통합](https://sites.google.com/view/studyjamkr/ml_integrated?authuser=0)
+    - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit)
+    - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit#slide=id.p)
+    - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit)
+    
 
  <br><br>
 
