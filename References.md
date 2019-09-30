@@ -144,6 +144,8 @@ COEX Grand Ballroom)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 - [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
 - [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
+- [http://www.robotworld.or.kr/wp/](2019 로보월드 | 스마트인더스트리, 스마트라이프!)
+- [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
 
 
 <br><br>
@@ -294,6 +296,7 @@ COEX Grand Ballroom)
 - [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
 - [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
 - [Mellowbeat Seeker - YouTube](https://www.youtube.com/channel/UCO1jhQjMhiI0YrHUGHyev7A) (playlist from Raphael)
+- [YouTube Music](https://music.youtube.com/playlist?list=PLN_kYklcsDlO8fcV7bz_9n7fYbg54E6rq) (개발할 때 듣는 신나는 노래, Playlist by Seohyun Yoon)
 - [Speaker Deck - Share Presentations without the Mess](https://speakerdeck.com/)
 - [Open Source Design](https://opensourcedesign.net/)
 - [Dainty](https://dainty.site/) (color theme generator)
@@ -317,6 +320,8 @@ COEX Grand Ballroom)
 - [Rider: The Cross-Platform .NET IDE from JetBrains](https://www.jetbrains.com/rider/)
 - [Welcome to BatStudio! — BatStudio](http://www.ibatstudio.com/)
 - [App Ape Lab – 앱에이프 랩](https://ko.lab.appa.pe/)
+- [  Video content making service for business  | 타일 ](https://tyle.io/)  <br/><br/>
+- [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
 
 
  <br/><br/>
