@@ -22,6 +22,13 @@ Linux commands
     - [[리눅스]셸(Shell)이란? 셸의 변경, 쉘 개념, 기능, 종류와 특징(sh, bash, csh, tcsh, ksh)](https://jhnyang.tistory.com/57) (Shell : 커널(Kernel)과 사용자 사이에서 다리의 역할)
     - [[Bash 쉘 스크립트] 쉘 스크립트와 Vim 편집기](https://gasaesososo.tistory.com/14?category=759822)
     - [[리눅스] Shell , Kenel , Shell Script 란?](https://gaeko-security-hack.tistory.com/118)
+- [LostPassword - Community Help Wiki](https://help.ubuntu.com/community/LostPassword)
+    - [How do I reset a lost administrative password? - Ask Ubuntu](https://askubuntu.com/questions/24006/how-do-i-reset-a-lost-administrative-password)
+    - [How to reset your password in Ubuntu](https://www.psychocats.net/ubuntu/resetpassword)
+    - [라즈베리파이 3 비밀번호 초기화 (비밀번호 분실)](https://hjeon.tistory.com/50)
+    - [우분투 - 루트 계정의 패스워드 초기화하기 - 암호 분실 :: 고프로프라다](https://goproprada.tistory.com/201)
+    - [(ubuntu) 비밀번호 초기화 하기 :: kjun.kr](https://kjun.kr/492)  <br/><br/>
+- [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
 
 
  <br/><br/>
