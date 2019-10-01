@@ -66,6 +66,8 @@ Startup References
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 - [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
 - [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
+- [스프링살롱 - YouTube](https://www.youtube.com/channel/UCgAfjD0SqrpAROcu2z6aAng/videos)
+- [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 
 
  <br/><br/>
