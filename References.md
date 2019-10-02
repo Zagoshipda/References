@@ -322,6 +322,7 @@ COEX Grand Ballroom)
 - [App Ape Lab – 앱에이프 랩](https://ko.lab.appa.pe/)
 - [  Video content making service for business  | 타일 ](https://tyle.io/)  <br/><br/>
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
+- [Open Source ERP and CRM | Odoo](https://www.odoo.com/)
 
 
  <br/><br/>
