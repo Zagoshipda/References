@@ -20,6 +20,7 @@ C# Study
 - [C# Tutorial - YouTube](https://www.youtube.com/watch?v=lisiwUZJXqQ) : learn C# in one video tutorial
 - [C# 무료강의[2019] 총48강 - YouTube](https://www.youtube.com/playlist?list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
 - [유니티 무료강의 총 22강[2019] - YouTube](https://www.youtube.com/playlist?list=PL4SIC1d_ab-avhu7-dI5-YK3rHlH-lZwB)
+- [Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#](https://code.msdn.microsoft.com/)
 
 
  <br/><br/>
@@ -48,7 +49,8 @@ C# Study
     - [charts - Creating a simple Table in WPF? - Stack Overflow](https://stackoverflow.com/questions/7385163/creating-a-simple-table-in-wpf)
     - [Create lookup tables in WPF applications - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/data-tools/create-lookup-tables-in-wpf-applications?view=vs-2019)
     - [I will be a Programming Artist :: 07. [WPF 기초 강좌] 레이아웃 1](https://dotnetmvp.tistory.com/28)
-    
+    - [Browse code - How to Build, Manage and Navigate the User Interface of a WPF Application in C# for Visual Studio 2010](https://code.msdn.microsoft.com/How-to-Build-Manage-and-fdd0074a/sourcecode)
+
 
  <br/><br/>
  
