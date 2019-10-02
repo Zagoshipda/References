@@ -1,4 +1,4 @@
-Data Science : Artificial Intelligence & Machine Learning & Deep Learning & Reinforcement Learning
+Data Science : AI & ML & DL & RL
 ==========
 
 
@@ -75,6 +75,8 @@ Data Science : Artificial Intelligence & Machine Learning & Deep Learning & Rein
 - [[1909.05379v1] Specifying Object Attributes and Relations in Interactive Scene Generation](https://arxiv.org/abs/1909.05379v1)
     - [Specifying Object Attributes and Relations in Interactive Scene Generation - YouTube](https://www.youtube.com/watch?v=V2v0qEPsjr0)
 - [[1812.03664] Learning Embedding Adaptation for Few-Shot Learning](https://arxiv.org/abs/1812.03664)
+- [[1908.03265] On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
+- [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
 
 
  <br><br>
