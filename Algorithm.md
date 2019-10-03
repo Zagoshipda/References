@@ -93,6 +93,7 @@ Algorithm
 - [Problem - E1 - Codeforces](https://codeforces.com/contest/1209/problem/E1)
 - [Problem - 99999355 - Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/355)
 - [Problem - 45G - Codeforces](https://codeforces.com/problemset/problem/45/G)
+- [Problem - B - Codeforces](https://codeforces.com/contest/1209/problem/B)
 
 
 <br/><br/>
