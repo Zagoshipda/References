@@ -81,6 +81,19 @@ Algorithm
 - [저는 Competitive programming이 싫습니다.](https://www.acmicpc.net/blog/view/49)
 - [Are programming competitions a good use of time? - Codeforces](http://codeforces.com/blog/entry/49289#comment-332844)
 
- 
+
+<br/><br/>
+
+
+### TODO
+- [Problem - C - Codeforces](https://codeforces.com/contest/1186/problem/C)
+- [Problem - C - Codeforces](https://codeforces.com/contest/1201/problem/C)
+- [Problem - 1200D - Codeforces](https://codeforces.com/problemset/problem/1200/D)
+- [Problem - D - Codeforces](https://codeforces.com/contest/1214/problem/D)
+- [Problem - E1 - Codeforces](https://codeforces.com/contest/1209/problem/E1)
+- [Problem - 99999355 - Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/355)
+- [Problem - 45G - Codeforces](https://codeforces.com/problemset/problem/45/G)
+
+
 <br/><br/>
 
