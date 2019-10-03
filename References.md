@@ -146,6 +146,8 @@ COEX Grand Ballroom)
 - [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
 - [http://www.robotworld.or.kr/wp/](2019 로보월드 | 스마트인더스트리, 스마트라이프!)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
+- [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
+- [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
 
 
 <br><br>
@@ -241,7 +243,8 @@ COEX Grand Ballroom)
 - [신현묵의 브런치](https://brunch.co.kr/@supims#articles)
 - [Page 1 | ERecord](https://eunajjing.github.io/)
 - [Changjoo's website](https://sites.google.com/site/changjoonam/home) (남창주, Senior Research Scientist, Center for Robotics Research, KIST)
-- [076923](https://076923.github.io/) (Daehee Yun)
+- [076923](https://076923.github.io/) (Daehee Yun)  <br/><br/>
+- [Hoya012's Research Blog](https://hoya012.github.io/index.html) (이호성, Conference paper reviews)
 
 
  <br/><br/>
