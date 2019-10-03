@@ -14,6 +14,9 @@ Robotics
 - [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483)
 - [raspberry-gpio-python / Wiki / PWM](https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/)
 - [ROS.org | Powering the world's robots](https://www.ros.org/)
+    - [Questions - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/questions/)
+    - [Documentation - ROS Wiki](http://wiki.ros.org/)
+    - [ROSCon 2019](https://roscon.ros.org/2019/)
 - [Open Robotics](https://www.openrobotics.org/)
 - [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)
 
@@ -50,6 +53,7 @@ Robotics
 ### News
 - [구글은 왜 로봇 회사를 소프트뱅크에 팔까…글로벌 기업들의 로봇 M&A 전략 - 중앙일보](https://news.joins.com/article/21660475)
 - [[로봇 갑론을박①]이경전 교수,  "휴먼로봇시대는 멀었다" : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=008&aid=0003323614&sid1=001)
+- [Why Facebook Is Training Robots To Think [Exclusive Interview]](https://www.forbes.com/sites/cognitiveworld/2019/09/03/exclusive-interview-why-facebook-is-training-robots-to-think/#23aef5f312c2)
 
 
  <br/><br/>
