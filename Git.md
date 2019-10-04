@@ -51,7 +51,8 @@ How to Git & Github
 - [Git: Revert to a Previous Commit](https://stackabuse.com/git-revert-to-a-previous-commit/)
 - [Git - Rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) (git merge vs git rebase)
 - [Git - Advanced Merging](https://git-scm.com/book/en/v2/Git-Tools-Advanced-Merging#_reverse_commit)
-- [git rebase | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
+- [git rebase | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) (___git rebase \<base branch\> vs git merge \<target branch\>___ : rebase는 target branch를 base branch를 기준으로 이동시키는 것. merge는 base branch를 기준으로 target branch를 병합하는 것.)
+- [Git - git-merge Documentation](https://git-scm.com/docs/git-merge)
 - [Git Tip: Rebase Your Stash | Heliom](http://heliom.ca/blog/posts/git-tip-rebase-your-stash) (git stash / git reset HEAD~1)
 - [[Git기초] 브랜치 강제로 옮기기](https://cornswrold.tistory.com/251) (branch를 특정 commit에 직접적으로 재지정하기 : git branch -f (branch) (commit ref / branch) ex. git branch -f master HEAD~3)
 - [[Git기초] Git에서 작업 되돌리기](https://cornswrold.tistory.com/252) (git reset vs git revert : local branch의 경우 reset을 사용할 수 있지만, "history를 고쳐쓴다"는 점 때문에 다른 사람과 협업하는 remote branch에는 쓸 수 없음. 변경사항을 되돌리고 이 되돌린 내용을 다른 사람들과 공유하기 위해서는 git revert를 사용해야 함)
@@ -69,7 +70,8 @@ How to Git & Github
 - [Display your Resume/CV PDF in website using GitHub - Kekayan - Medium](https://medium.com/@kekayan/display-your-resume-cv-pdf-in-website-using-github-73a088ac961d)
 - [[Git] 커밋 히스토리 수정하기 :: PlanB의 백엔드 엔지니어링](https://planbs.tistory.com/entry/Git-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) (git rebase -i HEAD~n)
 - [깃(git) - 특정 커밋의 수정 내용 확인하기](https://awesometic.tistory.com/179) (git show \<ref\>)
-
+- [git reflog | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+ 
 
  <br/><br/>
   
@@ -104,5 +106,9 @@ How to Git & Github
 - [Reverting a pull request - GitHub Help](https://help.github.com/en/articles/reverting-a-pull-request)
 - [Changing the base branch of a pull request - GitHub Help](https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request)
 - [git pull --rebase 를 쓰자](https://jusths.tistory.com/60)
+- [리모트 저장소 이름변경 및 삭제 · Git, 분산버전 관리시스템](https://mylko72.gitbooks.io/git/content/remote/remove.html) (git remote rename \<current name\> \<new name\>)  <br/><br/>
+
+
+ <br/><br/>
 
 
