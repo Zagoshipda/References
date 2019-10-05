@@ -7,15 +7,17 @@ How to Git & Github
 
 ### references
 - [Git - Book](https://git-scm.com/book/en/v2)
+- [GitHub Help](https://help.github.com/en)
+    - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
 - [GitHub Guides](https://guides.github.com/)
 - [Resources to learn Git](http://try.github.io/)
 - [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
-- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
+- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)  <br/><br/>
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
-- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)  <br/><br/>
+- [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
 - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 - [Code Review에 대한 정리 · Issue #13 · JaeYeopHan/tip-archive](https://github.com/JaeYeopHan/tip-archive/issues/13)
@@ -107,7 +109,7 @@ How to Git & Github
 - [Changing the base branch of a pull request - GitHub Help](https://help.github.com/en/articles/changing-the-base-branch-of-a-pull-request)
 - [git pull --rebase 를 쓰자](https://jusths.tistory.com/60)
 - [리모트 저장소 이름변경 및 삭제 · Git, 분산버전 관리시스템](https://mylko72.gitbooks.io/git/content/remote/remove.html) (git remote rename \<current name\> \<new name\>)  <br/><br/>
-
+ 
 
  <br/><br/>
 
