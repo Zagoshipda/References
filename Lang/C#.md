@@ -30,6 +30,8 @@ C# Study
 - [Model–view–viewmodel - Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 - [[용어 정리] MVC, MVP, MVVM 비교](http://itnovice1.blogspot.com/2019/01/mvc-mvp-mvvm.html)
 - [MVC, MVP, MVVM 비교 – 마기의 개발 블로그 – 즐겁게 개발을 하고 싶은 욕심 많은 개발자](https://magi82.github.io/android-mvc-mvp-mvvm/)
+- [Property(프로퍼티), Indexer(인덱서)](https://sghy.tistory.com/12)
+- [C# 인덱서 프로퍼티 (Indexer) : 네이버 블로그](https://blog.naver.com/beaqon/221301129951)
 
 
  <br/><br/>
