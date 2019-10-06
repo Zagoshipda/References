@@ -32,17 +32,32 @@ C# Study
 - [MVC, MVP, MVVM 비교 – 마기의 개발 블로그 – 즐겁게 개발을 하고 싶은 욕심 많은 개발자](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - [Property(프로퍼티), Indexer(인덱서)](https://sghy.tistory.com/12)
 - [C# 인덱서 프로퍼티 (Indexer) : 네이버 블로그](https://blog.naver.com/beaqon/221301129951)
+- [[C#] 상속 관계에 있는 클래스의 형변환 ( is , as ) :: IT's me](https://grayt.tistory.com/99)
+- [Tuple types - C# Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tuples)
+    - [Tuple<T1,T2>.Item1 Property (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-2.item1?view=netframework-4.8)
 
 
  <br/><br/>
  
 
+### UWP : Universal Windows Platform
+- [UWP Documentation - UWP app developer - Windows UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwp/)
+- [Use Grid and StackPanel to create a simple weather app. - Windows UWP applications | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwp/design/layout/grid-tutorial)
+
+
+ <br/><br/>
+
+
 ## WPF : Windows Presentation Foundation
+- [What is WPF? - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019)
+- [Tutorial: Create your first WPF application in Visual Studio 2019 - .NET Framework | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application)
+- [[WPF]WPF Layout Control 종류 :: JENEMIA](https://jenemia.tistory.com/170)
+- [WPF Layout (Panels) - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-basic-466e5d30f774) (Grid : 테이블 형태의 레이아웃을 제공하는 클래스)
+- [WPF Layout : Alignment, Margin, Padding - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-alignment-margin-padding-b142d730d755)  <br/><br/>
 - [5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/gg405484%28v%3dpandp.40%29)
 - [Data Binding (WPF) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/data-binding-wpf)
-- [Data binding in WPF - .NET Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/data/data-binding-overview)
+    - [Data binding in WPF - .NET Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/data/data-binding-overview)
 - [WPF, 일레븐의 공작소 : 네이버 블로그](http://blog.naver.com/PostList.nhn?blogId=xitechnology&from=postList&categoryNo=11) (Visual Studio 와 Blend 그리고 WPF)
-- [WPF Layout (Panels) - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-basic-466e5d30f774) (Grid : 테이블 형태의 레이아웃을 제공하는 클래스)
     - [c# - Grid Table in WPF - Stack Overflow](https://stackoverflow.com/questions/4978723/grid-table-in-wpf)
     - [How to: Create a Grid Element | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-create-a-grid-element)
     - [DataGrid Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.datagrid?view=netframework-4.8#examples)
@@ -52,6 +67,24 @@ C# Study
     - [Create lookup tables in WPF applications - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/data-tools/create-lookup-tables-in-wpf-applications?view=vs-2019)
     - [I will be a Programming Artist :: 07. [WPF 기초 강좌] 레이아웃 1](https://dotnetmvp.tistory.com/28)
     - [Browse code - How to Build, Manage and Navigate the User Interface of a WPF Application in C# for Visual Studio 2010](https://code.msdn.microsoft.com/How-to-Build-Manage-and-fdd0074a/sourcecode)
+- [TextBlock Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock?view=netframework-4.8)
+    - [TextAlignment Enum (System.Windows) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.textalignment?view=netframework-4.8)
+    - [VerticalAlignment Enum (System.Windows) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.verticalalignment?view=netframework-4.8)
+    - [Text vertical alignment in WPF TextBlock - Stack Overflow](https://stackoverflow.com/questions/1491649/text-vertical-alignment-in-wpf-textblock) (___Textblock itself can't do vertical alignment___)
+    - [WPF TextBlock](https://www.c-sharpcorner.com/uploadfile/mahesh/wpf-textblock/)
+    - [TextBlock.Foreground Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.textblock.foreground?view=netframework-4.8)
+- [FrameworkElement.Width Property (System.Windows) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.frameworkelement.width?view=netframework-4.8)
+- [UniformGrid Class (System.Windows.Controls.Primitives) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.primitives.uniformgrid?view=netframework-4.8)
+    - [Wpf: Grid: How can i share column/row height width? - Stack Overflow](https://stackoverflow.com/questions/3369733/wpf-grid-how-can-i-share-column-row-height-width)
+- [DataTemplate Class (System.Windows) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.datatemplate?view=netframework-4.8)
+    - [Using the WPF Tree View with Multiple Levels](https://www.codemag.com/Article/1401031/Using-the-WPF-Tree-View-with-Multiple-Levels)
+- [Breaking XAML Stretch with StackPanel – The Code-Mind Interface](http://codemindinterface.com/2015/01/breaking-xaml-stretch-stackpanel/)
+- [StackPanel Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.stackpanel?view=netframework-4.8)
+    - [How to: Create a StackPanel | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-create-a-stackpanel)
+    - [StackPanel.Orientation Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.stackpanel.orientation?view=netframework-4.8)
+    - [How to: Horizontally or Vertically Align Content in a StackPanel | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-horizontally-or-vertically-align-content-in-a-stackpanel)
+- [ComboBox 의 SelectedValue 와 SelectedItem 의 성능적 차이 :: isfry's blog](https://isfry.tistory.com/113)
+- [[WPF] x:Name 과 Name 의 차이 - 신동화의 블로그](https://springisover.tistory.com/14)
 
 
  <br/><br/>
