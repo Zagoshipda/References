@@ -51,10 +51,13 @@ C# Study
 ## WPF : Windows Presentation Foundation
 - [What is WPF? - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019)
 - [Tutorial: Create your first WPF application in Visual Studio 2019 - .NET Framework | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application)
+- [Advanced (Windows Presentation Foundation) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/?view=netframework-4.8)
+- [Developer's Guide to Microsoft Prism Library 5.0 for WPF | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/gg406140%28v%3dpandp.10%29)
+- [5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/gg405484%28v%3dpandp.40%29)
 - [[WPF]WPF Layout Control 종류 :: JENEMIA](https://jenemia.tistory.com/170)
 - [WPF Layout (Panels) - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-basic-466e5d30f774) (Grid : 테이블 형태의 레이아웃을 제공하는 클래스)
 - [WPF Layout : Alignment, Margin, Padding - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-alignment-margin-padding-b142d730d755)  <br/><br/>
-- [5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF | Microsoft Docs](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/gg405484%28v%3dpandp.40%29)
+- [I will be a Programming Artist :: 04. [WPF 기초 강좌] WPF 시작하기 4](https://dotnetmvp.tistory.com/25)
 - [Data Binding (WPF) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/data-binding-wpf)
     - [Data binding in WPF - .NET Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/data/data-binding-overview)
 - [WPF, 일레븐의 공작소 : 네이버 블로그](http://blog.naver.com/PostList.nhn?blogId=xitechnology&from=postList&categoryNo=11) (Visual Studio 와 Blend 그리고 WPF)
@@ -85,6 +88,13 @@ C# Study
     - [How to: Horizontally or Vertically Align Content in a StackPanel | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-horizontally-or-vertically-align-content-in-a-stackpanel)
 - [ComboBox 의 SelectedValue 와 SelectedItem 의 성능적 차이 :: isfry's blog](https://isfry.tistory.com/113)
 - [[WPF] x:Name 과 Name 의 차이 - 신동화의 블로그](https://springisover.tistory.com/14)
+- [INotifyPropertyChanged Interface (System.ComponentModel) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.inotifypropertychanged?view=netframework-4.8) (Notifies clients that a property value has changed.)
+    - [INotifyPropertyChanged 구현체를 간단히 사용하기 - 문제 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=vactorman&logNo=220486213754)
+    - [C# WPF\] INotifyPropertyChanged 인터페이스를 이용한 데이터 바인딩 방법 :: 이프의 개발노트 & 일상](https://itpro.tistory.com/87)
+    - [(c#학원)WPF Command 패턴, 데이터.. : 네이버블로그](https://blog.naver.com/julymorning4/221424213905)
+- [ListBox Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.listbox?view=netframework-4.8) (Contains a list of selectable items.)
+- [ItemsControl.ItemsPanel Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.itemscontrol.itemspanel?view=netframework-4.8)
+
 
 
  <br/><br/>
