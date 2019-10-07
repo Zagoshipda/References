@@ -31,7 +31,10 @@ Robotics
 - [SoftBank Robotics - Group | Global Site](https://www.softbankrobotics.com/)
 - [Willow Garage](http://www.willowgarage.com/)
 - [Boston Dynamics | Boston Dynamics](https://www.bostondynamics.com/)
-- [BostonDynamics - YouTube](https://www.youtube.com/user/BostonDynamics/featured)
+    - [BostonDynamics - YouTube](https://www.youtube.com/user/BostonDynamics/featured)
+- [Robomakery](https://www.robomakery.com/) (Open source robots for people with mobility impairments)
+    - [Robomakery](https://github.com/robomakery) (Github)
+- [Apex.AI | Autonomous Driving Software](https://www.apex.ai/)
 
 
  <br/><br/>
