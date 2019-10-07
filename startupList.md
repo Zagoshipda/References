@@ -167,6 +167,7 @@ Startup lists
 - [탈잉 - 세상의 모든 재능](https://taling.me/) : 재능 공유, 튜터, 튜티, 수업
 - [당구비, 새로운 당구문화 플랫폼](https://www.billiardb.com/) : 당구
 - [스마트스코어](http://www.smartscore.kr/) : 골프
+- [In English — Supercat](http://corp.supercat.co.kr/english) : 게임
 
 
  <br/><br/>
