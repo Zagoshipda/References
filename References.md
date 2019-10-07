@@ -56,6 +56,7 @@ References
 - [NAVER D2](https://d2.naver.com/home) 
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
+- [NSML](https://ai.nsml.navercorp.com/intro) (Naver Smart Machine Learning)
 - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)  <br/><br/>
 - [SK Telecom AI Center](https://www.skt.ai/)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
@@ -124,7 +125,7 @@ References
 <br/><br/>
 
 
-### Conference
+### Conference & Contest
 - [파이콘 한국 2019](https://www.pycon.kr/)
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
@@ -148,6 +149,7 @@ COEX Grand Ballroom)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
+- [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
 
 
 <br><br>
