@@ -120,6 +120,7 @@ References
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [What will you create? | Code.org](https://code.org/)
 - [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
+- [First Contributions](https://firstcontributions.github.io/) (Make your first open source contribution in 5 minutes)
 
 
 <br/><br/>
