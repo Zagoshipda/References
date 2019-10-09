@@ -18,7 +18,7 @@ References for Raspberry Pi
  <br/><br/>
 
 
-### 
+### Study
 - [Overview | Adafruit MAX31865 RTD PT100 or PT1000 Amplifier | Adafruit Learning System](https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier?view=all)
 - [raspberry-gpio-python / Wiki / PWM](https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/) (Using PWM in RPi.GPIO)
 - [Python & CircuitPython | Adafruit MAX31865 RTD PT100 or PT1000 Amplifier | Adafruit Learning System](https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/python-circuitpython)
@@ -28,7 +28,8 @@ References for Raspberry Pi
 - [How to Work with I2C Communication in Raspberry Pi – RadioStudio](https://radiostud.io/howto-i2c-communication-rpi/)
 - [Raspberry Pi SPI and I2C Tutorial - learn.sparkfun.com](https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial)
 - [[라즈베리파이 강좌] I2C 통신하기 (DS1.. : 네이버블로그](https://blog.naver.com/namunny/220405198422)
-- [[아두이노 강좌] 29. I2C 통신 (1) .. : 네이버블로그](https://blog.naver.com/yuyyulee/220323559541)
+- [[아두이노 강좌] 29. I2C 통신 (1) .. : 네이버블로그](https://blog.naver.com/yuyyulee/220323559541)  <br/><br/>
+- [[파이썬] 라즈베리파이와 PC사이 소켓통신 : 네이버 블로그](https://blog.naver.com/cosmosjs/220714273636)
 
 
  <br/><br/>
