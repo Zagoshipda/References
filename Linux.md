@@ -37,6 +37,7 @@ Linux commands
 ### I Love Windows 
 - [코드 클리핑 - findstr 사용법 - window용 find, grep 명령](http://www.dreamy.pe.kr/zbxe/CodeClip/164827)
 - [[윈도우용 grep] find 보다 더 강력한 findstr 명령](http://mwultong.blogspot.com/2006/07/grep-find-findstr.html)
+- [root blog :: 리눅스 재부팅과 종료 명령어 (halt , reboot , shutdown , init)](https://rootblog.tistory.com/1)
 
 
  <br/><br/>
