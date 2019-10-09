@@ -121,6 +121,7 @@ References
 - [What will you create? | Code.org](https://code.org/)
 - [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
 - [First Contributions](https://firstcontributions.github.io/) (Make your first open source contribution in 5 minutes)
+- [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
 
 
 <br/><br/>
@@ -165,7 +166,8 @@ COEX Grand Ballroom)
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
-- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)  
+- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)
+    - [Artificial Intelligence Online Courses | Udacity](https://www.udacity.com/school-of-ai)
 - [| K-MOOC](http://www.kmooc.kr/)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)  <br><br>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
@@ -201,6 +203,7 @@ COEX Grand Ballroom)
 - [Cracking The Data Science Interview – Medium](https://medium.com/cracking-the-data-science-interview)
 - [데이터 사이언스 스쿨](https://datascienceschool.net/)  <br/><br/>
 - [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 강의자료)
+- [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
 
 
  <br/><br/>
@@ -328,7 +331,8 @@ COEX Grand Ballroom)
 - [App Ape Lab – 앱에이프 랩](https://ko.lab.appa.pe/)
 - [  Video content making service for business  | 타일 ](https://tyle.io/)  <br/><br/>
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
-- [Open Source ERP and CRM | Odoo](https://www.odoo.com/)
+- [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
+- [Sketch - The digital design toolkit](https://www.sketch.com/)
 
 
  <br/><br/>
