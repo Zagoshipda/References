@@ -26,6 +26,7 @@ References
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
 - [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
+- [Qwiklabs - Hands-On Cloud Training](https://google.qwiklabs.com/)
 - [Android Developers](https://developer.android.com/)
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
@@ -82,6 +83,7 @@ References
 ### Community & media
 - [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
+    - [자바야학](http://java.yah.ac/)
 - [SW마에스트로](https://blog.naver.com/sw_maestro)
 - [Samsung Software Membership](http://www.secmem.org/)
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
