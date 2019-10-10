@@ -49,6 +49,8 @@ Data Science : AI & ML & DL & RL
 - [AIHub | AI 오픈 이노베이션 허브](http://aihub.or.kr/)
 - [Towards Data Science](https://towardsdatascience.com/) (Medium, Sharing concepts, ideas, and codes)
 - [Home - Andrew NgAndrew Ng](https://www.andrewng.org/)
+- [Advanced NLP with spaCy · A free online course](https://course.spacy.io/) 
+- [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 
 
  <br><br>
@@ -61,10 +63,11 @@ Data Science : AI & ML & DL & RL
 - [Multi-Agent Hide and Seek - YouTube](https://www.youtube.com/watch?v=kopoLzvh5jY&feature=youtu.be)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-gpt2/)
 - [2019 구글 스터디 잼 - 머신러닝 통합](https://sites.google.com/view/studyjamkr/ml_integrated?authuser=0)
+    - [머신러닝 스터디 잼 통합반 FAQ - Google 프레젠테이션](https://docs.google.com/presentation/d/1-GnsWSo5p-e0bwsJMyB5qdLI9OYxJqTiLD0sK-cU42Y/edit)
     - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit)
     - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit#slide=id.p)
     - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit)
-    
+
 
  <br><br>
 
