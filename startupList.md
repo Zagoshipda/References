@@ -170,6 +170,9 @@ Startup lists
 - [In English — Supercat](http://corp.supercat.co.kr/english) : 게임
 - [Ground X](https://www.groundx.xyz/) : Blockchain
     - [Klaytn](https://www.klaytn.com/) : Blockchain
+- [지구인마켓](https://zikooin-market.com/) : 친환경 건강 간편식, 못생긴 농산물, 유통 
+- [Aroundus](https://www.aroundus.com/ko/Landing/Users) : 소셜 프로필 네트워크
+- [BookCrew - 당신과 작가를 잇다, 북크루](https://www.bookcrew.net/)
 
 
  <br/><br/>
