@@ -107,6 +107,7 @@ Startup References
 - [서울창업허브](http://seoulstartuphub.com/)
 - [창업진흥원](https://www.kised.or.kr/)
 - [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
+- [TIPS 프로그램 - Tech Incubator Program for startup Korea](http://www.jointips.or.kr/)
 
 
  <br/><br/>
