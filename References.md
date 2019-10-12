@@ -119,6 +119,7 @@ References
 - [Devpost - The home for hackathons](https://devpost.com/)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제](https://makerfaire.co.kr/)
+    - [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제 :: 행사준비는 이벤터스](https://event-us.kr/makerfaire/event/9734)
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [What will you create? | Code.org](https://code.org/)
 - [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
@@ -154,6 +155,7 @@ COEX Grand Ballroom)
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
 - [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
+- [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
 
 
 <br><br>
@@ -253,6 +255,8 @@ COEX Grand Ballroom)
 - [Changjoo's website](https://sites.google.com/site/changjoonam/home) (남창주, Senior Research Scientist, Center for Robotics Research, KIST)
 - [076923](https://076923.github.io/) (Daehee Yun)  <br/><br/>
 - [Hoya012's Research Blog](https://hoya012.github.io/index.html) (이호성, Conference paper reviews)
+- [Changh95 - Blogs](https://www.notion.so/Changh95-Blogs-168d026a772648b3b864556a40415370) (장형기)
+    - [SLAM 좀 공부해볼까? (읽기 좋은 자료 + 논문 추천)](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)
 
 
  <br/><br/>
@@ -273,6 +277,8 @@ COEX Grand Ballroom)
 - [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 - [DeepNatural Crew](https://www.notion.so/DeepNatural-Crew-c90ab612ac3a42a8999d59b2e54f99db)
     - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
+- [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)
+- [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 
 
  <br><br>
