@@ -341,6 +341,9 @@ COEX Grand Ballroom)
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
 - [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
 - [Sketch - The digital design toolkit](https://www.sketch.com/)
+- [모두!](https://www.modoo.at/home) (NAVER modoo!)
+- [Help/Manual/Document Authoring Software | 3Rabbitz](https://www.3rabbitz.com/r/home/book)
+- [Hire Freelancers. Make things happen. | Upwork](https://www.upwork.com/)
 
 
  <br/><br/>
