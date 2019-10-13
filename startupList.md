@@ -172,7 +172,11 @@ Startup lists
     - [Klaytn](https://www.klaytn.com/) : Blockchain
 - [지구인마켓](https://zikooin-market.com/) : 친환경 건강 간편식, 못생긴 농산물, 유통 
 - [Aroundus](https://www.aroundus.com/ko/Landing/Users) : 소셜 프로필 네트워크
-- [BookCrew - 당신과 작가를 잇다, 북크루](https://www.bookcrew.net/)
+- [BookCrew - 당신과 작가를 잇다, 북크루](https://www.bookcrew.net/) : 책, 작가
+- [재요 – 사이즈비교 솔루션 ZEYO – 재요(ZEYO) 서비스에 대한 소개 페이지](https://www.zeyo.co.kr/) : 신체데이터 기반 의류 사이즈 비교
+- [아트맵](http://www.art-map.co.kr/) : 미술시장 플랫폼
+    - [아트맵](https://artmap.modoo.at/) : 취향 분석 데이터 기반 미술 큐레이션 서비스
+- [Pluto | Optimize Your Research](https://pluto.network/) : 학술 커뮤니케이션 플랫폼
 
 
  <br/><br/>
