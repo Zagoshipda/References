@@ -347,6 +347,10 @@ COEX Grand Ballroom)
 - [IEEE VIS 2019](http://ieeevis.org/year/2019/welcome) (IEEE visual)
     - [IEEE VISAP 2019](https://visap.net/) (VIS Arts Program (VISAP))
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
+- [Ontology | The proven global enterprise blockchain](https://ont.io/)
+    - [OntologyNetwork – Medium](https://medium.com/ontologynetwork)
+- [헥스 색상 스킴, 챠트, 팔레트 및 변환](https://encycolorpedia.kr/) (encycolorpedia) <br/><br/>
+
 
  <br/><br/>
  
