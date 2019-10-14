@@ -344,7 +344,9 @@ COEX Grand Ballroom)
 - [모두!](https://www.modoo.at/home) (NAVER modoo!)
 - [Help/Manual/Document Authoring Software | 3Rabbitz](https://www.3rabbitz.com/r/home/book)
 - [Hire Freelancers. Make things happen. | Upwork](https://www.upwork.com/)
-
+- [IEEE VIS 2019](http://ieeevis.org/year/2019/welcome) (IEEE visual)
+    - [IEEE VISAP 2019](https://visap.net/) (VIS Arts Program (VISAP))
+- [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 
  <br/><br/>
  
