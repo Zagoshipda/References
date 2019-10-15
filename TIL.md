@@ -75,6 +75,7 @@ Today I Learned
 - [fsutil setCaseSensitiveInfo · Issue #977 · MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs/issues/977) (fsutil.exe file setCaseSensitiveInfo <path> enable)
 - [ Total Fix! ](https://slic.tistory.com/1436) ([ Windows 10 ] 파일 및 폴더를 대소 문자 구분하여 사용하는 방법)
 - [Debugging](https://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state) (atom --clear-window-state)
+ - [돌돌돌돌](http://egloos.zum.com/ttti07/v/3886093) (Qt 입문자들을 위한 배경지식)
  
 
  <br/><br/>
