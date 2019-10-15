@@ -125,6 +125,7 @@ References
 - [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
 - [First Contributions](https://firstcontributions.github.io/) (Make your first open source contribution in 5 minutes)
 - [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
+- [KDE Community Home - KDE.org](https://kde.org/)
 
 
 <br/><br/>
@@ -208,6 +209,9 @@ COEX Grand Ballroom)
 - [데이터 사이언스 스쿨](https://datascienceschool.net/)  <br/><br/>
 - [Index of /wp-content/uploads](http://www.openwith.net/wp-content/uploads/) (파이썬 강의자료)
 - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
+- [Qt | Cross-platform software development for embedded & desktop](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
+    - [korone.net programming site](https://www.korone.net/)
+    - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
 
 
  <br/><br/>
