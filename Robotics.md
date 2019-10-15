@@ -18,7 +18,7 @@ Robotics
     - [Documentation - ROS Wiki](http://wiki.ros.org/)
     - [ROSCon 2019](https://roscon.ros.org/2019/)
 - [Open Robotics](https://www.openrobotics.org/)
-- [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)
+- [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)  <br/><br/>
 
 
  <br/><br/>
@@ -35,6 +35,8 @@ Robotics
 - [Robomakery](https://www.robomakery.com/) (Open source robots for people with mobility impairments)
     - [Robomakery](https://github.com/robomakery) (Github)
 - [Apex.AI | Autonomous Driving Software](https://www.apex.ai/)
+- [Connected Robotics Inc.(English Site)](https://connected-robotics.com/)
+- [로보스타](http://www.robostar.co.kr/kr/index.do)  <br/><br/>
 
 
  <br/><br/>
