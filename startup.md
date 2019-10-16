@@ -45,6 +45,7 @@ Startup References
 - [D.CAMP – 은행권청년창업재단](https://dcamp.kr/)
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
 - [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
+- [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
 
 
  <br/><br/>
@@ -78,6 +79,13 @@ Startup References
 - [원티드 - 지인 추천하고 보상금 받기](https://www.wanted.co.kr/)
 - [채용보기 | 더팀스(THE TEAMS)](https://www.theteams.kr/recruit)
 - [AngelList - Where the world meets startups](https://angel.co/)
+
+
+ <br/><br/>
+
+
+### Conference & Meetup
+- [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
 
 
  <br/><br/>
