@@ -35,6 +35,8 @@ C# Study
 - [[C#] 상속 관계에 있는 클래스의 형변환 ( is , as ) :: IT's me](https://grayt.tistory.com/99)
 - [Tuple types - C# Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tuples)
     - [Tuple<T1,T2>.Item1 Property (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-2.item1?view=netframework-4.8)
+- [비동기 프로그래밍 - 4.1 async / await (about async / await) : 네이버블로그](https://blog.naver.com/vactorman/220340600110)
+- [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 
 
  <br/><br/>
