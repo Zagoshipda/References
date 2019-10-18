@@ -76,6 +76,9 @@ Today I Learned
 - [ Total Fix! ](https://slic.tistory.com/1436) ([ Windows 10 ] 파일 및 폴더를 대소 문자 구분하여 사용하는 방법)
 - [Debugging](https://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state) (atom --clear-window-state)
  - [돌돌돌돌](http://egloos.zum.com/ttti07/v/3886093) (Qt 입문자들을 위한 배경지식)
+ - [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
+ - [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
+ - [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
  
 
  <br/><br/>
