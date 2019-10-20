@@ -354,6 +354,10 @@ COEX Grand Ballroom)
 - [Ontology | The proven global enterprise blockchain](https://ont.io/)
     - [OntologyNetwork – Medium](https://medium.com/ontologynetwork)
 - [헥스 색상 스킴, 챠트, 팔레트 및 변환](https://encycolorpedia.kr/) (encycolorpedia) <br/><br/>
+- [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
+- [fastlane - App automation done right](https://fastlane.tools/)
+    - [fastlane docs](https://docs.fastlane.tools/)
+- [Jenkins](https://jenkins.io/) (open source automation server)
 
 
  <br/><br/>
