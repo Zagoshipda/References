@@ -73,6 +73,7 @@ How to Git & Github
 - [[Git] 커밋 히스토리 수정하기 :: PlanB의 백엔드 엔지니어링](https://planbs.tistory.com/entry/Git-%EC%BB%A4%EB%B0%8B-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0) (git rebase -i HEAD~n)
 - [깃(git) - 특정 커밋의 수정 내용 확인하기](https://awesometic.tistory.com/179) (git show \<ref\>)
 - [git reflog | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
+- [Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) (trailing whitespace)
  
 
  <br/><br/>
