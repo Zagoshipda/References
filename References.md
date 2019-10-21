@@ -358,6 +358,7 @@ COEX Grand Ballroom)
 - [fastlane - App automation done right](https://fastlane.tools/)
     - [fastlane docs](https://docs.fastlane.tools/)
 - [Jenkins](https://jenkins.io/) (open source automation server)
+- [jira](https://www.atlassian.com/ko/software/confluence)
 
 
  <br/><br/>
