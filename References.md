@@ -45,6 +45,7 @@ References
 - [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
 - [Riot Games Technology](https://technology.riotgames.com/)
 - [Engineering](https://engineering.grab.com/) (Grab)
+- [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)  <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
@@ -150,7 +151,6 @@ COEX Grand Ballroom)
 - [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 - [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
-- [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
 - [http://www.robotworld.or.kr/wp/](2019 로보월드 | 스마트인더스트리, 스마트라이프!)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
@@ -358,7 +358,8 @@ COEX Grand Ballroom)
 - [fastlane - App automation done right](https://fastlane.tools/)
     - [fastlane docs](https://docs.fastlane.tools/)
 - [Jenkins](https://jenkins.io/) (open source automation server)
-- [jira](https://www.atlassian.com/ko/software/confluence)
+- [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
+- [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 
 
  <br/><br/>
