@@ -75,12 +75,13 @@ Today I Learned
 - [fsutil setCaseSensitiveInfo · Issue #977 · MicrosoftDocs/windowsserverdocs](https://github.com/MicrosoftDocs/windowsserverdocs/issues/977) (fsutil.exe file setCaseSensitiveInfo <path> enable)
 - [ Total Fix! ](https://slic.tistory.com/1436) ([ Windows 10 ] 파일 및 폴더를 대소 문자 구분하여 사용하는 방법)
 - [Debugging](https://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state) (atom --clear-window-state)
- - [돌돌돌돌](http://egloos.zum.com/ttti07/v/3886093) (Qt 입문자들을 위한 배경지식)
- - [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
- - [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
- - [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
- - [라즈](https://m.blog.naver.com/zeta0807/221269996160)
-<br/>
+- [돌돌돌돌](http://egloos.zum.com/ttti07/v/3886093) (Qt 입문자들을 위한 배경지식)
+- [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
+- [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
+- [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
+- [라즈베리파이 두 대로 파이썬을 이용하여 소켓 통신을 해보자 : 네이버블로그](https://blog.naver.com/zeta0807/221269996160)
+- [개발자라면 알아야 할 데이터 통합 플랫폼의 정의와 유형 - ITWorld Korea](http://www.itworld.co.kr/t/69500/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/133191)
+ 
 
  <br/><br/>
 
