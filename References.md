@@ -76,6 +76,8 @@ References
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
 - [ Watcha, Inc.](https://team.watcha.com/)
 - [NC 공식 블로그](https://blog.ncsoft.com/)
+- [Bixby Developer Portal](https://bixby.developer.samsung.com/)
+- [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
 
 
  <br/><br/>
@@ -157,6 +159,7 @@ COEX Grand Ballroom)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
 - [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
 - [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
+- [삼성 오픈소스 컨퍼런스](https://www.soscon.net/)
 
 
 <br><br>
@@ -360,6 +363,8 @@ COEX Grand Ballroom)
 - [Jenkins](https://jenkins.io/) (open source automation server)
 - [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
+- [One-Stop Corporate Event Management Software | EventXtra](https://eventxtra.com/)
+- [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
 
 
  <br/><br/>
