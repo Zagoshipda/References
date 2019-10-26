@@ -39,6 +39,7 @@ C# Study
 - [Asynchronous programming in C# | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/)
 - [Task Class (System.Threading.Tasks) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8)  <br/><br/>
 - [namespace:: hyunjin :: [C# 기초문법] 11. 쓰레드(Thread)와 테스크(Task)](https://nshj.tistory.com/entry/C-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95-11-%EC%93%B0%EB%A0%88%EB%93%9CThread%EC%99%80-%ED%85%8C%EC%8A%A4%ED%81%ACTask)
+- [[C#] 얕은 복사와 깊은 복사](https://debuglog.tistory.com/126)
 
 
  <br/><br/>
@@ -53,6 +54,7 @@ C# Study
 
 
 ## WPF : Windows Presentation Foundation
+- [I will be a Programming Artist :: 'WPF' 카테고리의 글 목록](https://dotnetmvp.tistory.com/category/WPF) (WPF 기초 강좌)
 - [What is WPF? - Visual Studio | Microsoft Docs](https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019)
 - [Tutorial: Create your first WPF application in Visual Studio 2019 - .NET Framework | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/getting-started/walkthrough-my-first-wpf-desktop-application)
 - [Advanced (Windows Presentation Foundation) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/advanced/?view=netframework-4.8)
@@ -61,7 +63,6 @@ C# Study
 - [[WPF]WPF Layout Control 종류 :: JENEMIA](https://jenemia.tistory.com/170)
 - [WPF Layout (Panels) - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-basic-466e5d30f774) (Grid : 테이블 형태의 레이아웃을 제공하는 클래스)
 - [WPF Layout : Alignment, Margin, Padding - 김정환(John.Kim) - Medium](https://medium.com/@Rando209/wpf-layout-alignment-margin-padding-b142d730d755)  <br/><br/>
-- [I will be a Programming Artist :: 04. [WPF 기초 강좌] WPF 시작하기 4](https://dotnetmvp.tistory.com/25)
 - [Data Binding (WPF) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/data/data-binding-wpf)
     - [Data binding in WPF - .NET Desktop | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/data/data-binding-overview)
 - [WPF, 일레븐의 공작소 : 네이버 블로그](http://blog.naver.com/PostList.nhn?blogId=xitechnology&from=postList&categoryNo=11) (Visual Studio 와 Blend 그리고 WPF)
@@ -90,7 +91,15 @@ C# Study
     - [How to: Create a StackPanel | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-create-a-stackpanel)
     - [StackPanel.Orientation Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.stackpanel.orientation?view=netframework-4.8)
     - [How to: Horizontally or Vertically Align Content in a StackPanel | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/framework/wpf/controls/how-to-horizontally-or-vertically-align-content-in-a-stackpanel)
-- [ComboBox 의 SelectedValue 와 SelectedItem 의 성능적 차이 :: isfry's blog](https://isfry.tistory.com/113)
+- [ComboBox Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.combobox?view=netframework-4.8)
+    - [ComboBox 의 SelectedValue 와 SelectedItem 의 성능적 차이 :: isfry's blog](https://isfry.tistory.com/113)
+    - [c# - How to change WPF ComboBox SelectedText BackGround Color? - Stack Overflow](https://stackoverflow.com/questions/9905919/how-to-change-wpf-combobox-selectedtext-background-color)
+    - [wpf - Change color of combobox(title box of combo box in which arrow button is displayed) - Stack Overflow](https://stackoverflow.com/questions/22653295/change-color-of-comboboxtitle-box-of-combo-box-in-which-arrow-button-is-display)
+    - [c# - WPF Combobox DefaultValue (Please Select) - Stack Overflow](https://stackoverflow.com/questions/23130763/wpf-combobox-defaultvalue-please-select)
+    - [c# - Setting a Default value in XAML in combobox - Stack Overflow](https://stackoverflow.com/questions/21023698/setting-a-default-value-in-xaml-in-combobox/21023798)
+    - [WPF: Change ComboBox arrow button color in XAML - Stack Overflow](https://stackoverflow.com/questions/31320913/wpf-change-combobox-arrow-button-color-in-xaml)
+    - [c# - Set default value in WPF ComboBox - Stack Overflow](https://stackoverflow.com/questions/21535747/set-default-value-in-wpf-combobox)
+    - [WPF Change ComboBox Button Color](https://social.msdn.microsoft.com/Forums/vstudio/en-US/80d80223-ecff-47e3-b152-8fcffaee09da/wpf-change-combobox-button-color?forum=wpf)
 - [[WPF] x:Name 과 Name 의 차이 - 신동화의 블로그](https://springisover.tistory.com/14)
 - [INotifyPropertyChanged Interface (System.ComponentModel) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.componentmodel.inotifypropertychanged?view=netframework-4.8) (Notifies clients that a property value has changed.)
     - [INotifyPropertyChanged 구현체를 간단히 사용하기 - 문제 : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=vactorman&logNo=220486213754)
@@ -98,7 +107,13 @@ C# Study
     - [(c#학원)WPF Command 패턴, 데이터.. : 네이버블로그](https://blog.naver.com/julymorning4/221424213905)
 - [ListBox Class (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.listbox?view=netframework-4.8) (Contains a list of selectable items.)
 - [ItemsControl.ItemsPanel Property (System.Windows.Controls) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.itemscontrol.itemspanel?view=netframework-4.8)
-
+- [xaml - Let TextBox stretch to fill width in StackPanel - Stack Overflow](https://stackoverflow.com/questions/11137884/let-textbox-stretch-to-fill-width-in-stackpanel)
+- [xaml - How can you bind an Indexed property to a control in WPF - Stack Overflow](https://stackoverflow.com/questions/1671376/how-can-you-bind-an-indexed-property-to-a-control-in-wpf)
+- [Selector.SelectedIndex Property (System.Windows.Controls.Primitives) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.windows.controls.primitives.selector.selectedindex?view=netframework-4.8)
+- [c# - PropertyChanged for indexer property - Stack Overflow](https://stackoverflow.com/questions/657675/propertychanged-for-indexer-property)
+- [Binding to Indexers – I really don't think, but I think I'm right](https://blogs.msdn.microsoft.com/xtof/2007/09/28/binding-to-indexers/)
+- [c# - WPF INotifyPropertyChanged not updating on an array property? - Stack Overflow](https://stackoverflow.com/questions/1602090/wpf-inotifypropertychanged-not-updating-on-an-array-property)
+- [Binding to a 2D-array in WPF | Nico Schertler](https://nicoschertler.wordpress.com/2014/05/22/binding-to-a-2d-array-in-wpf/)
 
 
  <br/><br/>
