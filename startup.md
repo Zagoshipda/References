@@ -29,6 +29,7 @@ Startup References
 - [빅뱅엔젤스(주)](http://www.bigbangangels.com/)
 - [Kakao Ventures | Copilots of startups](http://www.kakao.vc/)
 - [Bluepoint Partners](http://bluepoint.vc/)
+    - [bluepoint | 동창 프로그램 바로가기](https://www.bppbluewave.com/)
 - [SoftBank Ventures Asia](http://www.softbank.co.kr/en/)
 - [DREAMPLUS](https://dreamplus.io/)
 - [Altos Ventures](https://altos.vc/)
@@ -46,6 +47,7 @@ Startup References
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
 - [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
 - [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
+- [The Ventures](http://theventures.co/)
 
 
  <br/><br/>
@@ -86,6 +88,7 @@ Startup References
 
 ### Conference & Meetup
 - [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
+- [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/)
 
 
  <br/><br/>
