@@ -286,6 +286,7 @@ COEX Grand Ballroom)
     - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
 - [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)
 - [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
+- [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
 
 
  <br><br>
@@ -367,7 +368,8 @@ COEX Grand Ballroom)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
 - [Snippets - Web Designer Wall](https://webdesignerwall.com/)
 - [CodeSandbox: Online Code Editor Tailored for Web Application Development](https://codesandbox.io/)
-- []()  <br/><br/>
+- [배민 떡볶이 마스터즈](https://topokkimasters.baemin.com/)  <br/><br/>
+- [The Writing Mentor® is an Easy-to-Use Reflection and Revision Tool for Academic Writing](https://mentormywriting.org/)
 
 
  <br/><br/>
