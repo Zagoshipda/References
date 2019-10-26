@@ -50,6 +50,9 @@ Robotics
 - [[Python] 라즈베리 파이의 GPIO를 이용해 스위치/LED 제어하기 (2)](https://junolefou.tistory.com/5)
 - [Raspberry pi 에서 python으로 GPIO 사용하기 - 도구의인간 메이커스 위키](http://lhdangerous.godohosting.com/wiki/index.php/Raspberry_pi_%EC%97%90%EC%84%9C_python%EC%9C%BC%EB%A1%9C_GPIO_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [python - Why cleanup the GPIO pins? - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/34363/why-cleanup-the-gpio-pins)
+- [JPL's Open Source Build-It-Yourself Rover](https://opensourcerover.jpl.nasa.gov/#!/signup)
+    - [nasa-jpl/open-source-rover: A build-it-yourself, 6-wheel rover based on the rovers on Mars!](https://github.com/nasa-jpl/open-source-rover)
+- [What is self collide? and what is difference between visual and collision? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/304171/what-is-self-collide-and-what-is-difference-between-visual-and-collision/)
 
 
  <br/><br/>
@@ -59,6 +62,7 @@ Robotics
 - [구글은 왜 로봇 회사를 소프트뱅크에 팔까…글로벌 기업들의 로봇 M&A 전략 - 중앙일보](https://news.joins.com/article/21660475)
 - [[로봇 갑론을박①]이경전 교수,  "휴먼로봇시대는 멀었다" : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&oid=008&aid=0003323614&sid1=001)
 - [Why Facebook Is Training Robots To Think [Exclusive Interview]](https://www.forbes.com/sites/cognitiveworld/2019/09/03/exclusive-interview-why-facebook-is-training-robots-to-think/#23aef5f312c2)
+- [Learning Dexterity](https://openai.com/blog/learning-dexterity/) (human-like robot hand to manipulate physical objects with unprecedented dexterity)
 
 
  <br/><br/>
