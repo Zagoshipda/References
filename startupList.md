@@ -177,6 +177,8 @@ Startup lists
 - [아트맵](http://www.art-map.co.kr/) : 미술시장 플랫폼
     - [아트맵](https://artmap.modoo.at/) : 취향 분석 데이터 기반 미술 큐레이션 서비스
 - [Pluto | Optimize Your Research](https://pluto.network/) : 학술 커뮤니케이션 플랫폼
+- [셀렉트스타 SelectStarㅣ AI Data Service](https://www.selectstar.ai/) : AI
+- [퍼퓸라이퍼](http://perfumelifer.co.kr/) : 향수
 
 
  <br/><br/>
