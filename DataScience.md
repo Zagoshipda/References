@@ -51,6 +51,8 @@ Data Science : AI & ML & DL & RL
 - [Home - Andrew NgAndrew Ng](https://www.andrewng.org/)
 - [Advanced NLP with spaCy · A free online course](https://course.spacy.io/) 
 - [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
+- [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
+    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165&fbclid=IwAR2MLlbIExwcmB5OUJrjqeSXarqoKRQw4VzldEzTuXkWMVGLNqflU5l-k3k)
 
 
  <br><br>
@@ -67,6 +69,7 @@ Data Science : AI & ML & DL & RL
     - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit)
     - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit#slide=id.p)
     - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit)
+- [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
 
 
  <br><br>
