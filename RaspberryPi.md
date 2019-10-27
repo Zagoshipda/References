@@ -30,6 +30,10 @@ References for Raspberry Pi
 - [[라즈베리파이 강좌] I2C 통신하기 (DS1.. : 네이버블로그](https://blog.naver.com/namunny/220405198422)
 - [[아두이노 강좌] 29. I2C 통신 (1) .. : 네이버블로그](https://blog.naver.com/yuyyulee/220323559541)  <br/><br/>
 - [[파이썬] 라즈베리파이와 PC사이 소켓통신 : 네이버 블로그](https://blog.naver.com/cosmosjs/220714273636)
+- [pikamon studio](http://egloos.zum.com/lunar456th/v/6363346) (라즈베리파이 OS 설치 및 유선 랜 ssh 연결 방법)
+- [[라즈베리파이 강좌] 모니터 없이 시작하기 - 3. 직접 랜선으로 연결하는 방법](http://www.makeshare.org/bbs/board.php?bo_table=raspberrypi&wr_id=75&page=4)
+- [Raspberry Pi 3 처음 사용하기 :: 멈춤보단 천천히라도](https://webnautes.tistory.com/899?category=759152)
+- [랜선으로 PC와 라즈베리 파이 직접 연결하기 | 어떤 로그](https://acertainlog.wordpress.com/2015/05/15/pc-rpi-direct-connection/)
 
 
  <br/><br/>
