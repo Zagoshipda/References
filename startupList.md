@@ -179,6 +179,9 @@ Startup lists
 - [Pluto | Optimize Your Research](https://pluto.network/) : 학술 커뮤니케이션 플랫폼
 - [셀렉트스타 SelectStarㅣ AI Data Service](https://www.selectstar.ai/) : AI
 - [퍼퓸라이퍼](http://perfumelifer.co.kr/) : 향수
+- [도시를 누비다, 올룰로 | olulo](https://olulo.io/) : 전동킥보드 공유서비스 KICKGOING
+- [새로운 취미박스, 하비인더박스](http://hobbyinthebox.co.kr/) : 취미 공유 서비스
+- [학생독립만세](https://www.hakdokman.com/) : 
 
 
  <br/><br/>
