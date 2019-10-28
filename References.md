@@ -22,6 +22,7 @@ References
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
 - [Apple Developer](https://developer.apple.com/)
 - [Google Developers](https://developers.google.com/)
+- [Google AI](https://ai.google/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
@@ -370,6 +371,10 @@ COEX Grand Ballroom)
 - [CodeSandbox: Online Code Editor Tailored for Web Application Development](https://codesandbox.io/)
 - [배민 떡볶이 마스터즈](https://topokkimasters.baemin.com/)  <br/><br/>
 - [The Writing Mentor® is an Easy-to-Use Reflection and Revision Tool for Academic Writing](https://mentormywriting.org/)
+- [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
+    - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
+- [Kubeflow](https://www.kubeflow.org/)
+- [월간서른](http://www.monthly30.com/)
 
 
  <br/><br/>
