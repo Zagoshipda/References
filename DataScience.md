@@ -52,7 +52,9 @@ Data Science : AI & ML & DL & RL
 - [Advanced NLP with spaCy · A free online course](https://course.spacy.io/) 
 - [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
-    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165&fbclid=IwAR2MLlbIExwcmB5OUJrjqeSXarqoKRQw4VzldEzTuXkWMVGLNqflU5l-k3k)
+    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165&fbclid=IwAR2MLlbIExwcmB5OUJrjqeSXarqoKRQw4VzldEzTuXkWMVGLNqflU5l-k3k)  <br/><br/>
+- [PyTorch](https://pytorch.org/)
+- [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
 
 
  <br><br>
@@ -70,6 +72,8 @@ Data Science : AI & ML & DL & RL
     - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit#slide=id.p)
     - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit)
 - [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
+- [Machine Learning for Trading | Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Artificial Intelligence for Trading by WorldQuant)  <br><br>
+- [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
 
 
  <br><br>
