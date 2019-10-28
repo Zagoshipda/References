@@ -40,6 +40,7 @@ References
 - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
+- [IBM Developer – IBM Developer](https://developer.ibm.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 - [Uber Engineering Blog](https://eng.uber.com/)
@@ -265,6 +266,7 @@ COEX Grand Ballroom)
 - [Hoya012's Research Blog](https://hoya012.github.io/index.html) (이호성, Conference paper reviews)
 - [Changh95 - Blogs](https://www.notion.so/Changh95-Blogs-168d026a772648b3b864556a40415370) (장형기)
     - [SLAM 좀 공부해볼까? (읽기 좋은 자료 + 논문 추천)](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)
+- [J & J - 정성태의 닷넷 이야기](https://www.sysnet.pe.kr/)
 
 
  <br/><br/>
