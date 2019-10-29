@@ -61,6 +61,7 @@ References
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
 - [NSML](https://ai.nsml.navercorp.com/intro) (Naver Smart Machine Learning)
+- [NAVER LABS DATASET](https://hdmap.naverlabs.com/)
 - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)  <br/><br/>
 - [SK Telecom AI Center](https://www.skt.ai/)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
