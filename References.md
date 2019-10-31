@@ -19,6 +19,7 @@ References
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
 - [The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.](https://octoverse.github.com/)
+- [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
 - [Apple Developer](https://developer.apple.com/)
 - [Google Developers](https://developers.google.com/)
@@ -41,7 +42,8 @@ References
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
 - [IBM Developer – IBM Developer](https://developer.ibm.com/)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials) 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozila Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials)
+- [PayPal Engineering – Medium](https://medium.com/paypal-engineering)
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 - [Uber Engineering Blog](https://eng.uber.com/)
 - [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
@@ -75,6 +77,7 @@ References
 - [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)  <br/><br/>
 - [티몬의 개발이야기 : 네이버 블로그](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev)
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
+- [레진 기술 블로그](https://tech.lezhin.com/)
 - [DAILYHOTEL](https://dailyhotel.io/)
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
 - [ Watcha, Inc.](https://team.watcha.com/)
@@ -132,6 +135,9 @@ References
 - [First Contributions](https://firstcontributions.github.io/) (Make your first open source contribution in 5 minutes)
 - [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
 - [KDE Community Home - KDE.org](https://kde.org/)
+- [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)
+- [NHN FORWARD 2019](https://forward.nhn.com/)
+- [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
 
 
 <br/><br/>
@@ -268,6 +274,7 @@ COEX Grand Ballroom)
 - [Changh95 - Blogs](https://www.notion.so/Changh95-Blogs-168d026a772648b3b864556a40415370) (장형기)
     - [SLAM 좀 공부해볼까? (읽기 좋은 자료 + 논문 추천)](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)
 - [J & J - 정성태의 닷넷 이야기](https://www.sysnet.pe.kr/)
+- [고재웅 블로그](http://jwgo.kr/)
 
 
  <br/><br/>
