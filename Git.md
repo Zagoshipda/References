@@ -74,7 +74,9 @@ How to Git & Github
 - [깃(git) - 특정 커밋의 수정 내용 확인하기](https://awesometic.tistory.com/179) (git show \<ref\>)
 - [git reflog | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/rewriting-history/git-reflog)
 - [Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) (trailing whitespace)
- 
+- [git - How to change the commit author for one specific commit? - Stack Overflow](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit)
+- [git commit author 변경 (커밋 작성자 변경하기) - MadPlay's MadLife.](https://madplay.github.io/post/change-git-author-name)
+
 
  <br/><br/>
   
@@ -111,7 +113,10 @@ How to Git & Github
 - [git pull --rebase 를 쓰자](https://jusths.tistory.com/60)
 - [리모트 저장소 이름변경 및 삭제 · Git, 분산버전 관리시스템](https://mylko72.gitbooks.io/git/content/remote/remove.html) (git remote rename \<current name\> \<new name\>)  <br/><br/>
 - [git the requested URL returend error : 403 해결방법](https://cheonjoosung.github.io/git/2017/07/10/it_git_permissionerror.html)
- 
+- [[Error][Github] git push Permission denied (publickey).](https://withhamit.tistory.com/177) (git push https://\<username\>:\<password\>@github.com/\<repositoryName\>.git)
+- [MAC ) git 문제 Permission denied (publickey).](https://zeddios.tistory.com/120)
+- [[GITHUB] Slack 연동](https://withhamit.tistory.com/72?category=779255)
+
 
  <br/><br/>
 
