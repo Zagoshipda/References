@@ -55,6 +55,10 @@ Data Science : AI & ML & DL & RL
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165&fbclid=IwAR2MLlbIExwcmB5OUJrjqeSXarqoKRQw4VzldEzTuXkWMVGLNqflU5l-k3k)  <br/><br/>
 - [PyTorch](https://pytorch.org/)
 - [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
+    - [TensorFlow Hub](https://tfhub.dev/)
+    - [TensorBoard.dev](https://tensorboard.dev/)
+- [Clova AI Research Blog](https://clova-ai.blog/)
+    - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (ICCV 2019 Oral) – Clova AI Research Blog](https://clova-ai.blog/2019/09/04/what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis-iccv-2019-oral/)
 
 
  <br><br>
