@@ -383,8 +383,10 @@ COEX Grand Ballroom)
 - [The Writing Mentor® is an Easy-to-Use Reflection and Revision Tool for Academic Writing](https://mentormywriting.org/)
 - [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
-- [Kubeflow](https://www.kubeflow.org/)
+    - [Kubeflow](https://www.kubeflow.org/)
 - [월간서른](http://www.monthly30.com/)
+- [Image distortion online - IMG online](https://www.imgonline.com.ua/eng/picture-distortion.php)
+- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) (C++ template library for linear algebra)
 
 
  <br/><br/>
