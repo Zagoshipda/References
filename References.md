@@ -387,6 +387,7 @@ COEX Grand Ballroom)
 - [월간서른](http://www.monthly30.com/)
 - [Image distortion online - IMG online](https://www.imgonline.com.ua/eng/picture-distortion.php)
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) (C++ template library for linear algebra)
+- [Loss Landscape | A.I deep learning explorations of morphology & dynamics](https://losslandscape.com/)
 
 
  <br/><br/>
