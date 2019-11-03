@@ -1,12 +1,6 @@
 Today I Learned 
 ==========
 
- <br/><br/>
-
-
-### References
-- [Home | Robots.net](https://robots.net/)
-
 
  <br/><br/>
 
@@ -76,12 +70,18 @@ Today I Learned
 - [ Total Fix! ](https://slic.tistory.com/1436) ([ Windows 10 ] 파일 및 폴더를 대소 문자 구분하여 사용하는 방법)
 - [Debugging](https://flight-manual.atom.io/hacking-atom/sections/debugging/#clearing-saved-state) (atom --clear-window-state)
 - [돌돌돌돌](http://egloos.zum.com/ttti07/v/3886093) (Qt 입문자들을 위한 배경지식)
-- [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
-- [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
-- [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
+- [기본을 알자.... 소켓 프로그래밍 기본...](http://blog.daum.net/_blog/BlogTypeView.do?blogid=03orL&articleno=8190269)
+    - [tcp - what happens when I write data to a blocking socket, faster than the other side reads? - Stack Overflow](https://stackoverflow.com/questions/14241235/what-happens-when-i-write-data-to-a-blocking-socket-faster-than-the-other-side)
+    - [networking - How will a socket act when the data is sent faster than it can be processed? - Stack Overflow](https://stackoverflow.com/questions/30420835/how-will-a-socket-act-when-the-data-is-sent-faster-than-it-can-be-processed)
+    - [Blocking vs. non-blocking sockets](https://www.scottklement.com/rpg/socktut/nonblocking.html)
 - [라즈베리파이 두 대로 파이썬을 이용하여 소켓 통신을 해보자 : 네이버블로그](https://blog.naver.com/zeta0807/221269996160)
-- [개발자라면 알아야 할 데이터 통합 플랫폼의 정의와 유형 - ITWorld Korea](http://www.itworld.co.kr/t/69500/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/133191)
- 
+- [개발자라면 알아야 할 데이터 통합 플랫폼의 정의와 유형 - ITWorld Korea](http://www.itworld.co.kr/t/69500/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/133191)  <br/><br/>
+- [[Windows]윈도우의 내부 구조 : 네이버 블로그](https://blog.naver.com/bestheroz/67372743)
+- [All about Linux 매거진](https://brunch.co.kr/magazine/linux)
+- [[Make 튜토리얼] Makefile 예제와 작성 방법 및 기본 패턴 - ECE - TUWLAB](https://www.tuwlab.com/ece/27193)
+    - [[CMake 튜토리얼] 1. CMake 소개와 예제, 내부 동작 원리 - ECE - TUWLAB](https://www.tuwlab.com/ece/27234)
+    - [CMake 란? 사용 예제 : 네이버 블로그](https://blog.naver.com/ekbae98/221321840751)
+
 
  <br/><br/>
 
@@ -91,6 +91,7 @@ Today I Learned
 - [PINDUODUO - a Close Look at the Fastest Growing E-commerce App in China, 2018.08 (WalkTheChat)](https://www.slideshare.net/truonghang297/pinduoduo-a-close-look-at-the-fastest-growing-ecommerce-app-in-china-201808-walkthechat)
 - [보이저엑스에서의 인턴생활 - Jiseop Han - Medium](https://medium.com/@jiseop_han/%EB%B3%B4%EC%9D%B4%EC%A0%80%EC%97%91%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%83%9D%ED%99%9C-f5ccb8eeabc8)
 - [사회 초년생이 바라본 레이니스트 - Banksalad Tech - Medium](https://medium.com/rainist-engineering/reviewing-rainist-by-newcomer-e2ecbf9ad812)
+- [쇼핑몰도 없이 아마존 대항마로 부상한 비결 - T Times](http://www.ttimes.co.kr/view.html?no=2019091618157718260)
 
 
  <br/><br/>
