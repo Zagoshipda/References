@@ -19,6 +19,8 @@ Robotics
     - [ROSCon 2019](https://roscon.ros.org/2019/)
 - [Open Robotics](https://www.openrobotics.org/)
 - [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)  <br/><br/>
+- [Home | Robots.net](https://robots.net/)
+- [PROBABILISTIC-ROBOTICS.ORG](http://www.probabilistic-robotics.org/) (Book)
 
 
  <br/><br/>
@@ -52,7 +54,13 @@ Robotics
 - [python - Why cleanup the GPIO pins? - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/34363/why-cleanup-the-gpio-pins)
 - [JPL's Open Source Build-It-Yourself Rover](https://opensourcerover.jpl.nasa.gov/#!/signup)
     - [nasa-jpl/open-source-rover: A build-it-yourself, 6-wheel rover based on the rovers on Mars!](https://github.com/nasa-jpl/open-source-rover)
-- [What is self collide? and what is difference between visual and collision? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/304171/what-is-self-collide-and-what-is-difference-between-visual-and-collision/)
+- [What is self collide? and what is difference between visual and collision? - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/304171/what-is-self-collide-and-what-is-difference-between-visual-and-collision/)  <br/><br/>
+- [칼만 필터 기초 - 알고리즘](https://lovely-embedded.tistory.com/15)
+    - [PinkWink :: 칼만 필터를 이용하여 위치에서 속도 구하는 예제 - 김성필 저, 칼만필터의 이해 -](https://pinkwink.kr/781)
+    - [Drone's DIYer :: 칼만 필터(Kalman filter)](https://sharehobby.tistory.com/entry/%EC%B9%BC%EB%A7%8C-%ED%95%84%ED%84%B0Kalman-filter1)
+    - [[SLAM] Kalman filter and EKF(Extended Kalman Filter) · Jinyong](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
+    - [slam04-ekf.pptx - slam04-ekf.pdf](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam04-ekf.pdf) (Robot Mapping - Extended Kalman Filter)
+    - [Kalman Filtering Tutorial - kleeman_kalman_basics.pdf](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf) (Understanding and ApplyingKalman Filtering)
 
 
  <br/><br/>
