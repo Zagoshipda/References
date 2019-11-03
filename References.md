@@ -84,6 +84,7 @@ References
 - [NC 공식 블로그](https://blog.ncsoft.com/)
 - [Bixby Developer Portal](https://bixby.developer.samsung.com/)
 - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
+- [XEHub – Medium](https://medium.com/xehub)  <br/><br/>
 
 
  <br/><br/>
@@ -136,8 +137,8 @@ References
 - [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
 - [KDE Community Home - KDE.org](https://kde.org/)
 - [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)
-- [NHN FORWARD 2019](https://forward.nhn.com/)
-- [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
+- [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
+    - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
 
 
 <br/><br/>
@@ -171,6 +172,8 @@ COEX Grand Ballroom)
 - [삼성 오픈소스 컨퍼런스](https://www.soscon.net/)
 - [삼성SDS Techtonic 2019](https://www.samsungsds.com/global/ko/about/event/techtonic2019.html#p)
 - [SDF2019 - 변화의 시작 : 이게 정말 내 생각일까?](http://www.sdf.or.kr/2019/?lang=kr)
+- [NHN FORWARD 2019](https://forward.nhn.com/)
+- [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
 
 
 <br><br>
@@ -277,6 +280,7 @@ COEX Grand Ballroom)
     - [SLAM 좀 공부해볼까? (읽기 좋은 자료 + 논문 추천)](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)
 - [J & J - 정성태의 닷넷 이야기](https://www.sysnet.pe.kr/)
 - [고재웅 블로그](http://jwgo.kr/)
+- [TUWLAB - Electronics, Computer & Embedded Laboratory](https://www.tuwlab.com/) (이승준)
 
 
  <br/><br/>
@@ -392,6 +396,9 @@ COEX Grand Ballroom)
 - [Image distortion online - IMG online](https://www.imgonline.com.ua/eng/picture-distortion.php)
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) (C++ template library for linear algebra)
 - [Loss Landscape | A.I deep learning explorations of morphology & dynamics](https://losslandscape.com/)
+- [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
+    - [XEHub](https://www.xehub.io/)
+    - [XpressEngine](https://github.com/xpressengine) (Github)
 
 
  <br/><br/>
