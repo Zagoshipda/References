@@ -169,6 +169,8 @@ COEX Grand Ballroom)
 - [2019 해커톤 SPEECH](https://campaign.naver.com/aihackathon_speech/) (세번째 네이버 AI 해커톤, AI Speech)
 - [AWSome Day 온라인 컨퍼런스 ](https://aws.amazon.com/ko/events/awsome-day/awsome-day-online/)
 - [삼성 오픈소스 컨퍼런스](https://www.soscon.net/)
+- [삼성SDS Techtonic 2019](https://www.samsungsds.com/global/ko/about/event/techtonic2019.html#p)
+- [SDF2019 - 변화의 시작 : 이게 정말 내 생각일까?](http://www.sdf.or.kr/2019/?lang=kr)
 
 
 <br><br>
@@ -299,6 +301,7 @@ COEX Grand Ballroom)
 - [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 - [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
 - [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
+- [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
 
 
  <br><br>
