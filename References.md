@@ -298,6 +298,7 @@ COEX Grand Ballroom)
 - [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)
 - [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 - [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
+- [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
 
 
  <br><br>
