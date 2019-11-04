@@ -49,7 +49,8 @@ Startup References
 - [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
 - [The Ventures](http://theventures.co/)
 - [IMM Investment](http://imm.co.kr/)
-
+- [Company B](https://www.companyb.kr/) (Company Builder)
+ 
 
  <br/><br/>
  
@@ -73,6 +74,7 @@ Startup References
 - [스프링살롱 - YouTube](https://www.youtube.com/channel/UCgAfjD0SqrpAROcu2z6aAng/videos)
 - [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 - [브랜드 디자인 | 가지공장 | 대한민국](https://www.eggplantfactory.co.kr/)
+- [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
 
 
  <br/><br/>
