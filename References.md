@@ -21,24 +21,28 @@ References
 - [The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.](https://octoverse.github.com/)
 - [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
 - [GitHub Developer](https://developer.github.com/)  <br/><br/>
-- [Apple Developer](https://developer.apple.com/)
-- [Google Developers](https://developers.google.com/)
+- [Google Code](https://code.google.com/)
+    - [Google Developers](https://developers.google.com/)
+    - [Google Open Source – opensource.google.com](https://opensource.google/)
+    - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/)
+        - [word2vec](https://code.google.com/archive/p/word2vec/)
 - [Google AI](https://ai.google/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
 - [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
 - [Qwiklabs - Hands-On Cloud Training](https://google.qwiklabs.com/)
-- [Android Developers](https://developer.android.com/)
+- [Android Developers](https://developer.android.com/)  <br/><br/>
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
 - [Facebook AI](https://ai.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
-- [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)  <br/><br/>
+- [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
+- [Apple Developer](https://developer.apple.com/)
 - [NVIDIA Developer](https://developer.nvidia.com/)
-- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
+- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)  <br/><br/>
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
 - [IBM Developer – IBM Developer](https://developer.ibm.com/)
@@ -48,6 +52,7 @@ References
 - [Uber Engineering Blog](https://eng.uber.com/)
 - [Netflix TechBlog – Medium](https://medium.com/netflix-techblog)
 - [Riot Games Technology](https://technology.riotgames.com/)
+- [Disney Open Source](https://disney.github.io/)
 - [Engineering](https://engineering.grab.com/) (Grab)
 - [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)  <br/><br/>
@@ -281,6 +286,9 @@ COEX Grand Ballroom)
 - [J & J - 정성태의 닷넷 이야기](https://www.sysnet.pe.kr/)
 - [고재웅 블로그](http://jwgo.kr/)
 - [TUWLAB - Electronics, Computer & Embedded Laboratory](https://www.tuwlab.com/) (이승준)
+- [LOVIT x DATA SCIENCE](https://lovit.github.io/) (김현중)
+- [[정보통신기술용어해설]](http://www.ktword.co.kr/word/index.php) (차재복)
+- [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
 
 
  <br/><br/>
