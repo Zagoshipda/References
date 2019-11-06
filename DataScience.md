@@ -59,6 +59,9 @@ Data Science : AI & ML & DL & RL
     - [TensorBoard.dev](https://tensorboard.dev/)
 - [Clova AI Research Blog](https://clova-ai.blog/)
     - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (ICCV 2019 Oral) – Clova AI Research Blog](https://clova-ai.blog/2019/09/04/what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis-iccv-2019-oral/)
+- [Preface · Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) (Gitbook)
+- [라온피플 (Laon People) : 네이버 블로그](https://laonple.blog.me/220463627091) (라온피플 머신러닝 아카데미)
+- [더북(TheBook): 모두의 딥러닝](https://thebook.io/006958/)
 
 
  <br><br>
@@ -72,9 +75,11 @@ Data Science : AI & ML & DL & RL
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models) – Jay Alammar – Visualizing machine learning one concept at a time](http://jalammar.github.io/illustrated-gpt2/)
 - [2019 구글 스터디 잼 - 머신러닝 통합](https://sites.google.com/view/studyjamkr/ml_integrated?authuser=0)
     - [머신러닝 스터디 잼 통합반 FAQ - Google 프레젠테이션](https://docs.google.com/presentation/d/1-GnsWSo5p-e0bwsJMyB5qdLI9OYxJqTiLD0sK-cU42Y/edit)
-    - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit)
-    - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit#slide=id.p)
-    - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit)
+    - [스터디 잼 - 퀵랩 쿠폰 등록 방법(머신러닝 통합반) - Google 프레젠테이션](https://docs.google.com/presentation/d/14nbQCrK0E8Z4i4aRBKGSEvhAZVWS-GaCXyyd2RlGURw/edit)
+    - [스터디 잼 - 코세라 쿠폰 등록 방법[머신러닝통합반] - Google 프레젠테이션](https://docs.google.com/presentation/d/1-jcsQRPslSmBc3A30XWgFVc0oZx76B0IobmDLpMHZTE/edit)
+        - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit) (박찬성)
+        - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit) (박찬성)
+        - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit) (박찬성)
 - [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
 - [Machine Learning for Trading | Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Artificial Intelligence for Trading by WorldQuant)  <br><br>
 - [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
