@@ -181,7 +181,10 @@ Startup lists
 - [퍼퓸라이퍼](http://perfumelifer.co.kr/) : 향수
 - [도시를 누비다, 올룰로 | olulo](https://olulo.io/) : 전동킥보드 공유서비스 KICKGOING
 - [새로운 취미박스, 하비인더박스](http://hobbyinthebox.co.kr/) : 취미 공유 서비스
-- [학생독립만세](https://www.hakdokman.com/) : 
+- [학생독립만세](https://www.hakdokman.com/) : 학습
+- [오늘회 :: 오늘손질 오늘배송 ::](https://www.onul-hoi.com/) : 회
+- [VUNO Inc. | View the Invisible, Know the Unknown](https://www.vuno.co/) : MedTech (Above Intelligence for Better Healthcare)
+- [PiLab](https://pilab.co/) : Blockchain
 
 
  <br/><br/>
