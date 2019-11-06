@@ -7,8 +7,8 @@ Startup References
 
 ### Accelerator & Venture Capital
 - [Startup Alliance Korea](https://startupall.kr/)
+    - [Startup Alliance Korea - YouTube](https://www.youtube.com/channel/UCY7GnoXDqfWMy6KjS1SmEew/featured)
 - [코리아스타트업포럼 | Korea Startup Forum](http://kstartupforum.org/)
-- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 - [청년창업네트워크 PRISM](http://prismnetwork.kr/)
 - [HEYGROUND, Co-working community for changemakers](https://heyground.com/#/)
 - [Campus  - Google for Startups Campus](https://www.campus.co/)  
@@ -94,9 +94,11 @@ Startup References
 
 
 ### Conference & Meetup
+- [스타트업 생태계 컨퍼런스 2019 | 여수](https://www.koreastartupecosystem.com/)
 - [2019 Tech Meets Startup](http://tech-startup.kr/2019/)
 - [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/)
 - [신한 FUTURE’S LAB 데모데이 & 채용박람회 2019 | 로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/futureslabdemoday2019)
+- [ComeUp 2019](https://www.kcomeup.com/)
 
 
  <br/><br/>
@@ -112,10 +114,11 @@ Startup References
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
-- [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)
+- [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)  <br/><br/>
 - [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
 - [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
 - [원모먼트 인사이드 매거진](https://brunch.co.kr/magazine/1moment-people)
+- [황성재 PhD의 브런치](https://brunch.co.kr/@uxinventor)
 
 
  <br/><br/>
