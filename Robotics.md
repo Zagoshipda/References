@@ -39,6 +39,8 @@ Robotics
 - [Apex.AI | Autonomous Driving Software](https://www.apex.ai/)
 - [Connected Robotics Inc.(English Site)](https://connected-robotics.com/)
 - [로보스타](http://www.robostar.co.kr/kr/index.do)  <br/><br/>
+- [Donkey® Car - Home](https://www.donkeycar.com/)
+- [에일리언로봇 | Alien Robot](https://www.alienrobot.io/)
 
 
  <br/><br/>
