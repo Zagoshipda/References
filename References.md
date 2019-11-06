@@ -31,7 +31,7 @@ References
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
 - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
 - [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
-- [Qwiklabs - Hands-On Cloud Training](https://google.qwiklabs.com/)
+- [Qwiklabs - Hands-On Cloud Training](https://www.qwiklabs.com/)
 - [Android Developers](https://developer.android.com/)  <br/><br/>
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
@@ -144,6 +144,7 @@ References
 - [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)
 - [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
+- [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 
 
 <br/><br/>
@@ -179,9 +180,10 @@ COEX Grand Ballroom)
 - [SDF2019 - 변화의 시작 : 이게 정말 내 생각일까?](http://www.sdf.or.kr/2019/?lang=kr)
 - [NHN FORWARD 2019](https://forward.nhn.com/)
 - [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
+- [AI PLUS 2019](http://conf.est.ai/2019/)  <br><br>
 
 
-<br><br>
+ <br><br>
 
 
 ### Online Study
@@ -190,6 +192,9 @@ COEX Grand Ballroom)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
 - [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
 - [NAVER - edwith](https://www.edwith.org/) (Web programming- Spring, android, ios)
+    - [일반인을 위한 블록체인 A to Z Course introduction : edwith](https://www.edwith.org/blockchainatoz-2019F)
+    - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
+    - [[하버드] 확률론 기초: Statistics 110 > 강의목록 : edwith](https://www.edwith.org/harvardprobability/joinLectures/17924)
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
@@ -234,6 +239,7 @@ COEX Grand Ballroom)
 - [Qt | Cross-platform software development for embedded & desktop](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
     - [korone.net programming site](https://www.korone.net/)
     - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
+- [LinkedIn Learning: Online Courses for Creative, Technology, Business Skills](https://www.linkedin.com/learning/)
 
 
  <br/><br/>
@@ -406,7 +412,11 @@ COEX Grand Ballroom)
 - [Loss Landscape | A.I deep learning explorations of morphology & dynamics](https://losslandscape.com/)
 - [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
     - [XEHub](https://www.xehub.io/)
-    - [XpressEngine](https://github.com/xpressengine) (Github)
+    - [XpressEngine](https://github.com/xpressengine) (Github)  <br/><br/>
+- [딴짓클럽](http://www.ddanzitclub.com/) (직장인들의 생산적 딴짓을 돕는 멤버십 커뮤니티)
+- [feeeld](https://feeeld.com/) (건축/디자인 커뮤니티)
+- [GitBook - Document Everything!](https://www.gitbook.com/)
+- [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/) (Caption, Subtitle and Translate Video)
 
 
  <br/><br/>
