@@ -185,6 +185,7 @@ Startup lists
 - [오늘회 :: 오늘손질 오늘배송 ::](https://www.onul-hoi.com/) : 회
 - [VUNO Inc. | View the Invisible, Know the Unknown](https://www.vuno.co/) : MedTech (Above Intelligence for Better Healthcare)
 - [PiLab](https://pilab.co/) : Blockchain
+- [디보션푸드 – 사람과 지구를 위한 건강한 먹거리](http://devotionfoods.com/) : 대체육
 
 
  <br/><br/>
