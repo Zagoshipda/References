@@ -55,6 +55,7 @@ References
 - [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
+- [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
 
 
 <br/><br/>
@@ -91,6 +92,7 @@ COEX Grand Ballroom)
 - [NHN FORWARD 2019](https://forward.nhn.com/)
 - [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
 - [AI PLUS 2019](http://conf.est.ai/2019/)  <br><br>
+- [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
 
 
  <br><br>
@@ -101,10 +103,11 @@ COEX Grand Ballroom)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
 - [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
-- [NAVER - edwith](https://www.edwith.org/) (Web programming- Spring, android, ios)
-    - [일반인을 위한 블록체인 A to Z Course introduction : edwith](https://www.edwith.org/blockchainatoz-2019F)
-    - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
-    - [[하버드] 확률론 기초: Statistics 110 > 강의목록 : edwith](https://www.edwith.org/harvardprobability/joinLectures/17924)
+- [커넥트재단](https://connect.or.kr/)
+    - [NAVER - edwith](https://www.edwith.org/) (Web programming- Spring, android, ios)
+        - [일반인을 위한 블록체인 A to Z Course introduction : edwith](https://www.edwith.org/blockchainatoz-2019F)
+        - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
+        - [[하버드] 확률론 기초: Statistics 110 > 강의목록 : edwith](https://www.edwith.org/harvardprobability/joinLectures/17924)
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
@@ -327,6 +330,15 @@ COEX Grand Ballroom)
 - [feeeld](https://feeeld.com/) (건축/디자인 커뮤니티)
 - [GitBook - Document Everything!](https://www.gitbook.com/)
 - [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/) (Caption, Subtitle and Translate Video)
+- [(new) - CodeWorld](https://code.world/#)
+    - [google/codeworld: Educational computer programming environment using Haskell](https://github.com/google/codeworld)
+- [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
+- [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
+- [ZEIT - World-Class Static Hosting - ZEIT](https://zeit.co/)
+- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)  <br/><br/>
+- [Rust Programming Language](https://www.rust-lang.org/)
+- [Eclipse JGit: Java implementation of Git | projects.eclipse.org](https://projects.eclipse.org/projects/technology.jgit)
+- [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 
 
  <br/><br/>
