@@ -93,6 +93,8 @@ COEX Grand Ballroom)
 - [Microsoft Ignite The Tour 2019-2020](https://www.microsoft.com/en-us/ignite-the-tour/)
 - [AI PLUS 2019](http://conf.est.ai/2019/)  <br><br>
 - [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
+- [IBM Developer Day 2019에 참여해주셔서 감사합니다 - IBM Developer](https://developer.ibm.com/kr/devday2019/)
+- [DevFest on Campus 2019 | Festa!](https://festa.io/events/654)
 
 
  <br><br>
@@ -153,6 +155,7 @@ COEX Grand Ballroom)
     - [korone.net programming site](https://www.korone.net/)
     - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
 - [LinkedIn Learning: Online Courses for Creative, Technology, Business Skills](https://www.linkedin.com/learning/)
+- [H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity, Org.Json, AWS QuickSight, JSON.Simple, Jackson Annotations, Passay, Boon, MuleSoft, Nagios, Matplotlib, Java NIO, PyTorch, SLF4J, Parallax Scrolling, Java Cryptography](https://www.tutorialspoint.com/index.htm)
 
 
  <br/><br/>
@@ -208,6 +211,7 @@ COEX Grand Ballroom)
 - [LOVIT x DATA SCIENCE](https://lovit.github.io/) (김현중)
 - [[정보통신기술용어해설]](http://www.ktword.co.kr/word/index.php) (차재복)
 - [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
+- [사만다의 브런치](https://brunch.co.kr/@samantha89) (이수경, 카카오 브레인 content creator)
 
 
  <br/><br/>
@@ -339,6 +343,21 @@ COEX Grand Ballroom)
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Eclipse JGit: Java implementation of Git | projects.eclipse.org](https://projects.eclipse.org/projects/technology.jgit)
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
+- [Elm - A delightful language for reliable webapps](https://elm-lang.org/)
+    - [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
+    - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)
+- [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
+    - [Hits!](http://hits.dwyl.io/)
+- [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)
+- [Phoenix](https://phoenixframework.org/) (Phoenix web framework)   <br/><br/>
+- [Elixir](https://elixir-lang.org/)
+    - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
+    - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
+- [Scala School](https://twitter.github.io/scala_school/) (Twitter)
+- [Elixir School](https://elixirschool.com/en/)
+- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
+- [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
+- [Sellery](https://sellery.me/) (회사원이여, 버텨라.)
 
 
  <br/><br/>
