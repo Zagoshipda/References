@@ -14,6 +14,7 @@ Data Science : AI & ML & DL & RL
 - [Project Jupyter | Home](https://jupyter.org/)
 - [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
+    - [Kaggle Past Competitions](http://kagglesolutions.com/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
@@ -71,6 +72,9 @@ Data Science : AI & ML & DL & RL
         - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit) (박찬성)
         - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit) (박찬성)
         - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit) (박찬성)
+- [Home - Keras Documentation](https://keras.io/)
+- [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/)
+
 
 
  <br><br>
@@ -85,6 +89,7 @@ Data Science : AI & ML & DL & RL
 - [Solving Rubik’s Cube with a Robot Hand](https://openai.com/blog/solving-rubiks-cube/)
 - [Machine Learning for Trading | Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Artificial Intelligence for Trading by WorldQuant)
 - [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
+- [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/RethNet-Object-by-Object-Learning-for-Detecting-Facial-Skin-Problems-da466d39dfe04450b98fdb6d932df52a)
 
 
  <br><br>
