@@ -75,6 +75,7 @@ Startup References
 - [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 - [브랜드 디자인 | 가지공장 | 대한민국](https://www.eggplantfactory.co.kr/)
 - [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
+- [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/)
 
 
  <br/><br/>
@@ -99,6 +100,7 @@ Startup References
 - [스타트업 거리축제 IF FESTIVAL](http://www.iffestival.kr/html/)
 - [신한 FUTURE’S LAB 데모데이 & 채용박람회 2019 | 로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/futureslabdemoday2019)
 - [ComeUp 2019](https://www.kcomeup.com/)
+- [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
 
 
  <br/><br/>
