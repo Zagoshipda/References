@@ -358,6 +358,9 @@ COEX Grand Ballroom)
 - [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
 - [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
 - [Sellery](https://sellery.me/) (회사원이여, 버텨라.)
+- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
+- [Let knowledge flow | Additor](https://additor.io/)
+- [CMake](https://cmake.org/)  <br/><br/>
 
 
  <br/><br/>
