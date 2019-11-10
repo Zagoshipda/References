@@ -29,8 +29,10 @@ Company sites for Developers
 - [Google AI](https://ai.google/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
-- [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
-- [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
+    - [Cloud Run   |  Google Cloud](https://cloud.google.com/run/)
+    - [Google Cloud Platform Webinars](https://cloudonair.withgoogle.com/)
+    - [Cloud Learner](https://inthecloud.withgoogle.com/cloud-certification#!/)
+    - [Google Cloud - YouTube](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ/videos)
 - [Qwiklabs - Hands-On Cloud Training](https://www.qwiklabs.com/)
 - [Android Developers](https://developer.android.com/)  <br/><br/>
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
