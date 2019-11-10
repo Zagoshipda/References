@@ -43,14 +43,16 @@ Startup References
 - [Khosla Ventures](https://www.khoslaventures.com/)
 - [네오플라이 - 진심을 다해 스타트업을 돕는 액셀러레이터](http://www.neoply.com/)
 - [Namsan Lab Korea](https://namsanlabkorea.splashthat.com/) (from facebook)
-- [D.CAMP – 은행권청년창업재단](https://dcamp.kr/)
+- [D.CAMP – 은행권청년창업재단](https://dcamp.kr/) (디데이(D.DAY), 매월 마지막 목요일 저녁)
 - [로아인벤션랩 ROA인벤션랩 – 스타트업 액셀러레이팅 전문기관](https://theilab.kr/)  <br/><br/>
 - [ROBO Global - Investing in the Robotics & AI Revolution](https://www.roboglobal.com/)
 - [Nongshim TechUP+ season2 I 농심 테크업플러스 시즌2](https://www.ns-techupplus2.com/)
 - [The Ventures](http://theventures.co/)
 - [IMM Investment](http://imm.co.kr/)
 - [Company B](https://www.companyb.kr/) (Company Builder)
- 
+- [Main : Main : D2 Startup Factory](http://www.d2startup.com/)
+    - [NAVER D2 Startup Factory - YouTube](https://www.youtube.com/channel/UCSvVrlUXrYC-ptETfwhS71w/videos)
+
 
  <br/><br/>
  
