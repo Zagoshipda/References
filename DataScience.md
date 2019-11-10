@@ -53,11 +53,13 @@ Data Science : AI & ML & DL & RL
 - [Advanced NLP with spaCy · A free online course](https://course.spacy.io/) 
 - [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
-    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165&fbclid=IwAR2MLlbIExwcmB5OUJrjqeSXarqoKRQw4VzldEzTuXkWMVGLNqflU5l-k3k)  <br/><br/>
+    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165) (박찬준, 기계번역 입문)  <br/><br/>
 - [PyTorch](https://pytorch.org/)
+    - [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw/videos) (PyTorch Developer Conference 2019)
 - [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
     - [TensorFlow Hub](https://tfhub.dev/)
     - [TensorBoard.dev](https://tensorboard.dev/)
+    - [TensorFlow.js](https://www.tensorflow.org/js) (library for machine learning in JavaScript)
 - [Clova AI Research Blog](https://clova-ai.blog/)
     - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (ICCV 2019 Oral) – Clova AI Research Blog](https://clova-ai.blog/2019/09/04/what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis-iccv-2019-oral/)
 - [Preface · Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) (Gitbook)
@@ -90,6 +92,7 @@ Data Science : AI & ML & DL & RL
 - [Machine Learning for Trading | Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501) (Artificial Intelligence for Trading by WorldQuant)
 - [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
 - [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/RethNet-Object-by-Object-Learning-for-Detecting-Facial-Skin-Problems-da466d39dfe04450b98fdb6d932df52a)
+- [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/tensorflow-js/)  <br><br>
 
 
  <br><br>
@@ -106,5 +109,14 @@ Data Science : AI & ML & DL & RL
 
 
  <br><br>
+
+
+### News
+- [Teachable Machine 2.0 makes AI easier for everyone](https://blog.google/technology/ai/teachable-machine)
+- [Neural network reconstructs human thoughts from brain waves in real time](https://techxplore.com/news/2019-10-neural-network-reconstructs-human-thoughts.html)
+
+
+ <br><br>
+
 
 
