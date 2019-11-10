@@ -186,6 +186,8 @@ Startup lists
 - [VUNO Inc. | View the Invisible, Know the Unknown](https://www.vuno.co/) : MedTech (Above Intelligence for Better Healthcare)
 - [PiLab](https://pilab.co/) : Blockchain
 - [디보션푸드 – 사람과 지구를 위한 건강한 먹거리](http://devotionfoods.com/) : 대체육
+- [공공의주방](https://www.public-kitchen.com/) : 쿠킹클래스/공간 공유 플랫폼
+- [로플랫(loplat) - 오프라인 데이터 전문 기업](https://loplat.com/) : 사용자 실내위치정보 플랫폼
 
 
  <br/><br/>
