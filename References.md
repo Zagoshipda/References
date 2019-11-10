@@ -5,7 +5,7 @@ References
  <br/><br/>
  
 
-### Community & media
+### Community for Developers
 - [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
@@ -25,40 +25,64 @@ References
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 - [GpgStudy 메인 페이지](https://gpgstudy.com/)
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
-- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/)  (소프트웨어 전문 매거진)
-- [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)  <br/><br/>
-- [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)
+- [라라벨코리아::라라벨 코리아 커뮤니티(Laravel Korea Community)](https://laravel.kr/)
+- [꿈꾸는 개발자, DBA 커뮤니티 구루비](http://www.gurubee.net/)  <br/><br/>
 - [이상한모임](https://www.weirdx.io/)
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 - [프로그라피](http://prography.org/)
-- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
 - [모두의연구소](http://www.modulabs.co.kr/)
-- [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)  <br/><br/>
+- [모두의연구소 | 풀잎스쿨 9기 모집 시작 !](http://home.modulabs.co.kr/)
 - [ 클라우드스터딩 | CloudStudying](https://cloudstudying.kr/)
-- [ :: SLiPP](https://www.slipp.net/)
-- [TechCrunch](https://techcrunch.com/)
-- [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
+- [ :: SLiPP](https://www.slipp.net/)  <br/><br/>
 - [Devpost - The home for hackathons](https://devpost.com/)
 - [Tipssoft::Tipsware](http://www.tipssoft.com/) (C/C++ MFC)
 - [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제](https://makerfaire.co.kr/)
     - [메이커 페어 서울 Maker Faire Seoul 2019 | 만드는 사람들의 축제 :: 행사준비는 이벤터스](https://event-us.kr/makerfaire/event/9734)
-- [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [What will you create? | Code.org](https://code.org/)
-- [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)  <br/><br/>
+- [멋쟁이사자처럼 :: LIKELION](https://likelion.net/)
 - [First Contributions](https://firstcontributions.github.io/) (Make your first open source contribution in 5 minutes)
 - [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
 - [KDE Community Home - KDE.org](https://kde.org/)
-- [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)
+- [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)  <br/><br/>
 - [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 - [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
 
 
-<br/><br/>
+ <br/><br/>
+
+
+### Community for Creators
+- [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
+- [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
+- [월간서른](http://www.monthly30.com/)
+- [딴짓클럽](http://www.ddanzitclub.com/) (직장인들의 생산적 딴짓을 돕는 멤버십 커뮤니티)
+- [feeeld](https://feeeld.com/) (건축/디자인 커뮤니티)
+- [제2회 배민 치믈리에 자격시험](https://chimmelier.baemin.com/)
+- [배민 떡볶이 마스터즈](https://topokkimasters.baemin.com/)
+- [Home | Flickr](https://www.flickr.com/)
+- [폴인 fol:in - 내일의 변화를 읽는 시간](https://www.folin.co/) (지식 콘텐츠 플랫폼)
+- [남의집 프로젝트](https://naamezip.com/) (거실 여행 서비스)  <br/><br/>
+- [nonce](https://nonce.community/) (논스, basecamp for future rebels)
+
+
+ <br/><br/>
+
+
+### Media
+- [마이크로소프트웨어 – MICROSOFTWARE](https://www.imaso.co.kr/) (소프트웨어 전문 매거진)
+- [noder | 블록체인 인사이트 미디어](https://noder.foundation/)
+- [TechCrunch](https://techcrunch.com/)
+- [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
+- [Tech Xplore - Technology and Engineering news](https://techxplore.com/)
+- [신뢰 그 이상의 가치 : 코인데스크코리아](https://www.coindeskkorea.com/)
+
+
+ <br/><br/>
 
 
 ### Conference & Contest
@@ -95,6 +119,7 @@ COEX Grand Ballroom)
 - [NAVER CONNECT 2020](https://saedu.naver.com/conf2020/intro.nhn)
 - [IBM Developer Day 2019에 참여해주셔서 감사합니다 - IBM Developer](https://developer.ibm.com/kr/devday2019/)
 - [DevFest on Campus 2019 | Festa!](https://festa.io/events/654)
+- [Google Cloud Summit 2019](https://inthecloud.withgoogle.com/summit-sel-19/home.html)
 
 
  <br><br>
@@ -307,7 +332,7 @@ COEX Grand Ballroom)
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
 - [Ontology | The proven global enterprise blockchain](https://ont.io/)
     - [OntologyNetwork – Medium](https://medium.com/ontologynetwork)
-- [헥스 색상 스킴, 챠트, 팔레트 및 변환](https://encycolorpedia.kr/) (encycolorpedia) <br/><br/>
+- [헥스 색상 스킴, 챠트, 팔레트 및 변환](https://encycolorpedia.kr/) (encycolorpedia)  <br/><br/>
 - [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
 - [fastlane - App automation done right](https://fastlane.tools/)
     - [fastlane docs](https://docs.fastlane.tools/)
@@ -315,52 +340,50 @@ COEX Grand Ballroom)
 - [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [One-Stop Corporate Event Management Software | EventXtra](https://eventxtra.com/)
-- [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
 - [Snippets - Web Designer Wall](https://webdesignerwall.com/)
 - [CodeSandbox: Online Code Editor Tailored for Web Application Development](https://codesandbox.io/)
-- [배민 떡볶이 마스터즈](https://topokkimasters.baemin.com/)  <br/><br/>
-- [The Writing Mentor® is an Easy-to-Use Reflection and Revision Tool for Academic Writing](https://mentormywriting.org/)
+- [The Writing Mentor® is an Easy-to-Use Reflection and Revision Tool for Academic Writing](https://mentormywriting.org/)  <br/><br/>
 - [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
     - [Kubeflow](https://www.kubeflow.org/)
-- [월간서른](http://www.monthly30.com/)
 - [Image distortion online - IMG online](https://www.imgonline.com.ua/eng/picture-distortion.php)
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) (C++ template library for linear algebra)
 - [Loss Landscape | A.I deep learning explorations of morphology & dynamics](https://losslandscape.com/)
 - [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
     - [XEHub](https://www.xehub.io/)
-    - [XpressEngine](https://github.com/xpressengine) (Github)  <br/><br/>
-- [딴짓클럽](http://www.ddanzitclub.com/) (직장인들의 생산적 딴짓을 돕는 멤버십 커뮤니티)
-- [feeeld](https://feeeld.com/) (건축/디자인 커뮤니티)
+    - [XpressEngine](https://github.com/xpressengine) (Github)
 - [GitBook - Document Everything!](https://www.gitbook.com/)
-- [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/) (Caption, Subtitle and Translate Video)
+- [Amara – Award-winning Subtitle Editor and Enterprise Offerings](https://amara.org/en/) (Caption, Subtitle and Translate Video)  <br/><br/>
 - [(new) - CodeWorld](https://code.world/#)
     - [google/codeworld: Educational computer programming environment using Haskell](https://github.com/google/codeworld)
 - [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
 - [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
 - [ZEIT - World-Class Static Hosting - ZEIT](https://zeit.co/)
-- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)  <br/><br/>
+- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Eclipse JGit: Java implementation of Git | projects.eclipse.org](https://projects.eclipse.org/projects/technology.jgit)
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 - [Elm - A delightful language for reliable webapps](https://elm-lang.org/)
     - [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
-    - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)
+    - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)  <br/><br/>
 - [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
     - [Hits!](http://hits.dwyl.io/)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)
-- [Phoenix](https://phoenixframework.org/) (Phoenix web framework)   <br/><br/>
+- [Phoenix](https://phoenixframework.org/) (Phoenix web framework)
 - [Elixir](https://elixir-lang.org/)
     - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
     - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
 - [Scala School](https://twitter.github.io/scala_school/) (Twitter)
 - [Elixir School](https://elixirschool.com/en/)
-- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
+- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)   <br/><br/>
 - [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
 - [Sellery](https://sellery.me/) (회사원이여, 버텨라.)
 - [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
 - [Let knowledge flow | Additor](https://additor.io/)
-- [CMake](https://cmake.org/)  <br/><br/>
+- [CMake](https://cmake.org/)
+- [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
+- [우나](http://woona.kr/) (우리가 만드는 나라)
+    - [국회가 축구에서 배울 점은? : 카카오같이가치](https://together.kakao.com/fundraisings/69443/story)
 
 
  <br/><br/>
