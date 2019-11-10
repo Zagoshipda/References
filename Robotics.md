@@ -26,7 +26,7 @@ Robotics
  <br/><br/>
  
 
-### Company
+### Company & Community
 - [로보티즈](http://www.robotis.com/)
 - [Simbe | Changing business-as-usual for retailers around the globe.](https://www.simberobotics.com/) (Better retail for all)
 - [Transforming Manual Machines Into Autonomous Solutions | Brain Corp](https://www.braincorp.com/)
@@ -34,13 +34,14 @@ Robotics
 - [Willow Garage](http://www.willowgarage.com/)
 - [Boston Dynamics | Boston Dynamics](https://www.bostondynamics.com/)
     - [BostonDynamics - YouTube](https://www.youtube.com/user/BostonDynamics/featured)
-- [Robomakery](https://www.robomakery.com/) (Open source robots for people with mobility impairments)
+- [Robomakery](https://www.robomakery.com/) (Accelerate development of affordable service robots for people with mobility impairments)
     - [Robomakery](https://github.com/robomakery) (Github)
 - [Apex.AI | Autonomous Driving Software](https://www.apex.ai/)
 - [Connected Robotics Inc.(English Site)](https://connected-robotics.com/)
 - [로보스타](http://www.robostar.co.kr/kr/index.do)  <br/><br/>
 - [Donkey® Car - Home](https://www.donkeycar.com/)
 - [에일리언로봇 | Alien Robot](https://www.alienrobot.io/)
+- [AuTURBO](https://github.com/AuTURBO)
 
 
  <br/><br/>
@@ -63,6 +64,7 @@ Robotics
     - [[SLAM] Kalman filter and EKF(Extended Kalman Filter) · Jinyong](http://jinyongjeong.github.io/2017/02/14/lec03_kalman_filter_and_EKF/)
     - [slam04-ekf.pptx - slam04-ekf.pdf](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam04-ekf.pdf) (Robot Mapping - Extended Kalman Filter)
     - [Kalman Filtering Tutorial - kleeman_kalman_basics.pdf](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf) (Understanding and ApplyingKalman Filtering)
+- [[SLAM] IROS2019 SLAM 관련 논문 정리 · Jinyong](http://jinyongjeong.github.io/2019/11/07/IROS2019_SLAM_list/)
 
 
  <br/><br/>
