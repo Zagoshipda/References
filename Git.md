@@ -6,6 +6,8 @@ How to Git & Github
 
 
 ### references
+- [GitHub - YouTube](https://www.youtube.com/user/github/videos)
+    - [GitHub Training & Guides - YouTube](https://www.youtube.com/user/GitHubGuides/videos)
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [GitHub Help](https://help.github.com/en)
     - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
