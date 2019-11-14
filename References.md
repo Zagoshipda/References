@@ -121,6 +121,9 @@ COEX Grand Ballroom)
 - [DevFest on Campus 2019 | Festa!](https://festa.io/events/654)
 - [Google Cloud Summit 2019](https://inthecloud.withgoogle.com/summit-sel-19/home.html)
 - [GitHub Universe · Nov 13 - 14, 2019 · San Francisco, CA | Join a community connected by code and turn ideas into innovations.](https://githubuniverse.com/)
+- [Post Event - Samsung Developer Conference 2019](https://www.samsungdeveloperconference.com/)
+    - [Samsung Developers - YouTube](https://www.youtube.com/user/SMInnov8/videos)
+- [Bixby Developer Portal - Newsroom](https://bixby.developer.samsung.com/events/ko-kr/Bixby-Developer-Day-2019%EC%97%90-%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4) (Bixby Developer Day 2019)
 
 
  <br><br>
