@@ -74,16 +74,19 @@ Company sites for Developers
 - [NSML](https://ai.nsml.navercorp.com/intro) (Naver Smart Machine Learning)
 - [NAVER LABS DATASET](https://hdmap.naverlabs.com/)
 - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)  <br/><br/>
+- [SAMSUNG Developers](https://developer.samsung.com/home.do)
+    - [Bixby Developer Portal](https://bixby.developer.samsung.com/)
 - [SK Telecom AI Center](https://www.skt.ai/)
+    - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
 - [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
 - [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5) 
-- [Banksalad Tech – Medium](https://medium.com/rainist-engineering)
+- [Banksalad Tech – Medium](https://medium.com/rainist-engineering)  <br/><br/>
 - [Spoqa 기술 블로그](https://spoqa.github.io/index.html) (Spoqa - 도도, 매장 마케팅 솔루션)
 - [RGP Tech Blog -- RGP Tech Blog](https://rgpkorea.github.io/) (요기요, 배달통)
-- [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)  <br/><br/>
+- [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)
 - [티몬의 개발이야기 : 네이버 블로그](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev)
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
 - [레진 기술 블로그](https://tech.lezhin.com/)
@@ -91,8 +94,6 @@ Company sites for Developers
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
 - [ Watcha, Inc.](https://team.watcha.com/)
 - [NC 공식 블로그](https://blog.ncsoft.com/)
-- [Bixby Developer Portal](https://bixby.developer.samsung.com/)
-- [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
 - [XEHub – Medium](https://medium.com/xehub)  <br/><br/>
 
 
