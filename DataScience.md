@@ -66,7 +66,8 @@ Data Science : AI & ML & DL & RL
 - [라온피플 (Laon People) : 네이버 블로그](https://laonple.blog.me/220463627091) (라온피플 머신러닝 아카데미)
 - [더북(TheBook): 모두의 딥러닝](https://thebook.io/006958/)
 - [텐서 플로우 블로그 (Tensor ≈ Blog) | 머신러닝(Machine Learning), 딥러닝(Deep Learning) 그리고 텐서(Tensor) 또 파이썬(Python)](https://tensorflow.blog/) (박해선, Google Developers Experts)
-- [scikit-learn: machine learning in Python — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/)  <br><br>
+- [scikit-learn: machine learning in Python — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/)
+    - [scikit-learn/scikit-learn: scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)  <br><br>
 - [2019 구글 스터디 잼 - 머신러닝 통합](https://sites.google.com/view/studyjamkr/ml_integrated?authuser=0)
     - [머신러닝 스터디 잼 통합반 FAQ - Google 프레젠테이션](https://docs.google.com/presentation/d/1-GnsWSo5p-e0bwsJMyB5qdLI9OYxJqTiLD0sK-cU42Y/edit)
     - [스터디 잼 - 퀵랩 쿠폰 등록 방법(머신러닝 통합반) - Google 프레젠테이션](https://docs.google.com/presentation/d/14nbQCrK0E8Z4i4aRBKGSEvhAZVWS-GaCXyyd2RlGURw/edit)
