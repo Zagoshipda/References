@@ -5,7 +5,7 @@ References
  <br/><br/>
  
 
-### Community for Developers
+### Community
 - [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
@@ -51,12 +51,8 @@ References
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 - [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
-
-
- <br/><br/>
-
-
-### Community for Creators
+- [The Linux Foundation – Supporting Open Source Ecosystems](https://www.linuxfoundation.org/)
+ <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
 - [월간서른](http://www.monthly30.com/)
@@ -124,6 +120,7 @@ COEX Grand Ballroom)
 - [Post Event - Samsung Developer Conference 2019](https://www.samsungdeveloperconference.com/)
     - [Samsung Developers - YouTube](https://www.youtube.com/user/SMInnov8/videos)
 - [Bixby Developer Portal - Newsroom](https://bixby.developer.samsung.com/events/ko-kr/Bixby-Developer-Day-2019%EC%97%90-%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4) (Bixby Developer Day 2019)
+- [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/)
 
 
  <br><br>
