@@ -121,6 +121,7 @@ COEX Grand Ballroom)
     - [Samsung Developers - YouTube](https://www.youtube.com/user/SMInnov8/videos)
 - [Bixby Developer Portal - Newsroom](https://bixby.developer.samsung.com/events/ko-kr/Bixby-Developer-Day-2019%EC%97%90-%EC%B4%88%EB%8C%80%ED%95%A9%EB%8B%88%EB%8B%A4) (Bixby Developer Day 2019)
 - [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/)
+- [AWS Community Day](https://aws.amazon.com/events/community-day/)
 
 
  <br><br>
@@ -238,6 +239,7 @@ COEX Grand Ballroom)
 - [[정보통신기술용어해설]](http://www.ktword.co.kr/word/index.php) (차재복)
 - [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
 - [사만다의 브런치](https://brunch.co.kr/@samantha89) (이수경, 카카오 브레인 content creator)
+- [limyoungjoo](https://limyoungjoo.com/) (임영주)
 
 
  <br/><br/>
