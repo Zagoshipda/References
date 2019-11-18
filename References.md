@@ -63,7 +63,8 @@ References
 - [Home | Flickr](https://www.flickr.com/)
 - [폴인 fol:in - 내일의 변화를 읽는 시간](https://www.folin.co/) (지식 콘텐츠 플랫폼)
 - [남의집 프로젝트](https://naamezip.com/) (거실 여행 서비스)  <br/><br/>
-- [nonce](https://nonce.community/) (논스, basecamp for future rebels)
+- [nonce](https://nonce.community/) (논스, basecamp for future rebels, Blockchain)
+- [자유학교](https://www.jayuskole.net/) (쉼과 전환을 위한 안전한 실험실, 자기 이유 학교)
 
 
  <br/><br/>
@@ -76,6 +77,7 @@ References
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [Tech Xplore - Technology and Engineering news](https://techxplore.com/)
 - [신뢰 그 이상의 가치 : 코인데스크코리아](https://www.coindeskkorea.com/)
+- [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
 
 
  <br/><br/>
@@ -96,11 +98,11 @@ COEX Grand Ballroom)
 - [AI WorldCup](http://aiworldcup.org/) (AI World Cup 2019 Nov 1 ~ Nov 3, 2019 KAIST, Korea)
 - [AI 서밋 2019 서울 | AI Summit 2019 Seoul](https://aisummit.co.kr/)
 - [CCN 2019 • Home • 2019 Conference on Cognitive Computational Neuroscience | 13-16 September 2019 | Berlin, Germany](https://ccneuro.org/2019/)
-- [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/)
+- [WWDC19 - Apple Developer](https://developer.apple.com/wwdc19/) (Apple Worldwide Developers Conference : Write code. Blow minds.)
 - [.NET Conf 2019](https://www.dotnetconf.net/) (September 23 — 25, 2019)
 - [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 - [ICCV 2019](http://iccv2019.thecvf.com/) (International Conference on Computer Vision 2019)
-- [http://www.robotworld.or.kr/wp/](2019 로보월드 | 스마트인더스트리, 스마트라이프!)
+- [2019 로보월드 | 스마트인더스트리, 스마트라이프!](http://www.robotworld.or.kr/wp/)
 - [Amathon 2019 | Cloud to Infinity](https://amathon.ga/) (2019 8월 31일(토) ~ 9월 1일(일))  <br/><br/>
 - [2019 Conference](https://www.nips.cc/) ( NeurIPS | 2019 Conference on Neural Information Processing Systems)
 - [2019 제1회 한국인 감정인식 경진대회](https://sites.google.com/view/kerc2019/home?authuser=0)
@@ -123,6 +125,8 @@ COEX Grand Ballroom)
 - [Kubernetes Forum Seoul 2019 - Linux Foundation Events](https://events19.linuxfoundation.org/events/kubernetes-forum-seoul-2019/)
 - [AWS Community Day](https://aws.amazon.com/events/community-day/)   <br><br>
 - [IROS 2019 - Macau](https://www.iros2019.org/)
+- [Google I/O 2019](https://events.google.com/io/)
+- [Facebook Developer Conference. April 30 - May 1, 2019.San Jose, CA.](https://www.f8.com/)
 
 
  <br><br>
@@ -241,7 +245,7 @@ COEX Grand Ballroom)
 - [[정보통신기술용어해설]](http://www.ktword.co.kr/word/index.php) (차재복)
 - [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
 - [사만다의 브런치](https://brunch.co.kr/@samantha89) (이수경, 카카오 브레인 content creator)
-- [limyoungjoo](https://limyoungjoo.com/) (임영주)
+- [limyoungjoo](https://limyoungjoo.com/) (임영주)  <br/><br/>
 
 
  <br/><br/>
@@ -386,9 +390,10 @@ COEX Grand Ballroom)
 - [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
 - [Let knowledge flow | Additor](https://additor.io/)
 - [CMake](https://cmake.org/)
-- [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
 - [우나](http://woona.kr/) (우리가 만드는 나라)
     - [국회가 축구에서 배울 점은? : 카카오같이가치](https://together.kakao.com/fundraisings/69443/story)
+- [ouo.io - Earn money on shorten links. Make short links and earn the biggest money.](https://ouo.io/)
+- [시현하다 레코더즈](https://sihyunhada.com/)
 
 
  <br/><br/>
