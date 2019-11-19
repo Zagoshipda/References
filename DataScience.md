@@ -12,7 +12,7 @@ Data Science : AI & ML & DL & RL
 - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [Project Jupyter | Home](https://jupyter.org/)
-- [Colaboratory에 오신 것을 환영합니다 - Colaboratory](https://colab.research.google.com/)
+- [Welcome To Colaboratory - Colaboratory](https://colab.research.google.com/)
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
     - [Kaggle Past Competitions](http://kagglesolutions.com/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
@@ -63,21 +63,23 @@ Data Science : AI & ML & DL & RL
 - [Clova AI Research Blog](https://clova-ai.blog/)
     - [What Is Wrong With Scene Text Recognition Model Comparisons? Dataset and Model Analysis (ICCV 2019 Oral) – Clova AI Research Blog](https://clova-ai.blog/2019/09/04/what-is-wrong-with-scene-text-recognition-model-comparisons-dataset-and-model-analysis-iccv-2019-oral/)
 - [Preface · Artificial Inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/) (Gitbook)
-- [라온피플 (Laon People) : 네이버 블로그](https://laonple.blog.me/220463627091) (라온피플 머신러닝 아카데미)
+- [라온피플 (Laon People) : 네이버 블로그](https://laonple.blog.me/220463627091) (라온피플 머신러닝 아카데미)  <br><br>
 - [더북(TheBook): 모두의 딥러닝](https://thebook.io/006958/)
 - [텐서 플로우 블로그 (Tensor ≈ Blog) | 머신러닝(Machine Learning), 딥러닝(Deep Learning) 그리고 텐서(Tensor) 또 파이썬(Python)](https://tensorflow.blog/) (박해선, Google Developers Experts)
 - [scikit-learn: machine learning in Python — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/)
-    - [scikit-learn/scikit-learn: scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)  <br><br>
+    - [scikit-learn/scikit-learn: scikit-learn: machine learning in Python](https://github.com/scikit-learn/scikit-learn)
 - [2019 구글 스터디 잼 - 머신러닝 통합](https://sites.google.com/view/studyjamkr/ml_integrated?authuser=0)
     - [머신러닝 스터디 잼 통합반 FAQ - Google 프레젠테이션](https://docs.google.com/presentation/d/1-GnsWSo5p-e0bwsJMyB5qdLI9OYxJqTiLD0sK-cU42Y/edit)
     - [스터디 잼 - 퀵랩 쿠폰 등록 방법(머신러닝 통합반) - Google 프레젠테이션](https://docs.google.com/presentation/d/14nbQCrK0E8Z4i4aRBKGSEvhAZVWS-GaCXyyd2RlGURw/edit)
     - [스터디 잼 - 코세라 쿠폰 등록 방법[머신러닝통합반] - Google 프레젠테이션](https://docs.google.com/presentation/d/1-jcsQRPslSmBc3A30XWgFVc0oZx76B0IobmDLpMHZTE/edit)
         - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit) (박찬성)
         - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit) (박찬성)
-        - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit) (박찬성)
+        - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit) (박찬성)  <br><br>
 - [Home - Keras Documentation](https://keras.io/)
 - [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/)
-
+- [FastML](http://fastml.com/) (Machine learning made easy)
+- [WordNet | A Lexical Database for English](https://wordnet.princeton.edu/)
+- [ImageNet](http://www.image-net.org/)
 
 
  <br><br>
@@ -107,6 +109,7 @@ Data Science : AI & ML & DL & RL
 - [[1812.03664] Learning Embedding Adaptation for Few-Shot Learning](https://arxiv.org/abs/1812.03664)
 - [[1908.03265] On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
 - [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
+- [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 
 
  <br><br>
