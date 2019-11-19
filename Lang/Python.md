@@ -45,6 +45,10 @@ Python Study
 - [Azure for Python developers - Tutorials, API Reference | Microsoft Docs](https://docs.microsoft.com/en-us/azure/python/)
 - [목차 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/)
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+- [tkinter — Python interface to Tcl/Tk — Python 3.8.0 documentation](https://docs.python.org/3/library/tkinter.html) (standard Python interface to the Tk GUI toolkit)
+     - [Korea Tcl/Tk Community | Tcl radically simple.](http://tcltk.co.kr/)
+     - [Tcl Developer Site](https://www.tcl.tk/)
+- [SciPy.org — SciPy.org](https://www.scipy.org/)  <br/><br/>
 
 
  <br/><br/>
