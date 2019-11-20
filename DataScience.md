@@ -80,6 +80,7 @@ Data Science : AI & ML & DL & RL
 - [FastML](http://fastml.com/) (Machine learning made easy)
 - [WordNet | A Lexical Database for English](https://wordnet.princeton.edu/)
 - [ImageNet](http://www.image-net.org/)
+- [딥 러닝을 이용한 자연어 처리 입문 - WikiDocs](https://wikidocs.net/book/2155)
 
 
  <br><br>
@@ -96,6 +97,8 @@ Data Science : AI & ML & DL & RL
 - [What is the relationship between PyTorch and Torch? - Stack Overflow](https://stackoverflow.com/questions/44371560/what-is-the-relationship-between-pytorch-and-torch)
 - [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/RethNet-Object-by-Object-Learning-for-Detecting-Facial-Skin-Problems-da466d39dfe04450b98fdb6d932df52a)
 - [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/tensorflow-js/)  <br><br>
+- [57 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/paper-summaries/)
+- [74 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
 
 
  <br><br>
@@ -110,6 +113,7 @@ Data Science : AI & ML & DL & RL
 - [[1908.03265] On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
 - [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
 - [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
+- [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
 
 
  <br><br>
