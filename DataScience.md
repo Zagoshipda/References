@@ -9,6 +9,7 @@ Data Science : AI & ML & DL & RL
 - [모두를 위한 머신러닝/딥러닝 강의](http://hunkim.github.io/ml/) (Kim Sung Hun, RL, DL)
 - [모두를 위한 딥러닝 시즌 2 | Deep Learning Zero To All - Season 2](https://deeplearningzerotoall.github.io/season2/) (TensorFlow, PyTorch)
 - [[부스트코스] 텐서플로우로 시작하는 딥러닝 기초 Course introduction : edwith](https://www.edwith.org/boostcourse-dl-tensorflow)
+    - [딥러닝을 이용한 자연어 처리 Course introduction : edwith](https://www.edwith.org/deepnlp)
 - [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [Project Jupyter | Home](https://jupyter.org/)
@@ -19,6 +20,8 @@ Data Science : AI & ML & DL & RL
 - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
 - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
+    - [CS224N: Natural Language Processing with Deep Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+    - [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [OpenAI](https://openai.com/)
 - [Homepage | DeepMind](https://deepmind.com/) (What if solving one problem could unlock solutions to thousands more?)
 - [머신러닝 공부 순서, 방법 및 강의 정리](https://gomcine.tistory.com/308)
@@ -37,7 +40,8 @@ Data Science : AI & ML & DL & RL
 - [Machine Learning Deep Learning Artificial Intelligence | Techgrabyte](https://techgrabyte.com/)
 - [11 Most Amazing AutoML Tools To Automate The Machine Learning](https://techgrabyte.com/11-automl-tools-automate-machine-learning/)
 - [Machine Learning 정리 · GitBook](http://soopsaram.com/ml/) (김지훈 jihuun, Andrew Ng Coursera 강의 정리) 
-- [fast.ai · Making neural nets uncool again](https://www.fast.ai/) (Making neural nets uncool again)
+- [fast.ai · Making neural nets uncool again](https://www.fast.ai/)
+    - [fast.ai Code-First Intro to Natural Language Processing - YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
 - [Shelley](http://shelley.ai/) (Human-AI collaborated horror stories)
 - [QuillBot | Free Paraphrasing Tool - Best Article Rewriter](https://quillbot.com/)
 - [Lightkey - Predictive Typing Software For Windows](https://www.lightkey.io/)
@@ -81,6 +85,11 @@ Data Science : AI & ML & DL & RL
 - [WordNet | A Lexical Database for English](https://wordnet.princeton.edu/)
 - [ImageNet](http://www.image-net.org/)
 - [딥 러닝을 이용한 자연어 처리 입문 - WikiDocs](https://wikidocs.net/book/2155)
+- [Open Source Innovation in Artificial Intelligence, Machine Learning, and Deep Learning - LF AI](https://lfai.foundation/)
+    - [LF AI Landscape](https://landscape.lfai.foundation/)
+- [Deep Learning](https://www.deeplearningbook.org/) (An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
+- [Home - deeplearning.ai](https://www.deeplearning.ai/)  <br><br>
+- [KoNLPy: Korean NLP in Python — KoNLPy 0.5.2 documentation](http://konlpy.org/en/latest/)
 
 
  <br><br>
@@ -99,6 +108,8 @@ Data Science : AI & ML & DL & RL
 - [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/tensorflow-js/)  <br><br>
 - [57 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/paper-summaries/)
 - [74 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
+- [GLUE Explained: Understanding BERT Through Benchmarks · Chris McCormick](https://mccormickml.com/2019/11/05/GLUE/)
+    - [GLUE: 벤치마크를 통해 BERT 이해하기 - Programador | Huffon Blog](https://huffon.github.io/2019/11/16/glue/)
 
 
  <br><br>
@@ -114,6 +125,13 @@ Data Science : AI & ML & DL & RL
 - [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
 - [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 - [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+
+
+ <br><br>
+
+
+### Blogs
+- [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
 
 
  <br><br>
