@@ -43,8 +43,11 @@ Company sites for Developers
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
 - [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
 - [Apple Developer](https://developer.apple.com/)
-- [NVIDIA Developer](https://developer.nvidia.com/)
-- [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)  <br/><br/>
+- [Artificial Intelligence Computing Leadership from NVIDIA](https://www.nvidia.com/en-us/)
+    - [NVIDIA Developer](https://developer.nvidia.com/)
+    - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
+    - [The Official NVIDIA Blog](https://blogs.nvidia.com/)
+    - [| Deep Learning Institute](https://courses.nvidia.com/courses)  <br/><br/>
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
 - [IBM Developer – IBM Developer](https://developer.ibm.com/)
@@ -65,15 +68,16 @@ Company sites for Developers
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [tech.kakao.com – 카카오는 사람과 사람, 사람과 기술을 한층 가깝게 연결함으로써, 어제보다 더 나은 세상을 만들어 갑니다.](http://tech.kakao.com/) (kakao 기술 블로그)
-- [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
+    - [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [LINE developers](https://developers.line.biz/en/)
+    - [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)
 - [NAVER D2](https://d2.naver.com/home) 
 - [네이버 클로바](https://clova.ai/ko) (Naver Clova)
 - [NAVER LABS](https://www.naverlabs.com/) (robotics, autonomous driving, DL)
+    - [NAVER LABS DATASET](https://hdmap.naverlabs.com/)
 - [NSML](https://ai.nsml.navercorp.com/intro) (Naver Smart Machine Learning)
-- [NAVER LABS DATASET](https://hdmap.naverlabs.com/)
-- [Blog - LINE ENGINEERING](https://engineering.linecorp.com/en/blog/)  <br/><br/>
+- [NAVER CLOUD PLATFORM 네이버 클라우드 플랫폼](https://www.ncloud.com/)  <br/><br/>
 - [SAMSUNG Developers](https://developer.samsung.com/home.do)
     - [Bixby Developer Portal](https://bixby.developer.samsung.com/)
 - [SK Telecom AI Center](https://www.skt.ai/)
@@ -95,6 +99,7 @@ Company sites for Developers
 - [ Watcha, Inc.](https://team.watcha.com/)
 - [NC 공식 블로그](https://blog.ncsoft.com/)
 - [XEHub – Medium](https://medium.com/xehub)  <br/><br/>
+- [핑퐁팀 블로그](https://blog.pingpong.us/) (Scatter Lab, PINGPONG AI RESEARCH)
 
 
  <br/><br/>
