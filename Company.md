@@ -14,13 +14,13 @@ Company sites for Developers
 - [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
 - [.NET | Free. Cross-platform. Open Source.](https://dotnet.microsoft.com/)
-- [.NET Blog](https://devblogs.microsoft.com/dotnet/)
+    - [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 - [Reference Source](https://referencesource.microsoft.com/) (Browse the .NET Framework source code online)
 - [Stories | Microsoft news, features, events, and press materials](https://news.microsoft.com/)
 - [Microsoft Build 2019](https://www.microsoft.com/en-us/build)
-- [The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.](https://octoverse.github.com/)
 - [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
-- [GitHub Developer](https://developer.github.com/)  <br/><br/>
+- [GitHub Developer](https://developer.github.com/)
+    - [The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.](https://octoverse.github.com/) (The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.)  <br/><br/>
 - [Google Code](https://code.google.com/)
     - [Google Developers](https://developers.google.com/)
     - [Google Open Source – opensource.google.com](https://opensource.google/)
