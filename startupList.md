@@ -188,6 +188,10 @@ Startup lists
 - [디보션푸드 – 사람과 지구를 위한 건강한 먹거리](http://devotionfoods.com/) : 대체육
 - [공공의주방](https://www.public-kitchen.com/) : 쿠킹클래스/공간 공유 플랫폼
 - [로플랫(loplat) - 오프라인 데이터 전문 기업](https://loplat.com/) : 사용자 실내위치정보 플랫폼
+- [Doomoolmori - RoboAdvisor](https://doomoolmori.com/) : Financial
+- [NEUROPHET | 뉴로핏 | Korea | 대한민국](https://www.neurophet.com/) : neuroscience
+- [벨루가 비즈니스 - 상품 발주 서비스](https://business.veluga.kr/) : 술
+- [Home | Kudan](https://www.kudan.io/) : Artificial Perception, SLAM
 
 
  <br/><br/>
