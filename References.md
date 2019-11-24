@@ -127,6 +127,9 @@ COEX Grand Ballroom)
 - [IROS 2019 - Macau](https://www.iros2019.org/)
 - [Google I/O 2019](https://events.google.com/io/)
 - [Facebook Developer Conference. April 30 - May 1, 2019.San Jose, CA.](https://www.f8.com/)
+- [NVIDIA AI Conference 공식 홈페이지](https://www.nvidia.com/ko-kr/ai-conference/)
+- [NVIDIA DEEP LEARNING INSTITUTE 참가 안내](https://www.nvidia.co.kr/content/apac/event/kr/nvidia-deep-learning-institute-september/)
+- [DIGITAL ECONOMY FORUM](http://def.or.kr/) (Unicorn Startup and Innovative growth in the Digital Economy era)
 
 
  <br><br>
@@ -189,6 +192,8 @@ COEX Grand Ballroom)
 - [LinkedIn Learning: Online Courses for Creative, Technology, Business Skills](https://www.linkedin.com/learning/)
 - [H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity, Org.Json, AWS QuickSight, JSON.Simple, Jackson Annotations, Passay, Boon, MuleSoft, Nagios, Matplotlib, Java NIO, PyTorch, SLF4J, Parallax Scrolling, Java Cryptography](https://www.tutorialspoint.com/index.htm)
 - [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
+- [Home Page - Cloud Native Computing Foundation](https://www.cncf.io/) (Building Sustainable Ecosystems for Cloud Native Software)
+    - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
 
 
  <br/><br/>
@@ -246,6 +251,8 @@ COEX Grand Ballroom)
 - [ — Sungjoo Ha](http://www.shurain.net/) (하성주)
 - [사만다의 브런치](https://brunch.co.kr/@samantha89) (이수경, 카카오 브레인 content creator)
 - [limyoungjoo](https://limyoungjoo.com/) (임영주)  <br/><br/>
+- [ - Lucy Park](https://www.lucypark.kr/)
+    - [Presentations by Lucy Park - Speaker Deck](https://speakerdeck.com/e9t)
 
 
  <br/><br/>
@@ -271,6 +278,7 @@ COEX Grand Ballroom)
 - [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
 - [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
 - [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
+- [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)  <br><br>
 
 
  <br><br>
