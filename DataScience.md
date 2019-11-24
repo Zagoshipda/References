@@ -17,9 +17,12 @@ Data Science : AI & ML & DL & RL
 - [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
     - [Kaggle Past Competitions](http://kagglesolutions.com/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
-- [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
-- [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
+    - [Unsupervised Feature Learning and Deep Learning Tutorial](http://deeplearning.stanford.edu/tutorial/) (UFLDL tutorial, stanford)
+    - [Stanford Institute for Human-Centered Artificial Intelligence |](https://hai.stanford.edu/)
+        - [Agenda | Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/events/2019-fall-conference/agenda)
+        - [Stanford HAI 2019 Fall Conference - YouTube](https://www.youtube.com/playlist?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z)
+    - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
     - [CS224N: Natural Language Processing with Deep Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
     - [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [OpenAI](https://openai.com/)
@@ -60,6 +63,7 @@ Data Science : AI & ML & DL & RL
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165) (박찬준, 기계번역 입문)  <br/><br/>
 - [PyTorch](https://pytorch.org/)
     - [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw/videos) (PyTorch Developer Conference 2019)
+    - [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
 - [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
     - [TensorFlow Hub](https://tfhub.dev/)
     - [TensorBoard.dev](https://tensorboard.dev/)
@@ -90,6 +94,7 @@ Data Science : AI & ML & DL & RL
 - [Deep Learning](https://www.deeplearningbook.org/) (An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville)
 - [Home - deeplearning.ai](https://www.deeplearning.ai/)  <br><br>
 - [KoNLPy: Korean NLP in Python — KoNLPy 0.5.2 documentation](http://konlpy.org/en/latest/)
+- [Skymind: The Secret to Faster AI](https://skymind.ai/)
 
 
  <br><br>
@@ -125,6 +130,8 @@ Data Science : AI & ML & DL & RL
 - [[1708.00909] Machine learning for neural decoding](https://arxiv.org/abs/1708.00909)
 - [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 - [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+- [[1911.09070] EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
+    - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/)
 
 
  <br><br>
