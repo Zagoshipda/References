@@ -106,6 +106,7 @@ Startup References
 - [신한 FUTURE’S LAB 데모데이 & 채용박람회 2019 | 로켓펀치 - 비즈니스 네트워크](https://www.rocketpunch.com/futureslabdemoday2019)
 - [ComeUp 2019](https://www.kcomeup.com/)
 - [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
+- [[한국벤처투자] KOREA 벤처투자 SUMMIT 2019;더 특별한 IR](http://www.kban.or.kr/?returnPage=9&bbsNo=2005)
 
 
  <br/><br/>
@@ -137,6 +138,10 @@ Startup References
 - [창업진흥원](https://www.kised.or.kr/)
 - [K-스타트업 (창업넷)](https://www.k-startup.go.kr/main.do)
 - [TIPS 프로그램 - Tech Incubator Program for startup Korea](http://www.jointips.or.kr/)
+- [중소벤처기업부](https://www.mss.go.kr/site/smba/main.do)
+    - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센터, Angel Investment Support Center)
+    - [한국벤처투자(주) - 한국모태펀드, 일자리창출펀드, 산업기술사업화모펀드, 해외진출 글로벌 펀드, 한국전력 모펀드, 엔젤 모펀드, KEB하나-KVIC 유니콘 모펀드](https://k-vic.co.kr/)
+- [소상공인 상권정보시스템에 오신 것을 환영합니다!](http://sg.sbiz.or.kr/main.sg#/main)
 
 
  <br/><br/>
