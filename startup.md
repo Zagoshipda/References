@@ -54,6 +54,7 @@ Startup References
     - [NAVER D2 Startup Factory - YouTube](https://www.youtube.com/channel/UCSvVrlUXrYC-ptETfwhS71w/videos)
 - [Wowpartners – Accelerating your company](http://wowpartners.net/)
 - [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
+- [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
 
 
  <br/><br/>
@@ -107,6 +108,7 @@ Startup References
 - [ComeUp 2019](https://www.kcomeup.com/)
 - [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
 - [[한국벤처투자] KOREA 벤처투자 SUMMIT 2019;더 특별한 IR](http://www.kban.or.kr/?returnPage=9&bbsNo=2005)
+- [2019 농식품 창업콘테스트](https://a-challenge.kr/)
 
 
  <br/><br/>
