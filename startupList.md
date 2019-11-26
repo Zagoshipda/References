@@ -192,6 +192,10 @@ Startup lists
 - [NEUROPHET | 뉴로핏 | Korea | 대한민국](https://www.neurophet.com/) : neuroscience
 - [벨루가 비즈니스 - 상품 발주 서비스](https://business.veluga.kr/) : 술
 - [Home | Kudan](https://www.kudan.io/) : Artificial Perception, SLAM
+- [CALMS for Coding](http://calmsw.com/) : 코딩교육, 코딩로봇연구소, Coding Academy & Learning Management System
+- [어반베이스](https://urbanbase.com/) : 3D 공간데이터 플랫폼, AR VR
+- [CODE42](https://www.code42.ai/) : Autonomous Driving, TaaS
+- [Archisketch](https://www.archisketch.com/) : 아키스케치/아키드로우, VR/AR을 활용한 인테리어 하드웨어 및 소프트웨어 솔루션
 
 
  <br/><br/>
