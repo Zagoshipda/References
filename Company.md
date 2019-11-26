@@ -26,6 +26,7 @@ Company sites for Developers
     - [Google Open Source – opensource.google.com](https://opensource.google/)
     - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/)
         - [word2vec](https://code.google.com/archive/p/word2vec/)
+    - [Google Lens](https://lens.google.com/)
 - [Google AI](https://ai.google/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
