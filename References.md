@@ -65,6 +65,7 @@ References
 - [남의집 프로젝트](https://naamezip.com/) (거실 여행 서비스)  <br/><br/>
 - [nonce](https://nonce.community/) (논스, basecamp for future rebels, Blockchain)
 - [자유학교](https://www.jayuskole.net/) (쉼과 전환을 위한 안전한 실험실, 자기 이유 학교)
+- [아쇼카한국 – Ashoka](http://ashokakorea.org/)
 
 
  <br/><br/>
@@ -130,6 +131,9 @@ COEX Grand Ballroom)
 - [NVIDIA AI Conference 공식 홈페이지](https://www.nvidia.com/ko-kr/ai-conference/)
 - [NVIDIA DEEP LEARNING INSTITUTE 참가 안내](https://www.nvidia.co.kr/content/apac/event/kr/nvidia-deep-learning-institute-september/)
 - [DIGITAL ECONOMY FORUM](http://def.or.kr/) (Unicorn Startup and Innovative growth in the Digital Economy era)
+- [Wanted HR Social 2019  : New Perspectives of Work](https://www.wanted.co.kr/events/hrsocial2019)
+- [TXGX 2019 - Tech Forum By Ground X 2019](https://txgx.io/) (블록체인 기술 포럼)
+- [ZER01NE DAY 2019](http://zer01neday.com/)
 
 
  <br><br>
@@ -137,6 +141,7 @@ COEX Grand Ballroom)
 
 ### Online Study
 - [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/index.htm)
+    - [MIT Online Programs - The Innovation Series](https://executive-education.mit.edu/)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
 - [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
@@ -193,7 +198,7 @@ COEX Grand Ballroom)
 - [H2O, Colab, Theano, Flutter, KNime, Mean.js, Weka, Solidity, Org.Json, AWS QuickSight, JSON.Simple, Jackson Annotations, Passay, Boon, MuleSoft, Nagios, Matplotlib, Java NIO, PyTorch, SLF4J, Parallax Scrolling, Java Cryptography](https://www.tutorialspoint.com/index.htm)
 - [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
 - [Home Page - Cloud Native Computing Foundation](https://www.cncf.io/) (Building Sustainable Ecosystems for Cloud Native Software)
-    - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)
+    - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)  <br/><br/>
 
 
  <br/><br/>
@@ -294,7 +299,16 @@ COEX Grand Ballroom)
 
 
  <br/><br/>
- 
+
+
+### Tools
+- [Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/)
+- [Phoenix](http://www.phoenixframework.org/) (Phoenix web framework)
+- [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
+
+
+ <br/><br/>
+
 
 ### ETCs
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
@@ -402,6 +416,7 @@ COEX Grand Ballroom)
     - [국회가 축구에서 배울 점은? : 카카오같이가치](https://together.kakao.com/fundraisings/69443/story)
 - [ouo.io - Earn money on shorten links. Make short links and earn the biggest money.](https://ouo.io/)
 - [시현하다 레코더즈](https://sihyunhada.com/)
+- [알밤(albam) | 스마트한 직원관리의 시작_출퇴근기록기.자동급여계산기](https://www.albam.net/ko/)  <br/><br/>
 
 
  <br/><br/>
