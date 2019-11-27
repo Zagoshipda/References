@@ -12,7 +12,10 @@ How to Git & Github
 - [GitHub Help](https://help.github.com/en)
     - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
 - [GitHub Guides](https://guides.github.com/)
+    - [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 - [Resources to learn Git](http://try.github.io/)
+     - [GitHub Learning Lab](https://lab.github.com/)
+- [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/) (Udacity Git Commit Message Style Guide)
 - [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
@@ -118,7 +121,10 @@ How to Git & Github
 - [[Error][Github] git push Permission denied (publickey).](https://withhamit.tistory.com/177) (git push https://\<username\>:\<password\>@github.com/\<repositoryName\>.git)
 - [MAC ) git 문제 Permission denied (publickey).](https://zeddios.tistory.com/120)
 - [[GITHUB] Slack 연동](https://withhamit.tistory.com/72?category=779255)
-
+- [Creating a repository from a template - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+- [Conditions for large files - GitHub Help](https://help.github.com/en/github/managing-large-files/conditions-for-large-files)
+    - [Github에 100MB 이상의 파일을 올리는 방법 - Lim JongHyuck - Medium](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
+ 
 
  <br/><br/>
 
