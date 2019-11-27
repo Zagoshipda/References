@@ -81,6 +81,9 @@ How to Git & Github
 - [Git - Git Configuration](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) (trailing whitespace)
 - [git - How to change the commit author for one specific commit? - Stack Overflow](https://stackoverflow.com/questions/3042437/how-to-change-the-commit-author-for-one-specific-commit)
 - [git commit author 변경 (커밋 작성자 변경하기) - MadPlay's MadLife.](https://madplay.github.io/post/change-git-author-name)
+- [망원동똑똑이 :: [Git] Changes not staged for commit (modified content, untracked content) 깃 서브모듈 인식 문제](https://secjong.tistory.com/2) (하위 .git 폴더 모두 삭제하기)
+    - [하위 .git 폴더 모두 제거 - 제타위키](https://zetawiki.com/wiki/%ED%95%98%EC%9C%84_.git_%ED%8F%B4%EB%8D%94_%EB%AA%A8%EB%91%90_%EC%A0%9C%EA%B1%B0)
+    - [git submodules - How to fix "modified content, untracked content" in git? - Stack Overflow](https://stackoverflow.com/questions/50167969/how-to-fix-modified-content-untracked-content-in-git/52722775)  <br/><br/>
 
 
  <br/><br/>
