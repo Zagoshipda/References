@@ -196,6 +196,12 @@ Startup lists
 - [어반베이스](https://urbanbase.com/) : 3D 공간데이터 플랫폼, AR VR
 - [CODE42](https://www.code42.ai/) : Autonomous Driving, TaaS
 - [Archisketch](https://www.archisketch.com/) : 아키스케치/아키드로우, VR/AR을 활용한 인테리어 하드웨어 및 소프트웨어 솔루션
+- [엔젤스윙](https://www.angelswing.io/) : Drone
+- [INTAKE](https://www.intakefoods.kr/en/) : Healthy food
+- [HYPERITHM Group](https://hyperithm.com/) : Algorithm Trading
+- [오아시스마켓::믿을 수 있는 먹거리](https://www.oasis.co.kr/main) : 유기농 식품 거래 마켓
+- [투모런스](https://tomorrance.com/)
+    - [핏코 | 1:1 온라인 코디](https://fitco.style/) : 온라인 코디 서비스
 
 
  <br/><br/>
