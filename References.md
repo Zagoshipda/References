@@ -134,6 +134,7 @@ COEX Grand Ballroom)
 - [Wanted HR Social 2019  : New Perspectives of Work](https://www.wanted.co.kr/events/hrsocial2019)
 - [TXGX 2019 - Tech Forum By Ground X 2019](https://txgx.io/) (블록체인 기술 포럼)
 - [ZER01NE DAY 2019](http://zer01neday.com/)
+- [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)
 
 
  <br><br>
@@ -305,6 +306,13 @@ COEX Grand Ballroom)
 - [Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/)
 - [Phoenix](http://www.phoenixframework.org/) (Phoenix web framework)
 - [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
+- [Elixir](https://elixir-lang.org/)
+    - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
+    - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
+- [Haml](http://haml.info/)
+- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
+- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
+- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)  <br/><br/>
 
 
  <br/><br/>
@@ -317,12 +325,10 @@ COEX Grand Ballroom)
 - [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 - [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Darwin Online](http://darwin-online.org.uk/)
-- [Haml](http://haml.info/)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
-- [Proto.io - Prototypes that feel real](https://proto.io/)  <br/><br/>
+- [Proto.io - Prototypes that feel real](https://proto.io/)
 - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
-- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)  <br/><br/>
 - [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
 - [Cloudflare - The Web Performance & Security Company | Cloudflare ](https://www.cloudflare.com/)
 - [1.1.1.1 — the Internet’s Fastest, Privacy-First DNS Resolver](https://1.1.1.1/dns/)
@@ -332,14 +338,13 @@ COEX Grand Ballroom)
 - [Open Source Design](https://opensourcedesign.net/)
 - [Dainty](https://dainty.site/) (color theme generator)
 - [Studio Styles - Visual Studio color schemes](https://studiostyl.es/)  <br/><br/>
-- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
 - [CLOUDMATE-Azure Expert Group](https://www.cloudmt.co.kr/#home)
 - [Sourcerer - A visual profile for software engineers](https://sourcerer.io/) (Let your commits advance your career)
 - [blender.org - Home of the Blender project - Free and Open 3D Creation Software](https://www.blender.org/)
 - [Blender Guru](https://www.blenderguru.com/)
 - [Quip](https://quip.com/) (collaborative productivity software)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
-- [RStudio Cloud](https://rstudio.cloud/)
+    - [RStudio Cloud](https://rstudio.cloud/)
 - [Trending posts — Steemit](https://steemit.com/) (Make great communities with financial inclusion : incorporating cryptocurrency as incentives)
 - [Keyboard shortcuts, enumerated ‒ defkey](https://defkey.com/)  <br/><br/>
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
@@ -400,23 +405,19 @@ COEX Grand Ballroom)
 - [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
     - [Hits!](http://hits.dwyl.io/)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)
-- [Phoenix](https://phoenixframework.org/) (Phoenix web framework)
-- [Elixir](https://elixir-lang.org/)
-    - [(3) Elixir Forum - Elixir Forum - for Elixir programming language enthusiasts!](https://elixirforum.com/)
-    - [Elixir Tutorial - Tutorialspoint](https://www.tutorialspoint.com/elixir/index.htm)
 - [Scala School](https://twitter.github.io/scala_school/) (Twitter)
 - [Elixir School](https://elixirschool.com/en/)
-- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)   <br/><br/>
+- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
 - [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
 - [Sellery](https://sellery.me/) (회사원이여, 버텨라.)
-- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
-- [Let knowledge flow | Additor](https://additor.io/)
-- [CMake](https://cmake.org/)
+- [Let knowledge flow | Additor](https://additor.io/)  
+- [CMake](https://cmake.org/)   <br/><br/>
 - [우나](http://woona.kr/) (우리가 만드는 나라)
     - [국회가 축구에서 배울 점은? : 카카오같이가치](https://together.kakao.com/fundraisings/69443/story)
 - [ouo.io - Earn money on shorten links. Make short links and earn the biggest money.](https://ouo.io/)
 - [시현하다 레코더즈](https://sihyunhada.com/)
 - [알밤(albam) | 스마트한 직원관리의 시작_출퇴근기록기.자동급여계산기](https://www.albam.net/ko/)  <br/><br/>
+- [Welcome to the QGIS project!](https://qgis.org/en/site/) (A Free and Open Source Geographic Information System)
 
 
  <br/><br/>
