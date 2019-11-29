@@ -202,6 +202,9 @@ Startup lists
 - [오아시스마켓::믿을 수 있는 먹거리](https://www.oasis.co.kr/main) : 유기농 식품 거래 마켓
 - [투모런스](https://tomorrance.com/)
     - [핏코 | 1:1 온라인 코디](https://fitco.style/) : 온라인 코디 서비스
+- [JUST LIVE - JUST LIVE](http://justlive.co.kr/) : micro housing
+- [투어라이브 - 현지투어를 오디오로 듣다](tourlive.co.kr) : 여행, 컨텐츠
+- [Seoul Robotics | Making Robots Intelligent](https://www.seoulrobotics.org/)
 
 
  <br/><br/>
