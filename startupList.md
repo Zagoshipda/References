@@ -205,6 +205,8 @@ Startup lists
 - [JUST LIVE - JUST LIVE](http://justlive.co.kr/) : micro housing
 - [투어라이브 - 현지투어를 오디오로 듣다](tourlive.co.kr) : 여행, 컨텐츠
 - [Seoul Robotics | Making Robots Intelligent](https://www.seoulrobotics.org/)
+- [ArtRIE](http://artrie.com/) : 미술
+- [오늘의집 – 버킷플레이스 – 누구나 예쁜 집에 살 수 있어](http://bucketplace.co.kr/) : 인테리어
 
 
  <br/><br/>
