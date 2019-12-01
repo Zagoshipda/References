@@ -21,6 +21,7 @@ Robotics
 - [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)  <br/><br/>
 - [Home | Robots.net](https://robots.net/)
 - [PROBABILISTIC-ROBOTICS.ORG](http://www.probabilistic-robotics.org/) (Book)
+- [Robot Mapping - WS 2013/14 - Arbeitsgruppe: Autonome Intelligente Systeme](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/)
 
 
  <br/><br/>
@@ -65,6 +66,8 @@ Robotics
     - [slam04-ekf.pptx - slam04-ekf.pdf](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam04-ekf.pdf) (Robot Mapping - Extended Kalman Filter)
     - [Kalman Filtering Tutorial - kleeman_kalman_basics.pdf](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf) (Understanding and ApplyingKalman Filtering)
 - [[SLAM] IROS2019 SLAM 관련 논문 정리 · Jinyong](http://jinyongjeong.github.io/2019/11/07/IROS2019_SLAM_list/)
+- [Robotics Webinar - Week 6 - YouTube](https://www.youtube.com/watch?v=0H-OVbAhwqA) (utilize the OpenCV library in order to take a version the Chase Me project)
+- [thrun.robust-mcl.pdf](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf) (Robust Monte Carlo Localization for Mobile Robots)
 
 
  <br/><br/>
