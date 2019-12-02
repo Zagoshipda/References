@@ -52,6 +52,7 @@ References
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 - [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
 - [The Linux Foundation – Supporting Open Source Ecosystems](https://www.linuxfoundation.org/)
+- [AWSKRUG - AWS한국사용자모임 (Seoul, Korea (South)) | Meetup](https://www.meetup.com/awskrug/)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -66,6 +67,8 @@ References
 - [nonce](https://nonce.community/) (논스, basecamp for future rebels, Blockchain)
 - [자유학교](https://www.jayuskole.net/) (쉼과 전환을 위한 안전한 실험실, 자기 이유 학교)
 - [아쇼카한국 – Ashoka](http://ashokakorea.org/)
+- [Reliquum](https://reliquum.co.kr/) (릴리쿰)
+- [The New Normal](https://thenewnormal.strelka.com/)
 
 
  <br/><br/>
@@ -200,6 +203,7 @@ COEX Grand Ballroom)
 - [Channel 9: Videos for developers from the people building Microsoft Products & Services](https://channel9.msdn.com/)
 - [Home Page - Cloud Native Computing Foundation](https://www.cncf.io/) (Building Sustainable Ecosystems for Cloud Native Software)
     - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)  <br/><br/>
+- [공개SW 포털 - 공개SW 포털](https://www.oss.kr/)
 
 
  <br/><br/>
@@ -411,6 +415,9 @@ COEX Grand Ballroom)
 - [알밤(albam) | 스마트한 직원관리의 시작_출퇴근기록기.자동급여계산기](https://www.albam.net/ko/)
 - [Welcome to the QGIS project!](https://qgis.org/en/site/) (A Free and Open Source Geographic Information System)
 - [GRAP](https://www.grap.io/ko/intro)  <br/><br/>
+- [Sensory Maps](https://sensorymaps.com/)
+- [selfiecity](http://selfiecity.net/) (Investigating the style of self-portraits (selfies) in five cities across the world)
+- [StageFor](https://stagefor.com/event/latest)
 
 
  <br/><br/>
