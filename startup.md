@@ -55,6 +55,7 @@ Startup References
 - [Wowpartners – Accelerating your company](http://wowpartners.net/)
 - [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
 - [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
+- [Home - KRYPTON](http://krypton36.co/)
 
 
  <br/><br/>
@@ -109,6 +110,7 @@ Startup References
 - [Find Your Unicorn! - 스타트업 채용 박람회](https://www.theteams.kr/startup2019) (theteams startup2019)
 - [[한국벤처투자] KOREA 벤처투자 SUMMIT 2019;더 특별한 IR](http://www.kban.or.kr/?returnPage=9&bbsNo=2005)
 - [2019 농식품 창업콘테스트](https://a-challenge.kr/)
+- [제53회 프랜차이즈 창업박람회 SETEC 2019](https://www.franchisesetec.co.kr/)
 
 
  <br/><br/>
@@ -153,6 +155,7 @@ Startup References
 - [The very best company culture decks on the web - The Startup - Medium](https://medium.com/swlh/the-very-best-company-culture-decks-on-the-web-5a3de60c0bb9)
 - [PowerPoint 프레젠테이션 - Start-up-Trend-Report-2019_final_v3.pdf](https://startupall.kr/wp-content/uploads/2019/10/Start-up-Trend-Report-2019_final_v3.pdf) (startup alliance 스타트업 트렌드 리포트 2019)
 - [What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
+- [오픈애즈:마케팅 정보 큐레이션](http://www.openads.co.kr/home/index.nhn)
 
 
  <br/><br/>
