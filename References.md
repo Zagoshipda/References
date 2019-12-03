@@ -53,6 +53,8 @@ References
 - [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
 - [The Linux Foundation – Supporting Open Source Ecosystems](https://www.linuxfoundation.org/)
 - [AWSKRUG - AWS한국사용자모임 (Seoul, Korea (South)) | Meetup](https://www.meetup.com/awskrug/)
+- [서울시 금천구 가산동  메이커스페이스 전문랩 G·캠프 (Makerspace G·CAMP, 지캠프)](https://www.g.camp/)
+- [서울  하드웨어 해커톤  | Seoul Hardware Hackathon](https://www.seoulhackathon.org/)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -69,6 +71,7 @@ References
 - [아쇼카한국 – Ashoka](http://ashokakorea.org/)
 - [Reliquum](https://reliquum.co.kr/) (릴리쿰)
 - [The New Normal](https://thenewnormal.strelka.com/)
+- [etainclub](https://etain.club/) (이타인클럽 - 우리 동네 도움 선순환 운동)
 
 
  <br/><br/>
@@ -204,6 +207,8 @@ COEX Grand Ballroom)
 - [Home Page - Cloud Native Computing Foundation](https://www.cncf.io/) (Building Sustainable Ecosystems for Cloud Native Software)
     - [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/)  <br/><br/>
 - [공개SW 포털 - 공개SW 포털](https://www.oss.kr/)
+- [Home | Mbed](https://www.mbed.com/en/) (mbed-os)
+    - [mbed 기초 강좌 : 01. mbed 소개 | Mbed](https://os.mbed.com/users/passionvirus/notebook/basic1/)
 
 
  <br/><br/>
@@ -263,6 +268,7 @@ COEX Grand Ballroom)
 - [limyoungjoo](https://limyoungjoo.com/) (임영주)  <br/><br/>
 - [ - Lucy Park](https://www.lucypark.kr/)
     - [Presentations by Lucy Park - Speaker Deck](https://speakerdeck.com/e9t)
+- [Yoonseok Pyo](http://robotpilot.net/) (표윤석)
 
 
  <br/><br/>
