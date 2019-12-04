@@ -23,6 +23,7 @@ Robotics
 - [Home | Robots.net](https://robots.net/)
 - [PROBABILISTIC-ROBOTICS.ORG](http://www.probabilistic-robotics.org/) (Book)
 - [Robot Mapping - WS 2013/14 - Arbeitsgruppe: Autonome Intelligente Systeme](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/)
+- [OctoMap - 3D occupancy mapping](https://octomap.github.io/)
 
 
  <br/><br/>
@@ -45,6 +46,8 @@ Robotics
 - [에일리언로봇 | Alien Robot](https://www.alienrobot.io/)
 - [AuTURBO](https://github.com/AuTURBO)
 - [Join Udacity-Robotics on Slack!](https://slackin.udacity.com/robotics)
+- [Frontpage | Mobile Industrial Robots](https://www.mobile-industrial-robots.com/en/)
+- [YUJIN ROBOT](https://yujinrobot.com/)
 
 
  <br/><br/>
