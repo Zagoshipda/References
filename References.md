@@ -143,7 +143,8 @@ COEX Grand Ballroom)
 - [Wanted HR Social 2019  : New Perspectives of Work](https://www.wanted.co.kr/events/hrsocial2019)
 - [TXGX 2019 - Tech Forum By Ground X 2019](https://txgx.io/) (블록체인 기술 포럼)
 - [ZER01NE DAY 2019](http://zer01neday.com/)
-- [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)
+- [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)  <br><br>
+- [2019 re:Invent Page](https://aws.amazon.com/new/reinvent/) (AWS)
 
 
  <br><br>
@@ -331,6 +332,8 @@ COEX Grand Ballroom)
 - [Cloud Application Platform | Heroku](https://www.heroku.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [The OpenTracing project](https://opentracing.io/)
+- [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
+    - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
 
 
  <br/><br/>
@@ -415,6 +418,8 @@ COEX Grand Ballroom)
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 - [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
     - [Hits!](http://hits.dwyl.io/)
+- [HITS](https://hits.seeyoufarm.com/)
+    - [Github에 방문수 표시하는 BADGE 달기 -- Allan's Dev Talk](https://gjbae1212.github.io/posts/2019-09-21-hits/)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)
 - [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)  <br/><br/>
 - [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
