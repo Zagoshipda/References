@@ -64,6 +64,7 @@ Data Science : AI & ML & DL & RL
 - [PyTorch](https://pytorch.org/)
     - [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw/videos) (PyTorch Developer Conference 2019)
     - [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+    - [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library)
 - [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
     - [TensorFlow Hub](https://tfhub.dev/)
     - [TensorBoard.dev](https://tensorboard.dev/)
@@ -95,6 +96,7 @@ Data Science : AI & ML & DL & RL
 - [Home - deeplearning.ai](https://www.deeplearning.ai/)  <br><br>
 - [KoNLPy: Korean NLP in Python — KoNLPy 0.5.2 documentation](http://konlpy.org/en/latest/)
 - [Skymind: The Secret to Faster AI](https://skymind.ai/)
+- [Neural Network Intelligence Documentation — Neural Network Intelligence v1.2 documentation](https://nni.readthedocs.io/en/latest/)
 
 
  <br><br>
