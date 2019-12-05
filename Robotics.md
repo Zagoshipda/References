@@ -6,6 +6,13 @@ Robotics
 
 
 ### References
+- [ROS.org | Powering the world's robots](https://www.ros.org/)
+    - [Questions - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/questions/)
+    - [Documentation - ROS Wiki](http://wiki.ros.org/)
+        - [rviz - ROS Wiki](http://wiki.ros.org/rviz)
+        - [catkin/commands/catkin_make - ROS Wiki](http://wiki.ros.org/catkin/commands/catkin_make)
+        - [ROS/Tutorials/BuildingPackages - ROS Wiki](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
+    - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [로봇신문사](http://www.irobotnews.com/)
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
 - [Arduino - Home](https://www.arduino.cc/) 
@@ -13,14 +20,9 @@ Robotics
 - [Lecture Slides - Dr. Kostas Alexis](http://www.kostasalexis.com/lecture-slides.html) (Robotics)
 - [라즈베리 파이 문서 - WikiDocs](https://wikidocs.net/book/483)
 - [raspberry-gpio-python / Wiki / PWM](https://sourceforge.net/p/raspberry-gpio-python/wiki/PWM/)
-- [ROS.org | Powering the world's robots](https://www.ros.org/)
-    - [Questions - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/questions/)
-    - [Documentation - ROS Wiki](http://wiki.ros.org/)
-        - [rviz - ROS Wiki](http://wiki.ros.org/rviz)
-    - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [Open Robotics](https://www.openrobotics.org/)
 - [A Gentle Introduction to ROS - Jason M. O'Kane](https://cse.sc.edu/~jokane/agitr/)
-- [Home | Robots.net](https://robots.net/)
+- [Home | Robots.net](https://robots.net/)  <br/><br/>
 - [PROBABILISTIC-ROBOTICS.ORG](http://www.probabilistic-robotics.org/) (Book)
 - [Robot Mapping - WS 2013/14 - Arbeitsgruppe: Autonome Intelligente Systeme](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/)
 - [OctoMap - 3D occupancy mapping](https://octomap.github.io/)
@@ -75,6 +77,9 @@ Robotics
 - [Robotics Webinar - Week 6 - YouTube](https://www.youtube.com/watch?v=0H-OVbAhwqA) (utilize the OpenCV library in order to take a version the Chase Me project)
 - [thrun.robust-mcl.pdf](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf) (Robust Monte Carlo Localization for Mobile Robots)
 - [PinkWink :: ROS 3D 시각화 툴 RViz 쉽게 쉽게 처음 시작해보기](https://pinkwink.kr/903)  <br/><br/>
+- [thrun.graphslam.pdf](http://robot.cc/papers/thrun.graphslam.pdf) (The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures, Sebastian Thrun)
+- [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
+- [ATmega128 - 8-bit AVR Microcontrollers](https://www.microchip.com/wwwproducts/en/ATMEGA128)
 
 
  <br/><br/>
