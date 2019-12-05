@@ -56,7 +56,8 @@ References
 - [서울시 금천구 가산동  메이커스페이스 전문랩 G·캠프 (Makerspace G·CAMP, 지캠프)](https://www.g.camp/)
 - [서울  하드웨어 해커톤  | Seoul Hardware Hackathon](https://www.seoulhackathon.org/)
 - [설리번 프로젝트](https://sullivanproject.io/)
-- [AWS Developer Forums: Korean](https://forums.aws.amazon.com/forum.jspa?forumID=139)
+- [AWS Developer Forums: Korean](https://forums.aws.amazon.com/forum.jspa?forumID=139)  <br/><br/>
+- [Saturdays.AI - Empowering anyone to learn and use Artificial Intelligence for Good](https://www.saturdays.ai/)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -75,6 +76,7 @@ References
 - [The New Normal](https://thenewnormal.strelka.com/)
 - [etainclub](https://etain.club/) (이타인클럽 - 우리 동네 도움 선순환 운동)
 - [해봄살롱 | 소소한 성취가 있는 자기계발 모임 서비스](https://www.haebomsalon.com/)
+- [대한민국 로봇봉사단](http://robotvolunteer.com/)
 
 
  <br/><br/>
@@ -213,6 +215,7 @@ COEX Grand Ballroom)
 - [공개SW 포털 - 공개SW 포털](https://www.oss.kr/)
 - [Home | Mbed](https://www.mbed.com/en/) (mbed-os)
     - [mbed 기초 강좌 : 01. mbed 소개 | Mbed](https://os.mbed.com/users/passionvirus/notebook/basic1/)
+- [dblp: computer science bibliography](https://dblp.uni-trier.de/)
 
 
  <br/><br/>
@@ -438,6 +441,7 @@ COEX Grand Ballroom)
 - [StageFor](https://stagefor.com/event/latest)
 - [청년허브 - 청년허브](https://youthhub.kr/)
 - [Remove Background from Image – remove.bg](https://www.remove.bg/)
+- [Guide 2 Research](http://www.guide2research.com/)
 
 
  <br/><br/>
