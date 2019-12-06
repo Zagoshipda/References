@@ -275,7 +275,8 @@ COEX Grand Ballroom)
 - [limyoungjoo](https://limyoungjoo.com/) (임영주)  <br/><br/>
 - [ - Lucy Park](https://www.lucypark.kr/)
     - [Presentations by Lucy Park - Speaker Deck](https://speakerdeck.com/e9t)
-- [Yoonseok Pyo](http://robotpilot.net/) (표윤석)
+- [Yoonseok Pyo](http://robotpilot.net/) (표윤석, robotics)
+- [IT 기술 따라잡기 :: IT 기술 따라잡기](https://coronasdk.tistory.com/)
 
 
  <br/><br/>
@@ -302,6 +303,7 @@ COEX Grand Ballroom)
 - [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
 - [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
 - [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)  <br><br>
+- [플루토 채용공고](https://www.notion.so/d9b8ee14b76845688ce0d718a32c1e13)
 
 
  <br><br>
