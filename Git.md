@@ -10,17 +10,19 @@ How to Git & Github
     - [GitHub Training & Guides - YouTube](https://www.youtube.com/user/GitHubGuides/videos)
 - [Git - Book](https://git-scm.com/book/en/v2)
 - [GitHub Help](https://help.github.com/en)
-    - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
 - [GitHub Guides](https://guides.github.com/)
     - [Open Source Guides | Learn how to launch and grow your project.](https://opensource.guide/)
 - [Resources to learn Git](http://try.github.io/)
      - [GitHub Learning Lab](https://lab.github.com/)
 - [Udacity Nanodegree Style Guide](https://udacity.github.io/git-styleguide/) (Udacity Git Commit Message Style Guide)
+    - [GitHub Profile Checklist](https://docs.google.com/document/d/1a9AKnNyqfGgdQV5ohPCN5H9ntnEUhMptWMwVBWURCN0/pub?embedded=true)
+    - [Professional GitHub Profile Checklist](https://docs.google.com/document/d/e/2PACX-1vSkShiwfp8DP79yO1wiGI2cyDqlzMugMdivXzMfr_6CVESvbLAVYeiZowV47VJMRQ_L4F4fdeQjo9qd/pub?embedded=true)
+    - [GitHub Profile Rubric](https://docs.google.com/document/d/15B7SBSQ1iKqUjo1UpHHVtqonCzxZwqBaV2lC4mN5N1U/pub?embedded=true)
 - [Learn Git- Git tutorials, workflows and commands | Atlassian Git Tutorial](https://www.atlassian.com/git)
 - [Git & GitHub Crash Course For Beginners - YouTube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
-- [A successful Git branching model » nvie.com](https://nvie.com/posts/a-successful-git-branching-model/)
-- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)  <br/><br/>
+- [___A successful Git branching model » nvie.com___](https://nvie.com/posts/a-successful-git-branching-model/)  <br/><br/>
+- [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 - [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
@@ -127,7 +129,10 @@ How to Git & Github
 - [Creating a repository from a template - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 - [Conditions for large files - GitHub Help](https://help.github.com/en/github/managing-large-files/conditions-for-large-files)
     - [Github에 100MB 이상의 파일을 올리는 방법 - Lim JongHyuck - Medium](https://medium.com/@stargt/github%EC%97%90-100mb-%EC%9D%B4%EC%83%81%EC%9D%98-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EC%98%AC%EB%A6%AC%EB%8A%94-%EB%B0%A9%EB%B2%95-9d9e6e3b94ef)
- 
+    - [Git LFS (Large File Storage) - 100MB 이상의 파일을 깃허브에 올리기::코딩하는 매직 독](https://dobby-the-house-elf.tistory.com/75)
+- [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
+- [Duplicating a repository - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)  <br/><br/>
+
 
  <br/><br/>
 
