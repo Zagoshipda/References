@@ -209,6 +209,8 @@ Startup lists
 - [오늘의집 – 버킷플레이스 – 누구나 예쁜 집에 살 수 있어](http://bucketplace.co.kr/) : 인테리어
 - [Humelo 휴멜로](https://www.humelo.com/) : EMOTIONAL INTELLIGENCE, AI music, sound, TTS
 - [Standigm - Standigm](http://www.standigm.com/) : biomedical AI, drug
+- [포켓샐러드&라이스 - 샐러드 배달 대표 브랜드](https://pocketsalad.co.kr/) : 샐러드
+- [MakinaRocks | Machine Intelligence for Manufacturing](http://www.makinarocks.ai/) : AI
 
 
  <br/><br/>
