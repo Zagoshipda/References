@@ -131,6 +131,7 @@ Startup References
 - [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
 - [원모먼트 인사이드 매거진](https://brunch.co.kr/magazine/1moment-people)
 - [황성재 PhD의 브런치](https://brunch.co.kr/@uxinventor)
+- [Jiyeon Song의 브런치](https://brunch.co.kr/@jiyeonsongofnt) (AB180)
 
 
  <br/><br/>
@@ -156,6 +157,7 @@ Startup References
 - [PowerPoint 프레젠테이션 - Start-up-Trend-Report-2019_final_v3.pdf](https://startupall.kr/wp-content/uploads/2019/10/Start-up-Trend-Report-2019_final_v3.pdf) (startup alliance 스타트업 트렌드 리포트 2019)
 - [What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
 - [오픈애즈:마케팅 정보 큐레이션](http://www.openads.co.kr/home/index.nhn)
+- [Strategyzer | Corporate Innovation Strategy, Tools & Training](https://www.strategyzer.com/) (Business Model Canvas)
 
 
  <br/><br/>
