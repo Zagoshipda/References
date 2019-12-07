@@ -12,6 +12,10 @@ Robotics
         - [rviz - ROS Wiki](http://wiki.ros.org/rviz)
         - [catkin/commands/catkin_make - ROS Wiki](http://wiki.ros.org/catkin/commands/catkin_make)
         - [ROS/Tutorials/BuildingPackages - ROS Wiki](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
+        - [rtabmap_ros - ROS Wiki](http://wiki.ros.org/rtabmap_ros)
+        - [rgbdslam - ROS Wiki](http://wiki.ros.org/rgbdslam)
+        - [urdf/Tutorials/Building a Visual Robot Model with URDF from Scratch - ROS Wiki](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
+        - [universal_robots - ROS Wiki](http://wiki.ros.org/action/show/universal_robots)
     - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [로봇신문사](http://www.irobotnews.com/)
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
@@ -26,6 +30,9 @@ Robotics
 - [PROBABILISTIC-ROBOTICS.ORG](http://www.probabilistic-robotics.org/) (Book)
 - [Robot Mapping - WS 2013/14 - Arbeitsgruppe: Autonome Intelligente Systeme](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/)
 - [OctoMap - 3D occupancy mapping](https://octomap.github.io/)
+- [ROS-Industrial](https://rosindustrial.org/)
+- [RTAB-Map | Real-Time Appearance-Based Mapping](http://introlab.github.io/rtabmap/)
+- [3DGEMS - 3D Gazebo Models](http://data.nvision2.eecs.yorku.ca/3DGEMS/)
 
 
  <br/><br/>
@@ -73,11 +80,12 @@ Robotics
     - [slam04-ekf.pptx - slam04-ekf.pdf](http://ais.informatik.uni-freiburg.de/teaching/ws13/mapping/pdf/slam04-ekf.pdf) (Robot Mapping - Extended Kalman Filter)
     - [Kalman Filtering Tutorial - kleeman_kalman_basics.pdf](http://biorobotics.ri.cmu.edu/papers/sbp_papers/integrated3/kleeman_kalman_basics.pdf) (Understanding and ApplyingKalman Filtering)
     - [Kalman filter 소개 - Dong-Won, Shin - Medium](https://medium.com/@celinachild/kalman-filter-%EC%86%8C%EA%B0%9C-395c2016b4d6)
+    - [kalman.pdf - kalman.pdf](https://academic.csuohio.edu/simond/courses/eec644/kalman.pdf)
 - [[SLAM] IROS2019 SLAM 관련 논문 정리 · Jinyong](http://jinyongjeong.github.io/2019/11/07/IROS2019_SLAM_list/)
-- [Robotics Webinar - Week 6 - YouTube](https://www.youtube.com/watch?v=0H-OVbAhwqA) (utilize the OpenCV library in order to take a version the Chase Me project)
+- [Robotics Webinar - Week 6 - YouTube](https://www.youtube.com/watch?v=0H-OVbAhwqA) (utilize the OpenCV library in order to take a version the Chase Me project)  <br/><br/>
 - [thrun.robust-mcl.pdf](http://robots.stanford.edu/papers/thrun.robust-mcl.pdf) (Robust Monte Carlo Localization for Mobile Robots)
-- [PinkWink :: ROS 3D 시각화 툴 RViz 쉽게 쉽게 처음 시작해보기](https://pinkwink.kr/903)  <br/><br/>
 - [thrun.graphslam.pdf](http://robot.cc/papers/thrun.graphslam.pdf) (The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures, Sebastian Thrun)
+- [PinkWink :: ROS 3D 시각화 툴 RViz 쉽게 쉽게 처음 시작해보기](https://pinkwink.kr/903)
 - [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
 - [ATmega128 - 8-bit AVR Microcontrollers](https://www.microchip.com/wwwproducts/en/ATMEGA128)
 
