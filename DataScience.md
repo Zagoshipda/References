@@ -97,6 +97,12 @@ Data Science : AI & ML & DL & RL
 - [KoNLPy: Korean NLP in Python — KoNLPy 0.5.2 documentation](http://konlpy.org/en/latest/)
 - [Skymind: The Secret to Faster AI](https://skymind.ai/)
 - [Neural Network Intelligence Documentation — Neural Network Intelligence v1.2 documentation](https://nni.readthedocs.io/en/latest/)
+- [Christopher Bishop at Microsoft Research](https://www.microsoft.com/en-us/research/people/cmbishop/)
+    - [Pattern Recognition and Machine Learning - Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+    - [PRML](http://norman3.github.io/prml/)
+- [데이터 지능 팟캐스트 – 전문가들이 들려주는 데이터 & 인공지능 이야기](http://data-intelligence.io/)
+- [Python Data Analysis Library — pandas: Python Data Analysis Library](https://pandas.pydata.org/)
+- [SUALAB Research Blog](http://research.sualab.com/)
 
 
  <br><br>
@@ -117,6 +123,19 @@ Data Science : AI & ML & DL & RL
 - [74 Summaries of Machine Learning and NLP Research - Marek Rei](http://www.marekrei.com/blog/74-summaries-of-machine-learning-and-nlp-research/)
 - [GLUE Explained: Understanding BERT Through Benchmarks · Chris McCormick](https://mccormickml.com/2019/11/05/GLUE/)
     - [GLUE: 벤치마크를 통해 BERT 이해하기 - Programador | Huffon Blog](https://huffon.github.io/2019/11/16/glue/)
+- [RL](https://norman3.github.io/rl/) (RL을 시작하기 전에 미리 알아야 하는 내용들)
+- [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
+
+
+ <br><br>
+
+
+
+### Blogs
+- [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
+- [Machine Learning ](https://bkshin.tistory.com/category/Machine%20Learning) (귀퉁이 서재, Baek Kyun Shin)
+- [인공지능/케라스창시자에게 배우는 딥러닝](https://ssungkang.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EC%BC%80%EB%9D%BC%EC%8A%A4%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D) (수학과의 좌충우돌 프로그래밍)
+- [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)
 
 
  <br><br>
@@ -134,13 +153,6 @@ Data Science : AI & ML & DL & RL
 - [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
 - [[1911.09070] EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
     - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/)
-
-
- <br><br>
-
-
-### Blogs
-- [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
 
 
  <br><br>
