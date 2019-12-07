@@ -81,6 +81,17 @@ Today I Learned
 - [[Make 튜토리얼] Makefile 예제와 작성 방법 및 기본 패턴 - ECE - TUWLAB](https://www.tuwlab.com/ece/27193)
     - [[CMake 튜토리얼] 1. CMake 소개와 예제, 내부 동작 원리 - ECE - TUWLAB](https://www.tuwlab.com/ece/27234)
     - [CMake 란? 사용 예제 : 네이버 블로그](https://blog.naver.com/ekbae98/221321840751)
+- [C-7.그림 그리는 AI(이활석) - YouTube](https://www.youtube.com/watch?v=TlNkTdCt2Vo)
+- [[JS 프로토타입] 자바스크립트의 프로토타입 훑어보기 - Evan's Tech Blog](https://evan-moon.github.io/2019/10/23/js-prototype/)
+- [베이즈 이론이 푸리에 정리를 만났을 때](https://brunch.co.kr/@cojette/1)
+- [<[지도 데이터 시각화] Part 1. Geo Data 와 Python](https://dailyheumsi.tistory.com/141?category=854906)
+- [‘질문 12개로 구성한’ 데이터베이스 선택 가이드 - CIO Korea](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/136411)
+- [N명의 개발자, N개의 조언 - Jung-han - Medium](https://medium.com/jung-han/n%EB%AA%85%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-n%EA%B0%9C%EC%9D%98-%EC%A1%B0%EC%96%B8-e066a29a39ca)  <br/><br/>
+- [___Large-Scale Graph Mining - 신기정 교수 - YouTube___](https://www.youtube.com/watch?v=_h-AAAR4ck4)
+- [우리가 슬랙(Slack)을 버린 이유 | 너드팩토리 블로그](https://blog.nerdfactory.ai/2019/10/06/adopt-mattermost.html)
+- [잠꾸러기 :: slack 파일 삭제하기](https://teardrop7.tistory.com/101)
+- [코딩 알못을 위한 슬랙(Slack) 오래된 파일 정리하는 법](https://seoulnight.tistory.com/349)
+- [[회고] 소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들 :: Jay's Code Factory](https://jay-ji.tistory.com/42)
 
 
  <br/><br/>
