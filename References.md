@@ -168,6 +168,8 @@ COEX Grand Ballroom)
 - [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
 - [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)
     - [Artificial Intelligence Online Courses | Udacity](https://www.udacity.com/school-of-ai)
+    - [Scholarships | Udacity](https://www.udacity.com/scholarships)
+    - [Udacity Inc – Medium](https://medium.com/udacity)
 - [| K-MOOC](http://www.kmooc.kr/)
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)  <br><br>
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
@@ -277,6 +279,7 @@ COEX Grand Ballroom)
     - [Presentations by Lucy Park - Speaker Deck](https://speakerdeck.com/e9t)
 - [Yoonseok Pyo](http://robotpilot.net/) (표윤석, robotics)
 - [IT 기술 따라잡기 :: IT 기술 따라잡기](https://coronasdk.tistory.com/)
+- [Blog · Jinyong](http://jinyongjeong.github.io/) (Jinyong Jeong)
 
 
  <br/><br/>
@@ -444,6 +447,9 @@ COEX Grand Ballroom)
 - [청년허브 - 청년허브](https://youthhub.kr/)
 - [Remove Background from Image – remove.bg](https://www.remove.bg/)
 - [Guide 2 Research](http://www.guide2research.com/)
+- [HolonIQ. Global Education Market Intelligence](https://www.holoniq.com/)
+- [BuiltWith Technology Lookup](https://builtwith.com/)
+- [The Open Graph protocol](https://ogp.me/) (facebook)
 
 
  <br/><br/>
