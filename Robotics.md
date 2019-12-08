@@ -33,12 +33,14 @@ Robotics
 - [ROS-Industrial](https://rosindustrial.org/)
 - [RTAB-Map | Real-Time Appearance-Based Mapping](http://introlab.github.io/rtabmap/)
 - [3DGEMS - 3D Gazebo Models](http://data.nvision2.eecs.yorku.ca/3DGEMS/)
+- [Overview — Drake Documentation](https://drake.mit.edu/) (Model-based design and verification for robotics)
 
 
  <br/><br/>
  
 
 ### Company & Community
+- [한국로봇학회](http://kros.org/)
 - [로보티즈](http://www.robotis.com/)
 - [Simbe | Changing business-as-usual for retailers around the globe.](https://www.simberobotics.com/) (Better retail for all)
 - [Transforming Manual Machines Into Autonomous Solutions | Brain Corp](https://www.braincorp.com/)
@@ -88,6 +90,8 @@ Robotics
 - [PinkWink :: ROS 3D 시각화 툴 RViz 쉽게 쉽게 처음 시작해보기](https://pinkwink.kr/903)
 - [A Tutorial on Graph-Based SLAM](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
 - [ATmega128 - 8-bit AVR Microcontrollers](https://www.microchip.com/wwwproducts/en/ATMEGA128)
+- [[SLAM] Bayes filter(베이즈 필터) · Jinyong](http://jinyongjeong.github.io/2017/02/13/lec01_SLAM_bayes_filter/)
+- [pathplanforMAV_icra13.pdf](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf) (Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environment)
 
 
  <br/><br/>
