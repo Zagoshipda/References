@@ -211,6 +211,12 @@ Startup lists
 - [Standigm - Standigm](http://www.standigm.com/) : biomedical AI, drug
 - [포켓샐러드&라이스 - 샐러드 배달 대표 브랜드](https://pocketsalad.co.kr/) : 샐러드
 - [MakinaRocks | Machine Intelligence for Manufacturing](http://www.makinarocks.ai/) : AI
+- [무비블록](http://moviebloc.io/ko/) : blockchain, movie
+- [Laguro](https://www.laguro.com/) : dental
+- [아워박스](http://ourbox.co.kr/) : 물류
+- [HelloBell](http://www.hellofactory.co.kr/en/) : 레스토랑 스마트 오더 벨
+- [태블릿주문시스템 호잇](http://hoeat.co.kr/index.php) : 태블릿 주문 시스템
+- [온디멘드 외식 중개 플랫폼, 달리셔스](https://dalicious.co/) : 외식 중계 플랫폼
 
 
  <br/><br/>
