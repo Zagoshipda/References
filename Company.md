@@ -67,6 +67,7 @@ Company sites for Developers
 - [Riot Games Technology](https://technology.riotgames.com/)
 - [Disney Open Source](https://disney.github.io/)
 - [Engineering](https://engineering.grab.com/) (Grab)
+- [Home - Landing AI](https://landing.ai/) (Empowering companies to jumpstart AI and realize practical value)
 - [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)  <br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
