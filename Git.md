@@ -132,6 +132,7 @@ How to Git & Github
     - [Git LFS (Large File Storage) - 100MB 이상의 파일을 깃허브에 올리기::코딩하는 매직 독](https://dobby-the-house-elf.tistory.com/75)
 - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
 - [Duplicating a repository - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)  <br/><br/>
+- [How to write a great README for your GitHub project – dbader.org](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 
 
  <br/><br/>
