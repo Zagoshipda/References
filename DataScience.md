@@ -31,7 +31,8 @@ Data Science : AI & ML & DL & RL
 - [Machine learning 스터디 (20-1) Multi-armed Bandit - README](http://sanghyukchun.github.io/96/) (SanghyukChun's Blog, ML)
 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera](https://www.coursera.org/learn/introduction-tensorflow)
 - [C++로 배우는 딥러닝 : 네이버 블로그](https://blog.naver.com/atelierjpro/220697890605) (홍정모)  <br/><br/>
-- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) 
+- [Fundamental of Reinforcement Learning](https://dnddnjs.gitbook.io/rl/) (이웅원 Woong won Lee)
+    - [Fundamental of Reinforcement Learning · GitBook (Legacy)](https://legacy.gitbook.com/book/dnddnjs/rl/details)
 - [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn?fbclid=IwAR1h3TzAbHjvrqQASWoS_CzoQRNVhcBmDEYsdY9xjO1rVEQMTXfUS0pVjmw) (박진우, The 9th KIAS CAC Summer School 발표자료)
 - [All about Reinforcement learning](https://wonseokjung.github.io/) (wonseok Jung, 정원석, Reinforcement Learning)
 - [Deep RL Bootcamp - Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR0HNAcMkAbAnP5LaRopCCIJg_-wSUSmQdbxpgSJM0gTwODnHLzKj3oBcNw)  (video & slides & labs)
@@ -103,6 +104,11 @@ Data Science : AI & ML & DL & RL
 - [데이터 지능 팟캐스트 – 전문가들이 들려주는 데이터 & 인공지능 이야기](http://data-intelligence.io/)
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](https://pandas.pydata.org/)
 - [SUALAB Research Blog](http://research.sualab.com/)
+- [Welcome to SNU Biointelligence Lab!!](https://bi.snu.ac.kr/~scai/) (Courses : AI, ML)
+- [테크 스케치 : 네이버 블로그](http://it.plusblog.co.kr/221237740235) (파이썬과 텐서플로우(Python & Tensorflow)를 이용한 머신러닝 스터디)  <br><br>
+- [[RL] Prologue](https://sumniya.tistory.com/1?category=781572) (숨니의 무작정 따라하기)
+- [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
+- [Machine Learning ](https://bkshin.tistory.com/category/Machine%20Learning) (귀퉁이 서재, Baek Kyun Shin)
 
 
  <br><br>
@@ -125,17 +131,13 @@ Data Science : AI & ML & DL & RL
     - [GLUE: 벤치마크를 통해 BERT 이해하기 - Programador | Huffon Blog](https://huffon.github.io/2019/11/16/glue/)
 - [RL](https://norman3.github.io/rl/) (RL을 시작하기 전에 미리 알아야 하는 내용들)
 - [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
-
-
- <br><br>
-
-
-
-### Blogs
-- [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
-- [Machine Learning ](https://bkshin.tistory.com/category/Machine%20Learning) (귀퉁이 서재, Baek Kyun Shin)
-- [인공지능/케라스창시자에게 배우는 딥러닝](https://ssungkang.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EC%BC%80%EB%9D%BC%EC%8A%A4%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D) (수학과의 좌충우돌 프로그래밍)
-- [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)
+- [Tombone's Computer Vision Blog: Computer Vision and Visual SLAM vs. AI Agents](http://www.computervisionblog.com/2019/11/computer-vision-and-visual-slam-vs-ai.html)
+- [[A-GIST R&V] Does Computer Vision Matter for Action? - YouTube](https://www.youtube.com/watch?v=e6q76OdIQ5U)
+    - [20191210_Does Compter Vision Matter for Action_yongyilee.pdf - Google 드라이브](https://drive.google.com/file/d/184Cs0no5484D9REvInEx4nCt0oUOnzBi/view)
+- [Getting Started with Markov Decision Processes: Reinforcement Learning](https://towardsdatascience.com/getting-started-with-markov-decision-processes-reinforcement-learning-ada7b4572ffb)
+- [Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
+    - [인공지능/케라스창시자에게 배우는 딥러닝](https://ssungkang.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EC%BC%80%EB%9D%BC%EC%8A%A4%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D) (수학과의 좌충우돌 프로그래밍)
+    - [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)  <br><br>
 
 
  <br><br>
@@ -152,7 +154,9 @@ Data Science : AI & ML & DL & RL
 - [[1911.04252] Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 - [[1911.08265] Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
 - [[1911.09070] EfficientDet: Scalable and Efficient Object Detection](https://arxiv.org/abs/1911.09070)
-    - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/)
+    - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/) 
+ <br><br>
+- [[1912.02807] Combining Q-Learning and Search with Amortized Value Estimates](https://arxiv.org/abs/1912.02807)
 
 
  <br><br>
