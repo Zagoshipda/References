@@ -10,12 +10,16 @@ Robotics
     - [Questions - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/questions/)
     - [Documentation - ROS Wiki](http://wiki.ros.org/)
         - [rviz - ROS Wiki](http://wiki.ros.org/rviz)
+        - [catkin - ROS Wiki](http://wiki.ros.org/catkin)
         - [catkin/commands/catkin_make - ROS Wiki](http://wiki.ros.org/catkin/commands/catkin_make)
         - [ROS/Tutorials/BuildingPackages - ROS Wiki](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
         - [rtabmap_ros - ROS Wiki](http://wiki.ros.org/rtabmap_ros)
         - [rgbdslam - ROS Wiki](http://wiki.ros.org/rgbdslam)
         - [urdf/Tutorials/Building a Visual Robot Model with URDF from Scratch - ROS Wiki](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratch)
         - [universal_robots - ROS Wiki](http://wiki.ros.org/action/show/universal_robots)
+        - [rviz/Tutorials/Markers: Basic Shapes - ROS Wiki](http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Basic%20Shapes)
+        - [___roscpp/Overview/Callbacks and Spinning - ROS Wiki___](http://wiki.ros.org/roscpp/Overview/Callbacks%20and%20Spinning)
+        - [roscpp/Overview/Publishers and Subscribers - ROS Wiki](http://wiki.ros.org/roscpp/Overview/Publishers%20and%20Subscribers)
     - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [로봇신문사](http://www.irobotnews.com/)
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
@@ -92,6 +96,7 @@ Robotics
 - [ATmega128 - 8-bit AVR Microcontrollers](https://www.microchip.com/wwwproducts/en/ATMEGA128)
 - [[SLAM] Bayes filter(베이즈 필터) · Jinyong](http://jinyongjeong.github.io/2017/02/13/lec01_SLAM_bayes_filter/)
 - [pathplanforMAV_icra13.pdf](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf) (Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environment)
+- [Publishing to a topic via subscriber callback function - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/59725/publishing-to-a-topic-via-subscriber-callback-function/)
 
 
  <br/><br/>
