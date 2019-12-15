@@ -38,6 +38,9 @@ Robotics
 - [RTAB-Map | Real-Time Appearance-Based Mapping](http://introlab.github.io/rtabmap/)
 - [3DGEMS - 3D Gazebo Models](http://data.nvision2.eecs.yorku.ca/3DGEMS/)
 - [Overview — Drake Documentation](https://drake.mit.edu/) (Model-based design and verification for robotics)
+- [___QUT Robot Academy___](https://robotacademy.net.au/) (The open online robotics education resource)
+- [___Robotics - YouTube___](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA) (Bob Trenwith)
+- [___Modern Robotics, All Videos - YouTube___](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) (Northwestern Robotics)
 
 
  <br/><br/>
@@ -63,6 +66,7 @@ Robotics
 - [Join Udacity-Robotics on Slack!](https://slackin.udacity.com/robotics)
 - [Frontpage | Mobile Industrial Robots](https://www.mobile-industrial-robots.com/en/)
 - [YUJIN ROBOT](https://yujinrobot.com/)
+- [Center for Robotics and Biosystems - Northwestern University](https://robotics.northwestern.edu/)  <br/><br/>
 
 
  <br/><br/>
@@ -97,6 +101,11 @@ Robotics
 - [[SLAM] Bayes filter(베이즈 필터) · Jinyong](http://jinyongjeong.github.io/2017/02/13/lec01_SLAM_bayes_filter/)
 - [pathplanforMAV_icra13.pdf](https://www.cs.cmu.edu/~maxim/files/pathplanforMAV_icra13.pdf) (Path Planning for Non-Circular Micro Aerial Vehicles in Constrained Environment)
 - [Publishing to a topic via subscriber callback function - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/question/59725/publishing-to-a-topic-via-subscriber-callback-function/)
+- [Task and Configuration space | Robot Academy](https://robotacademy.net.au/lesson/task-and-configuration-space/)
+    - [Configuration Space - an overview | ScienceDirect Topics](https://www.sciencedirect.com/topics/engineering/configuration-space)
+    - [robotics.pdf - SNUx_Chapter_2.pdf](http://robotics.snu.ac.kr/edX/2014-1/lecturenotes/SNUx_Chapter_2.pdf)
+    - [Microsoft PowerPoint - Lec10-ConfigurationSpace.pptx - Lec10-ConfigurationSpace.pdf](http://courses.csail.mit.edu/6.141/spring2010/pub/lectures/Lec10-ConfigurationSpace.pdf)
+    - [Microsoft PowerPoint - Chap3-Config-Space_howie.ppt - Chap3-Config-Space_howie.pdf](https://www.cs.cmu.edu/~motionplanning/lecture/Chap3-Config-Space_howie.pdf)  <br/><br/>
 
 
  <br/><br/>
