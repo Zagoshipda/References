@@ -9,6 +9,8 @@ Robotics
 - [ROS.org | Powering the world's robots](https://www.ros.org/)
     - [Questions - ROS Answers: Open Source Q&A Forum](https://answers.ros.org/questions/)
     - [Documentation - ROS Wiki](http://wiki.ros.org/)
+        - [CppStyleGuide - ROS Wiki](http://wiki.ros.org/CppStyleGuide)
+        - [kinetic/Installation/Ubuntu - ROS Wiki](https://wiki.ros.org/kinetic/Installation/Ubuntu)
         - [rviz - ROS Wiki](http://wiki.ros.org/rviz)
         - [catkin - ROS Wiki](http://wiki.ros.org/catkin)
         - [catkin/commands/catkin_make - ROS Wiki](http://wiki.ros.org/catkin/commands/catkin_make)
@@ -20,6 +22,7 @@ Robotics
         - [rviz/Tutorials/Markers: Basic Shapes - ROS Wiki](http://wiki.ros.org/rviz/Tutorials/Markers%3A%20Basic%20Shapes)
         - [___roscpp/Overview/Callbacks and Spinning - ROS Wiki___](http://wiki.ros.org/roscpp/Overview/Callbacks%20and%20Spinning)
         - [roscpp/Overview/Publishers and Subscribers - ROS Wiki](http://wiki.ros.org/roscpp/Overview/Publishers%20and%20Subscribers)
+        - [amcl - ROS Wiki](http://wiki.ros.org/amcl)
     - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [로봇신문사](http://www.irobotnews.com/)
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
@@ -40,7 +43,8 @@ Robotics
 - [Overview — Drake Documentation](https://drake.mit.edu/) (Model-based design and verification for robotics)
 - [___QUT Robot Academy___](https://robotacademy.net.au/) (The open online robotics education resource)
 - [___Robotics - YouTube___](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA) (Bob Trenwith)
-- [___Modern Robotics, All Videos - YouTube___](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) (Northwestern Robotics)
+- [___Modern Robotics, All Videos - YouTube___](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx) (Northwestern Robotics)  <br/><br/>
+- [Gazebo: Gazebo API Reference](http://osrf-distributions.s3.amazonaws.com/gazebo/api/1.6.3/index.html)
 
 
  <br/><br/>
