@@ -280,6 +280,8 @@ COEX Grand Ballroom)
 - [Yoonseok Pyo](http://robotpilot.net/) (표윤석, robotics)
 - [IT 기술 따라잡기 :: IT 기술 따라잡기](https://coronasdk.tistory.com/)
 - [Blog · Jinyong](http://jinyongjeong.github.io/) (Jinyong Jeong)
+- [martinfowler.com](https://martinfowler.com/) (refactoring)
+- [Logic's home](http://simpleai.co.kr/)
 
 
  <br/><br/>
@@ -450,6 +452,7 @@ COEX Grand Ballroom)
 - [HolonIQ. Global Education Market Intelligence](https://www.holoniq.com/)
 - [BuiltWith Technology Lookup](https://builtwith.com/)
 - [The Open Graph protocol](https://ogp.me/) (facebook)
+- [Dark Patterns](https://www.darkpatterns.org/)  <br/><br/>
 
 
  <br/><br/>
