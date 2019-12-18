@@ -23,7 +23,7 @@ How to Git & Github
 - [생활코딩 - 지옥에서 온 Git(Git from the HELL)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA8iwZwrGyNXCGy2LAAsTXk)
 - [___A successful Git branching model » nvie.com___](https://nvie.com/posts/a-successful-git-branching-model/)  <br/><br/>
 - [[GitHub] Git 브랜치의 종류 및 사용법 (5가지) - Heee's Development Blog](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
-- [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268?fbclid=IwAR0czFuOQALN6gybwm2CnKmf7nBApFeT07-Y-AUZ5In3prcW7_bTzUYZlC8)
+- [초보자를 위한 Git & GitHub](https://www.slideshare.net/jayjin0427/git-github-145104268)
 - [SE 스타트업 엔지니어링 - 깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
 - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
