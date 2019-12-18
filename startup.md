@@ -34,6 +34,7 @@ Startup References
 - [DREAMPLUS](https://dreamplus.io/)
 - [Altos Ventures](https://altos.vc/)
 - [SpringCamp](http://springcamp.co/)
+    - [스프링살롱 - YouTube](https://www.youtube.com/channel/UCgAfjD0SqrpAROcu2z6aAng/videos)
 - [Strong Ventures | A seed fund, based in California, that finances, supports and mentors Korean/Asian/Global entrepreneurs](http://www.strongvc.com/) <br/><br/>
 - [알펜루트자산운용](http://alpenroute.com/)
 - [Yellowdog – 옐로우독](http://www.yellowdog.kr/en/)
@@ -56,6 +57,8 @@ Startup References
 - [Build. Grow. Scale - Samsung NEXT](https://samsungnext.com/)
 - [Founder Institute: World's premier idea-stage accelerator & startup launch program.](https://fi.co/)  <br/><br/>
 - [Home - KRYPTON](http://krypton36.co/)
+- [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
+- [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
 
 
  <br/><br/>
@@ -71,18 +74,23 @@ Startup References
 
 
 ### Media
+- [TechCrunch – Startup and Technology News](https://techcrunch.com/)
 - [플래텀(Platum) - 'Startup's Story Platform’](https://platum.kr/)
 - [스타트업 전문 미디어 서비스 플랫폼 - 벤처스퀘어](http://www.venturesquare.net/)
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
 - [스타트업4(Startup4) 창업전문지](http://www.startup4.co.kr/)
 - [Vertical Platform | 버티컬 플랫폼](https://verticalplatform.kr/)
 - [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
-- [스프링살롱 - YouTube](https://www.youtube.com/channel/UCgAfjD0SqrpAROcu2z6aAng/videos)
 - [EO - YouTube](https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q/featured)
 - [브랜드 디자인 | 가지공장 | 대한민국](https://www.eggplantfactory.co.kr/)
 - [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
 - [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/)
 - [와우테일(WOWTALE) – 스타트업과 투자자를 이어주는 이야기](https://wowtale.net/)
+- [techNeedle 테크니들](http://techneedle.com/) (global tech news & insight)
+- [JOH & Company](http://johcompany.com/) (Magazine B, Brand Documentary Magazine)
+- [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
+- [TECH M](http://techm.kr/)
+- [맥갤러리](https://post.naver.com/my.nhn?memberNo=6384148)
 
 
  <br/><br/>
@@ -124,7 +132,10 @@ Startup References
 - [VCNC Blog](https://blog.vcnc.co.kr/) (쏘카, 타다, 비트윈) <br><br>
 - [에스티마의 인터넷이야기 EstimaStory.com | Thoughts on Internet](https://estimastory.com/) (임정욱 Startup Alliance 센터장)
 - [조성문의 블로그 – Sungmoon's Thoughts](https://sungmooncho.com/) (조성문 chartmetric.io CEO)
+    - [리드 호프만 – 조성문의 블로그](https://sungmooncho.com/tag/%EB%A6%AC%EB%93%9C-%ED%98%B8%ED%94%84%EB%A7%8C/) (___실리콘밸리의 파워 그룹, 페이팔 마피아(Paypal Mafia)___)
+    - [PayPal Mafia - Wikipedia](https://en.wikipedia.org/wiki/PayPal_Mafia)
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
+    - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](https://liveandventure.com/2013/04/27/valuation1/)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)  <br/><br/>
 - [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
@@ -132,6 +143,10 @@ Startup References
 - [원모먼트 인사이드 매거진](https://brunch.co.kr/magazine/1moment-people)
 - [황성재 PhD의 브런치](https://brunch.co.kr/@uxinventor)
 - [Jiyeon Song의 브런치](https://brunch.co.kr/@jiyeonsongofnt) (AB180)
+- [Paul Graham](http://www.paulgraham.com/index.html) (Y combinator)
+- [Reid Hoffman - Entrepreneur. Investor. Strategist.](https://www.reidhoffman.org/) (linkedin)
+- [The Pitch - Blog of Startups.](https://www.chrischae.kr/) (채수빈, Pixelic)
+    - [지금 듣고 있는 팟캐스트들](https://www.chrischae.kr/podcasts-im-listening-to/) (___투자, 스타트업, 테크 팟캐스트 추천___)
 
 
  <br/><br/>
