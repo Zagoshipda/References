@@ -109,6 +109,11 @@ Data Science : AI & ML & DL & RL
 - [[RL] Prologue](https://sumniya.tistory.com/1?category=781572) (숨니의 무작정 따라하기)
 - [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com/)
 - [Machine Learning ](https://bkshin.tistory.com/category/Machine%20Learning) (귀퉁이 서재, Baek Kyun Shin)
+- [___OpenCV___](https://opencv.org/) (Open Source Computer Vision)
+    - [OpenCV 튜토리얼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1Hu5LDe0_8zDwik4OdK6AYX_5DasiFd281ZHAWo-oMJI/)
+    - [Welcome to OpenCV-Python Tutorials’s documentation! — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
+        - [Template Matching — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
+- [OpenResearch.ai](http://openresearch.ai/)
 
 
  <br><br>
@@ -138,6 +143,8 @@ Data Science : AI & ML & DL & RL
 - [Deep Learning with Python: Francois Chollet: 9781617294433: Amazon.com: Books](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438)
     - [인공지능/케라스창시자에게 배우는 딥러닝](https://ssungkang.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/%EC%BC%80%EB%9D%BC%EC%8A%A4%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EB%94%A5%EB%9F%AC%EB%8B%9D) (수학과의 좌충우돌 프로그래밍)
     - [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)  <br><br>
+- [DeepOverwatch — combining TensorFlow.js, Overwatch, Computer Vision, and Music.](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0?)
+- [Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
 
 
  <br><br>
@@ -157,6 +164,17 @@ Data Science : AI & ML & DL & RL
     - [“EfficientDet ： Scalable and Efficient Object Detection Review”](https://hoya012.github.io/blog/EfficientDet-Review/) 
  <br><br>
 - [[1912.02807] Combining Q-Learning and Search with Amortized Value Estimates](https://arxiv.org/abs/1912.02807)
+- [___[1506.02640] You Only Look Once: Unified, Real-Time Object Detection___](https://arxiv.org/abs/1506.02640)
+    - [[1612.08242] YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
+    - [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+    - [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/practice/2018/05/14/image-detection-deep-learning.html)
+    - [개발자 이상현 :: [6] YOLO 데이터(이미지) 학습](https://pgmrlsh.tistory.com/6)
+    - [(YOLO) You Only Look Once: Unifed, Real-Time Object Detection - Convolutional Neural Network / Object Detection - OpenResearch.ai](http://openresearch.ai/t/yolo-you-only-look-once-unifed-real-time-object-detection/67)
+    - [[object detection] YOLO 모델의 원리](https://wdprogrammer.tistory.com/50)
+    - [___[분석] YOLO___](https://curt-park.github.io/2017-03-26/yolo/)
+    - [YOLO, Object Detection Network   : 네이버 블로그](http://blog.naver.com/PostView.nhn?blogId=sogangori&logNo=220993971883)
+    - [[논문 요약12] You Only Look Once: Unified, Real-Time Object Detection](https://arclab.tistory.com/167)
+    - [[Deeplearning] YOLO!, You Only Look Once : Unified, Real-Time object Detection :: Martin](https://dhhwang89.tistory.com/51)  <br><br>
 
 
  <br><br>
