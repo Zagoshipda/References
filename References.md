@@ -363,6 +363,9 @@ COEX Grand Ballroom)
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
     - [Kubeflow](https://www.kubeflow.org/)  <br/><br/>
 - [CMake](https://cmake.org/)
+- [Next.js - The React Framework](https://nextjs.org/)
+- [Prisma - Database tools for modern application development](https://www.prisma.io/)
+- [Databricks - Unified Data Analytics](https://databricks.com/)
  <br/><br/><br/>
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
