@@ -217,6 +217,9 @@ Startup lists
 - [HelloBell](http://www.hellofactory.co.kr/en/) : 레스토랑 스마트 오더 벨
 - [태블릿주문시스템 호잇](http://hoeat.co.kr/index.php) : 태블릿 주문 시스템
 - [온디멘드 외식 중개 플랫폼, 달리셔스](https://dalicious.co/) : 외식 중계 플랫폼
+- [Nuro](https://nuro.ai/) : self-driving delivery
+- [Aurora Innovation | Aurora](https://aurora.tech/) : self-driving
+- [Restaurants, Dentists, Bars, Beauty Salons, Doctors - Yelp](https://www.yelp.com/) : User Reviews and Recommendations
 
 
  <br/><br/>
