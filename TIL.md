@@ -92,6 +92,9 @@ Today I Learned
 - [잠꾸러기 :: slack 파일 삭제하기](https://teardrop7.tistory.com/101)
 - [코딩 알못을 위한 슬랙(Slack) 오래된 파일 정리하는 법](https://seoulnight.tistory.com/349)
 - [[회고] 소주 1병 조지고 쓴 1년차 개발자의 아찔했던 순간들 :: Jay's Code Factory](https://jay-ji.tistory.com/42)
+- [Minkowski sums and differences | Twisted Oak Studios Blog](http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences)
+- [Transfer Learning in SUALAB: 데이터셋 제작부터 Adaptive Transfer Learning까지](http://research.sualab.com/introduction/review/2019/12/19/transfer-learning-in-sualab.html)
+- [Helping machines perceive some laws of physics  | MIT News](http://news.mit.edu/2019/adept-ai-machines-laws-physics-1202)
 
 
  <br/><br/>
