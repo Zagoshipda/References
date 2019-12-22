@@ -95,6 +95,7 @@ Today I Learned
 - [Minkowski sums and differences | Twisted Oak Studios Blog](http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences)
 - [Transfer Learning in SUALAB: 데이터셋 제작부터 Adaptive Transfer Learning까지](http://research.sualab.com/introduction/review/2019/12/19/transfer-learning-in-sualab.html)
 - [Helping machines perceive some laws of physics  | MIT News](http://news.mit.edu/2019/adept-ai-machines-laws-physics-1202)
+- [[개발人] 송창현 "개발자도 기획자다" | Bloter.net](http://www.bloter.net/archives/166736)
 
 
  <br/><br/>
@@ -106,6 +107,8 @@ Today I Learned
 - [보이저엑스에서의 인턴생활 - Jiseop Han - Medium](https://medium.com/@jiseop_han/%EB%B3%B4%EC%9D%B4%EC%A0%80%EC%97%91%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%83%9D%ED%99%9C-f5ccb8eeabc8)
 - [사회 초년생이 바라본 레이니스트 - Banksalad Tech - Medium](https://medium.com/rainist-engineering/reviewing-rainist-by-newcomer-e2ecbf9ad812)
 - [쇼핑몰도 없이 아마존 대항마로 부상한 비결 - T Times](http://www.ttimes.co.kr/view.html?no=2019091618157718260)
+- [Bill Gates interview: How the world will change by 2030 - YouTube](https://www.youtube.com/watch?v=8RETFyDKcw0)
+- [Why CEOs should spend up to half their time recruiting | TechCrunch](https://techcrunch.com/2019/12/17/why-ceos-should-spend-up-to-half-their-time-recruiting/)
 
 
  <br/><br/>
