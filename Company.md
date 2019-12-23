@@ -38,26 +38,28 @@ Company sites for Developers
 - [Android Developers](https://developer.android.com/)  <br/><br/>
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
+    - [___Open Source___](https://opensource.facebook.com/) (React, Hermes, PyTorch)
 - [Facebook AI](https://ai.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
+- [Amazon Lab126 | Amazon.jobs](https://amazon.jobs/en/teams/lab126/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
     - [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
         - [KOR201 - A brief overview of new launches for Korean customers, Channy Yun - AWS re:Invent 2019 ](https://www.slideshare.net/awskorea/kor201-new-service-launches-aws-reinvent-2019)
     - [AWS Documentation](https://docs.aws.amazon.com/)
     - [AWS Developer Forums: Discussion Forums](https://forums.aws.amazon.com/index.jspa)
-    - [AWS DeepRacer - the fastest way to get rolling with machine learning](https://aws.amazon.com/deepracer/)
+    - [AWS DeepRacer - the fastest way to get rolling with machine learning](https://aws.amazon.com/deepracer/)  <br/><br/>
 - [Apple Developer](https://developer.apple.com/)
 - [Artificial Intelligence Computing Leadership from NVIDIA](https://www.nvidia.com/en-us/)
     - [NVIDIA Developer](https://developer.nvidia.com/)
     - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
     - [The Official NVIDIA Blog](https://blogs.nvidia.com/)
-    - [| Deep Learning Institute](https://courses.nvidia.com/courses)  <br/><br/>
+    - [| Deep Learning Institute](https://courses.nvidia.com/courses)
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
 - [IBM Developer – IBM Developer](https://developer.ibm.com/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozilla Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials)
-    - [Mozilla Developer - YouTube](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w/featured)
+    - [Mozilla Developer - YouTube](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w/featured)  <br/><br/>
 - [PayPal Engineering – Medium](https://medium.com/paypal-engineering)
 - [Airbnb Engineering & Data Science – Medium](https://medium.com/airbnb-engineering)
 - [Uber Engineering Blog](https://eng.uber.com/)
@@ -70,6 +72,7 @@ Company sites for Developers
 - [Home - Landing AI](https://landing.ai/) (Empowering companies to jumpstart AI and realize practical value)
 - [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)  <br/><br/>
+<br/><br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
