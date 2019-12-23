@@ -90,6 +90,7 @@ References
 - [Tech Xplore - Technology and Engineering news](https://techxplore.com/)
 - [신뢰 그 이상의 가치 : 코인데스크코리아](https://www.coindeskkorea.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
+- [Hacker Noon](https://hackernoon.com/)
 
 
  <br/><br/>
@@ -366,6 +367,9 @@ COEX Grand Ballroom)
 - [Next.js - The React Framework](https://nextjs.org/)
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
 - [Databricks - Unified Data Analytics](https://databricks.com/)
+- [___Data Version Control · DVC___](https://dvc.org/)
+    - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-control-using-dvc-github-c629511e95b5)
+- [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
  <br/><br/><br/>
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
@@ -380,6 +384,7 @@ COEX Grand Ballroom)
 - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
     - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [Let knowledge flow | Additor](https://additor.io/)
+- [Lookback: Simple and powerful user research](https://lookback.io/)
 
 
  <br/><br/>
