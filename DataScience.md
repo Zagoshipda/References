@@ -114,6 +114,8 @@ Data Science : AI & ML & DL & RL
     - [Welcome to OpenCV-Python Tutorials’s documentation! — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
         - [Template Matching — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
 - [OpenResearch.ai](http://openresearch.ai/)
+- [TensorFlow: Data and Deployment | Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
+- [‍김성범[ 교수 / 산업경영공학부 ] - YouTube](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos) ([핵심 머신러닝])
 
 
  <br><br>
@@ -145,6 +147,7 @@ Data Science : AI & ML & DL & RL
     - [케라스 창시자에게 배우는 딥러닝 - Subinium의 코딩일지](https://subinium.github.io/Keras/)  <br><br>
 - [DeepOverwatch — combining TensorFlow.js, Overwatch, Computer Vision, and Music.](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0?)
 - [Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
+- [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies)
 
 
  <br><br>
