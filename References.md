@@ -219,6 +219,7 @@ COEX Grand Ballroom)
 - [Home | Mbed](https://www.mbed.com/en/) (mbed-os)
     - [mbed 기초 강좌 : 01. mbed 소개 | Mbed](https://os.mbed.com/users/passionvirus/notebook/basic1/)
 - [dblp: computer science bibliography](https://dblp.uni-trier.de/)
+- [ScienceDirect.com | Science, health and medical journals, full text articles and books.](https://www.sciencedirect.com/)
 
 
  <br/><br/>
