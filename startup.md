@@ -104,6 +104,7 @@ Startup References
 - [Home | STEX](https://startupexchange.mit.edu/) (MIT Startup Exchange)
 - [ROOT IMPACT](http://rootimpact.org/v2/intro.php) (heyground)
 - [서울대학교 창업지원단](https://startup.snu.ac.kr/)
+- [Crunchbase: Discover innovative companies and the people behind them](https://www.crunchbase.com/)
 
 
  <br/><br/>
@@ -173,6 +174,7 @@ Startup References
 - [What Makes The Top 10% Of Founders Different? - Michael Seibel - YouTube](https://www.youtube.com/watch?v=ZtfTOuSHGg8)
 - [오픈애즈:마케팅 정보 큐레이션](http://www.openads.co.kr/home/index.nhn)
 - [Strategyzer | Corporate Innovation Strategy, Tools & Training](https://www.strategyzer.com/) (Business Model Canvas)
+- [The Holloway Syllabus on ___Company Culture___ — Holloway](https://www.holloway.com/s/syllabus-company-culture) (230+ resources you need to learn the ins and outs of company culture.)
 
 
  <br/><br/>
