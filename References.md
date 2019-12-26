@@ -78,6 +78,7 @@ References
 - [etainclub](https://etain.club/) (이타인클럽 - 우리 동네 도움 선순환 운동)
 - [해봄살롱 | 소소한 성취가 있는 자기계발 모임 서비스](https://www.haebomsalon.com/)
 - [대한민국 로봇봉사단](http://robotvolunteer.com/)
+- [대문](https://www.joinc.co.kr/) (Joinc)
 
 
  <br/><br/>
@@ -220,6 +221,8 @@ COEX Grand Ballroom)
     - [mbed 기초 강좌 : 01. mbed 소개 | Mbed](https://os.mbed.com/users/passionvirus/notebook/basic1/)
 - [dblp: computer science bibliography](https://dblp.uni-trier.de/)
 - [ScienceDirect.com | Science, health and medical journals, full text articles and books.](https://www.sciencedirect.com/)
+- [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+- [Open MPI: Open Source High Performance Computing](https://www.open-mpi.org/)
 
 
  <br/><br/>
@@ -288,6 +291,12 @@ COEX Grand Ballroom)
     - [개발자 이상현 :: 문맹 청각장애인을 위한 AI 수화 번역 어플리케이션](https://pgmrlsh.tistory.com/21)
 - [딥러닝 논문 요약, 명상 : 네이버 블로그](https://blog.naver.com/sogangori) (Park Chunduck)
 - [DevBoard](https://pw486.github.io/) (임동건, Donggeon Lim)  <br/><br/>
+- [Mimul - Software Engineer, Blogger, Biker](https://www.mimul.com/) (하호진)
+    - [CTO는 무엇을 해야하나? | Mimul Tech log](https://www.mimul.com/blog/what-does-a-cto-do/)
+- [Greg Brockman's Home Page](https://gregbrockman.com/)
+    - [___#define CTO___](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
+- [Amr A. Awadallah](http://www.awadallah.com/)
+    - [What does a CTO do? » Amr Awadallah Blog](http://www.awadallah.com/blog/2013/03/05/what-does-a-cto-do-2/)
 
 
  <br/><br/>
@@ -371,6 +380,9 @@ COEX Grand Ballroom)
 - [___Data Version Control · DVC___](https://dvc.org/)
     - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-control-using-dvc-github-c629511e95b5)
 - [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
+- [Apache Mesos](http://mesos.apache.org/)
+    - [Mesos :: 개인적인공간](https://brownbears.tistory.com/261)
+    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)
  <br/><br/><br/>
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
