@@ -382,7 +382,9 @@ COEX Grand Ballroom)
 - [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
 - [Apache Mesos](http://mesos.apache.org/)
     - [Mesos :: 개인적인공간](https://brownbears.tistory.com/261)
-    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)
+    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)  <br/><br/>
+- [lubuntu – lightweight, fast, easier](https://lubuntu.net/)
+- [Kotlin Programming Language](https://kotlinlang.org/)
  <br/><br/><br/>
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
