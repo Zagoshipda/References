@@ -92,6 +92,7 @@ References
 - [신뢰 그 이상의 가치 : 코인데스크코리아](https://www.coindeskkorea.com/)
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Hacker Noon](https://hackernoon.com/)
+- [WIRED Korea](https://www.wired.kr/)
 
 
  <br/><br/>
@@ -400,6 +401,7 @@ COEX Grand Ballroom)
     - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [Let knowledge flow | Additor](https://additor.io/)
 - [Lookback: Simple and powerful user research](https://lookback.io/)
+- [Swit](https://swit.io/) (One Work Suite to replace them all)
 
 
  <br/><br/>
