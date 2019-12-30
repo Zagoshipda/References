@@ -59,6 +59,7 @@ References
 - [AWS Developer Forums: Korean](https://forums.aws.amazon.com/forum.jspa?forumID=139)  <br/><br/>
 - [Saturdays.AI - Empowering anyone to learn and use Artificial Intelligence for Good](https://www.saturdays.ai/)
 - [AI•ON: Artificial Intelligence Open Network](https://ai-on.org/)
+- [Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -298,6 +299,10 @@ COEX Grand Ballroom)
     - [___#define CTO___](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe)
 - [Amr A. Awadallah](http://www.awadallah.com/)
     - [What does a CTO do? » Amr Awadallah Blog](http://www.awadallah.com/blog/2013/03/05/what-does-a-cto-do-2/)
+- [Live or Leave](https://seokjun.kim/) (김석준)
+    - [회사는 어떻게 운영해야 할까?](https://seokjun.kim/how-to-run-a-company/)
+- [home | Yogicat Frontend developer from Seoul](https://yogicat.dev/) (오다혜)
+- [로토의 블로그](https://blog.roto.codes/) (김태희)  <br/><br/>
 
 
  <br/><br/>
