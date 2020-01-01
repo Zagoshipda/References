@@ -59,6 +59,7 @@ Startup References
 - [Home - KRYPTON](http://krypton36.co/)
 - [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
 - [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
+- [FAST INVESTMENT](http://fastinvestment.co.kr/)
 
 
  <br/><br/>
