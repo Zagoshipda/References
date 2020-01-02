@@ -28,6 +28,8 @@ How to Git & Github
 - [Tower - The most powerful Git client for Mac and Windows](https://www.git-tower.com/windows)
 - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 - [Code Review에 대한 정리 · Issue #13 · JaeYeopHan/tip-archive](https://github.com/JaeYeopHan/tip-archive/issues/13)
+- [[오픈소스컨설팅]Subversion vs git - 참을 수 없는 간단함](https://www.slideshare.net/ienvyou/subversion-vs-git-42605130)
+- [Top 5 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software/)
 
 
  <br/><br/>
