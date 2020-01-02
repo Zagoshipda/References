@@ -229,7 +229,9 @@ COEX Grand Ballroom)
 - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
 - [Open MPI: Open Source High Performance Computing](https://www.open-mpi.org/)
 - [Dashboard | Codecademy](https://www.codecademy.com)
-
+- [Software Testing Help - Free Software Testing & IT Tutorials and Courses](https://www.softwaretestinghelp.com/)
+    - [TOP 40 Static Code Analysis Tools (Best Source Code Analysis Tools)](https://www.softwaretestinghelp.com/tools/top-40-static-code-analysis-tools/)
+    - [___Top 10 Most Popular Code Review Tools For Developers And Testers___](https://www.softwaretestinghelp.com/code-review-tools/)  <br/><br/>
 
 
  <br/><br/>
@@ -397,6 +399,8 @@ COEX Grand Ballroom)
     - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)  <br/><br/>
 - [lubuntu – lightweight, fast, easier](https://lubuntu.net/)
 - [Kotlin Programming Language](https://kotlinlang.org/)
+- [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
+- [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
  <br/><br/><br/>
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
