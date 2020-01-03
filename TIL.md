@@ -95,7 +95,14 @@ Today I Learned
 - [Minkowski sums and differences | Twisted Oak Studios Blog](http://twistedoakstudios.com/blog/Post554_minkowski-sums-and-differences)
 - [Transfer Learning in SUALAB: 데이터셋 제작부터 Adaptive Transfer Learning까지](http://research.sualab.com/introduction/review/2019/12/19/transfer-learning-in-sualab.html)
 - [Helping machines perceive some laws of physics  | MIT News](http://news.mit.edu/2019/adept-ai-machines-laws-physics-1202)
-- [[개발人] 송창현 "개발자도 기획자다" | Bloter.net](http://www.bloter.net/archives/166736)
+- [___[개발人] 송창현 "개발자도 기획자다" | Bloter.net___](http://www.bloter.net/archives/166736)
+- [___백엔드 개발자를 꿈꾸는 학생개발자에게___](https://d2.naver.com/news/3435170) (NAVER D2)
+    - [[어디에도 없는 진짜 스타트업 이야기] 프론트엔드 개발자 | 패스트캠퍼스 SCHOOL 블로그](http://school.fastcampus.co.kr/blog/all/70/)
+    - [[어디에도 없는 진짜 스타트업 이야기]  백엔드 개발자 | 패스트캠퍼스 SCHOOL 블로그](http://school.fastcampus.co.kr/blog/dev_wps/69/)
+    - [Node.js는 프론트엔드와 백엔드를 동시에 접할 수 있는 최적의 기술입니다 | 패스트캠퍼스 SCHOOL 블로그](http://school.fastcampus.co.kr/blog/all/107/)  <br/><br/>
+- [What is PaaS? Platform as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-paas/)
+    - [IaaS, PaaS, SaaS란 무엇인가?](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html) 
+    - [IaaS, PaaS, SaaS란 무엇인가요? | HOSTWAY - 글로벌 호스팅 전문 기업](https://www.hostway.co.kr/support/faq/iaas-paas-saas%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
 
 
  <br/><br/>
