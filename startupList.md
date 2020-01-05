@@ -220,6 +220,8 @@ Startup lists
 - [Nuro](https://nuro.ai/) : self-driving delivery
 - [Aurora Innovation | Aurora](https://aurora.tech/) : self-driving
 - [Restaurants, Dentists, Bars, Beauty Salons, Doctors - Yelp](https://www.yelp.com/) : User Reviews and Recommendations
+- [룰루랩](http://www.lulu-lab.com/) : Beauty
+- [이벤트커넥터](http://eventconnector.net/new/) : Event
 
 
  <br/><br/>
