@@ -232,6 +232,7 @@ COEX Grand Ballroom)
 - [Software Testing Help - Free Software Testing & IT Tutorials and Courses](https://www.softwaretestinghelp.com/)
     - [TOP 40 Static Code Analysis Tools (Best Source Code Analysis Tools)](https://www.softwaretestinghelp.com/tools/top-40-static-code-analysis-tools/)
     - [___Top 10 Most Popular Code Review Tools For Developers And Testers___](https://www.softwaretestinghelp.com/code-review-tools/)  <br/><br/>
+- [함께 나누는 웹개발 커뮤니티 블로그. webisfree.com](https://webisfree.com/)
 
 
  <br/><br/>
@@ -506,6 +507,8 @@ COEX Grand Ballroom)
 - [BuiltWith Technology Lookup](https://builtwith.com/)
 - [The Open Graph protocol](https://ogp.me/) (facebook)
 - [Dark Patterns](https://www.darkpatterns.org/)  <br/><br/>
+- [The Clay Mathematics Institute | Clay Mathematics Institute](http://www.claymath.org/)
+- [Stanford d.school](https://dschool.stanford.edu/)
 
 
  <br/><br/>
