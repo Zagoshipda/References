@@ -30,13 +30,14 @@ How to Git & Github
 - [Code Review에 대한 정리 · Issue #13 · JaeYeopHan/tip-archive](https://github.com/JaeYeopHan/tip-archive/issues/13)
 - [[오픈소스컨설팅]Subversion vs git - 참을 수 없는 간단함](https://www.slideshare.net/ienvyou/subversion-vs-git-42605130)
 - [Top 5 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software/)
+- [JGit | The Eclipse Foundation](https://www.eclipse.org/jgit/)
 
 
  <br/><br/>
 
 
 ### Git 
-- [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - HEAD, Index, Working Directory(tree)/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) 
+- [___Git - Reset Demystified___](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - ___HEAD, Index, Working Directory(tree)___/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) 
 - [GIT4 - Reset & Revert 4.1. reset --soft vs --mixed vs --hard](https://www.youtube.com/watch?v=DZSZowycr2o&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=6)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) 
@@ -47,7 +48,7 @@ How to Git & Github
 - [git의 merge와 rebase 비교하기](https://blog.outsider.ne.kr/666)
 - [What is the difference between `git merge` and `git merge --no-ff`? - Stack Overflow](https://stackoverflow.com/questions/9069061/what-is-the-difference-between-git-merge-and-git-merge-no-ff)  <br/><br/>
 - [Git rebase를 이용한 커밋 수정 (Interactive Rebase) « Guppy's 난중(개발)일기](https://wckhg89.github.io/archivers/rebase)
-- [Git - Rewriting History](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_git_amend) (git rebase -i HEAD~n/ git commit --amend)
+- [___Git - Rewriting History___](https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History#_git_amend) (___git rebase -i HEAD~n___ / git commit --amend)
 - [stackoverflow - Git rebase interactive drop vs deleting the commit line](https://stackoverflow.com/questions/35846154/git-rebase-interactive-drop-vs-deleting-the-commit-line)
 - [[초보용] Git 되돌리기( Reset, Revert ) | devpools blog](http://www.devpools.kr/2017/02/05/%EC%B4%88%EB%B3%B4%EC%9A%A9-git-%EB%90%98%EB%8F%8C%EB%A6%AC%EA%B8%B0-reset-revert/)
 - [[Git] 명령어(5) - reset, revert :: victolee](https://victorydntmd.tistory.com/79)
@@ -88,7 +89,9 @@ How to Git & Github
 - [망원동똑똑이 :: [Git] Changes not staged for commit (modified content, untracked content) 깃 서브모듈 인식 문제](https://secjong.tistory.com/2) (하위 .git 폴더 모두 삭제하기)
     - [하위 .git 폴더 모두 제거 - 제타위키](https://zetawiki.com/wiki/%ED%95%98%EC%9C%84_.git_%ED%8F%B4%EB%8D%94_%EB%AA%A8%EB%91%90_%EC%A0%9C%EA%B1%B0)
     - [git submodules - How to fix "modified content, untracked content" in git? - Stack Overflow](https://stackoverflow.com/questions/50167969/how-to-fix-modified-content-untracked-content-in-git/52722775)  <br/><br/>
-
+- [Git - git Documentation](https://git-scm.com/docs/git#_reset_restore_and_revert) (Reset, restore and revert)
+- [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
+ 
 
  <br/><br/>
   
@@ -135,7 +138,8 @@ How to Git & Github
 - [Creating a pull request - GitHub Help](https://help.github.com/en/articles/creating-a-pull-request)
 - [Duplicating a repository - GitHub Help](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)  <br/><br/>
 - [How to write a great README for your GitHub project – dbader.org](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
-
+- [github - What do raw.githubusercontent.com URLs represent? - Stack Overflow](https://stackoverflow.com/questions/39065921/what-do-raw-githubusercontent-com-urls-represent)
+ 
 
  <br/><br/>
 
