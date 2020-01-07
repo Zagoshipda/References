@@ -356,73 +356,6 @@ COEX Grand Ballroom)
  <br/><br/>
 
 
-### Tools
-- [Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/)
-- [Phoenix](http://www.phoenixframework.org/) (Phoenix web framework)
-- [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
-- [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
-- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
-- [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
-- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)
-- [Phacility - Home](https://www.phacility.com/) (software development platform, Phabricator)
-    - [Home](https://secure.phabricator.com/) (Phabricator guide & forum)
-- [OpenSSH](https://www.openssh.com/)  <br/><br/>
-- [Base Web - Base Web React UI Framework](https://baseweb.design/)
-- [Cloud Application Platform | Heroku](https://www.heroku.com/)
-- [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
-- [The OpenTracing project](https://opentracing.io/)
-- [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
-    - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
-- [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & Code Editor in the Browser)
-- [Proto.io - Prototypes that feel real](https://proto.io/)
-- [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  <br/><br/>
-- [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
-    - [RStudio Cloud](https://rstudio.cloud/)
-- [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
-- [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
-- [fastlane - App automation done right](https://fastlane.tools/)
-    - [fastlane docs](https://docs.fastlane.tools/)
-- [Jenkins](https://jenkins.io/) (open source automation server)
-- [Enterprise Container Platform | Docker](https://www.docker.com/)
-- [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
-    - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
-    - [Kubeflow](https://www.kubeflow.org/)  <br/><br/>
-- [CMake](https://cmake.org/)
-- [Next.js - The React Framework](https://nextjs.org/)
-- [Prisma - Database tools for modern application development](https://www.prisma.io/)
-- [Databricks - Unified Data Analytics](https://databricks.com/)
-- [___Data Version Control · DVC___](https://dvc.org/)
-    - [Data Version control & machine learning process control using DVC & GitHub](https://towardsdatascience.com/data-version-control-machine-learning-process-control-using-dvc-github-c629511e95b5)
-- [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
-- [Apache Mesos](http://mesos.apache.org/)
-    - [Mesos :: 개인적인공간](https://brownbears.tistory.com/261)
-    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)  <br/><br/>
-- [lubuntu – lightweight, fast, easier](https://lubuntu.net/)
-- [Kotlin Programming Language](https://kotlinlang.org/)
-- [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
-- [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
- <br/><br/><br/>
-- [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
-- [Tandem | A virtual office for remote teams](https://tandem.chat/)
-- [ Krisp | Noise Cancelling App](https://krisp.ai/)
-- [Otter Voice Meeting Notes - Otter.ai](https://otter.ai/login) (record and review in real time)
-- [Toggl - Free Time Tracking Software](https://toggl.com/)
-- [Clockwise](https://www.getclockwise.com/) (intelligent calendar assistant)
-- [Pixelic - Product Management Software](https://www.pixelic.io/)
-- [Quip](https://quip.com/) (collaborative productivity software)
-- [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
-- [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)  <br/><br/>
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
-    - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
-- [Let knowledge flow | Additor](https://additor.io/)
-- [Lookback: Simple and powerful user research](https://lookback.io/)
-- [Swit](https://swit.io/) (One Work Suite to replace them all)
-
-
- <br/><br/>
-
-
 ### ETCs
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
@@ -480,14 +413,10 @@ COEX Grand Ballroom)
 - [GitBook - Document Everything!](https://www.gitbook.com/)
 - [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
 - [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
-- [ZEIT - World-Class Static Hosting - ZEIT](https://zeit.co/)
-- [Eclipse JGit: Java implementation of Git | projects.eclipse.org](https://projects.eclipse.org/projects/technology.jgit)
-- [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
 - [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
     - [Hits!](http://hits.dwyl.io/)
 - [HITS](https://hits.seeyoufarm.com/)
     - [Github에 방문수 표시하는 BADGE 달기 -- Allan's Dev Talk](https://gjbae1212.github.io/posts/2019-09-21-hits/)  <br/><br/>
-- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
 - [지금의 나는 얼마나 벌었을까](https://bakbong.ml/) (박봉)
 - [Sellery](https://sellery.me/) (회사원이여, 버텨라.)
 - [우나](http://woona.kr/) (우리가 만드는 나라)
@@ -496,9 +425,8 @@ COEX Grand Ballroom)
 - [시현하다 레코더즈](https://sihyunhada.com/)
 - [알밤(albam) | 스마트한 직원관리의 시작_출퇴근기록기.자동급여계산기](https://www.albam.net/ko/)
 - [Welcome to the QGIS project!](https://qgis.org/en/site/) (A Free and Open Source Geographic Information System)
-- [GRAP](https://www.grap.io/ko/intro)  <br/><br/>
 - [Sensory Maps](https://sensorymaps.com/)
-- [selfiecity](http://selfiecity.net/) (Investigating the style of self-portraits (selfies) in five cities across the world)
+- [selfiecity](http://selfiecity.net/) (Investigating the style of self-portraits (selfies) in five cities across the world)  <br/><br/>
 - [StageFor](https://stagefor.com/event/latest)
 - [청년허브 - 청년허브](https://youthhub.kr/)
 - [Remove Background from Image – remove.bg](https://www.remove.bg/)
@@ -506,9 +434,9 @@ COEX Grand Ballroom)
 - [HolonIQ. Global Education Market Intelligence](https://www.holoniq.com/)
 - [BuiltWith Technology Lookup](https://builtwith.com/)
 - [The Open Graph protocol](https://ogp.me/) (facebook)
-- [Dark Patterns](https://www.darkpatterns.org/)  <br/><br/>
+- [Dark Patterns](https://www.darkpatterns.org/)
 - [The Clay Mathematics Institute | Clay Mathematics Institute](http://www.claymath.org/)
-- [Stanford d.school](https://dschool.stanford.edu/)
+- [Stanford d.school](https://dschool.stanford.edu/)  <br/><br/>
 
 
  <br/><br/>
