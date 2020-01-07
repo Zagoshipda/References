@@ -31,6 +31,7 @@ How to Git & Github
 - [[오픈소스컨설팅]Subversion vs git - 참을 수 없는 간단함](https://www.slideshare.net/ienvyou/subversion-vs-git-42605130)
 - [Top 5 BEST Version Control Software (Source Code Management Tools)](https://www.softwaretestinghelp.com/version-control-software/)
 - [JGit | The Eclipse Foundation](https://www.eclipse.org/jgit/)
+    - [Eclipse JGit: Java implementation of Git | projects.eclipse.org](https://projects.eclipse.org/projects/technology.jgit)  <br/><br/>
 
 
  <br/><br/>
