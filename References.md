@@ -97,6 +97,7 @@ References
 - [MIT Technology Review](https://www.technologyreview.com/)
 - [Hacker Noon](https://hackernoon.com/)
 - [WIRED Korea](https://www.wired.kr/)
+- [NewsPeppermint](https://newspeppermint.com/)
 
 
  <br/><br/>
@@ -233,6 +234,7 @@ COEX Grand Ballroom)
     - [TOP 40 Static Code Analysis Tools (Best Source Code Analysis Tools)](https://www.softwaretestinghelp.com/tools/top-40-static-code-analysis-tools/)
     - [___Top 10 Most Popular Code Review Tools For Developers And Testers___](https://www.softwaretestinghelp.com/code-review-tools/)  <br/><br/>
 - [함께 나누는 웹개발 커뮤니티 블로그. webisfree.com](https://webisfree.com/)
+- [CodingBat Python](https://codingbat.com/python)
 
 
  <br/><br/>
@@ -311,6 +313,7 @@ COEX Grand Ballroom)
     - [회사는 어떻게 운영해야 할까?](https://seokjun.kim/how-to-run-a-company/)
 - [home | Yogicat Frontend developer from Seoul](https://yogicat.dev/) (오다혜)
 - [로토의 블로그](https://blog.roto.codes/) (김태희)  <br/><br/>
+- [devpools blog](http://www.devpools.kr/) (개발 바보들의 놀이터)
 
 
  <br/><br/>
@@ -437,6 +440,7 @@ COEX Grand Ballroom)
 - [Dark Patterns](https://www.darkpatterns.org/)
 - [The Clay Mathematics Institute | Clay Mathematics Institute](http://www.claymath.org/)
 - [Stanford d.school](https://dschool.stanford.edu/)  <br/><br/>
+- [Hexo](https://hexo.io/) (A fast, simple & powerful blog framework)
 
 
  <br/><br/>
