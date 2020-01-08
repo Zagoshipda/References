@@ -8,6 +8,12 @@ README
  <br/><br/>
 
 
+### [[CV] Who am I? JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/resume_en_JeonHyeongLee.pdf)
+
+
+ <br/><br/>
+
+
 ### Repository Description
 - Lang : language study
     - C#.md
