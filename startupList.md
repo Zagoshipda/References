@@ -222,6 +222,12 @@ Startup lists
 - [Restaurants, Dentists, Bars, Beauty Salons, Doctors - Yelp](https://www.yelp.com/) : User Reviews and Recommendations
 - [룰루랩](http://www.lulu-lab.com/) : Beauty
 - [이벤트커넥터](http://eventconnector.net/new/) : Event
+- [Foxy AI | Visual Property Intelligence for Real Estate](https://www.foxyai.com/index.html) : AI, real estate
+- [Streami](https://streami.co/index.html) : blockchain
+- [Lunit Inc. | Lunit Inc.](https://lunit.io/en/) : AI, medical
+- [Phantom AI](https://phantom.ai/) : autonomous vehicle
+- [ThorDrive | 토르드라이브](https://www.thordrive.ai/) : autonomous driving technology platform
+- [Picnic™ Home](https://www.hellopicnic.com/) : food automation
 
 
  <br/><br/>
