@@ -60,6 +60,7 @@ References
 - [Saturdays.AI - Empowering anyone to learn and use Artificial Intelligence for Good](https://www.saturdays.ai/)
 - [AI•ON: Artificial Intelligence Open Network](https://ai-on.org/)
 - [Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/)
+- [programming](https://www.reddit.com/r/programming/) (reddit)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -314,6 +315,9 @@ COEX Grand Ballroom)
 - [home | Yogicat Frontend developer from Seoul](https://yogicat.dev/) (오다혜)
 - [로토의 블로그](https://blog.roto.codes/) (김태희)  <br/><br/>
 - [devpools blog](http://www.devpools.kr/) (개발 바보들의 놀이터)
+- [city7310 (PlanB)](https://velog.io/@city7310) (조민규, ab180)
+- [Engineer Man - YouTube](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/videos) 
+- [프로그래밍 클라우드 기술 블로그 — 44bits.io](https://www.44bits.io/ko) (blog, youtube, podcast)
 
 
  <br/><br/>
@@ -441,6 +445,11 @@ COEX Grand Ballroom)
 - [The Clay Mathematics Institute | Clay Mathematics Institute](http://www.claymath.org/)
 - [Stanford d.school](https://dschool.stanford.edu/)  <br/><br/>
 - [Hexo](https://hexo.io/) (A fast, simple & powerful blog framework)
+- [Welcome to Feedly](https://feedly.com/i/welcome)
+- [orkut.com](http://www.orkut.com/index.html)
+    - [hello network](https://hellodotcom.hello.com/en/index.html)
+- [Keyword Research, Competitive Analysis, & Website Ranking | Alexa](https://www.alexa.com/)
+
 
 
  <br/><br/>
