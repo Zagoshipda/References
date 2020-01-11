@@ -148,6 +148,8 @@ Data Science : AI & ML & DL & RL
 - [DeepOverwatch — combining TensorFlow.js, Overwatch, Computer Vision, and Music.](https://medium.com/@farzatv/deepoverwatch-combining-tensorflow-js-overwatch-computer-vision-and-music-1a84d4598bc0?)
 - [Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
 - [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies)
+- [Large Scale Deep Learning with TensorFlow - YouTube](https://www.youtube.com/watch?v=XYwIDn00PAo) (Jeff Dean, Google)
+- [Opening keynote - Jeff Dean - YouTube](https://www.youtube.com/watch?v=ZHoNF28Nj98)
 
 
  <br><br>
