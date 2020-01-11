@@ -236,6 +236,11 @@ COEX Grand Ballroom)
     - [___Top 10 Most Popular Code Review Tools For Developers And Testers___](https://www.softwaretestinghelp.com/code-review-tools/)  <br/><br/>
 - [함께 나누는 웹개발 커뮤니티 블로그. webisfree.com](https://webisfree.com/)
 - [CodingBat Python](https://codingbat.com/python)
+- [Databricks - YouTube](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA/videos)
+- [Spark Summit - YouTube](https://www.youtube.com/user/TheApacheSpark/videos)
+    - [Spark + AI Summit - Databricks](https://databricks.com/sparkaisummit)
+- [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
+    - [Deep Learning Summer School, Montreal 2016 - VideoLectures - VideoLectures.NET](http://videolectures.net/deeplearning2016_montreal/)
 
 
  <br/><br/>
@@ -318,6 +323,7 @@ COEX Grand Ballroom)
 - [city7310 (PlanB)](https://velog.io/@city7310) (조민규, ab180)
 - [Engineer Man - YouTube](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/videos) 
 - [프로그래밍 클라우드 기술 블로그 — 44bits.io](https://www.44bits.io/ko) (blog, youtube, podcast)
+- [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/) (The Art of Computer Programming)
 
 
  <br/><br/>
@@ -449,7 +455,8 @@ COEX Grand Ballroom)
 - [orkut.com](http://www.orkut.com/index.html)
     - [hello network](https://hellodotcom.hello.com/en/index.html)
 - [Keyword Research, Competitive Analysis, & Website Ranking | Alexa](https://www.alexa.com/)
-
+- [Home | TIOBE - The Software Quality Company](https://www.tiobe.com/)
+    - [index | TIOBE - The Software Quality Company](https://www.tiobe.com/tiobe-index/) (TIOBE Index)
 
 
  <br/><br/>
