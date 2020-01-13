@@ -108,6 +108,8 @@ Today I Learned
     - [What is DevOps? - Amazon Web Services (AWS)](https://aws.amazon.com/devops/what-is-devops/)
     - [Understanding DevOps](https://www.redhat.com/en/topics/devops)
     - [What is DevOps? | Pivotal](https://pivotal.io/devops)
+- [___[Java] OOP(객체지향 프로그래밍)의 특징 - Heee's Development Blog___](https://gmlwjd9405.github.io/2018/07/05/oop-features.html)
+- [___[Java] OOP(객체지향 프로그래밍) 설계 원칙 - Heee's Development Blog___](https://gmlwjd9405.github.io/2018/07/05/oop-solid.html)
 
 
  <br/><br/>
