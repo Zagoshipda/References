@@ -103,6 +103,11 @@ Today I Learned
 - [What is PaaS? Platform as a Service | Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-paas/)
     - [IaaS, PaaS, SaaS란 무엇인가?](https://wodonggun.github.io/wodonggun.github.io/study/IaaS,-PaaS,-SaaS.html) 
     - [IaaS, PaaS, SaaS란 무엇인가요? | HOSTWAY - 글로벌 호스팅 전문 기업](https://www.hostway.co.kr/support/faq/iaas-paas-saas%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94)
+- [데브옵스(DevOps)를 하지 말아야 할 기업이 있다](https://brunch.co.kr/@fits-b/2)
+    - [What is DevOps? DevOps Explained | Microsoft Azure](https://azure.microsoft.com/en-us/overview/what-is-devops/)
+    - [What is DevOps? - Amazon Web Services (AWS)](https://aws.amazon.com/devops/what-is-devops/)
+    - [Understanding DevOps](https://www.redhat.com/en/topics/devops)
+    - [What is DevOps? | Pivotal](https://pivotal.io/devops)
 
 
  <br/><br/>
