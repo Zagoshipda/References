@@ -241,6 +241,7 @@ COEX Grand Ballroom)
     - [Spark + AI Summit - Databricks](https://databricks.com/sparkaisummit)
 - [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
     - [Deep Learning Summer School, Montreal 2016 - VideoLectures - VideoLectures.NET](http://videolectures.net/deeplearning2016_montreal/)
+- [CalliCoder | Programming, Web & Desktop App Development Tutorials](https://www.callicoder.com/)
 
 
  <br/><br/>
@@ -324,6 +325,7 @@ COEX Grand Ballroom)
 - [Engineer Man - YouTube](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/videos) 
 - [프로그래밍 클라우드 기술 블로그 — 44bits.io](https://www.44bits.io/ko) (blog, youtube, podcast)
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/) (The Art of Computer Programming)
+- [Joseph (Jay) B. Kadane](http://www.stat.cmu.edu/~kadane/)
 
 
  <br/><br/>
