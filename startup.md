@@ -60,6 +60,7 @@ Startup References
 - [Greylock Partners A Leading Silicon Valley Venture Capital Firm](https://www.greylock.com/)
 - [The Thiel Fellowship](http://www.thielfellowship.org/) (Peter Thiel, PayPal founder)
 - [FAST INVESTMENT](http://fastinvestment.co.kr/)
+- [CBA Ventures](http://www.cbaventures.net/)
 
 
  <br/><br/>
@@ -165,6 +166,7 @@ Startup References
     - [::: 엔젤투자매칭펀드시스템 :::](https://www.kban.or.kr/jsp/ext/main.jsp) (엔젤투자지원센터, Angel Investment Support Center)
     - [한국벤처투자(주) - 한국모태펀드, 일자리창출펀드, 산업기술사업화모펀드, 해외진출 글로벌 펀드, 한국전력 모펀드, 엔젤 모펀드, KEB하나-KVIC 유니콘 모펀드](https://k-vic.co.kr/)
 - [소상공인 상권정보시스템에 오신 것을 환영합니다!](http://sg.sbiz.or.kr/main.sg#/main)
+- [청춘창업창창 - 당신의 창업 마니또](https://www.changchang.kr/)  <br/><br/>
 
 
  <br/><br/>
@@ -179,6 +181,7 @@ Startup References
 - [The Holloway Syllabus on ___Company Culture___ — Holloway](https://www.holloway.com/s/syllabus-company-culture) (230+ resources you need to learn the ins and outs of company culture.)
 - [과연 스타트업의 가치는 어떻게 측정할까?](https://brunch.co.kr/@mobiinside/1938) (모비인사이드)
 - [[삼정KPMG 스타트업 경영 360 #16] 기업가치평가(1) – 스타트업의 기업가치평가는 왜 답이 없나요? - 'Startup's Story Platform’](https://platum.kr/archives/70840)
+- [구글 스프린트를 아시나요?](https://brunch.co.kr/@brunchjwshim/90)
 
 
  <br/><br/>
