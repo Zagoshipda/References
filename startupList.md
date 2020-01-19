@@ -228,6 +228,8 @@ Startup lists
 - [Phantom AI](https://phantom.ai/) : autonomous vehicle
 - [ThorDrive | 토르드라이브](https://www.thordrive.ai/) : autonomous driving technology platform
 - [Picnic™ Home](https://www.hellopicnic.com/) : food automation
+- [나우웨이팅](https://home.nowwaiting.co/) : 웨이팅 고객 관리
+- [Musicspray](http://musicspray.net/#/) : 음원 유통 플랫폼
 
 
  <br/><br/>
