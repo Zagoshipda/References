@@ -99,6 +99,7 @@ References
 - [Hacker Noon](https://hackernoon.com/)
 - [WIRED Korea](https://www.wired.kr/)
 - [NewsPeppermint](https://newspeppermint.com/)
+- [App Dev & Testing, DevOps, Enterprise IT, and Security: Experts share practical knowledge | TechBeacon](https://techbeacon.com/)  <br/><br/>
 
 
  <br/><br/>
@@ -242,6 +243,8 @@ COEX Grand Ballroom)
 - [VideoLectures.NET - VideoLectures.NET](http://videolectures.net/)
     - [Deep Learning Summer School, Montreal 2016 - VideoLectures - VideoLectures.NET](http://videolectures.net/deeplearning2016_montreal/)
 - [CalliCoder | Programming, Web & Desktop App Development Tutorials](https://www.callicoder.com/)
+- [Software Testing Help - Free Software Testing & IT Tutorials and Courses](https://www.softwaretestinghelp.com/)
+    - [___Agile Methodology: A Beginner's Guide To Agile Method and Scrum___](https://www.softwaretestinghelp.com/agile-scrum-methodology-for-development-and-testing/)  <br/><br/>
 
 
  <br/><br/>
@@ -267,6 +270,7 @@ COEX Grand Ballroom)
 - [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
 - [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 - [PYRASIS.COM](http://www.pyrasis.com) (이재홍, Go, Docker, AWS)
+    - [PYRASIS.COM: ___아마존 웹 서비스를 다루는 기술___ 출간 및 원고 공개](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 - [개발자스럽다](https://blog.gaerae.com/) <br/><br/>
 - [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 - [Project Nayuki](https://www.nayuki.io/)
