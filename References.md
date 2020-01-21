@@ -6,6 +6,7 @@ References
  
 
 ### Community
+- [___개발은 같이 하자: 개같하___](https://www.gaegata.com/)
 - [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
@@ -30,6 +31,8 @@ References
 - [이상한모임](https://www.weirdx.io/)
 - [AUSG / 그룹 소개 및 3기 모집](https://ausgrecruitment.github.io/)
 - [프로그라피](http://prography.org/)
+    - [Prography](https://prography-tech.github.io/) (기술블로그)
+    - [프로그라피 | 다섯번째 데모데이](http://prography.org/fifth-demo-day)
 - [CODUCK](https://co-duck.com/) (Github 깃헙 활동 시각화)
 - [GeekHub](https://geekhub.co.kr/) (괴짜들이 모이면 새로운 가치가 탄생한다)
 - [HOONS닷넷 - www.hoons.net](http://www.hoons.net/) (.NET Community)
@@ -84,6 +87,7 @@ References
 - [Behance :: Best of Behance](https://www.behance.net/)  <br/><br/>
 - [포스타입 - POSTYPE](https://www.postype.com/) (팬 지원 창작 플랫폼)
 - [빌라선샤인](https://villasunshine.kr/)
+- [아홉시(ahopsi)](https://www.ahopsi.com/)
 
 
  <br/><br/>
@@ -106,6 +110,7 @@ References
 
 
 ### Conference & Contest
+- [___Cogether___](https://cogether.kr/)
 - [파이콘 한국 2019](https://www.pycon.kr/)
 - [if kakao 개발자 컨퍼런스 2019](https://if.kakao.com/)
 - [네이버 테크 콘서트 NAVER TECH CONCERT: MOBILE](http://techcon.naver.com/) 
@@ -157,6 +162,7 @@ COEX Grand Ballroom)
 - [ZER01NE DAY 2019](http://zer01neday.com/)
 - [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)  <br><br>
 - [2019 re:Invent Page](https://aws.amazon.com/new/reinvent/) (AWS)
+- [AWS Community Day - re:Invent 특집](https://aws.amazon.com/events/community-day/)
 
 
  <br><br>
