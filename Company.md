@@ -27,6 +27,7 @@ Company sites for Developers
     - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/)
         - [word2vec](https://code.google.com/archive/p/word2vec/)
     - [Google Lens](https://lens.google.com/)
+- [___Experiments with Google___](https://experiments.withgoogle.com/)
 - [Google AI](https://ai.google/)
 - [Google AI Blog](https://ai.googleblog.com/)
 - [Cloud Computing Services  |  Google Cloud](https://cloud.google.com/)
@@ -88,7 +89,9 @@ Company sites for Developers
     - [NAVER LABS DATASET](https://hdmap.naverlabs.com/)
 - [NSML](https://ai.nsml.navercorp.com/intro) (Naver Smart Machine Learning)
 - [NAVER CLOUD PLATFORM 네이버 클라우드 플랫폼](https://www.ncloud.com/)  <br/><br/>
-- [SAMSUNG Developers](https://developer.samsung.com/home.do)
+- [Home | Samsung Research](https://research.samsung.com/)
+    - [SAMSUNG Developers](https://developer.samsung.com/home.do)
+    - [Samsung Open Source](https://opensource.samsung.com/main)
     - [Bixby Developer Portal](https://bixby.developer.samsung.com/)
 - [SK Telecom AI Center](https://www.skt.ai/)
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
