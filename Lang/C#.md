@@ -21,6 +21,7 @@ C# Study
 - [C# 무료강의[2019] 총48강 - YouTube](https://www.youtube.com/playlist?list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
 - [유니티 무료강의 총 22강[2019] - YouTube](https://www.youtube.com/playlist?list=PL4SIC1d_ab-avhu7-dI5-YK3rHlH-lZwB)
 - [Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#](https://code.msdn.microsoft.com/)
+- [(동영상) C# 동영상 배포 (22강, 15시간 분량) - 둘로 나눔](https://gcamp.tistory.com/1154?category=817332)
 
 
  <br/><br/>
