@@ -26,6 +26,11 @@ C++ Study
 - [[C++] 함수 앞에 쓰이는 const 키워드는 어떤 의미인가요? | KLDP](https://kldp.org/node/71134) (리턴값은 r-value이기 때문에 수정이 불가능)
     - [[C++ 강좌] 029 - 함수에서 const의 사용 (2) - const가 붙은 멤버 함수 : 네이버블로그](https://blog.naver.com/kks227/60205418298) (___const로 선언된 object에서의 호출을 가능하게 함___ -> 전체 코드의 안정성을 높임)
 - [C++ Rvalue References Explained](http://thbecker.net/articles/rvalue_references/section_01.html) (Thomas Becker)
+- [C++ named requirements: LegacyRandomAccessIterator - cppreference.com](https://en.cppreference.com/w/cpp/named_req/RandomAccessIterator)
+    - [Iterators in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/iterators-c-stl/)
+- [소년코딩 - C++ 07.20 - 이중 포인터와 동적 다차원 배열 (Pointers to pointers and dynamic multidimensional arrays)](https://boycoding.tistory.com/212)
+    - [[오늘, 행복하자!] [C++] 2차원 배열 동적 할당, 해제하기](https://felixblog.tistory.com/72)
+    - [How do I declare a 2d array in C++ using new? - Stack Overflow](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  <br/><br/>
 
 
  <br/><br/>
