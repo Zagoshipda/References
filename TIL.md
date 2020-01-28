@@ -109,7 +109,10 @@ Today I Learned
     - [Understanding DevOps](https://www.redhat.com/en/topics/devops)
     - [What is DevOps? | Pivotal](https://pivotal.io/devops)
 - [___[Java] OOP(객체지향 프로그래밍)의 특징 - Heee's Development Blog___](https://gmlwjd9405.github.io/2018/07/05/oop-features.html)
-- [___[Java] OOP(객체지향 프로그래밍) 설계 원칙 - Heee's Development Blog___](https://gmlwjd9405.github.io/2018/07/05/oop-solid.html)
+- [___[Java] OOP(객체지향 프로그래밍) 설계 원칙 - Heee's Development Blog___](https://gmlwjd9405.github.io/2018/07/05/oop-solid.html)  <br/><br/>
+- [배열 선언시 크기를 변수로도 받아들일 수 있나요?? | KLDP](https://kldp.org/node/48411)
+- [___for문 돌리 때 전위증감 후위증감... | KLDP___](https://kldp.org/node/154365)
+- [- 안영기의 개발실 -  :: [Python] MIDI viewer](http://avej.com/tc_191/blog1/55)
 
 
  <br/><br/>
