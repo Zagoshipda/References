@@ -52,6 +52,7 @@ References
 - [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)  <br/><br/>
 - [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
+    - [Using the GNU Compiler Collection (GCC): Top](https://gcc.gnu.org/onlinedocs/gcc/)
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
 - [Developer community programs | Students  |  DSC  |  Google Developers](https://developers.google.com/community/dsc) (Google Developer Student Clubs)
 - [The Linux Foundation – Supporting Open Source Ecosystems](https://www.linuxfoundation.org/)
@@ -469,6 +470,10 @@ COEX Grand Ballroom)
 - [Keyword Research, Competitive Analysis, & Website Ranking | Alexa](https://www.alexa.com/)
 - [Home | TIOBE - The Software Quality Company](https://www.tiobe.com/)
     - [index | TIOBE - The Software Quality Company](https://www.tiobe.com/tiobe-index/) (TIOBE Index)
+- [Pastebin.com - #1 paste tool since 2002!](https://pastebin.com/)
+- [codepad](http://codepad.org/)
+- [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
+- [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)  <br/><br/>
 
 
  <br/><br/>
