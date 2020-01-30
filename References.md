@@ -337,6 +337,7 @@ COEX Grand Ballroom)
 - [프로그래밍 클라우드 기술 블로그 — 44bits.io](https://www.44bits.io/ko) (blog, youtube, podcast)
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/) (The Art of Computer Programming)
 - [Joseph (Jay) B. Kadane](http://www.stat.cmu.edu/~kadane/)
+- [Bakwi's PlayGround](http://bakwi.io/) (안병욱)
 
 
  <br/><br/>
@@ -474,6 +475,7 @@ COEX Grand Ballroom)
 - [codepad](http://codepad.org/)
 - [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
 - [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)  <br/><br/>
+- [D3.js - Data-Driven Documents](https://d3js.org/)
 
 
  <br/><br/>
