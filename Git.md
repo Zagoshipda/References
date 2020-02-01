@@ -92,7 +92,8 @@ How to Git & Github
     - [git submodules - How to fix "modified content, untracked content" in git? - Stack Overflow](https://stackoverflow.com/questions/50167969/how-to-fix-modified-content-untracked-content-in-git/52722775)  <br/><br/>
 - [Git - git Documentation](https://git-scm.com/docs/git#_reset_restore_and_revert) (Reset, restore and revert)
 - [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
- 
+- [ Git 사용 중 자주 만나는 이슈 정리 ](https://parksb.github.io/article/28.html)
+
 
  <br/><br/>
   
