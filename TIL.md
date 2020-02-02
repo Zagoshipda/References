@@ -113,6 +113,7 @@ Today I Learned
 - [배열 선언시 크기를 변수로도 받아들일 수 있나요?? | KLDP](https://kldp.org/node/48411)
 - [___for문 돌리 때 전위증감 후위증감... | KLDP___](https://kldp.org/node/154365)
 - [- 안영기의 개발실 -  :: [Python] MIDI viewer](http://avej.com/tc_191/blog1/55)
+- [ 인터넷이 동작하는 아주 구체적인 원리 ](https://parksb.github.io/article/36.html)
 
 
  <br/><br/>
