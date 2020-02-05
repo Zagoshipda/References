@@ -126,8 +126,8 @@ Today I Learned
 
 
  <br/><br/>
- 
- 
+
+
 ### Startup
 - [중국의 인터넷 삼두마차 BAT | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2014/06/06/bat/)
 - [PINDUODUO - a Close Look at the Fastest Growing E-commerce App in China, 2018.08 (WalkTheChat)](https://www.slideshare.net/truonghang297/pinduoduo-a-close-look-at-the-fastest-growing-ecommerce-app-in-china-201808-walkthechat)
@@ -136,8 +136,8 @@ Today I Learned
 - [쇼핑몰도 없이 아마존 대항마로 부상한 비결 - T Times](http://www.ttimes.co.kr/view.html?no=2019091618157718260)
 - [Bill Gates interview: How the world will change by 2030 - YouTube](https://www.youtube.com/watch?v=8RETFyDKcw0)
 - [Why CEOs should spend up to half their time recruiting | TechCrunch](https://techcrunch.com/2019/12/17/why-ceos-should-spend-up-to-half-their-time-recruiting/)
- 
- 
-  <br/><br/>
+
+
+ <br/><br/>
  
  
