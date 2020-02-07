@@ -66,6 +66,7 @@ References
 - [AI•ON: Artificial Intelligence Open Network](https://ai-on.org/)
 - [Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/)
 - [programming](https://www.reddit.com/r/programming/) (reddit)
+- [리눅스 커뮤니티 하모니카(HamoniKR)](https://hamonikr.org/) (하모니카OS)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -90,6 +91,7 @@ References
 - [포스타입 - POSTYPE](https://www.postype.com/) (팬 지원 창작 플랫폼)
 - [빌라선샤인](https://villasunshine.kr/)
 - [아홉시(ahopsi)](https://www.ahopsi.com/)
+- [Change.org · The world’s platform for change](https://www.change.org/)
 
 
  <br/><br/>
@@ -180,11 +182,11 @@ COEX Grand Ballroom)
     - [___NAVER - edwith___](https://www.edwith.org/) (Web programming- Spring, android, ios)
         - [일반인을 위한 블록체인 A to Z Course introduction : edwith](https://www.edwith.org/blockchainatoz-2019F)
         - [[MIT]인공지능개론 Course introduction : edwith](https://www.edwith.org/mitai)
-        - [[하버드] 확률론 기초: Statistics 110 > 강의목록 : edwith](https://www.edwith.org/harvardprobability/joinLectures/17924)
+        - [[하버드] 확률론 기초: Statistics 110 > 강의목록 : edwith](https://www.edwith.org/harvardprobability/joinLectures/17924)  <br><br>
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/)
 - [edX | Online courses from the world's best universities](https://www.edx.org/)
-- [Coursera | Online Courses & Credentials From Top Educators. Join for Free](https://www.coursera.org/)
-- [Learn the Latest Tech Skills; Advance Your Career | Udacity](https://www.udacity.com/)
+- [___Coursera | Online Courses & Credentials From Top Educators. Join for Free___](https://www.coursera.org/)
+- [___Learn the Latest Tech Skills; Advance Your Career | Udacity___](https://www.udacity.com/)
     - [Artificial Intelligence Online Courses | Udacity](https://www.udacity.com/school-of-ai)
     - [Scholarships | Udacity](https://www.udacity.com/scholarships)
     - [Udacity Inc – Medium](https://medium.com/udacity)
@@ -203,13 +205,13 @@ COEX Grand Ballroom)
 - [스터디메이크 :: C++ 강의 글 목록 (목차)](https://studymake.tistory.com/8)
 - [Learn C++](https://www.learncpp.com/)  <br/><br/>
 - [Learn C and C++ Programming - Cprogramming.com](https://www.cprogramming.com/) (C/C++ Graphics Game Algorithms)
-- [모두의 코드 : 씹어먹는 C/C++](https://modoocode.com/)
+- [___모두의 코드 : 씹어먹는 C/C++___](https://modoocode.com/)
 - [코딩의 시작, TCP School](http://tcpschool.com/) (web, java, C/C++)
 - [코딩 도장](https://dojang.io/) (C, Python)
 - [프로그래머스](https://programmers.co.kr/)  (JavaScript Reactjs java)
 - [나는 개발자다](https://studyc.tistory.com/) (C 언어 강좌 + youtube 강의)
 - [WikiDocs](https://wikidocs.net/) (Java, Python)
-- [WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)
+- [___WikiDocs - 파이썬으로 배우는 알고리즘 트레이딩___](https://wikidocs.net/book/110)
 - [Welcome to Python.org](https://www.python.org/)
 - [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)  <br/><br/>
 - [bakyeono - 파이썬 프로그래밍 입문서](https://python.bakyeono.net/)
@@ -253,6 +255,10 @@ COEX Grand Ballroom)
 - [CalliCoder | Programming, Web & Desktop App Development Tutorials](https://www.callicoder.com/)
 - [Software Testing Help - Free Software Testing & IT Tutorials and Courses](https://www.softwaretestinghelp.com/)
     - [___Agile Methodology: A Beginner's Guide To Agile Method and Scrum___](https://www.softwaretestinghelp.com/agile-scrum-methodology-for-development-and-testing/)  <br/><br/>
+- [개발자를 위한 개발 레시피](https://lessipe.com/)
+- [dummies - Learning Made Easy](https://www.dummies.com/)
+- [___Home | AWS Training & Certification___](https://www.aws.training/)
+- [DCJTech.info | Technological information for the world](http://dcjtech.info/)
 
 
  <br/><br/>
@@ -367,6 +373,7 @@ COEX Grand Ballroom)
 - [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)  <br><br>
 - [플루토 채용공고](https://www.notion.so/d9b8ee14b76845688ce0d718a32c1e13)
 - [2020년 수시 채용공고 안내](https://www.robotis.com/model/board.php?bo_table=recruit&wr_id=1) (로보티즈)
+- [Join us : Watcha, Inc.](https://team.watcha.com/joinus/)
 
 
  <br><br>
