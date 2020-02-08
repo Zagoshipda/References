@@ -94,6 +94,7 @@ Startup References
 - [TECH M](http://techm.kr/)
 - [맥갤러리](https://post.naver.com/my.nhn?memberNo=6384148)
 - [VentureBeat | Transformative tech coverage that matters](https://venturebeat.com/)
+- [더퍼스트미디어](https://www.thefirstmedia.net/)
 
 
  <br/><br/>
