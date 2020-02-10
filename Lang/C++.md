@@ -31,6 +31,16 @@ C++ Study
 - [소년코딩 - C++ 07.20 - 이중 포인터와 동적 다차원 배열 (Pointers to pointers and dynamic multidimensional arrays)](https://boycoding.tistory.com/212)
     - [[오늘, 행복하자!] [C++] 2차원 배열 동적 할당, 해제하기](https://felixblog.tistory.com/72)
     - [How do I declare a 2d array in C++ using new? - Stack Overflow](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  <br/><br/>
+- [c - Correct format specifier for double in printf - Stack Overflow](https://stackoverflow.com/questions/4264127/correct-format-specifier-for-double-in-printf)
+- [___c - Is an array name a pointer? - Stack Overflow___](https://stackoverflow.com/questions/1641957/is-an-array-name-a-pointer)
+    - [씹어먹는 C 언어 - <12 - 2. 포인터는 영희이다! (포인터)>](https://modoocode.com/24) (___배열은 배열이고 포인터는 포인터다___, 배열 이름은 포인터가 아니다)
+    - [씹어먹는 C 언어 - <12 - 3. 포인터는 영희이다! (포인터)>](https://modoocode.com/25) (___배열 이름의 주소값, 배열과 포인터의 관계___, 1차원 배열에서 배열의 이름은 첫 번째 원소를 가리키는 포인터로 타입 변환, 2차원 배열에서 배열의 이름은 첫 번째 행(이 역시나 배열)을 가리키는 포인터로 타입 변환)
+- [std::qsort - cppreference.com](https://en.cppreference.com/w/cpp/algorithm/qsort)
+    - [___C qsort() vs C++ sort()___ - GeeksforGeeks](https://www.geeksforgeeks.org/c-qsort-vs-c-sort/)
+    - [C qsort 함수 vs C++ sort 함수 (작성중)](https://adaid.tistory.com/64)
+    - [gshscs :: [C++ STL] Header <algorithm> – 1. Sort 파헤치기 (1)](https://gshscs.tistory.com/11)
+- [Difference between Header file and Library - GeeksforGeeks](https://www.geeksforgeeks.org/difference-header-file-library/)
+    - [[C++] C++ 헤더파일의 명명 – Qaupot's blog](http://www.qaupot.com/wordpress/?p=2206)  <br/><br/>
 
 
  <br/><br/>
