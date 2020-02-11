@@ -5,39 +5,37 @@ Useful Tools
  <br/><br/>
 
 
-### For Programmers
+### Programming
 - [Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/)
-- [Phoenix](http://www.phoenixframework.org/) (Phoenix web framework)
+- [___Phoenix___](http://www.phoenixframework.org/) (Phoenix web framework)
 - [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
-- [The world’s fastest framework for building websites | Hugo](https://gohugo.io/)
+- [___The world’s fastest framework for building websites | Hugo___](https://gohugo.io/)
 - [Nemo | A Data Processing System for Flexible Employment With Different Deployment Characteristics.](https://nemo.apache.org/)
-- [Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.](https://electronjs.org/)
+- [___Electron | Build cross platform desktop apps with JavaScript, HTML, and CSS.___](https://electronjs.org/)
 - [Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
-- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)
 - [Phacility - Home](https://www.phacility.com/) (software development platform, Phabricator)
     - [Home](https://secure.phabricator.com/) (Phabricator guide & forum)
 - [OpenSSH](https://www.openssh.com/)  <br/><br/>
 - [Base Web - Base Web React UI Framework](https://baseweb.design/)
-- [Cloud Application Platform | Heroku](https://www.heroku.com/)
+- [___Cloud Application Platform | Heroku___](https://www.heroku.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [The OpenTracing project](https://opentracing.io/)
 - [Bitnami: Packaged Applications for Any Platform - Cloud, Container, Virtual Machine](https://bitnami.com/)
     - [Bitnami AWS Cloud Launchpad](https://aws.bitnami.com/)
 - [CodePen: Build, Test, and Discover Front-end Code.](https://codepen.io/) (CodePen - Front End Developer Playground & Code Editor in the Browser)
-- [Proto.io - Prototypes that feel real](https://proto.io/)
-- [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)  <br/><br/>
+- [Jira | Issue & Project Tracking Software | Atlassian](https://www.atlassian.com/software/jira)
 - [Open source and enterprise-ready professional software for data science - RStudio](https://www.rstudio.com/)
-    - [RStudio Cloud](https://rstudio.cloud/)
+    - [RStudio Cloud](https://rstudio.cloud/)  <br/><br/>
 - [Kivy: Cross-platform Python Framework for NUI Development](https://kivy.org/#home)
 - [Micronaut Framework](https://micronaut.io/) (A modern, JVM-based, full-stack framework for building modular, easily testable microservice and serverless applications)
 - [fastlane - App automation done right](https://fastlane.tools/)
     - [fastlane docs](https://docs.fastlane.tools/)
-- [Jenkins](https://jenkins.io/) (open source automation server)
-- [Enterprise Container Platform | Docker](https://www.docker.com/)
-- [Production-Grade Container Orchestration - Kubernetes](https://kubernetes.io/)
+- [___Jenkins___](https://jenkins.io/) (open source automation server)
+- [___Enterprise Container Platform | Docker___](https://www.docker.com/)
+- [___Production-Grade Container Orchestration - Kubernetes___](https://kubernetes.io/)
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
-    - [Kubeflow](https://www.kubeflow.org/)  <br/><br/>
-- [CMake](https://cmake.org/)
+    - [Kubeflow](https://www.kubeflow.org/)
+- [___CMake___](https://cmake.org/)  <br/><br/>
 - [Next.js - The React Framework](https://nextjs.org/)
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
 - [Databricks - Unified Data Analytics](https://databricks.com/)
@@ -46,18 +44,50 @@ Useful Tools
 - [Zstandard - Real-time data compression algorithm](https://facebook.github.io/zstd/)
 - [Apache Mesos](http://mesos.apache.org/)
     - [Mesos :: 개인적인공간](https://brownbears.tistory.com/261)
-    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)  <br/><br/>
-- [lubuntu – lightweight, fast, easier](https://lubuntu.net/)
-- [Kotlin Programming Language](https://kotlinlang.org/)
+    - [Mesos](https://www.joinc.co.kr/w/man/12/mesos)
+- [___lubuntu – lightweight, fast, easier___](https://lubuntu.net/)  <br/><br/>
 - [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
 - [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
 - [ZEIT - World-Class Static Hosting - ZEIT](https://zeit.co/)
+- [___React – A JavaScript library for building user interfaces___](https://reactjs.org/)
+    - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
+- [___Qt | Cross-platform software development for embedded & desktop___](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
+    - [korone.net programming site](https://www.korone.net/)
+    - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
+- [GatsbyJS](https://www.gatsbyjs.org/) (a free and open source framework based on React that helps developers build blazing fast websites and apps)
+- [Hexo](https://hexo.io/) (A fast, simple & powerful blog framework)  <br/><br/>
+- [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org/)
+- [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
+- [Netlify: All-in-one platform for automating modern web projects](https://www.netlify.com/)
+- [Open Source Search & Analytics · Elasticsearch | Elastic](https://www.elastic.co/)
+- [XpressEngine - PHP Open Source CMS](https://www.xpressengine.com/)
+    - [XEHub](https://www.xehub.io/)
+    - [XpressEngine](https://github.com/xpressengine) (Github)
+- [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
+- [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)
+- [D3.js - Data-Driven Documents](https://d3js.org/)  <br/><br/>
 
 
  <br/><br/>
 
 
-### For People
+### Prototyping
+- [ProtoPie - Interactive prototyping tool for all digital products](https://www.protopie.io/)
+- [Proto.io - Prototypes that feel real](https://proto.io/)
+- [___Balsamiq. Rapid, effective and fun wireframing software. | Balsamiq___](https://balsamiq.com/)
+- [draw.io](https://www.draw.io/)
+- [Origami Studio — Design Prototyping](https://origami.design/)
+- [FluidUI.com - Create Web and Mobile Prototypes in Minutes](https://www.fluidui.com/)
+- [Marvel - The design platform for digital products](https://marvelapp.com/)
+- [MockFlow - Online Wireframe Tools, Prototyping Tools, Design tool, UI Mockups, UX Suite, Desktop software, UX Planning](https://mockflow.com/)
+- [___PowerPoint Wireframe and Prototyping Tool | PowerMockup___](https://www.powermockup.com/)
+- [Website wireframes: Mockingbird](https://gomockingbird.com/home)  <br/><br/>
+
+
+ <br/><br/>
+
+
+### Collaboration
 - [Confluence - Team Collaboration Software | Atlassian](https://www.atlassian.com/software/confluence)
 - [Tandem | A virtual office for remote teams](https://tandem.chat/)
 - [ Krisp | Noise Cancelling App](https://krisp.ai/)
@@ -68,14 +98,15 @@ Useful Tools
 - [Quip](https://quip.com/) (collaborative productivity software)
 - [Open Source ERP and CRM | Odoo](https://www.odoo.com/) (management software to run a company)
 - [Box - Content Management, Workflow, and Collaboration](https://www.box.com/)  <br/><br/>
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so/)
+- [___Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.___](https://www.notion.so/)
     - [Notion 가이드](https://www.notion.so/Notion-1ad7ccbc41a44298814a4820d4acb14e)
 - [Let knowledge flow | Additor](https://additor.io/)
 - [Lookback: Simple and powerful user research](https://lookback.io/)
 - [Swit](https://swit.io/) (One Work Suite to replace them all)
 - [Localization Management Platform for agile teams | Crowdin](https://crowdin.com/)
-- [BeeCanvas | The All-In-One Visual Workspace](https://beecanvas.com/)
+- [___BeeCanvas | The All-In-One Visual Workspace___](https://beecanvas.com/)
 - [GRAP](https://www.grap.io/ko/intro)
+- [The Work Operating System That Makes Teamwork Click | monday.com](https://monday.com/)
 
 
  <br/><br/>
