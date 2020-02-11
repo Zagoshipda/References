@@ -6,8 +6,8 @@ Python Study
 
 
 ## references
+- [Welcome to Python.org](https://www.python.org/)
 - [The Python Language Reference — Python 3.7.4rc1 documentation](https://docs.python.org/3/reference/index.html)
- <br/><br/>
     - [3. Data model — Python 3.7.4rc2 documentation](https://docs.python.org/3.7/reference/datamodel.html#object.__repr__) (object.__repr__(self) - “official” string representation of an object vs object.__str__(self) - “informal” or nicely printable string representation of an object)
     - [configparser — Configuration file parser — Python 3.7.4 documentation](https://docs.python.org/3/library/configparser.html)
     - [functools — Higher-order functions and operations on callable objects — Python 3.7.4rc2 documentation](https://docs.python.org/3/library/functools.html)
@@ -17,7 +17,7 @@ Python Study
     - [threading — Thread-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/threading.html#lock-objects)
     - [multiprocessing — Process-based parallelism — Python 3.7.4 documentation](https://docs.python.org/3/library/multiprocessing.html)
     - [socket — Low-level networking interface — Python 3.7.4 documentation](https://docs.python.org/3/library/socket.html#socket.socket.setblocking)
-    - [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html) <br/><br/>
+    - [select — Waiting for I/O completion — Python 3.7.4 documentation](https://docs.python.org/3/library/select.html)  <br/><br/>
     - [Glossary — Python 3.7.4 documentation](https://docs.python.org/3/glossary.html#term-global-interpreter-lock) (global interpreter lock)
     - [8. Errors and Exceptions — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/errors.html)
     - [3. Data model — Python 3.7.4 documentation](https://docs.python.org/3/reference/datamodel.html#context-managers) (With Statement Context Managers : \_\_enter__() / \_\_exit__() method)
@@ -27,7 +27,6 @@ Python Study
     - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
     - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
     - [ast — Abstract Syntax Trees — Python 3.7.4 documentation](https://docs.python.org/3/library/ast.html) (literal_eval() method)
- <br/><br/>
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
@@ -43,12 +42,13 @@ Python Study
 - [자이썬(Jython) 완벽 안내서 — 자이썬(Jython) 완벽 안내서](https://jythonbook-ko.readthedocs.io/en/latest/index.html#)
 - [Python HOWTOs — Python 3.7.4 documentation](https://docs.python.org/3/howto/index.html)
 - [Azure for Python developers - Tutorials, API Reference | Microsoft Docs](https://docs.microsoft.com/en-us/azure/python/)
-- [목차 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/)
+- [목차 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/) (bakyeono - 파이썬 프로그래밍 입문서)
 - [Python Data Analysis Library — pandas: Python Data Analysis Library](https://pandas.pydata.org/)
 - [tkinter — Python interface to Tcl/Tk — Python 3.8.0 documentation](https://docs.python.org/3/library/tkinter.html) (standard Python interface to the Tk GUI toolkit)
      - [Korea Tcl/Tk Community | Tcl radically simple.](http://tcltk.co.kr/)
      - [Tcl Developer Site](https://www.tcl.tk/)
 - [SciPy.org — SciPy.org](https://www.scipy.org/)  <br/><br/>
+- [Learn Python Programming | Python Tutorial](https://pythonbasics.org/)
 
 
  <br/><br/>
