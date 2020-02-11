@@ -7,7 +7,8 @@ Company sites for Developers
 
 ### Company
 - [Learn to Develop with Microsoft Developer Network | MSDN](https://msdn.microsoft.com/en-us)
-- [Technical documentation, API, and code examples | Microsoft Docs](https://docs.microsoft.com/en-us/)
+    - [Sample Code - MSDN Examples in C#, VB.NET, C++, JavaScript, F#](https://code.msdn.microsoft.com/)
+- [___Technical documentation, API, and code examples | Microsoft Docs___](https://docs.microsoft.com/en-us/)
 - [Visual Studio IDE, Code Editor, Azure DevOps, & App Center - Visual Studio](https://visualstudio.microsoft.com/)
 - [Microsoft for Startups – Building Startups | Microsoft for Startups](https://startups.microsoft.com/en-us/)
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
@@ -45,6 +46,7 @@ Company sites for Developers
 - [Amazon developer Services](https://developer.amazon.com/)
 - [Amazon Lab126 | Amazon.jobs](https://amazon.jobs/en/teams/lab126/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
+    - [___Home | AWS Training & Certification___](https://www.aws.training/)
     - [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
         - [KOR201 - A brief overview of new launches for Korean customers, Channy Yun - AWS re:Invent 2019 ](https://www.slideshare.net/awskorea/kor201-new-service-launches-aws-reinvent-2019)
     - [AWS Documentation](https://docs.aws.amazon.com/)
@@ -59,6 +61,7 @@ Company sites for Developers
 - [Oracle | Integrated Cloud Applications and Platform Services](https://www.oracle.com/index.html)
 - [Intel AI](https://www.intel.ai/)
 - [IBM Developer – IBM Developer](https://developer.ibm.com/)
+    - [IBM Cloud  | IBM](https://www.ibm.com/cloud)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) (Mozilla Developer Network - Resources for developers, by developers : HTML CSS Js Django NodeJs tutorials)
     - [Mozilla Developer - YouTube](https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w/featured)  <br/><br/>
 - [PayPal Engineering – Medium](https://medium.com/paypal-engineering)
@@ -70,9 +73,10 @@ Company sites for Developers
 - [Riot Games Technology](https://technology.riotgames.com/)
 - [Disney Open Source](https://disney.github.io/)
 - [Engineering](https://engineering.grab.com/) (Grab)
-- [Home - Landing AI](https://landing.ai/) (Empowering companies to jumpstart AI and realize practical value)
+- [Home - Landing AI](https://landing.ai/) (Empowering companies to jumpstart AI and realize practical value)  <br/><br/>
 - [Scale AI: The Data Platform for AI](https://scale.com/)
-- [Pony.ai](https://www.pony.ai/)  <br/><br/>
+- [Pony.ai](https://www.pony.ai/)
+- [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
 <br/><br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
@@ -93,26 +97,29 @@ Company sites for Developers
     - [SAMSUNG Developers](https://developer.samsung.com/home.do)
     - [Samsung Open Source](https://opensource.samsung.com/main)
     - [Bixby Developer Portal](https://bixby.developer.samsung.com/)
+    - [Brightics Studio](https://www.brightics.ai/) (AI-based analytics platform)
 - [SK Telecom AI Center](https://www.skt.ai/)
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/) 
+- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/)  <br/><br/> 
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
-- [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5) 
-- [Banksalad Tech – Medium](https://medium.com/rainist-engineering)  <br/><br/>
+- [Banksalad Tech – Medium](https://medium.com/banksalad)
+    - [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5)
 - [Spoqa 기술 블로그](https://spoqa.github.io/index.html) (Spoqa - 도도, 매장 마케팅 솔루션)
 - [RGP Tech Blog -- RGP Tech Blog](https://rgpkorea.github.io/) (요기요, 배달통)
 - [Vingle Tech Blog – Medium](https://medium.com/vingle-tech-blog)
 - [티몬의 개발이야기 : 네이버 블로그](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev)
 - [쿠팡 기술블로그 — Coupang Technology Blog – Medium](https://medium.com/coupang-tech)
 - [레진 기술 블로그](https://tech.lezhin.com/)
-- [DAILYHOTEL](https://dailyhotel.io/)
+- [DAILYHOTEL](https://dailyhotel.io/)  <br/><br/>
 - [피플펀드 기술 블로그](https://tech.peoplefund.co.kr/)
-- [ Watcha, Inc.](https://team.watcha.com/)
+- [WATCHA – Medium](https://medium.com/watcha)
+    - [왓챠에서 R&D연구원이 하는 일 - WATCHA - Medium](https://medium.com/watcha/%EC%99%93%EC%B1%A0%EC%97%90%EC%84%9C-r-d%EC%97%B0%EA%B5%AC%EC%9B%90%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC-2100ad6f8c4f)
 - [NC 공식 블로그](https://blog.ncsoft.com/)
-- [XEHub – Medium](https://medium.com/xehub)  <br/><br/>
+- [XEHub – Medium](https://medium.com/xehub)
 - [핑퐁팀 블로그](https://blog.pingpong.us/) (Scatter Lab, PINGPONG AI RESEARCH)
+- [당근마켓 팀블로그 – Medium](https://medium.com/daangn)
 
 
  <br/><br/>
