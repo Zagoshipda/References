@@ -17,7 +17,12 @@ Programming Languages
 - [Rust Programming Language](https://www.rust-lang.org/)
 - [Elm - A delightful language for reliable webapps](https://elm-lang.org/)
     - [Introduction · An Introduction to Elm](https://guide.elm-lang.org/)
-    - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)
+    - [Elm](https://github.com/elm) (Github : Official organization for developing Elm's compiler and core tools)  <br/><br/>
+- [Kotlin Programming Language](https://kotlinlang.org/)
+- [TypeScript - JavaScript that scales.](https://www.typescriptlang.org/)
+- [Ruby Programming Language](https://www.ruby-lang.org/en/)
+    - [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com/)
+- [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)
 
 
  <br/><br/>
