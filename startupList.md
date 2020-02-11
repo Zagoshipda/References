@@ -230,6 +230,11 @@ Startup lists
 - [Picnic™ Home](https://www.hellopicnic.com/) : food automation
 - [나우웨이팅](https://home.nowwaiting.co/) : 웨이팅 고객 관리
 - [Musicspray](http://musicspray.net/#/) : 음원 유통 플랫폼
+- [Ontology | The proven global enterprise blockchain](https://ont.io/) : blockchain
+    - [OntologyNetwork – Medium](https://medium.com/ontologynetwork)
+- [X_X](https://xbarx.tistory.com/) (엑스바엑스)
+    - [오더플러스 :: 국내 최대 업소용 식자재 주문 앱](http://orderplus.co.kr/) : 업소용 식자재 주문
+- [플링고(Plingo) : 언어의 즐거움을 찾다](https://plingo.io/) : 외국어 학습
 
 
  <br/><br/>
