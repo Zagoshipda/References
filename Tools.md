@@ -66,6 +66,9 @@ Useful Tools
 - [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
 - [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)
 - [D3.js - Data-Driven Documents](https://d3js.org/)  <br/><br/>
+- [NuGet Gallery | Home](https://www.nuget.org/)
+- [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
+- [Repl.it - The world's leading online coding platform](https://repl.it/)
 
 
  <br/><br/>
