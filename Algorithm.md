@@ -67,6 +67,7 @@ Algorithm
     - [PS를 공부하는 방법 (How to study Problem Solving?) - Subinium의 코딩일지](https://subinium.github.io/how-to-study-problem-solving/)
     - [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30) (안수빈, Subinium)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우)
+- [Algorithms Weekly by Petr Mitrichev](https://petr-mitrichev.blogspot.com/)
 
 
  <br/><br/>
