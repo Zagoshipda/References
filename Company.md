@@ -79,6 +79,7 @@ Company sites for Developers
 - [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
+- [Investors Overview | Tesla, Inc.](https://ir.tesla.com/)
 <br/><br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
