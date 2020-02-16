@@ -235,6 +235,9 @@ Startup lists
 - [X_X](https://xbarx.tistory.com/) (엑스바엑스)
     - [오더플러스 :: 국내 최대 업소용 식자재 주문 앱](http://orderplus.co.kr/) : 업소용 식자재 주문
 - [플링고(Plingo) : 언어의 즐거움을 찾다](https://plingo.io/) : 외국어 학습
+- [슈퍼루키](https://www.superookie.com/) : 채용
+- [Dishcraft | Home](https://dishcraft.com/) : 설거지
+- [Home | Hashed](https://www.hashed.com/) : blockchain
 
 
  <br/><br/>
