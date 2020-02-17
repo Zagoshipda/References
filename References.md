@@ -67,6 +67,7 @@ References
 - [Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/)
 - [programming](https://www.reddit.com/r/programming/) (reddit)
 - [리눅스 커뮤니티 하모니카(HamoniKR)](https://hamonikr.org/) (하모니카OS)
+- [DoF](https://dof.robotiq.com/) (a Robotiq Community)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -92,6 +93,8 @@ References
 - [빌라선샤인](https://villasunshine.kr/)
 - [아홉시(ahopsi)](https://www.ahopsi.com/)
 - [Change.org · The world’s platform for change](https://www.change.org/)
+- [라우드소싱 | 디자이너 플랫폼 | 디자인외주 | 디자인공모전](https://www.loud.kr/)
+- [Behance :: Best of Behance](https://www.behance.net/)
 
 
  <br/><br/>
@@ -332,6 +335,7 @@ COEX Grand Ballroom)
 - [Bakwi's PlayGround](http://bakwi.io/) (안병욱)
 - [Jisu Jeong – Medium](https://medium.com/@harry_41860)
     - [볼 영화 추천해줄게 - Jisu Jeong - Medium](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
+- [dorian-dev — Steemit](https://steemit.com/@dorian-dev)  <br/><br/>
 
 
  <br/><br/>
@@ -462,6 +466,8 @@ COEX Grand Ballroom)
 - [StaticGen | Top Open Source Static Site Generators](https://www.staticgen.com/)
     - [정적 사이트 생성기 Gatsby :: Outsider's Dev Story ](https://blog.outsider.ne.kr/1426)  <br/><br/>
 - [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
+- [Plus X Creative Partner](https://plus-ex.com/)
+    - [플러스엑스의 브런치](https://brunch.co.kr/@plusx#articles)
 
 
  <br/><br/>
