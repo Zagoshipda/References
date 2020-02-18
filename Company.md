@@ -49,6 +49,8 @@ Company sites for Developers
 - [Amazon Lab126 | Amazon.jobs](https://amazon.jobs/en/teams/lab126/)
 - [Amazon Web Services (AWS) - Cloud Computing Services](https://aws.amazon.com/)
     - [___Home | AWS Training & Certification___](https://www.aws.training/)
+    - [Amazon Web Services Korea - YouTube](https://www.youtube.com/user/AWSKorea/videos)
+        - [Amazon Web Services Korea - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUVaQBVL8vrhywy2QlwU_Vo6)
     - [Amazon Web Services Korea Presentations on SlideShare](https://www.slideshare.net/awskorea/presentations)
         - [KOR201 - A brief overview of new launches for Korean customers, Channy Yun - AWS re:Invent 2019 ](https://www.slideshare.net/awskorea/kor201-new-service-launches-aws-reinvent-2019)
     - [AWS Documentation](https://docs.aws.amazon.com/)
