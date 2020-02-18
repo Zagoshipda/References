@@ -69,6 +69,10 @@ Useful Tools
 - [NuGet Gallery | Home](https://www.nuget.org/)
 - [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
 - [Repl.it - The world's leading online coding platform](https://repl.it/)
+- [Source Insight Programming Editor and Code Browser](https://www.sourceinsight.com/)
+     - [소스인사이트 설명 :: Bitdol-전자쟁이, 때론 코딩하고 때론 납땜하고..](https://bitdol.tistory.com/entry/%EC%86%8C%EC%8A%A4%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%84%A4%EB%AA%85)
+- [The LLVM Compiler Infrastructure Project](https://llvm.org/)
+- [Redis](https://redis.io/)
 
 
  <br/><br/>
