@@ -55,6 +55,7 @@ Company sites for Developers
     - [AWS Developer Forums: Discussion Forums](https://forums.aws.amazon.com/index.jspa)
     - [AWS DeepRacer - the fastest way to get rolling with machine learning](https://aws.amazon.com/deepracer/)  <br/><br/>
 - [Apple Developer](https://developer.apple.com/)
+    - [Open Source - Releases](https://opensource.apple.com/) (Apple Open Source)
 - [Artificial Intelligence Computing Leadership from NVIDIA](https://www.nvidia.com/en-us/)
     - [NVIDIA Developer](https://developer.nvidia.com/)
     - [NVIDIA Research Homepage](https://www.nvidia.com/en-us/research/)
