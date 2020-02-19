@@ -3,7 +3,14 @@ Programming Languages
 
 
  <br/><br/>
- 
+
+
+### References
+- [GitHut - Programming Languages and GitHub](https://githut.info/)
+
+
+ <br/><br/>
+
 
 ### Langs
 - [The Scala Programming Language](https://www.scala-lang.org/)
@@ -25,6 +32,13 @@ Programming Languages
 - [Shell Style Guide](https://google.github.io/styleguide/shell.xml) (Google)
 - [The Programming Language Lua](http://www.lua.org/)
     - [Luvit.io](https://luvit.io/)
+- [OCaml – OCaml](https://ocaml.org/)
+    - [The Caml language: Home](https://caml.inria.fr/)
+- [Haskell Language](https://facebook.github.io)  <br/><br/>
+- [F# Software Foundation](https://fsharp.org/)
+    - [Try F#](https://try.fsharp.org/)
+- [Hello! | reason](https://facebook.github.io/reason/)
+    - [Reason · Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.](https://reasonml.github.io/)
 
 
  <br/><br/>
