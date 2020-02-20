@@ -143,6 +143,8 @@ Startup References
 - [Live & Venture](https://liveandventure.com/) (윤필구 Big Basin Capital founding partner)
     - [___스타트업 밸류에이션은 어떻게 하는가? – Live & Venture___](https://liveandventure.com/2013/04/27/valuation1/)
 - [Better than the Best](http://dosh.kim/about) (김동신 SendBird CEO)
+    - [Positive Tenacity – Democratizing the Future](https://positivetenacity.com/)
+        - [It's okay to be not liked on demo day. – Positive Tenacity](https://positivetenacity.com/2020/02/18/its-okay-to-be-not-liked-on-demo-day/)
 - [Toss Feed - 토스 공식 블로그](https://blog.toss.im/)  <br/><br/>
 - [Softrocky의 블로그 - 이충환의 개인 블로그, 창업, Tech Startup and more...](http://softrocky.com/) (이충환, 창업원 Pangyo Center, a founder & former CTO of Digital Aria)
 - [THE STARTUP BIBLE](http://www.thestartupbible.com/) (Strong Ventures 배기홍)
@@ -156,7 +158,13 @@ Startup References
 
 
  <br/><br/>
- 
+
+
+### Podcast
+
+
+ <br/><br/>
+
 
 ### Gov
 - [스타트업캠퍼스](https://www.gstartupcampus.or.kr/) (판교)
