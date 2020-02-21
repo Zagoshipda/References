@@ -337,6 +337,7 @@ COEX Grand Ballroom)
 - [Jisu Jeong – Medium](https://medium.com/@harry_41860)
     - [볼 영화 추천해줄게 - Jisu Jeong - Medium](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
 - [dorian-dev — Steemit](https://steemit.com/@dorian-dev)  <br/><br/>
+- [강진우의 브런치](https://brunch.co.kr/@alden#articles) (beNX)
 
 
  <br/><br/>
