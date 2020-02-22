@@ -96,6 +96,7 @@ References
 - [Change.org · The world’s platform for change](https://www.change.org/)
 - [라우드소싱 | 디자이너 플랫폼 | 디자인외주 | 디자인공모전](https://www.loud.kr/)
 - [Behance :: Best of Behance](https://www.behance.net/)
+- [마이크임팩트](http://www.micimpact.com/)
 
 
  <br/><br/>
@@ -112,6 +113,7 @@ References
 - [WIRED Korea](https://www.wired.kr/)
 - [NewsPeppermint](https://newspeppermint.com/)
 - [App Dev & Testing, DevOps, Enterprise IT, and Security: Experts share practical knowledge | TechBeacon](https://techbeacon.com/)  <br/><br/>
+- [지적 존재들의 B컷 - 비주얼다이브 -](http://www.visualdive.com/)
 
 
  <br/><br/>
@@ -171,6 +173,7 @@ COEX Grand Ballroom)
 - [LINE DEVELOPER DAY 2019](https://linedevday.linecorp.com/jp/2019/)  <br><br>
 - [2019 re:Invent Page](https://aws.amazon.com/new/reinvent/) (AWS)
 - [AWS Community Day - re:Invent 특집](https://aws.amazon.com/events/community-day/)
+- [Git Merge 2020 | March 4th | The Majestic Downtown, Los Angeles | Home](https://git-merge.com/)
 
 
  <br><br>
@@ -470,6 +473,7 @@ COEX Grand Ballroom)
 - [Brackets - A modern, open source code editor that understands web design.](http://brackets.io/)
 - [Plus X Creative Partner](https://plus-ex.com/)
     - [플러스엑스의 브런치](https://brunch.co.kr/@plusx#articles)
+- [Mathpix Snip](https://mathpix.com/) (Extract LaTeX from PDFs or handwritten notes)
 
 
  <br/><br/>
