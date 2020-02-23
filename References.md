@@ -17,7 +17,6 @@ References
 - [___StackShare - Software and technology stacks used by top companies___](https://stackshare.io/)
 - [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
 - [___Home | Google Summer of Code___](https://summerofcode.withgoogle.com/)
-- [velog](https://velog.io/) (blog platform for developers)
 - [개발자를 위한 QA 서비스 | Hashcode](https://hashcode.co.kr/)  <br><br>
 - [throw bug](https://throwbug.com/)  (Q & A)
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
@@ -257,7 +256,10 @@ COEX Grand Ballroom)
  
 
 ### Blog
-- [어썸데브블로그](https://awesome-devblog.netlify.com/) (국내외 개발 블로그 모음)
+- [___어썸데브블로그___](https://awesome-devblog.netlify.com/) (국내외 개발 블로그 모음)
+- [___velog___](https://velog.io/) (blog platform for developers)
+- [___개발자스럽다___](https://blog.gaerae.com/)
+- [Popit | 전문 지식 공유를 위한 팀블로그](https://www.popit.kr/)  <br/><br/>
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
 - [___Heee's Development Blog___](https://gmlwjd9405.github.io/)
@@ -266,7 +268,7 @@ COEX Grand Ballroom)
 - [Web Club | Kim Jae Hee](https://webclub.tistory.com/)
 - [jinyo의 뇌](https://wingnim.tistory.com/)
 - [demun(대문블로그)](https://demun.tistory.com/)
-- [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern) <br/><br/>
+- [소년코딩](https://boycoding.tistory.com/category) (C++ & design pattern)  <br/><br/>
 - [마르코의 브런치](https://brunch.co.kr/@imagineer#info) 
 - [지식나눔으로 누구에게나 따뜻한 블로그](https://blog.naver.com/tipsware) (김성엽, tipsware, C/C++)
 - [Kisang Pak – Medium](https://medium.com/@kpak) (박기상, LinkedIn, senior software engineer)
@@ -276,8 +278,7 @@ COEX Grand Ballroom)
 - [ :: Channy's Blog](http://channy.creation.net/) (윤석찬)
 - [Writer, IT Blog](https://futurecreator.github.io/) (Eric Han's IT Blog Powered by Hexo)
 - [PYRASIS.COM](http://www.pyrasis.com) (이재홍, Go, Docker, AWS)
-    - [PYRASIS.COM: ___아마존 웹 서비스를 다루는 기술___ 출간 및 원고 공개](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
-- [개발자스럽다](https://blog.gaerae.com/) <br/><br/>
+    - [PYRASIS.COM: ___아마존 웹 서비스를 다루는 기술___ 출간 및 원고 공개](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)  <br/><br/>
 - [Welcome to UCS Lab & Prof. James J.(Jong Hyuk) Park's Homepage](http://www.parkjonghyuk.net/)
 - [Project Nayuki](https://www.nayuki.io/)
 - [SchoolofWeb :: Home](http://schoolofweb.net/) (이상희, python)
@@ -351,22 +352,26 @@ COEX Grand Ballroom)
 - [소프트웨어 개발자의 인터뷰 준비과정 Microsoft에서 이직을 결심하다-4](https://brunch.co.kr/@yoonvi/8)
 - [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-part-1/)
 - [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers 실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
-- [나의 2017년 외국기업 코딩 인터뷰 정리](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
+- [___나의 2017년 외국기업 코딩 인터뷰 정리___](https://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 - [인턴 지원서 – 조성문의 블로그](https://sungmooncho.com/2019/03/02/internship/amp/)
+- [코딩 인터뷰 꼭 해야 하나? | Popit](https://www.popit.kr/%ec%bd%94%eb%94%a9-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%bc%ad-%ed%95%b4%ec%95%bc-%ed%95%98%eb%82%98/)
+- [[꼰대개발자가 살아온이야기#1] 면접에 관하여 | Popit](https://www.popit.kr/%ea%bc%b0%eb%8c%80%ea%b0%9c%eb%b0%9c%ec%9e%90%ea%b0%80-%ec%82%b4%ec%95%84%ec%98%a8%ec%9d%b4%ec%95%bc%ea%b8%b01-%eb%a9%b4%ec%a0%91%ec%97%90-%ea%b4%80%ed%95%98%ec%97%ac/)
+<br/><br/><br/>
 - [채용 정보 검색 | Tesla](https://www.tesla.com/ko_KR/careers/search#/?department=1&region=5&country=0) (Software Engineer, Computer Vision and AI)
-- [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
-- [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
-- [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)  <br/><br/>
+    - [Tesla AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/tesla-ai-interview-questions-acing-the-ai-interview-88b2e94ccbbf)
+- [styleshare](https://styleshare.team/)
+    - [[전지적 팀원 시점] 개발팀 6인이 말하는 스쉐다운 일과 사람](https://styleshare.team/archives/972)
+    - [StyleShare 채용](https://www.notion.so/StyleShare-fa05a07e78384be7b3c4f27d80bca82a)
 - [안녕하세요, 지그재그 팀 입니다!](https://www.notion.so/a561a88ad03e4022860924fd557a0da3)
 - [스터디파이는 어떻게 일하는가 (feat. 채용공고)](https://brunch.co.kr/@taewookim/9)
 - [DeepNatural Crew](https://www.notion.so/DeepNatural-Crew-c90ab612ac3a42a8999d59b2e54f99db)
     - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
-- [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)
+- [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)  <br><br>
 - [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
 - [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
 - [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
 - [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
-- [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)  <br><br>
+- [채용 공고 | SCATTER LAB](https://scatterlab.co.kr/recruiting/)
 - [플루토 채용공고](https://www.notion.so/d9b8ee14b76845688ce0d718a32c1e13)
 - [2020년 수시 채용공고 안내](https://www.robotis.com/model/board.php?bo_table=recruit&wr_id=1) (로보티즈)
 - [Join us : Watcha, Inc.](https://team.watcha.com/joinus/)
@@ -474,6 +479,8 @@ COEX Grand Ballroom)
 - [Plus X Creative Partner](https://plus-ex.com/)
     - [플러스엑스의 브런치](https://brunch.co.kr/@plusx#articles)
 - [Mathpix Snip](https://mathpix.com/) (Extract LaTeX from PDFs or handwritten notes)
+- [Font Awesome](https://fontawesome.com/)
+- [Rare Historical Photos - And the story behind them...](https://rarehistoricalphotos.com/)
 
 
  <br/><br/>
