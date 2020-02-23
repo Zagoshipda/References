@@ -73,6 +73,9 @@ Useful Tools
      - [소스인사이트 설명 :: Bitdol-전자쟁이, 때론 코딩하고 때론 납땜하고..](https://bitdol.tistory.com/entry/%EC%86%8C%EC%8A%A4%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%84%A4%EB%AA%85)
 - [The LLVM Compiler Infrastructure Project](https://llvm.org/)
 - [Redis](https://redis.io/)
+- [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
+- [jQuery](https://jquery.com/) (write less, do more.)
+- [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
 
 
  <br/><br/>
