@@ -68,6 +68,8 @@ References
 - [리눅스 커뮤니티 하모니카(HamoniKR)](https://hamonikr.org/) (하모니카OS)
 - [DoF](https://dof.robotiq.com/) (a Robotiq Community)
 - [국내 최대 기술공유 커뮤니티 - 기술랩](https://gisullab.com/)
+- [한국커뮤니티연합회 | Festa!](https://festa.io/hosts/3)
+- [Codementor | Get live 1:1 coding help, hire a developer, & more](https://www.codementor.io/)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
