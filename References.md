@@ -70,6 +70,7 @@ References
 - [국내 최대 기술공유 커뮤니티 - 기술랩](https://gisullab.com/)
 - [한국커뮤니티연합회 | Festa!](https://festa.io/hosts/3)
 - [Codementor | Get live 1:1 coding help, hire a developer, & more](https://www.codementor.io/)
+- [___개발자 팟캐스트 stdout.fm___](https://stdout.fm/) (클라우드, 개발, 가젯에 대해 이야기하는 프로그래머 팟캐스트 #stdoutfm)
  <br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -263,6 +264,7 @@ COEX Grand Ballroom)
 - [___어썸데브블로그___](https://awesome-devblog.netlify.com/) (국내외 개발 블로그 모음)
 - [___velog___](https://velog.io/) (blog platform for developers)
 - [___개발자스럽다___](https://blog.gaerae.com/)
+- [___프로그래밍 클라우드 기술 블로그 — 44bits.io___](https://www.44bits.io/ko) (blog, youtube, podcast)
 - [Popit | 전문 지식 공유를 위한 팀블로그](https://www.popit.kr/)  <br/><br/>
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
@@ -338,14 +340,13 @@ COEX Grand Ballroom)
 - [devpools blog](http://www.devpools.kr/) (개발 바보들의 놀이터)
 - [city7310 (PlanB)](https://velog.io/@city7310) (조민규, ab180)
 - [Engineer Man - YouTube](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ/videos) 
-- [프로그래밍 클라우드 기술 블로그 — 44bits.io](https://www.44bits.io/ko) (blog, youtube, podcast)
 - [Don Knuth's Home Page](https://www-cs-faculty.stanford.edu/~knuth/) (The Art of Computer Programming)
 - [Joseph (Jay) B. Kadane](http://www.stat.cmu.edu/~kadane/)
 - [Bakwi's PlayGround](http://bakwi.io/) (안병욱)
 - [Jisu Jeong – Medium](https://medium.com/@harry_41860)
     - [볼 영화 추천해줄게 - Jisu Jeong - Medium](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
-- [dorian-dev — Steemit](https://steemit.com/@dorian-dev)  <br/><br/>
-- [강진우의 브런치](https://brunch.co.kr/@alden#articles) (beNX)
+- [dorian-dev — Steemit](https://steemit.com/@dorian-dev)
+- [강진우의 브런치](https://brunch.co.kr/@alden#articles) (beNX)  <br/><br/>
 - [룰루랄라코딩 ](https://blog.lulab.net/)
 
 
