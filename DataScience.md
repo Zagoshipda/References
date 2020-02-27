@@ -14,7 +14,7 @@ Data Science : AI & ML & DL & RL
 - [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [Project Jupyter | Home](https://jupyter.org/)
 - [Welcome To Colaboratory - Colaboratory](https://colab.research.google.com/)
-- [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
+- [___Kaggle: Your Home for Data Science___](https://www.kaggle.com/)
     - [Kaggle Past Competitions](http://kagglesolutions.com/)
 - [MIT Deep Learning](https://deeplearning.mit.edu/) <br/><br/>
 - [Stanford Artificial Intelligence Laboratory](http://ai.stanford.edu/)
@@ -22,7 +22,7 @@ Data Science : AI & ML & DL & RL
     - [Stanford Institute for Human-Centered Artificial Intelligence |](https://hai.stanford.edu/)
         - [Agenda | Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu/events/2019-fall-conference/agenda)
         - [Stanford HAI 2019 Fall Conference - YouTube](https://www.youtube.com/playlist?list=PLpGHT1n4-mAv0KFPg0dZXOL7_qHUlxj2Z)
-    - [Stanford University CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
+    - [___Stanford University CS231n: Convolutional Neural Networks for Visual Recognition___](http://vision.stanford.edu/teaching/cs231n/)
     - [CS224N: Natural Language Processing with Deep Learning | Winter 2019 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
     - [CS230: Deep Learning | Autumn 2018 - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 - [OpenAI](https://openai.com/)
@@ -62,11 +62,11 @@ Data Science : AI & ML & DL & RL
 - [PyImageSearch - Be awesome at OpenCV, Python, deep learning, and computer vision](https://www.pyimagesearch.com/)
 - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=165) (박찬준, 기계번역 입문)  <br/><br/>
-- [PyTorch](https://pytorch.org/)
+- [___PyTorch___](https://pytorch.org/)
     - [PyTorch - YouTube](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw/videos) (PyTorch Developer Conference 2019)
     - [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
     - [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library)
-- [TensorFlow](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
+- [___TensorFlow___](https://www.tensorflow.org/) (An end-to-end open source machine learning platform)
     - [TensorFlow Hub](https://tfhub.dev/)
     - [TensorBoard.dev](https://tensorboard.dev/)
     - [TensorFlow.js](https://www.tensorflow.org/js) (library for machine learning in JavaScript)
@@ -85,7 +85,7 @@ Data Science : AI & ML & DL & RL
         - [구글 머신러닝 스터디잼 가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA/edit) (박찬성)
         - [구글 머신러닝 (중급) 스터디잼 - Google 프레젠테이션](https://docs.google.com/presentation/d/1wogLNNAOhlzHmFe6GTurpV7evbNkiKY9A4LteIDgYcw/edit) (박찬성)
         - [구글 머신러닝 스터디잼 (심화)  가이드라인 - Google 프레젠테이션](https://docs.google.com/presentation/d/13Qn9wWMvwHtzoYjv3HGs9p6OR4vT3XRJbHlTrv0KASE/edit) (박찬성)  <br><br>
-- [Home - Keras Documentation](https://keras.io/)
+- [___Home - Keras Documentation___](https://keras.io/)
 - [Berkeley Artificial Intelligence Research Lab](https://bair.berkeley.edu/)
 - [FastML](http://fastml.com/) (Machine learning made easy)
 - [WordNet | A Lexical Database for English](https://wordnet.princeton.edu/)
@@ -115,7 +115,8 @@ Data Science : AI & ML & DL & RL
         - [Template Matching — OpenCV-Python Tutorials 1 documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_template_matching/py_template_matching.html)
 - [OpenResearch.ai](http://openresearch.ai/)
 - [TensorFlow: Data and Deployment | Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- [‍김성범[ 교수 / 산업경영공학부 ] - YouTube](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos) ([핵심 머신러닝])
+- [‍김성범[ 교수 / 산업경영공학부 ] - YouTube](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos) ([핵심 머신러닝])  <br><br>
+- [모두를 위한 컨벡스 최적화 (Convex Optimization For All) - WikiDocs](https://wikidocs.net/book/1896)
 
 
  <br><br>
