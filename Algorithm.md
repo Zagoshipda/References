@@ -1,6 +1,10 @@
 Algorithm
 ==========
 
+ <br/>
+ 
+### [Algorithm List](https://docs.google.com/document/d/1oOJBDRhrdQm9fDtNI8YVfCA0rAzi22yQ9-IKpNMxvss/edit#)
+
 
  <br/><br/>
 
@@ -23,11 +27,11 @@ Algorithm
 - [Lavida](https://judge.lavida.us/) 
 - [선데이 코딩](https://www.sundaycoding.xyz/) 
 - [codeground-SCPC](https://www.codeground.org/)  (Samsung Collegiate Programming Cup)
-- [Samsung - SW Expert Academy](https://www.swexpertacademy.com/main/main.do)
+- [___Samsung - SW Expert Academy___](https://www.swexpertacademy.com/main/main.do)
 - [UCPC 2019](https://ucpc.acmicpc.net/info)
 - [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
 - [HackerRank](https://www.hackerrank.com/)
-- [Tech Recruiting Platform, Online Code Testing | Codility](https://www.codility.com/)
+- [___Tech Recruiting Platform, Online Code Testing | Codility___](https://www.codility.com/)
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
 - [Train with Programming Challenges/Kata | Codewars](https://www.codewars.com/)
 - [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
@@ -46,6 +50,7 @@ Algorithm
 - [ ::국제정보올림피아드:: ](http://ioikorea.or.kr/main/index.asp)
 - [International Olympiad in Informatics](https://ioinformatics.org/)
 - [Programming Interview Questions | CareerCup](https://www.careercup.com/)  <br/><br/>
+- [Coderbyte | Code Screening, Challenges, & Interview Prep](https://coderbyte.com/)
 
 
  <br/><br/>
@@ -103,19 +108,6 @@ Algorithm
 - [Being good competitive programmer correlates negatively with being good on the job? What do you think? - Codeforces](https://codeforces.com/blog/entry/17302)
 
 
- <br/><br/>
-
-
-### TODO
-- [Problem - C - Codeforces](https://codeforces.com/contest/1186/problem/C)
-- [Problem - C - Codeforces](https://codeforces.com/contest/1201/problem/C)
-- [Problem - 1200D - Codeforces](https://codeforces.com/problemset/problem/1200/D)
-- [Problem - D - Codeforces](https://codeforces.com/contest/1214/problem/D)
-- [Problem - E1 - Codeforces](https://codeforces.com/contest/1209/problem/E1)
-- [Problem - 99999355 - Codeforces](https://codeforces.com/problemsets/acmsguru/problem/99999/355)
-- [Problem - 45G - Codeforces](https://codeforces.com/problemset/problem/45/G)
-- [Problem - B - Codeforces](https://codeforces.com/contest/1209/problem/B)
-
-
 <br/><br/>
+
 
