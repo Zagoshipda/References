@@ -116,6 +116,7 @@ Today I Learned
 - [___인터넷이 동작하는 아주 구체적인 원리___](https://parksb.github.io/article/36.html)
 - [c - C/C++에서 특정 비트를 0/1로 바꾸는 방법 | Hashcode](https://hashcode.co.kr/questions/81/cc%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%B9%84%ED%8A%B8%EB%A5%BC-01%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [___Scaling to 100k Users | Alex Pareto___](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+- [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 
  <br/><br/>
