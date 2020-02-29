@@ -76,7 +76,7 @@ Startup References
 
 
 ### Media
-- [TechCrunch – Startup and Technology News](https://techcrunch.com/)
+- [___TechCrunch – Startup and Technology News___](https://techcrunch.com/)
 - [플래텀(Platum) - 'Startup's Story Platform’](https://platum.kr/)
 - [스타트업 전문 미디어 서비스 플랫폼 - 벤처스퀘어](http://www.venturesquare.net/)
 - [쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/)
@@ -95,6 +95,8 @@ Startup References
 - [맥갤러리](https://post.naver.com/my.nhn?memberNo=6384148)
 - [VentureBeat | Transformative tech coverage that matters](https://venturebeat.com/)
 - [더퍼스트미디어](https://www.thefirstmedia.net/)
+- [폴인 인사이트](https://news.joins.com/IssueSeries/1022)
+    - [___[폴인인사이트] 170만 회원 일군 타다 박재욱 대표, "스타트업, 처음엔 두 가지만 생각해야" - 중앙일보___](https://news.joins.com/article/23711778)  <br/><br/>
 
 
  <br/><br/>
