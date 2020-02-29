@@ -110,7 +110,7 @@ References
 - [IEEE Spectrum: Technology, Engineering, And Science News - IEEE Spectrum](https://spectrum.ieee.org/)
 - [Tech Xplore - Technology and Engineering news](https://techxplore.com/)
 - [신뢰 그 이상의 가치 : 코인데스크코리아](https://www.coindeskkorea.com/)
-- [MIT Technology Review](https://www.technologyreview.com/)
+- [___MIT Technology Review___](https://www.technologyreview.com/)
 - [Hacker Noon](https://hackernoon.com/)
 - [WIRED Korea](https://www.wired.kr/)
 - [NewsPeppermint](https://newspeppermint.com/)
@@ -184,6 +184,8 @@ COEX Grand Ballroom)
 ### Online Study
 - [___MIT OpenCourseWare | Free Online Course Materials___](https://ocw.mit.edu/index.htm)
     - [MIT Online Programs - The Innovation Series](https://executive-education.mit.edu/)
+- [The MIT Press](https://mitpress.mit.edu/)
+    - [___Welcome to the SICP Web Site___](https://mitpress.mit.edu/sites/default/files/sicp/index.html) (___Structure and Interpretation of Computer Programs___)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 - [Start Learning at Treehouse for Free](https://teamtreehouse.com/)
 - [2019 구글 스터디 잼](https://sites.google.com/view/studyjamkr/home?authuser=0)
@@ -255,6 +257,7 @@ COEX Grand Ballroom)
 - [DCJTech.info | Technological information for the world](http://dcjtech.info/)
 - [OLC CENTER](https://olc.kr/main/index.jsp) (Open Source Software Learning Community)
     - [___Computer Architecture___](https://olc.kr/course/course_online_view.jsp?id=240&cid=519) (민상렬)
+- [Academia.edu](https://www.academia.edu/) (social networking website for academics : share and follow research)
 
 
  <br/><br/>
@@ -394,6 +397,8 @@ COEX Grand Ballroom)
 - [Mathpix Snip](https://mathpix.com/) (Extract LaTeX from PDFs or handwritten notes)
 - [Font Awesome](https://fontawesome.com/)
 - [Rare Historical Photos - And the story behind them...](https://rarehistoricalphotos.com/)
+- [Keybase](https://keybase.io/) (End-to-end encryption for things that matter. Keybase is secure messaging and file-sharing.)
+- [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/)
 
 
  <br/><br/>
