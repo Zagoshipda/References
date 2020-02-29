@@ -10,6 +10,7 @@ Developer Blogs
 - [___velog___](https://velog.io/) (blog platform for developers)
 - [___개발자스럽다___](https://blog.gaerae.com/)
 - [___프로그래밍 클라우드 기술 블로그 — 44bits.io___](https://www.44bits.io/ko) (blog, youtube, podcast)
+    - [Project 44BITS 구독](https://www.notion.so/Project-44BITS-1943ba4a41124bfda865aa854609f703#e83db5905d6b446dadc869156432d6bf)
 - [Popit | 전문 지식 공유를 위한 팀블로그](https://www.popit.kr/)  <br/><br/>
 - [Outsider's Dev Story](https://blog.outsider.ne.kr/)
 - [ZeroCho Blog](https://www.zerocho.com/)
