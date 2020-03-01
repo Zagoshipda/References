@@ -88,7 +88,7 @@ Startup References
 - [스타트업앤칠(Startup&Chill) - 한국 스타트업의 모든 것](https://startupnchill.com/)  <br/><br/>
 - [모바일 시대를 사는 사람들의 이야기를 전합니다 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/)
 - [와우테일(WOWTALE) – 스타트업과 투자자를 이어주는 이야기](https://wowtale.net/)
-- [techNeedle 테크니들](http://techneedle.com/) (global tech news & insight)
+- [___techNeedle 테크니들 – 글로벌 테크 소식을 인사이트와 함께 전달합니다___](http://techneedle.com/) (techNeedle 테크니들 : global tech news & insight)
 - [JOH & Company](http://johcompany.com/) (Magazine B, Brand Documentary Magazine)
 - [INDIEPOST 인디포스트](https://www.indiepost.co.kr/)
 - [TECH M](http://techm.kr/)
