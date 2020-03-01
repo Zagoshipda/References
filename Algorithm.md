@@ -15,7 +15,7 @@ Algorithm
 - [___Codeforces___](http://codeforces.com/) 
 - [___Code Jam - Google’s Coding Competitions___](https://codingcompetitions.withgoogle.com/codejam)
     - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
-- [Facebook Hacker Cup](https://www.facebook.com/hackercup/)
+- [___Facebook Hacker Cup___](https://www.facebook.com/hackercup/)
     - [Past Rounds | Facebook Hacker Cup 2019 Qualification Round](https://www.facebook.com/hackercup/past_rounds/)
 - [AtCoder](https://atcoder.jp/)
 - [___LeetCode - The World's Leading Online Programming Learning Platform___](https://leetcode.com/)
@@ -51,6 +51,7 @@ Algorithm
 - [International Olympiad in Informatics](https://ioinformatics.org/)
 - [Programming Interview Questions | CareerCup](https://www.careercup.com/)  <br/><br/>
 - [Coderbyte | Code Screening, Challenges, & Interview Prep](https://coderbyte.com/)
+- [HackerEarth | Online coding platform and developer assessment software](https://www.hackerearth.com/)
 
 
  <br/><br/>
