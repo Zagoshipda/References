@@ -23,6 +23,9 @@ Robotics
         - [___roscpp/Overview/Callbacks and Spinning - ROS Wiki___](http://wiki.ros.org/roscpp/Overview/Callbacks%20and%20Spinning)
         - [roscpp/Overview/Publishers and Subscribers - ROS Wiki](http://wiki.ros.org/roscpp/Overview/Publishers%20and%20Subscribers)
         - [amcl - ROS Wiki](http://wiki.ros.org/amcl)
+        - [ROS/NetworkSetup - ROS Wiki](https://wiki.ros.org/ROS/NetworkSetup)
+    - [docs.ros.org](http://docs.ros.org/)
+        - [roscpp: roscpp](http://docs.ros.org/jade/api/roscpp/html/index.html)
     - [ROSCon 2019](https://roscon.ros.org/2019/)  <br/><br/>
 - [로봇신문사](http://www.irobotnews.com/)
 - [Teach, Learn, and Make with Raspberry Pi – Raspberry Pi](https://www.raspberrypi.org/)
@@ -74,6 +77,8 @@ Robotics
 - [YUJIN ROBOT](https://yujinrobot.com/)
 - [Center for Robotics and Biosystems - Northwestern University](https://robotics.northwestern.edu/)  <br/><br/>
 - [ROS For Beginners LEARNING PATH | The Construct](https://www.theconstructsim.com/)
+- [Qbotics Labs | Be the Future](https://www.qboticslabs.com/)
+- [Open Robotics](https://www.openrobotics.org/)
 
 
  <br/><br/>
