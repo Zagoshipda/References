@@ -71,7 +71,8 @@ References
 - [국내 최대 기술공유 커뮤니티 - 기술랩](https://gisullab.com/)
 - [한국커뮤니티연합회 | Festa!](https://festa.io/hosts/3)
 - [Codementor | Get live 1:1 coding help, hire a developer, & more](https://www.codementor.io/)
-- [___개발자 팟캐스트 stdout.fm___](https://stdout.fm/) (클라우드, 개발, 가젯에 대해 이야기하는 프로그래머 팟캐스트 #stdoutfm)
+- [___개발자 팟캐스트 stdout.fm___](https://stdout.fm/) (클라우드, 개발, 가젯에 대해 이야기하는 프로그래머 팟캐스트 #stdoutfm)  <br/><br/>
+- [The Autoware Foundation - Open Source for Autonomous Driving](https://www.autoware.org/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -199,7 +200,11 @@ References
 - [OLC CENTER](https://olc.kr/main/index.jsp) (Open Source Software Learning Community)
     - [___Computer Architecture___](https://olc.kr/course/course_online_view.jsp?id=240&cid=519) (민상렬)
 - [Academia.edu](https://www.academia.edu/) (social networking website for academics : share and follow research)
-
+- [(주)소프트웨어품질기술원](http://www.softqt.com/softqt/board.php?board=research2) (알고리즘, 소프트웨어)
+- [Hakjoo Oh's Web Page](http://prl.korea.ac.kr/~pronto/home/courses.html)
+    - [COSE212](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/) (Programming Languages, 2019 Fall)
+    - [pl-book-draft.pdf](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/pl-book-draft.pdf) (___SNU 4190.310 Programming Languages Lecture Notes___)
+    
 
  <br/><br/>
 
@@ -241,12 +246,16 @@ References
  
  
  ### Book
-- [Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
-- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+- [___Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs___](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
+- [___Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition___](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
 - [더북(TheBook)](https://thebook.io/) ((주)도서출판 길벗 IT 도서 열람 서비스)
 - [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
 - [Graph Algorithms - Graph_Algorithms_Neo4j.pdf](https://neo4j.com/neoassets/graphbooks/Graph_Algorithms_Neo4j.pdf)
+- [___Structure and Interpretation of Computer Programs___ - 2nd Edition (MIT Electrical Engineering and Computer Science): Harold Abelson, Gerald Jay Sussman, Julie Sussman: 9780262510875: Amazon.com: Books](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_bbs_sr_1/103-1750837-1462266?ie=UTF8&s=books&qid=1193114110&sr=1-1)
+- [Software Engineering - Principles and Practice By Hans van Vliet - Wiley 2007.pdf](http://160592857366.free.fr/joe/ebooks/ShareData/Software%20Engineering%20-%20Principles%20and%20Practice%20By%20Hans%20van%20Vliet%20-%20Wiley%202007.pdf)
+- [Fundamentals of Software Engineering: United States Edition: Amazon.in: Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli: Books](https://www.amazon.in/Fundamentals-Software-Engineering-United-States/dp/0133056996)
+- [___How to Design Programs___](https://htdp.org/)  <br/><br/>
 
 
  <br/><br/>
