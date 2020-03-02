@@ -253,6 +253,7 @@ References
 - [Professional: JavaScript® for Web Developers - Professional JavaScript for Web Developers, 3rd Edition.pdf](http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf)
 - [Graph Algorithms - Graph_Algorithms_Neo4j.pdf](https://neo4j.com/neoassets/graphbooks/Graph_Algorithms_Neo4j.pdf)
 - [___Structure and Interpretation of Computer Programs___ - 2nd Edition (MIT Electrical Engineering and Computer Science): Harold Abelson, Gerald Jay Sussman, Julie Sussman: 9780262510875: Amazon.com: Books](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_bbs_sr_1/103-1750837-1462266?ie=UTF8&s=books&qid=1193114110&sr=1-1)
+    - [Structure and Interpretation of Computer Programs, 2nd ed. - sicp.pdf](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 - [Software Engineering - Principles and Practice By Hans van Vliet - Wiley 2007.pdf](http://160592857366.free.fr/joe/ebooks/ShareData/Software%20Engineering%20-%20Principles%20and%20Practice%20By%20Hans%20van%20Vliet%20-%20Wiley%202007.pdf)
 - [Fundamentals of Software Engineering: United States Edition: Amazon.in: Carlo Ghezzi, Mehdi Jazayeri, Dino Mandrioli: Books](https://www.amazon.in/Fundamentals-Software-Engineering-United-States/dp/0133056996)
 - [___How to Design Programs___](https://htdp.org/)  <br/><br/>
