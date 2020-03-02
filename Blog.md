@@ -100,6 +100,7 @@ Developer Blogs
     - [Codeforces Round 600 (Div. 2) 후기 및 문제 풀이 (블루 등극!!!!)](https://zoomkoding.github.io/codeforces/2019/11/17/codeforces-600.html)
     - [나의 비효율적이지만 효율적인 알고리즘 공부법 (코딩테스트를 준비하는 이들에게)](https://zoomkoding.github.io/%ED%9A%8C%EA%B3%A0/2019/12/05/how-to-algo.html)
 - ['목록' 카테고리의 글 목록 :: HwanShell](https://hwan-shell.tistory.com/category)
+- [PinkWink :: PinkWink](https://pinkwink.kr/) (Robotics)
 
  
  <br/><br/>
