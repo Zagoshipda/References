@@ -90,7 +90,7 @@ Developer Blogs
 - [Joseph (Jay) B. Kadane](http://www.stat.cmu.edu/~kadane/)
 - [Bakwi's PlayGround](http://bakwi.io/) (안병욱)
 - [Jisu Jeong – Medium](https://medium.com/@harry_41860)
-    - [볼 영화 추천해줄게 - Jisu Jeong - Medium](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
+    - [___볼 영화 추천해줄게 - Jisu Jeong - Medium___](https://medium.com/@harry_41860/%EB%B3%BC-%EC%98%81%ED%99%94-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%84%EA%B2%8C-b33a4878aa3e)
 - [dorian-dev — Steemit](https://steemit.com/@dorian-dev)
 - [강진우의 브런치](https://brunch.co.kr/@alden#articles) (beNX)  <br/><br/>
 - [룰루랄라코딩 ](https://blog.lulab.net/)
@@ -101,6 +101,8 @@ Developer Blogs
     - [나의 비효율적이지만 효율적인 알고리즘 공부법 (코딩테스트를 준비하는 이들에게)](https://zoomkoding.github.io/%ED%9A%8C%EA%B3%A0/2019/12/05/how-to-algo.html)
 - ['목록' 카테고리의 글 목록 :: HwanShell](https://hwan-shell.tistory.com/category)
 - [PinkWink :: PinkWink](https://pinkwink.kr/) (Robotics)
+- [Jesang Yoon – Medium](https://medium.com/@yoonjs2) (Jesang Yoon, Co-Founder & CTO of HBSmith, Software Developer)
+- [All Things Distributed - All Things Distributed](https://www.allthingsdistributed.com/) (___Werner Vogels, CTO - Amazon.com___)  <br/><br/>
 
  
  <br/><br/>
