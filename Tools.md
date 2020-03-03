@@ -78,6 +78,11 @@ Useful Tools
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
 - [Jade - Template Engine](http://jade-lang.com/)
 - [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
+- [Zeplin—Collaboration and handoff for product teams | Zeplin](https://zeplin.io/)
+- [___Zeppelin___](https://zeppelin.apache.org/) (Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.)
+    - [아파치 제플린, 한국에서 세계로 가기까지 - ZDNet korea](http://www.zdnet.co.kr/view/?no=20160601155438)
+    - [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가? - Apache Zeppelin Stories - Medium](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
+- [CocoaPods.org](https://cocoapods.org/) (dependency manager for Swift and Objective-C Cocoa projects)
 
 
  <br/><br/>
