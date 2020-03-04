@@ -83,6 +83,11 @@ Useful Tools
     - [아파치 제플린, 한국에서 세계로 가기까지 - ZDNet korea](http://www.zdnet.co.kr/view/?no=20160601155438)
     - [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가? - Apache Zeppelin Stories - Medium](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
 - [CocoaPods.org](https://cocoapods.org/) (dependency manager for Swift and Objective-C Cocoa projects)
+- [Apache MINA — Apache MINA](https://mina.apache.org/) (network application framework)
+- [Netty: Home](https://netty.io/) (asynchronous event-driven network application framework)
+- [Tajo - A Big Data Warehouse System on Hadoop - ](http://tajo.apache.org/)  <br/><br/>
+- [Apache REEF - Apache REEF™ - a stdlib for Big Data](http://reef.apache.org/)
+- [Apache Hama - Big Data and High-Performance Computing](https://hama.apache.org/)
 
 
  <br/><br/>
