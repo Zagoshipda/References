@@ -73,6 +73,7 @@ References
 - [Codementor | Get live 1:1 coding help, hire a developer, & more](https://www.codementor.io/)
 - [___개발자 팟캐스트 stdout.fm___](https://stdout.fm/) (클라우드, 개발, 가젯에 대해 이야기하는 프로그래머 팟캐스트 #stdoutfm)  <br/><br/>
 - [The Autoware Foundation - Open Source for Autonomous Driving](https://www.autoware.org/)
+- [___Gitter — Where developers come to talk.___](https://gitter.im/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
