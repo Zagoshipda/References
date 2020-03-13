@@ -108,7 +108,9 @@ Company sites for Developers
     - [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/frontMain.action)
 - [TOAST Meetup](https://meetup.toast.com/) (NHN TOAST cloud service)
 - [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/)  <br/><br/> 
+    - [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/featured)
+        - [[우아한테크세미나] 190620 우아한객체지향 by 우아한형제들 개발실장 조영호님 - YouTube](https://www.youtube.com/watch?v=dJ5C4qRqAgA)
+- [VCNC Engineering Blog](http://engineering.vcnc.co.kr/)  <br/><br/>
 - [Nextree](http://www.nextree.co.kr/) (넥스트리소프트)
 - [Banksalad Tech – Medium](https://medium.com/banksalad)
     - [쉽게 이해하는 블록체인 : 비트코인, 블록체인이란 무엇인가 | 뱅크샐러드](https://banksalad.com/contents/%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-0vLh5)
