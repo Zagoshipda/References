@@ -241,6 +241,7 @@ References
 - [플루토 채용공고](https://www.notion.so/d9b8ee14b76845688ce0d718a32c1e13)
 - [2020년 수시 채용공고 안내](https://www.robotis.com/model/board.php?bo_table=recruit&wr_id=1) (로보티즈)
 - [Join us : Watcha, Inc.](https://team.watcha.com/joinus/)
+- [Join Seoul Robotics! ](https://www.notion.so/Join-Seoul-Robotics-2483666315804dedbac2a4f161654b15)
 
 
  <br><br>
