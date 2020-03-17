@@ -355,6 +355,8 @@ References
 - [Rare Historical Photos - And the story behind them...](https://rarehistoricalphotos.com/)
 - [Keybase](https://keybase.io/) (End-to-end encryption for things that matter. Keybase is secure messaging and file-sharing.)
 - [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/)
+- [Excalidraw](https://excalidraw.com/)
+    - [excalidraw/excalidraw: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.](https://github.com/excalidraw/excalidraw)  <br/><br/>
 
 
  <br/><br/>
