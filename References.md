@@ -243,6 +243,7 @@ References
 - [Join us : Watcha, Inc.](https://team.watcha.com/joinus/)
 - [Join Seoul Robotics! ](https://www.notion.so/Join-Seoul-Robotics-2483666315804dedbac2a4f161654b15)
 - [우리와 함께 꿈을 키워나갈 분을 찾습니다!](https://www.notion.so/18966ccf2c514cab8b84bbf7c30c4cb7) (꿈많은 청년들)  <br><br>
+- [필통 소개](https://www.notion.so/52991bd4476f4abbb250335e4aa94466)
 
 
  <br><br>
