@@ -11,6 +11,7 @@ Company sites for Developers
 - [___Technical documentation, API, and code examples | Microsoft Docs___](https://docs.microsoft.com/en-us/)
 - [Visual Studio IDE, Code Editor, Azure DevOps, & App Center - Visual Studio](https://visualstudio.microsoft.com/)
 - [Microsoft for Startups – Building Startups | Microsoft for Startups](https://startups.microsoft.com/en-us/)
+- [Explore Microsoft open source projects, releases and information - opensource.microsoft.com](https://opensource.microsoft.com/)
 - [Create your Azure free account today | Microsoft Azure](https://azure.microsoft.com/en-us/free/)
 - [The AI Blog](https://blogs.microsoft.com/ai/) (microsoft AI)
 - [Microsoft Developer](https://developer.microsoft.com/en-us/)
