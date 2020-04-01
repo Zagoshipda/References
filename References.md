@@ -148,7 +148,8 @@ References
 - [인프런 - 배우고 나누고 성장하세요 | 온라인 강의 플랫폼](https://www.inflearn.com/)
 - [Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
     - [Stack Overflow Insights - Developer Hiring, Marketing, and User Research](https://insights.stackoverflow.com/survey)  <br><br>
-- [W3Schools Online Web Tutorials](https://www.w3schools.com/) (Javascript, Python, Java)
+- [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+    - [___SQL Tutorial___](https://www.w3schools.com/sql/default.asp)
 - [GeeksforGeeks | A computer science portal for geeks](https://www.geeksforgeeks.org/) (algorithms, data structure)
 - [OSSU - Open Source Society University](https://ossu.firebaseapp.com)  
 - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) (Python, C++, Java, C#, JavaScript tutorial)
@@ -205,7 +206,8 @@ References
 - [Hakjoo Oh's Web Page](http://prl.korea.ac.kr/~pronto/home/courses.html)
     - [COSE212](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/) (Programming Languages, 2019 Fall)
     - [pl-book-draft.pdf](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/pl-book-draft.pdf) (___SNU 4190.310 Programming Languages Lecture Notes___)
-    
+- [공공 인공지능 오픈 API·DATA 서비스 포털](http://aiopen.etri.re.kr/index.php)
+
 
  <br/><br/>
 
