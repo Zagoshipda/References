@@ -93,8 +93,12 @@ How to Git & Github
 - [Git - git Documentation](https://git-scm.com/docs/git#_reset_restore_and_revert) (Reset, restore and revert)
 - [Git - git-restore Documentation](https://git-scm.com/docs/git-restore)
 - [ Git 사용 중 자주 만나는 이슈 정리 ](https://parksb.github.io/article/28.html)
-- [Github push 시 권한 에러 (___403 error___) · Jinyong](http://jinyongjeong.github.io/2019/10/27/github_403error/)
-
+- [Git - ___Credential Storage___](https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage)
+    - [Git - git-credential-store Documentation](https://git-scm.com/docs/git-credential-store)
+    - [Git - git-credential-cache Documentation](https://git-scm.com/docs/git-credential-cache)
+    - [Github push 시 권한 에러 (___403 error___) · Jinyong](http://jinyongjeong.github.io/2019/10/27/github_403error/)
+    - [[Cookbook] Git, 이럴 때 이렇게 한다.](https://pinedance.github.io/blog/2019/05/28/Git-Cookbook)
+ 
 
  <br/><br/>
   
