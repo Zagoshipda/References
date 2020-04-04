@@ -103,8 +103,11 @@ Developer Blogs
 - [PinkWink :: PinkWink](https://pinkwink.kr/) (Robotics)
 - [Jesang Yoon – Medium](https://medium.com/@yoonjs2) (Jesang Yoon, Co-Founder & CTO of HBSmith, Software Developer)
 - [All Things Distributed - All Things Distributed](https://www.allthingsdistributed.com/) (___Werner Vogels, CTO - Amazon.com___)  <br/><br/>
+- [Swear not by the wiki, the fickle wiki, the inconstant wiki](https://www.crummy.com/) (Leonard Richardson)
+    - [Beautiful Soup: We called him Tortoise because he taught us.](https://www.crummy.com/software/BeautifulSoup/)
+- [Beomi's Tech blog](https://beomi.github.io/)
 
- 
+
  <br/><br/>
  
  
