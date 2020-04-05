@@ -208,6 +208,8 @@ References
     - [COSE212](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/) (Programming Languages, 2019 Fall)
     - [pl-book-draft.pdf](http://prl.korea.ac.kr/~pronto/home/courses/cose212/2019/pl-book-draft.pdf) (___SNU 4190.310 Programming Languages Lecture Notes___)
 - [공공 인공지능 오픈 API·DATA 서비스 포털](http://aiopen.etri.re.kr/index.php)
+- [CS50](https://cs50.harvard.edu/college/2020/spring/)
+    - [[해외명강] 컴퓨터 과학 교양 강좌: CS50 Course introduction : edwith](https://www.edwith.org/cs50/)  <br/><br/>
 
 
  <br/><br/>
