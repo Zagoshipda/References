@@ -36,7 +36,8 @@ Useful Tools
     - [community/contributors/devel at master · kubernetes/community](https://github.com/kubernetes/community/tree/master/contributors/devel#readme)
     - [Kubeflow](https://www.kubeflow.org/)
 - [___CMake___](https://cmake.org/)  <br/><br/>
-- [Next.js - The React Framework](https://nextjs.org/)
+- [Develop. Preview. Ship. - ZEIT](https://zeit.co/) (ZEIT - World-Class Static Hosting - ZEIT)
+    - [___Next.js - The React Framework___](https://nextjs.org/) (framework for static and server‑rendered applications built with React)
 - [Prisma - Database tools for modern application development](https://www.prisma.io/)
 - [Databricks - Unified Data Analytics](https://databricks.com/)
 - [___Data Version Control · DVC___](https://dvc.org/)
@@ -48,13 +49,14 @@ Useful Tools
 - [___lubuntu – lightweight, fast, easier___](https://lubuntu.net/)  <br/><br/>
 - [Perforce Software | Development Tools For Innovation at Scale](https://www.perforce.com/)
 - [Mercurial SCM](https://www.mercurial-scm.org/) (Source Code Management)
-- [ZEIT - World-Class Static Hosting - ZEIT](https://zeit.co/)
 - [___React – A JavaScript library for building user interfaces___](https://reactjs.org/)
     - [Create React App · Set up a modern web app by running one command.](https://create-react-app.dev/)
+    - [___React integration for ASP.NET MVC | ReactJS.NET___](https://reactjs.net/)
 - [___Qt | Cross-platform software development for embedded & desktop___](https://www.qt.io/) (GUI 프로그램 개발 크로스 플랫폼 프레임워크, C++)
     - [korone.net programming site](https://www.korone.net/)
     - [Qt 개발자 커뮤니티](http://qt-dev.com/board.php?board=kkkmain&command=skin_insert&exe=insert_iboard1_home)
 - [GatsbyJS](https://www.gatsbyjs.org/) (a free and open source framework based on React that helps developers build blazing fast websites and apps)
+    - [Home | Gatsby Cloud](https://www.gatsbyjs.com/)
 - [Hexo](https://hexo.io/) (A fast, simple & powerful blog framework)  <br/><br/>
 - [Mocha - the fun, simple, flexible JavaScript test framework](https://mochajs.org/)
 - [Eleventy is a simpler static site generator.](https://www.11ty.dev/)
@@ -90,6 +92,17 @@ Useful Tools
 - [Apache Hama - Big Data and High-Performance Computing](https://hama.apache.org/)
 - [Yocto Project – It's not an embedded Linux distribution – it creates a custom one for you](https://www.yoctoproject.org/)
 - [Snyk | Develop Fast. Stay Secure](https://snyk.io/) (find and fix vulnerabilities in open source libraries and containers)
+- [Babel · The compiler for next generation JavaScript](https://babeljs.io/)
+- [AMP - a web component framework to easily create user-first web experiences - amp.dev](https://amp.dev/)
+- [Apache Kafka](https://kafka.apache.org/) (distributed streaming platform)
+    - [Index - Apache Kafka - Apache Software Foundation](https://cwiki.apache.org/confluence/display/KAFKA/Index)
+    - [Epic Developer :: [Apache Kafka] 1. 소개및 아키텍처 정리](https://epicdevs.com/17)
+    - [[Kafka, 카프카] 아파치 카프카(Apache Kafka) 아키텍처 및 동작방식, 파티션 읽기 쓰기(Partition Read and Write)](https://engkimbs.tistory.com/691)  <br/><br/>
+- [Apache ZooKeeper](http://zookeeper.apache.org/) (open-source server which enables highly reliable distributed coordination)
+- [RunKit is Node prototyping](https://runkit.com/home)
+- [WebKit](https://webkit.org/) (A fast, open source web browser engine.)
+- [Node.js](https://nodejs.org/en/) (JavaScript runtime built on Chrome's V8 JavaScript engine.)
+    - [OpenJS Foundation](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) (Node.js project newsletter mailing list)
 
 
  <br/><br/>
@@ -131,6 +144,13 @@ Useful Tools
 - [___BeeCanvas | The All-In-One Visual Workspace___](https://beecanvas.com/)
 - [GRAP](https://www.grap.io/ko/intro)
 - [The Work Operating System That Makes Teamwork Click | monday.com](https://monday.com/)
+
+
+ <br/><br/>
+
+
+### ETC
+- [All-in-One Marketing Platform - Mailchimp](https://mailchimp.com/)
 
 
  <br/><br/>
