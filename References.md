@@ -8,7 +8,7 @@ References
 ### Community
 - [___개발은 같이 하자: 개같하___](https://www.gaegata.com/)
  <br/><br/>
-- [Talks at Google - YouTube](https://www.youtube.com/user/AtGoogleTalks/videos)
+- [___Talks at Google - YouTube___](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
 - [___SW마에스트로___](http://swmaestro.org/user/main.do)
@@ -75,6 +75,8 @@ References
 - [The Autoware Foundation - Open Source for Autonomous Driving](https://www.autoware.org/)
 - [___Gitter — Where developers come to talk.___](https://gitter.im/)
 - [Bug Bounty - Hacker Powered Security Testing | ___HackerOne___](https://www.hackerone.com/)
+- [Global AI Community - Connecting AI communities across the world](https://globalai.community/)
+    - [Global AI Community - On virtual tour](https://live.globalai.community/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -165,7 +167,7 @@ References
 - [The Web framework for perfectionists with deadlines | Django](https://www.djangoproject.com/)
 - [잔재미코딩](https://www.fun-coding.org/index.html) (python, linux)
 - [ofcourse](https://ofcourse.kr/)  (HTML CSS JavaScript basics)
-- [웹 프로그래밍 튜토리얼 | PoiemaWeb](https://poiemaweb.com/)
+- [___웹 프로그래밍 튜토리얼 | PoiemaWeb___](https://poiemaweb.com/)
 - [홈짱 닷컴 홈페이지 만들기 HTML 강좌](http://www.homejjang.com/)
 - [RIP Tutorial (Stack Overflow Documentation)](https://riptutorial.com/) (Archived Stack Overflow Documentation)
 - [Open Source: 2018 - Java/C++/Python/BigData/Android/ ](https://www.bogotobogo.com/index.php)
@@ -339,7 +341,6 @@ References
 - [Guide 2 Research](http://www.guide2research.com/)
 - [HolonIQ. Global Education Market Intelligence](https://www.holoniq.com/)
 - [BuiltWith Technology Lookup](https://builtwith.com/)
-- [The Open Graph protocol](https://ogp.me/) (facebook)
 - [Dark Patterns](https://www.darkpatterns.org/)
 - [The Clay Mathematics Institute | Clay Mathematics Institute](http://www.claymath.org/)
 - [Stanford d.school](https://dschool.stanford.edu/)  <br/><br/>
