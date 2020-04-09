@@ -12,7 +12,9 @@ Algorithm
 ### Online Judge & Algorithm Training & CP
 - [Project Euler](https://projecteuler.net/)
 - [___BaekJoon Onlilne Judge___](https://www.acmicpc.net/)
-- [___Codeforces___](http://codeforces.com/) 
+- [___Codeforces___](http://codeforces.com/)
+    - [Codeforces Rating System - Codeforces](https://codeforces.com/blog/entry/102)
+    - [Open Codeforces Rating System [updated on October 2015] - Codeforces](https://codeforces.com/blog/entry/20762)
 - [___Code Jam - Google’s Coding Competitions___](https://codingcompetitions.withgoogle.com/codejam)
     - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
 - [___Facebook Hacker Cup___](https://www.facebook.com/hackercup/)
@@ -54,6 +56,7 @@ Algorithm
 - [HackerEarth | Online coding platform and developer assessment software](https://www.hackerearth.com/)
 - [___Main Page - Competitive Programming Algorithms___](https://cp-algorithms.com/)
 - [JOI Open Contest](https://contests.ioi-jp.org/)
+- [InterviewBit: Coding Interview Questions](https://www.interviewbit.com/)
 
 
  <br/><br/>
