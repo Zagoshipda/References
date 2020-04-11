@@ -365,6 +365,7 @@ References
 - [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/)
 - [Excalidraw](https://excalidraw.com/)
     - [excalidraw/excalidraw: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.](https://github.com/excalidraw/excalidraw)  <br/><br/>
+- [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
 
 
  <br/><br/>
