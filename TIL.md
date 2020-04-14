@@ -117,7 +117,13 @@ Today I Learned
 - [c - C/C++에서 특정 비트를 0/1로 바꾸는 방법 | Hashcode](https://hashcode.co.kr/questions/81/cc%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EB%B9%84%ED%8A%B8%EB%A5%BC-01%EB%A1%9C-%EB%B0%94%EA%BE%B8%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [___Scaling to 100k Users | Alex Pareto___](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 - [도커(Docker) 컨테이너는 가상 머신인가요? 프로세스인가요? | 44BITS 기술 블로그](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+- [아파치와 톰캣의 차이](https://limmmee.tistory.com/4)
+- [ was와 웹서버의 차이 – 톰캣과 아파치를 구별하지 못하는 사람을 위해 › Blog For Me](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
+- [package.json으로 npm 의존성 모듈 관리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/665)
+- [Automate Global NPM Module Installations with Task Runner Explorer – Scott Addie](https://scottaddie.com/2015/09/26/automate-global-npm-module-installations-with-task-runner-explorer/#respond)
+- [Using Task Runner and NPM in ASP.NET Core in Visual Studio 2019](https://codepunk.io/using-task-runner-and-npm-tasks-in-an-asp-net-core-project-in-visual-studio-2019/)
 
+ 
 
  <br/><br/>
 
