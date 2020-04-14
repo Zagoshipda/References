@@ -101,11 +101,14 @@ Useful Tools
 - [Apache ZooKeeper](http://zookeeper.apache.org/) (open-source server which enables highly reliable distributed coordination)
 - [RunKit is Node prototyping](https://runkit.com/home)
 - [WebKit](https://webkit.org/) (A fast, open source web browser engine.)
-- [Node.js](https://nodejs.org/en/) (JavaScript runtime built on Chrome's V8 JavaScript engine.)
+- [___Node.js___](https://nodejs.org/en/) (JavaScript runtime built on Chrome's V8 JavaScript engine.)
     - [OpenJS Foundation](https://us14.campaign-archive.com/home/?u=c7c2e114a827812354112c23b&id=f006b61f29) (Node.js project newsletter mailing list)
 - [___The Open Graph protocol___](https://ogp.me/) (facebook)
 - [Scoop](https://scoop.sh/) (A command-line installer for Windows)
 - [Chocolatey Software | Chocolatey - The package manager for Windows](https://chocolatey.org/)
+- [___npm | build amazing things___](https://www.npmjs.com/)
+- [ag-Grid: Datagrid packed with features that your users need with the performance you expect.](https://www.ag-grid.com/)  <br/><br/>
+- [___webpack___](https://webpack.js.org/)
 
 
  <br/><br/>
