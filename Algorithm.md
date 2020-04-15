@@ -57,6 +57,7 @@ Algorithm
 - [___Main Page - Competitive Programming Algorithms___](https://cp-algorithms.com/)
 - [JOI Open Contest](https://contests.ioi-jp.org/)
 - [InterviewBit: Coding Interview Questions](https://www.interviewbit.com/)
+- [___Advanced Algorithms (COMPSCI 224)___ - YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) (Harvard University)
 
 
  <br/><br/>
