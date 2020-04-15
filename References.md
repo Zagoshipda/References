@@ -11,8 +11,10 @@ References
 - [___Talks at Google - YouTube___](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
+    - [JavaScript Object Oriented Programming - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMAMctarDlPyv6upFUUnpSO3)
     - [NPM Package - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMB4krR04ug5nEXJ3sAEOWDL)
     - [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA)
+    - [React - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
     - [React class vs function style - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
 - [___SW마에스트로___](http://swmaestro.org/user/main.do)
     - [SW마에스트로 과정 공식 블로그 : 네이버 블로그](https://blog.naver.com/sw_maestro)
@@ -369,6 +371,7 @@ References
 - [Excalidraw](https://excalidraw.com/)
     - [excalidraw/excalidraw: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.](https://github.com/excalidraw/excalidraw)  <br/><br/>
 - [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
+- [Free Icons for Everything - Noun Project](https://thenounproject.com/)
 
 
  <br/><br/>
