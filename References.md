@@ -217,6 +217,10 @@ References
 - [공공 인공지능 오픈 API·DATA 서비스 포털](http://aiopen.etri.re.kr/index.php)
 - [CS50](https://cs50.harvard.edu/college/2020/spring/)
     - [[해외명강] 컴퓨터 과학 교양 강좌: CS50 Course introduction : edwith](https://www.edwith.org/cs50/)  <br/><br/>
+- [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
+- [CSS-Tricks](https://css-tricks.com/)
+    - [Front-End Challenges | CSS-Tricks](https://css-tricks.com/front-end-challenges/)
+- [Daily UI Design Challenge, Inspiration, and Resources](https://www.dailyui.co/)
 
 
  <br/><br/>
@@ -281,7 +285,6 @@ References
 ### ETCs
 - [SourceForge - Download, Develop and Publish Free Open Source Software](https://sourceforge.net/)
 - [Ubuntu MATE | For a retrospective future](https://ubuntu-mate.org/) 
-- [CSSBattle](https://cssbattle.dev/) (Use your CSS skills to replicate targets with smallest possible code...!)
 - [Darwin Online](http://darwin-online.org.uk/)
 - [Build a Website – Website Builder – Squarespace](https://www.squarespace.com/) 
 - [Deepnote - Data science notebook for teams](https://www.deepnote.com/)
@@ -372,6 +375,7 @@ References
     - [excalidraw/excalidraw: Excalidraw is a whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them.](https://github.com/excalidraw/excalidraw)  <br/><br/>
 - [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
 - [Free Icons for Everything - Noun Project](https://thenounproject.com/)
+- [Text Compare! - An online diff tool that can find the difference between two text files](https://text-compare.com/)
 
 
  <br/><br/>
