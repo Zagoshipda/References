@@ -135,6 +135,8 @@ References
 ### Online Study
 - [___MIT OpenCourseWare | Free Online Course Materials___](https://ocw.mit.edu/index.htm)
     - [MIT Online Programs - The Innovation Series](https://executive-education.mit.edu/)
+    - [___MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018 - YouTube___](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+    - [___MIT 18.06SC Linear Algebra, Fall 2011 - YouTube___](https://www.youtube.com/playlist?list=PL221E2BBF13BECF6C)
 - [The MIT Press](https://mitpress.mit.edu/)
     - [___Welcome to the SICP Web Site___](https://mitpress.mit.edu/sites/default/files/sicp/index.html) (___Structure and Interpretation of Computer Programs___)
 - [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
@@ -376,6 +378,7 @@ References
 - [The On-Line Encyclopedia of Integer Sequences® (OEIS®)](https://oeis.org/)
 - [Free Icons for Everything - Noun Project](https://thenounproject.com/)
 - [Text Compare! - An online diff tool that can find the difference between two text files](https://text-compare.com/)
+- [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 
 
  <br/><br/>
