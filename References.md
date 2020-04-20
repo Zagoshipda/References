@@ -82,6 +82,7 @@ References
 - [Bug Bounty - Hacker Powered Security Testing | ___HackerOne___](https://www.hackerone.com/)
 - [Global AI Community - Connecting AI communities across the world](https://globalai.community/)
     - [Global AI Community - On virtual tour](https://live.globalai.community/)
+- [DEV Community 👩‍💻👨‍💻](https://dev.to/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -110,6 +111,7 @@ References
 - [라우드소싱 | 디자이너 플랫폼 | 디자인외주 | 디자인공모전](https://www.loud.kr/)
 - [Behance :: Best of Behance](https://www.behance.net/)
 - [마이크임팩트](http://www.micimpact.com/)
+- [PUBLY - 일하는 사람들의 콘텐츠 플랫폼](https://publy.co/)
 
 
  <br/><br/>
@@ -266,8 +268,26 @@ References
 
  <br><br>
  
- 
- ### Book
+### Newsletter
+- [Morning Brew // Stories](https://www.morningbrew.com/daily/stories)
+- [뉴닉 NEWNEEK](https://newneek.co/)
+- [부딩 BOODING](https://www.booding.co/) (구독형 부동산 뉴스레터)
+- [스티비 | 모두를 위한 이메일마케팅](https://stibee.com/)
+    - [스티비 블로그](https://blog.stibee.com/)
+    - [오렌지레터 구독하기](https://slowalk.co.kr/orangeletter/)
+- [UPPITY](https://uppity.co.kr/) (사회초년생을 위한 첫 번째 경제미디어, 어피티)
+- [Home | alice](https://www.alicemedia.co/)
+    - [지난호 보기, 앨리스 : 네이버 블로그](https://blog.naver.com/alice_letter)
+- [순살브리핑 – 모건스탠리 홍콩 출신 2인의 글로벌 금융경제 뉴스 살코기](https://soonsal.com/)
+    - [순살브리핑Soonsal - YouTube](https://www.youtube.com/channel/UCAlHlhp6Ug62sP8C6akctmQ/videos)
+- [스페이스오디티 - 음악으로 세상을 이롭게](https://www.spaceoddity.me/)  <br><br>
+- [Mark Manson - Author. Thinker. Life Enthusiast.](https://markmanson.net/)
+
+
+ <br><br>
+
+
+### Book
 - [___Effective C++ 3rd edition: 55 Specific Ways to Improve Your Programs and Designs___](https://doc.lagout.org/programmation/C/Addison.Wesley.Effective.CPP.3rd.Edition.May.2005.pdf)
 - [___Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition___](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 - [The C++ Programming Language (4th edition)](https://anekihou.se/programming/2.%20intermediete.pdf)
