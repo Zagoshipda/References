@@ -106,6 +106,8 @@ Developer Blogs
 - [Swear not by the wiki, the fickle wiki, the inconstant wiki](https://www.crummy.com/) (Leonard Richardson)
     - [Beautiful Soup: We called him Tortoise because he taught us.](https://www.crummy.com/software/BeautifulSoup/)
 - [Beomi's Tech blog](https://beomi.github.io/)
+- [___Overreacted — A blog by Dan Abramov___](https://overreacted.io/)
+    - [diagram of modern React lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509)
 
 
  <br/><br/>
