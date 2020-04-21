@@ -11,11 +11,6 @@ References
 - [___Talks at Google - YouTube___](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
-    - [JavaScript Object Oriented Programming - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMAMctarDlPyv6upFUUnpSO3)
-    - [NPM Package - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMB4krR04ug5nEXJ3sAEOWDL)
-    - [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA)
-    - [React - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCRv6f8H9K5Xwsdyg4sFSdi)
-    - [React class vs function style - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
 - [___SW마에스트로___](http://swmaestro.org/user/main.do)
     - [SW마에스트로 과정 공식 블로그 : 네이버 블로그](https://blog.naver.com/sw_maestro)
 - [Samsung Software Membership](http://www.secmem.org/)
@@ -56,7 +51,7 @@ References
 - [OpenMined](https://www.openmined.org/) (BUILDING SAFE ARTIFICIAL INTELLIGENCE)
 - [KDE Community Home - KDE.org](https://kde.org/)
 - [kernel-dev-ko.github.io](https://kernel-dev-ko.github.io/) (한국 리눅스 커널 개발자 모임)  <br/><br/>
-- [The GNU Operating System and the Free Software Movement](https://www.gnu.org/)
+- [___The GNU Operating System and the Free Software Movement___](https://www.gnu.org/)
     - [GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)](http://gcc.gnu.org/)
     - [Using the GNU Compiler Collection (GCC): Top](https://gcc.gnu.org/onlinedocs/gcc/)
 - [The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.](https://github.blog/)
@@ -83,6 +78,7 @@ References
 - [Global AI Community - Connecting AI communities across the world](https://globalai.community/)
     - [Global AI Community - On virtual tour](https://live.globalai.community/)
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
+- [___Web Hypertext Application Technology Working Group (WHATWG)___](https://whatwg.org/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
