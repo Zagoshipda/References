@@ -260,6 +260,7 @@ References
 - [Join Seoul Robotics! ](https://www.notion.so/Join-Seoul-Robotics-2483666315804dedbac2a4f161654b15)
 - [우리와 함께 꿈을 키워나갈 분을 찾습니다!](https://www.notion.so/18966ccf2c514cab8b84bbf7c30c4cb7) (꿈많은 청년들)  <br><br>
 - [필통 소개](https://www.notion.so/52991bd4476f4abbb250335e4aa94466)
+- [그룹영상통화 스무디 채용](https://www.notion.so/df18abb5dfb94ea4a5a6b369bb43c7ce)
 
 
  <br><br>
@@ -395,6 +396,7 @@ References
 - [Free Icons for Everything - Noun Project](https://thenounproject.com/)
 - [Text Compare! - An online diff tool that can find the difference between two text files](https://text-compare.com/)
 - [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
+- [나는 프로그래머다! | 오디오 천국 팟빵](http://www.podbbang.com/ch/9126)
 
 
  <br/><br/>
