@@ -90,6 +90,7 @@ Company sites for Developers
 - [Kakao Brain](https://www.kakaobrain.com/) (Kakao Artificial Intelligence)
 - [카카오의 브런치](https://brunch.co.kr/@andkakao#articles)
 - [tech.kakao.com – 카카오는 사람과 사람, 사람과 기술을 한층 가깝게 연결함으로써, 어제보다 더 나은 세상을 만들어 갑니다.](http://tech.kakao.com/) (kakao 기술 블로그)
+- [kakao arena](https://arena.kakao.com/) (카카오 아레나는 머신러닝과 문제 해결을 즐기는 사람들을 위한 장소입니다)
 - [네이버 개발자 센터 - NAVER Developers](https://developers.naver.com/main/)
     - [NAVER Career](https://recruit.navercorp.com/naver/recruitMain)
 - [LINE developers](https://developers.line.biz/en/)
