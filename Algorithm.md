@@ -104,6 +104,7 @@ Algorithm
 - [[C++] 소수 구하기 최적의 알고리즘 (2) - 에라토스테네스의 체](https://marobiana.tistory.com/91)
 - [리먼 소인수분해](https://www.acmicpc.net/blog/view/89)
 - [동적 계획법을 최적화하는 9가지 방법 (1/3)](https://koosaga.com/242?category=554431)
+- [컴퓨터 알고리즘 기초 | T아카데미 - YouTube](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdvKFh-wVpDuihNQv6C1gSy)
 
 
  <br/><br/>
