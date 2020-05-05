@@ -49,6 +49,8 @@ Algorithm
 - [___JUNGOL___](http://www.jungol.co.kr/)
 - [한국코드페어](http://www.digitalculture.or.kr/koi/KoiMain.do)
     - [한국코드페어](http://www.digitalculture.or.kr/koi/StudyBook.do) (___한국정보올림피아드 - 교재, 온라인 강좌, 기출문제___)
+        - [한국정보올림피아드 컴퓨터 알고리즘 동영상 강좌 고급 과정 - YouTube](https://www.youtube.com/playlist?list=PL00pFw870wWtVe5Ycgtj4Hn2IQsheNTsu)
+        - [한국정보올림피아드 컴퓨터 알고리즘 동영상 강좌 중급 과정 - YouTube](https://www.youtube.com/playlist?list=PL00pFw870wWvRdymLSFxzkenSqpnOQEdH)
 - [ ::국제정보올림피아드:: ](http://ioikorea.or.kr/main/index.asp)
 - [International Olympiad in Informatics](https://ioinformatics.org/)
 - [Programming Interview Questions | CareerCup](https://www.careercup.com/)  <br/><br/>
