@@ -108,6 +108,9 @@ Developer Blogs
 - [Beomi's Tech blog](https://beomi.github.io/)
 - [___Overreacted — A blog by Dan Abramov___](https://overreacted.io/)
     - [diagram of modern React lifecycle methods](https://twitter.com/dan_abramov/status/981712092611989509)
+- [Hanumoka, IT Blog](https://www.hanumoka.net/)
+- [Paul Irish](https://www.paulirish.com/) (Google Chrome)
+- [Ryan Lee](https://shlee1353.github.io/)
 
 
  <br/><br/>
