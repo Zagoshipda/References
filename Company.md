@@ -131,6 +131,7 @@ Company sites for Developers
 - [XEHub – Medium](https://medium.com/xehub)
 - [핑퐁팀 블로그](https://blog.pingpong.us/) (Scatter Lab, PINGPONG AI RESEARCH)
 - [당근마켓 팀블로그 – Medium](https://medium.com/daangn)
+- [ZUM 기술 블로그](https://zuminternet.github.io/)
 
 
  <br/><br/>
