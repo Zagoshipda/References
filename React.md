@@ -29,6 +29,8 @@ Reactjs
     - [[React] Styled Components 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/react-styled-components/)
     - [Material UI 소개 및 Typography 컴포넌트 사용법 | Engineering Blog by Dale Seo](https://www.daleseo.com/material-ui-typography/)
 - [Styled Components - 스타일을 품은 컴포넌트 - Hudi - 유사 프로그래머](https://hudi.kr/styled-components-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%ED%92%88%EC%9D%80-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8/)
+- [I wish I knew these before diving into React - Opsgenie Engineering](https://engineering.opsgenie.com/i-wish-i-knew-these-before-diving-into-react-301e0ee2e488)
+    - [[번역] React를 본격적으로 하기 전 알면 좋은 6가지 | FELog](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 
 
  <br/><br/>
@@ -36,10 +38,24 @@ Reactjs
 
 ### webpack
 - [Webpack - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA) (생활코딩)
+- [웹팩 핸드북](https://joshua1988.github.io/webpack-guide/)
 - [웹팩 입문: 1. HTML, CSS 사용하기 - Seungho Lee - Medium](https://medium.com/@shlee1353/%EC%9B%B9%ED%8C%A9-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C%ED%8E%B8-html-css-%EC%82%AC%EC%9A%A9%EA%B8%B0-75d9fb6062e6)
 - [Hot Module Replacement | webpack](https://webpack.js.org/concepts/hot-module-replacement/)
 - [Hot Module Replacement | webpack](https://webpack.js.org/guides/hot-module-replacement/)
 
 
+
  <br/><br/>
+
+
+### references
+- [Node.js 교과서: 3.4.4 \_\_filename, __\_\_dirname__](https://thebook.io/006982/ch03/04/04/)
+- [What is the difference between \_\_dirname and ./ in node.js? - Stack Overflow](https://stackoverflow.com/questions/8131344/what-is-the-difference-between-dirname-and-in-node-js)
+- [Path | Node.js v14.2.0 Documentation](https://nodejs.org/api/path.html)
+    - [[NodeJS] path.join 과 path.resolve 차이 📋 / path.join이란? / path.resolve란?](https://programming119.tistory.com/106)
+    - [Node path.join() vs path.resolve() | Hanumoka, IT Blog](https://www.hanumoka.net/2018/11/08/node-20181108-node-path-join-vs-resolve/)
+
+
+ <br/><br/>
+
 
