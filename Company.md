@@ -44,6 +44,7 @@ Company sites for Developers
 - [Company Info | Facebook Newsroom](https://newsroom.fb.com/company-info/)
 - [Facebook for Developers](https://developers.facebook.com/)
     - [___Open Source___](https://opensource.facebook.com/) (React, Hermes, PyTorch)
+- [Facebook Engineering](https://engineering.fb.com/)
 - [Facebook AI](https://ai.facebook.com/)
 - [Instagram Engineering](https://instagram-engineering.com/)
 - [Amazon developer Services](https://developer.amazon.com/)
