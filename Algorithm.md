@@ -82,6 +82,9 @@ Algorithm
     - [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30) (안수빈, Subinium)
 - [PS 이야기](https://blog.myungwoo.kr/)  (전명우)
 - [Algorithms Weekly by Petr Mitrichev](https://petr-mitrichev.blogspot.com/)
+- [William Lin - YouTube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
+- [Errichto 2 - YouTube](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
+- [Dev Ed - YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/)
 
 
  <br/><br/>
