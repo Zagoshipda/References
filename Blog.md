@@ -111,6 +111,8 @@ Developer Blogs
 - [Hanumoka, IT Blog](https://www.hanumoka.net/)
 - [Paul Irish](https://www.paulirish.com/) (Google Chrome)
 - [Ryan Lee](https://shlee1353.github.io/)
+- [Dev Ed - YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/)
+- [갈아먹는 머신러닝](https://yeomko.tistory.com/)  <br/><br/>
 
 
  <br/><br/>
