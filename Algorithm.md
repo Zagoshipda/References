@@ -84,7 +84,7 @@ Algorithm
 - [Algorithms Weekly by Petr Mitrichev](https://petr-mitrichev.blogspot.com/)
 - [William Lin - YouTube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Errichto 2 - YouTube](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
-- [Dev Ed - YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/)
+- [Stefan Dascalescu - YouTube](https://www.youtube.com/channel/UCyTPeByJ_FvAJljtc0svt-Q)
 
 
  <br/><br/>
