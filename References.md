@@ -348,8 +348,6 @@ References
 - [(new) - CodeWorld](https://code.world/#)
     - [google/codeworld: Educational computer programming environment using Haskell](https://github.com/google/codeworld)
 - [GitBook - Document Everything!](https://www.gitbook.com/)
-- [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
-- [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
 - [App, Website and Software Development & Training | London | dwyl](https://dwyl.com/)
     - [Hits!](http://hits.dwyl.io/)
 - [HITS](https://hits.seeyoufarm.com/)
