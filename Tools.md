@@ -74,9 +74,9 @@ Useful Tools
 - [Source Insight Programming Editor and Code Browser](https://www.sourceinsight.com/)
      - [소스인사이트 설명 :: Bitdol-전자쟁이, 때론 코딩하고 때론 납땜하고..](https://bitdol.tistory.com/entry/%EC%86%8C%EC%8A%A4%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%84%A4%EB%AA%85)
 - [The LLVM Compiler Infrastructure Project](https://llvm.org/)
-- [Redis](https://redis.io/)
+- [___Redis___](https://redis.io/)
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
-- [jQuery](https://jquery.com/) (write less, do more.)
+- [___jQuery___](https://jquery.com/) (write less, do more.)
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
 - [Jade - Template Engine](http://jade-lang.com/)
 - [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
@@ -119,6 +119,12 @@ Useful Tools
     - [HHVM | HHVM](https://hhvm.com/) (open-source virtual machine designed for executing programs written in Hack.)
 - [___V8 JavaScript engine___](https://v8.dev/)  <br/><br/>
 - [Twisted](https://twistedmatrix.com/trac/) (event-driven networking engine written in Python)
+- [fuchsia - Git at Google](https://fuchsia.googlesource.com/fuchsia/) (modular, capability-based operating system)
+- [gitiles - Git at Google](https://gerrit.googlesource.com/gitiles/) (A simple JGit repository browser)
+- [go Git repositories - Git at Google](https://go.googlesource.com/)
+- [android Git repositories - Git at Google](https://android.googlesource.com/)
+- [chromium Git repositories - Git at Google](https://chromium.googlesource.com/)
+- [___Vanilla JS___](http://vanilla-js.com/)
 
 
  <br/><br/>
