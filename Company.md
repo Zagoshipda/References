@@ -25,6 +25,8 @@ Company sites for Developers
     - [The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.](https://octoverse.github.com/) (The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.)  <br/><br/>
 - [Google Code](https://code.google.com/)
     - [Google Developers](https://developers.google.com/)
+        - [web.dev](https://web.dev/)
+        - [Extensions: maximize the Chrome browsing experience - Google Chrome](https://developer.chrome.com/home)
     - [Google Open Source – opensource.google.com](https://opensource.google/)
     - [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/)
         - [word2vec](https://code.google.com/archive/p/word2vec/)
