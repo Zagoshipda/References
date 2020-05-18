@@ -129,6 +129,10 @@ Useful Tools
 - [Graph Database | Multi-Model Database | OrientDB](https://orientdb.com/)  <br/><br/>
 - [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M)/"Internet of Things" connectivity protocol)
     - [Mosca by mcollina](http://www.mosca.io/) (MQTT broker as a module)
+- [Underscore.js](https://underscorejs.org/)
+- [Lodash](https://lodash.com/)
+- [CoffeeScript](https://coffeescript.org/)
+- [EJS -- Embedded JavaScript templates](https://ejs.co/)
 
 
  <br/><br/>
