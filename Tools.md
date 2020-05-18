@@ -67,7 +67,7 @@ Useful Tools
     - [XpressEngine](https://github.com/xpressengine) (Github)
 - [wolfSSL Embedded SSL/TLS Library | Now Supporting TLS 1.3](https://www.wolfssl.com/)
 - [FreeRTOS - Market leading RTOS (Real Time Operating System) for embedded systems with Internet of Things extensions](https://www.freertos.org/)
-- [D3.js - Data-Driven Documents](https://d3js.org/)  <br/><br/>
+- [___D3.js - Data-Driven Documents___](https://d3js.org/)  <br/><br/>
 - [NuGet Gallery | Home](https://www.nuget.org/)
 - [OmniSharp - .NET and IntelliSense on any platform with your editor of choice](https://www.omnisharp.net/)
 - [Repl.it - The world's leading online coding platform](https://repl.it/)
@@ -78,9 +78,8 @@ Useful Tools
 - [Bootstrap · The most popular HTML, CSS, and JS library in the world.](https://getbootstrap.com/)
 - [___jQuery___](https://jquery.com/) (write less, do more.)
 - [ZenHub - Agile Project Management for GitHub](https://www.zenhub.com/)  <br/><br/>
-- [Jade - Template Engine](http://jade-lang.com/)
+- [___Jade - Template Engine___](http://jade-lang.com/)
 - [Getting Started – Pug](https://pugjs.org/api/getting-started.html)
-- [Zeplin—Collaboration and handoff for product teams | Zeplin](https://zeplin.io/)
 - [___Zeppelin___](https://zeppelin.apache.org/) (Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.)
     - [아파치 제플린, 한국에서 세계로 가기까지 - ZDNet korea](http://www.zdnet.co.kr/view/?no=20160601155438)
     - [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가? - Apache Zeppelin Stories - Medium](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
@@ -125,6 +124,11 @@ Useful Tools
 - [android Git repositories - Git at Google](https://android.googlesource.com/)
 - [chromium Git repositories - Git at Google](https://chromium.googlesource.com/)
 - [___Vanilla JS___](http://vanilla-js.com/)
+- [___Passport.js___](http://www.passportjs.org/) (authentication middleware for Node.js)
+- [___Express - Node.js web application framework___](https://expressjs.com/)
+- [Graph Database | Multi-Model Database | OrientDB](https://orientdb.com/)  <br/><br/>
+- [MQTT](http://mqtt.org/) (Message Queuing Telemetry Transport, machine-to-machine (M2M)/"Internet of Things" connectivity protocol)
+    - [Mosca by mcollina](http://www.mosca.io/) (MQTT broker as a module)
 
 
  <br/><br/>
@@ -141,6 +145,8 @@ Useful Tools
 - [MockFlow - Online Wireframe Tools, Prototyping Tools, Design tool, UI Mockups, UX Suite, Desktop software, UX Planning](https://mockflow.com/)
 - [___PowerPoint Wireframe and Prototyping Tool | PowerMockup___](https://www.powermockup.com/)
 - [Website wireframes: Mockingbird](https://gomockingbird.com/home)  <br/><br/>
+- [Zeplin—Collaboration and handoff for product teams | Zeplin](https://zeplin.io/)
+- [Figma: the collaborative interface design tool.](https://www.figma.com/)
 
 
  <br/><br/>
