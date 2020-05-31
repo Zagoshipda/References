@@ -102,6 +102,7 @@ Startup References
 - [Byline Network - IT 전문기자의 연대 바이라인네트워크](https://byline.network/)
     - [스튜디오 바이라인 - YouTube](https://www.youtube.com/channel/UCOwdFYG_vmsT7BDi9dp8nKQ/videos)
 - [트렌드와칭 :: 트렌드 뉴스와 마케팅 인사이트를 제공하는 미디어웹](https://trendw.kr/)
+- [Seoulz - Startup and Technology News from Korea](https://seoulz.com/)
 
 
  <br/><br/>
