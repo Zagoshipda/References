@@ -79,6 +79,7 @@ References
     - [Global AI Community - On virtual tour](https://live.globalai.community/)
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [___Web Hypertext Application Technology Working Group (WHATWG)___](https://whatwg.org/)
+- [DACON : Data Science AI Competitions   - DACON](https://dacon.io/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
