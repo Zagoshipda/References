@@ -6,6 +6,7 @@ Useful Tools
 
 
 ### Programming
+- [___Openbase: JavaScript package insights and comparison___](https://openbase.io/)
 - [Application Monitoring and Error Tracking Software | Sentry](https://sentry.io/welcome/)
 - [___Phoenix___](http://www.phoenixframework.org/) (Phoenix web framework)
 - [Zeppelin](https://zeppelin.apache.org/) (Apache Zeppelin)
@@ -137,6 +138,8 @@ Useful Tools
 - [Continuous Integration and Delivery - CircleCI](https://circleci.com/)
 - [Travis CI - Test and Deploy Your Code with Confidence](https://travis-ci.org/)
 - [Ember.js](https://emberjs.com/) (A JavaScript framework for creating ambitious web applications)  <br/><br/>
+- [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
+- [Fuchsia](https://fuchsia.dev/)
 
 
  <br/><br/>
