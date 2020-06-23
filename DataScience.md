@@ -151,7 +151,11 @@ Data Science : AI & ML & DL & RL
 - [Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
 - [AI 50: America’s Most Promising Artificial Intelligence Companies](https://www.forbes.com/sites/jilliandonfro/2019/09/17/ai-50-americas-most-promising-artificial-intelligence-companies)
 - [Large Scale Deep Learning with TensorFlow - YouTube](https://www.youtube.com/watch?v=XYwIDn00PAo) (Jeff Dean, Google)
-- [Opening keynote - Jeff Dean - YouTube](https://www.youtube.com/watch?v=ZHoNF28Nj98)
+- [TensorFlow World 2019 - YouTube](https://www.youtube.com/playlist?list=PL055Epbe6d5YvrTKLuepaKb49BLfEnd5N)
+    - [Opening keynote - Jeff Dean - YouTube](https://www.youtube.com/watch?v=ZHoNF28Nj98)
+- [Reinforcement Learning Course | DeepMind & UCL - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+- [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+- [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 
 
  <br><br>
