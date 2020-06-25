@@ -80,13 +80,15 @@ Company sites for Developers
 - [Developer](https://developer.twitter.com/en.html) (Twitter)
 - [Twitter Open Source](https://twitter.github.io/)
 - [Riot Games Technology](https://technology.riotgames.com/)
-- [Disney Open Source](https://disney.github.io/)
+- [Disney Research](https://www.disneyresearch.com/)
+    - [Disney Open Source](https://disney.github.io/)
 - [Engineering](https://engineering.grab.com/) (Grab)
 - [Home - Landing AI](https://landing.ai/) (Empowering companies to jumpstart AI and realize practical value)  <br/><br/>
 - [Scale AI: The Data Platform for AI](https://scale.com/)
 - [Pony.ai](https://www.pony.ai/)
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
 - [Investors Overview | Tesla, Inc.](https://ir.tesla.com/)
+- [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
 <br/><br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
@@ -135,6 +137,8 @@ Company sites for Developers
 - [핑퐁팀 블로그](https://blog.pingpong.us/) (Scatter Lab, PINGPONG AI RESEARCH)
 - [당근마켓 팀블로그 – Medium](https://medium.com/daangn)
 - [ZUM 기술 블로그](https://zuminternet.github.io/)
+- [Blog - 리디주식회사 RIDI Corporation](https://www.ridicorp.com/blog/)
+- [컬리 기술 블로그](https://helloworld.kurly.com/)  <br/><br/>
 
 
  <br/><br/>
