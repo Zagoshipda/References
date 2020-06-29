@@ -140,6 +140,8 @@ Useful Tools
 - [Ember.js](https://emberjs.com/) (A JavaScript framework for creating ambitious web applications)  <br/><br/>
 - [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
 - [Fuchsia](https://fuchsia.dev/)
+- [Snowpack](https://www.snowpack.dev/) (Instant web development powered by modern JavaScript)
+- [SQLAlchemy - The Database Toolkit for Python](https://www.sqlalchemy.org/)
 
 
  <br/><br/>
