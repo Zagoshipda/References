@@ -119,11 +119,22 @@ Today I Learned
 - [도커(Docker) 컨테이너는 가상 머신인가요? 프로세스인가요? | 44BITS 기술 블로그](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 - [아파치와 톰캣의 차이](https://limmmee.tistory.com/4)
 - [ was와 웹서버의 차이 – 톰캣과 아파치를 구별하지 못하는 사람을 위해 › Blog For Me](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
-- [package.json으로 npm 의존성 모듈 관리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/665)
+- [package.json으로 npm 의존성 모듈 관리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/665)  <br/><br/>
 - [Automate Global NPM Module Installations with Task Runner Explorer – Scott Addie](https://scottaddie.com/2015/09/26/automate-global-npm-module-installations-with-task-runner-explorer/#respond)
 - [Using Task Runner and NPM in ASP.NET Core in Visual Studio 2019](https://codepunk.io/using-task-runner-and-npm-tasks-in-an-asp-net-core-project-in-visual-studio-2019/)
+- [___touch-action___ - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/touch-action)
+    - [Prevent Double Tap Zoom in React for Rapidly Tapped Buttons](https://gist.github.com/mutewinter/b86fc06bae43fd3e13169bfb569b06b1)
+    - [disable-double-tap  -  npm](https://www.npmjs.com/package/disable-double-tap)
+    - [minwork/use-double-tap: React hook for handling double tap on mobile devices](https://github.com/minwork/use-double-tap)
+- [___[HTML/CSS] 가변 그리드 만들 때 <div>와 <div> 사이에 가로로 틈이 생길 때 해결 방법___](https://ccuram.tistory.com/26)
+    - [css에서 알 수 없는 공백이 생길 때 - Slacking studio BLOG](https://blog.eunsatio.io/develop/css%EC%97%90%EC%84%9C-%EC%95%8C-%EC%88%98-%EC%97%86%EB%8A%94-%EA%B3%B5%EB%B0%B1%EC%9D%B4-%EC%83%9D%EA%B8%B8-%EB%95%8C)
+- [___reactjs - Webpack & Typescript image import - Stack Overflow___](https://stackoverflow.com/questions/43638454/webpack-typescript-image-import)
+    - [javascript - TS2307: Cannot find module './images/logo.png' - Stack Overflow](https://stackoverflow.com/questions/57127606/ts2307-cannot-find-module-images-logo-png)
+    - [Asset Management | webpack](https://webpack.js.org/guides/asset-management/#loading-images)
+    - [TypeScript | webpack](https://webpack.js.org/guides/typescript/#importing-other-assets)
+    - [file-loader | webpack](https://webpack.js.org/loaders/file-loader/)
+    - [react-image  -  npm](https://www.npmjs.com/package/react-image)  <br/><br/>
 
- 
 
  <br/><br/>
 
