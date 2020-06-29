@@ -228,6 +228,7 @@ References
     - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
     - [Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript](https://regex101.com/)
 - [Learn to code at home | freeCodeCamp.org](https://www.freecodecamp.org/)  <br/><br/>
+- [raywenderlich.com | High quality programming tutorials: iOS, Android, Swift, Kotlin, Flutter, Server Side Swift, Unity, and more!](https://www.raywenderlich.com/)
 
 
  <br/><br/>
@@ -403,7 +404,7 @@ References
 - [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 - [나는 프로그래머다! | 오디오 천국 팟빵](http://www.podbbang.com/ch/9126)
 - [skribbl - Free Multiplayer Drawing & Guessing Game](https://skribbl.io/)
-
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
 
 
  <br/><br/>
