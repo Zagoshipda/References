@@ -31,7 +31,9 @@ Algorithm
 - [codeground-SCPC](https://www.codeground.org/)  (Samsung Collegiate Programming Cup)
 - [___Samsung - SW Expert Academy___](https://www.swexpertacademy.com/main/main.do)
 - [UCPC 2019](https://ucpc.acmicpc.net/info)
-- [ACM-ICPC Korea Regional Site](http://icpckorea.org/) <br/><br/>
+- [ACM-ICPC Korea Regional Site](http://icpckorea.org/)
+    - [The ICPC International Collegiate Programming Contest](https://icpc.global/)
+    - [#ICPCU](https://u.icpc.global/)  <br/><br/>
 - [HackerRank](https://www.hackerrank.com/)
 - [___Tech Recruiting Platform, Online Code Testing | Codility___](https://www.codility.com/)
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
