@@ -146,6 +146,11 @@ Today I Learned
     - [Using the Web.Config File | Creating ASP.NET Applications | InformIT](https://www.informit.com/articles/article.aspx?p=27315&seqNum=4)
 - [javascript - How to ___disable button in React.js___ - Stack Overflow](https://stackoverflow.com/questions/41488715/how-to-disable-button-in-react-js/41488965)  <br/><br/>
 - [___정규표현식(Regular Expression)을 소개합니다.___](http://www.nextree.co.kr/p4327/)
+- [Business logic - Wikipedia](https://en.wikipedia.org/wiki/Business_logic) (___Business logic, Business rules___)
+- [Learn ASP.NET Core Convention-Based URL Routing](https://www.yogihosting.com/aspnet-core-url-routing/)
+- [Controllers in ASP.NET Core](https://www.yogihosting.com/aspnet-core-controllers)
+- [Actions in ASP.NET Core](https://www.yogihosting.com/aspnet-core-actions/)
+- [Views in ASP.NET Core](https://www.yogihosting.com/aspnet-core-views/)
 
 
  <br/><br/>
