@@ -80,6 +80,7 @@ References
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [___Web Hypertext Application Technology Working Group (WHATWG)___](https://whatwg.org/)
 - [DACON : Data Science AI Competitions   - DACON](https://dacon.io/)
+- [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -407,6 +408,7 @@ References
 - [skribbl - Free Multiplayer Drawing & Guessing Game](https://skribbl.io/)
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
 - [openstreetmap](https://www.openstreetmap.org)
+- [Software Freedom Conservancy](https://sfconservancy.org/)
 
 
  <br/><br/>
