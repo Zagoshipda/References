@@ -118,6 +118,8 @@ Data Science : AI & ML & DL & RL
 - [TensorFlow: Data and Deployment | Coursera](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
 - [‍김성범[ 교수 / 산업경영공학부 ] - YouTube](https://www.youtube.com/channel/UCueLU1pCvFlM8Y8sth7a6RQ/videos) ([핵심 머신러닝])  <br><br>
 - [모두를 위한 컨벡스 최적화 (Convex Optimization For All) - WikiDocs](https://wikidocs.net/book/1896)
+- [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com/)
+- [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
 
 
  <br><br>
