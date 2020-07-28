@@ -409,6 +409,8 @@ References
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/#home)
 - [openstreetmap](https://www.openstreetmap.org)
 - [Software Freedom Conservancy](https://sfconservancy.org/)
+- [Algorithm Visualizer](https://algorithm-visualizer.org/)  <br/><br/>
+- [VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/en)
 
 
  <br/><br/>
