@@ -114,6 +114,7 @@ Developer Blogs
 - [Dev Ed - YouTube](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q/)
 - [갈아먹는 머신러닝](https://yeomko.tistory.com/)  <br/><br/>
 - [Jason Turner - YouTube](https://www.youtube.com/c/JasonTurner-lefticus/featured) (C++ Weekly)
+- [desowin's mainsite](https://desowin.org/)
 
 
  <br/><br/>
