@@ -238,6 +238,8 @@ Startup lists
 - [슈퍼루키](https://www.superookie.com/) : 채용
 - [Dishcraft | Home](https://dishcraft.com/) : 설거지
 - [Home | Hashed](https://www.hashed.com/) : blockchain
+- [AITRICS](https://www.aitrics.com/)
+- [Deep Bio | DeepBio - providing deep learning solutions to pathology](https://www.deepbio.co.kr/)
 
 
  <br/><br/>
