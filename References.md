@@ -80,7 +80,8 @@ References
 - [DEV Community 👩‍💻👨‍💻](https://dev.to/)
 - [___Web Hypertext Application Technology Working Group (WHATWG)___](https://whatwg.org/)
 - [DACON : Data Science AI Competitions   - DACON](https://dacon.io/)
-- [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/)
+- [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/) <br/><br/>
+- [리눅스포털](https://www.linux.co.kr/home/index.html)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -127,6 +128,7 @@ References
 - [NewsPeppermint](https://newspeppermint.com/)
 - [App Dev & Testing, DevOps, Enterprise IT, and Security: Experts share practical knowledge | TechBeacon](https://techbeacon.com/)  <br/><br/>
 - [지적 존재들의 B컷 - 비주얼다이브 -](http://www.visualdive.com/)
+- [It's FOSS - World's Leading Linux & Open Source Web Portal](https://itsfoss.com/)
 
 
  <br/><br/>
@@ -411,6 +413,9 @@ References
 - [Software Freedom Conservancy](https://sfconservancy.org/)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/)  <br/><br/>
 - [VisuAlgo - visualising data structures and algorithms through animation](https://visualgo.net/en)
+- [KAIST Mirror](http://ftp.kaist.ac.kr/)
+- [mirror.kakao.com](http://mirror.kakao.com/)
+- [mirror.navercorp.com](http://mirror.navercorp.com/)
 
 
  <br/><br/>
