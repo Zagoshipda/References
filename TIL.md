@@ -147,12 +147,15 @@ Today I Learned
 - [javascript - How to ___disable button in React.js___ - Stack Overflow](https://stackoverflow.com/questions/41488715/how-to-disable-button-in-react-js/41488965)  <br/><br/>
 - [___정규표현식(Regular Expression)을 소개합니다.___](http://www.nextree.co.kr/p4327/)
 - [Business logic - Wikipedia](https://en.wikipedia.org/wiki/Business_logic) (___Business logic, Business rules___)
-- [Learn ASP.NET Core Convention-Based URL Routing](https://www.yogihosting.com/aspnet-core-url-routing/)
-- [Controllers in ASP.NET Core](https://www.yogihosting.com/aspnet-core-controllers)
-- [Actions in ASP.NET Core](https://www.yogihosting.com/aspnet-core-actions/)
-- [Views in ASP.NET Core](https://www.yogihosting.com/aspnet-core-views/)
+- [___Learn ASP.NET Core Convention-Based URL Routing___](https://www.yogihosting.com/aspnet-core-url-routing/)
+    - [Controllers in ASP.NET Core](https://www.yogihosting.com/aspnet-core-controllers)
+    - [Actions in ASP.NET Core](https://www.yogihosting.com/aspnet-core-actions/)
+    - [Views in ASP.NET Core](https://www.yogihosting.com/aspnet-core-views/)
 - [Difference Between apt and apt-get Explained - It's FOSS](https://itsfoss.com/apt-vs-apt-get-difference/)
- 
+- [스텝모터의 위상(Phase)이란 2상모터, 3상모터, 5상모터 – 엠씨테크](http://mc-t.co.kr/?mod=document&uid=358&page_id=75)
+    - [Choosing the right motor-driver | SP Robotic Works](https://sproboticworks.com/blog/choosing-the-right-motor-driver)
+    - [arduino - What exactly does a motor driver do? Why do we need an additional power supply for motors? - Robotics Stack Exchange](https://robotics.stackexchange.com/questions/11704/what-exactly-does-a-motor-driver-do-why-do-we-need-an-additional-power-supply-f) <br/><br/>
+
 
  <br/><br/>
 
