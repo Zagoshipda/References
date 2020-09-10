@@ -116,6 +116,7 @@ Developer Blogs
 - [Jason Turner - YouTube](https://www.youtube.com/c/JasonTurner-lefticus/featured) (C++ Weekly)
 - [desowin's mainsite](https://desowin.org/)
 - [기린 블로그](https://fishpoint.tistory.com/)
+- [Adam Geitgey](https://www.adamgeitgey.com/)
 
 
  <br/><br/>
