@@ -7,7 +7,7 @@ Today I Learned
 
 ### Current
 #### 라즈베리파이에 ASP.NET Core 환경 구성하기
-- [___프로그래밍 노트 - [라즈베리파이___] 라즈비안 SD 카드 백업/복사/복제 하기(디스크 이미지)](http://www.acronet.kr/24932)
+- [___프로그래밍 노트 - [라즈베리파이] 라즈비안 SD 카드 백업/복사/복제 하기(디스크 이미지)___](http://www.acronet.kr/24932)
 - [___.Net Core 3.1 with Raspberry Pi - .NET Oxford - January 2020 - YouTube___](https://www.youtube.com/watch?v=l8CXgvKe314&t=942s)
   - [Download .NET Core 3.1 (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download/dotnet-core/3.1)
   - [___Install .NET Core 3.0 on Raspberry Pi___](https://ivanderevianko.com/2019/06/install-net-core-3-0-on-raspberry-pi)
@@ -39,7 +39,7 @@ Today I Learned
  <br/>
 
 #### C# 프로그램 실행하기
-- [dotnet build command - .NET Core CLI | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
+- [___dotnet build command - .NET Core CLI | Microsoft Docs___](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
   - [.NET Core Runtime Identifier (RID) catalog | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)
 
  <br/><br/>
@@ -200,7 +200,10 @@ Today I Learned
   - [C언어_시스템프로그래밍 : 시그널 : 네이버 블로그](https://blog.naver.com/bitnang/70172674474)
   - [REAKWON :: [리눅스] 시그널 (SIGNAL)1 시그널 다루기(시그널 핸들러)](https://reakwon.tistory.com/46)
 - [linux - SSH not working on Raspbian - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/83776/ssh-not-working-on-raspbian)
-  - [How to fix Raspberry Pi SSH connection reset](http://read.mindginative.com/post/raspberrypi-ssh-connection-reset/)
+  - [___How to fix Raspberry Pi SSH connection reset___](http://read.mindginative.com/post/raspberrypi-ssh-connection-reset/)
+- [___Happy Programmer~  :: C언어: 쓰레드 pthread_create() 예제 - 쓰레드 생성 기본___](https://bitsoul.tistory.com/157)
+  - [리눅스 멀티 쓰레드(pthread_create.. : 네이버블로그](https://blog.naver.com/bmw_rad/70178013412)
+  - [REAKWON :: [리눅스] 스레드(Thread) 개념과 예제(pthread_create, pthread_join, pthread_detach)](https://reakwon.tistory.com/56)
 
 
  <br/><br/>
