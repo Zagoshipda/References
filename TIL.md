@@ -7,15 +7,21 @@ Today I Learned
 
 ### Current
 #### 라즈베리파이에 ASP.NET Core 환경 구성하기
-- [프로그래밍 노트 - [라즈베리파이] 라즈비안 SD 카드 백업/복사/복제 하기(디스크 이미지)](http://www.acronet.kr/24932)
-- [Download .NET Core 3.1 (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-- []()
-- []()
-- []()
-  - [Install .NET Core 3.0 on Raspberry Pi](https://ivanderevianko.com/2019/06/install-net-core-3-0-on-raspberry-pi)
+- [___프로그래밍 노트 - [라즈베리파이___] 라즈비안 SD 카드 백업/복사/복제 하기(디스크 이미지)](http://www.acronet.kr/24932)
+- [___.Net Core 3.1 with Raspberry Pi - .NET Oxford - January 2020 - YouTube___](https://www.youtube.com/watch?v=l8CXgvKe314&t=942s)
+  - [Download .NET Core 3.1 (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+  - [___Install .NET Core 3.0 on Raspberry Pi___](https://ivanderevianko.com/2019/06/install-net-core-3-0-on-raspberry-pi)
+  - [Installing the .NET Core SDK on the Raspberry Pi - YouTube](https://www.youtube.com/watch?v=8Qh4OXQdcZQ)
+    - [.Net Core on Raspberry Pi 4 with Raspbian? - Stack Overflow](https://stackoverflow.com/questions/59078275/net-core-on-raspberry-pi-4-with-raspbian/59612857#59612857)
+    - [ReddyInfoSoft: How to Install .Net Core 3.1 on Raspberry Pi 3](http://reddyinfosoft.blogspot.com/2020/01/how-to-install-net-core-31-on-raspberry.html)
+  - [core/RaspberryPiInstructions.md at master · dotnet/core](https://github.com/dotnet/core/blob/master/samples/RaspberryPiInstructions.md)
   - [Setup .NET Core 3.0 Runtime and SDK on Raspberry Pi 4 - Edi Wang](https://edi.wang/post/2019/9/29/setup-net-core-30-runtime-and-sdk-on-raspberry-pi-4)
+
+ <br/>
+
 #### C라이브러리 만들고 C#에서 사용하기
-- [Creating C++ DLL to be used by C#  (C Sharp) Application - YouTube](https://www.youtube.com/watch?v=ktbIIvXzypU)
+- [___Creating C++ DLL to be used by C#  (C Sharp) Application - YouTube___](https://www.youtube.com/watch?v=ktbIIvXzypU)
+  - [수까락의 프로그래밍 이야기 : [C++] extern "C"](http://sweeper.egloos.com/1792976)
 - [초보개발자 이야기. :: C 프로그래밍 : C 컴파일러 [gcc]](https://ra2kstar.tistory.com/176?category=431718)
   - [Overall Options - Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc-4.1.2/gcc/Overall-Options.html#Overall-Options) (gcc -c)
   - [Link Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html) (gcc -shared)
@@ -23,24 +29,18 @@ Today I Learned
   - [Preprocessor Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html) (gcc -D[name])
     - [unix - Trying to compile a target. It is C code. Have put #ifdef MYDEBUG. How to pass it as set during compilation? - Stack Overflow](https://stackoverflow.com/questions/16728126/trying-to-compile-a-target-it-is-c-code-have-put-ifdef-mydebug-how-to-pass-i)
   - [linux - Build .so file from .c file using gcc command line - Stack Overflow](https://stackoverflow.com/questions/14884126/build-so-file-from-c-file-using-gcc-command-line)
-  - [수까락의 프로그래밍 이야기 : [C++] extern "C"](http://sweeper.egloos.com/1792976)
   - [Mint & Latte_. :: 공유 라이브러리 생성](https://mintnlatte.tistory.com/156)
   - [51%의 가능성 :: gcc 정적 라이브러리와 동적 라이브러리 (.a .so 파일)](https://blueamor.tistory.com/707)
   - [불확정한 세상 :: gcc C++ : 리눅스 라이브러리 만들기 입문](https://karl27.tistory.com/40)
   - [라이브러리 .a 파일 .so 파일 :: k0zel's lab](https://jasonjason.tistory.com/15)
   - [C# 에서 C/C++ 라이브러리(dll) API 함수 호출하기](https://tttsss77.tistory.com/99)
   - [HOWTO Create and Deploy a Sample DLL using MinGW | MinGW](http://www.mingw.org/wiki/sampleDLL)
-- [C 라이브러리 함수 - signal() 시그널 처리 방법을 설정](http://forum.falinux.com/zbxe/index.php?document_srl=413254&mid=C_LIB)
-  - [Ctrl + C 키 이벤트 가로채기 · snowdeer's Code Holic](https://snowdeer.github.io/c++/2017/07/18/cpp11-ctrl-c-event-hooking/)
-  - [C언어_시스템프로그래밍 : 시그널 : 네이버 블로그](https://blog.naver.com/bitnang/70172674474)
-  - [REAKWON :: [리눅스] 시그널 (SIGNAL)1 시그널 다루기(시그널 핸들러)](https://reakwon.tistory.com/46)
+
+ <br/>
+
 #### C# 프로그램 실행하기
 - [dotnet build command - .NET Core CLI | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
   - [.NET Core Runtime Identifier (RID) catalog | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)
-- []()
-- []()
-- []()
-
 
  <br/><br/>
 
@@ -195,6 +195,12 @@ Today I Learned
 - [스텝모터의 위상(Phase)이란 2상모터, 3상모터, 5상모터 – 엠씨테크](http://mc-t.co.kr/?mod=document&uid=358&page_id=75)
     - [Choosing the right motor-driver | SP Robotic Works](https://sproboticworks.com/blog/choosing-the-right-motor-driver)
     - [arduino - What exactly does a motor driver do? Why do we need an additional power supply for motors? - Robotics Stack Exchange](https://robotics.stackexchange.com/questions/11704/what-exactly-does-a-motor-driver-do-why-do-we-need-an-additional-power-supply-f) <br/><br/>
+- [C 라이브러리 함수 - signal() 시그널 처리 방법을 설정](http://forum.falinux.com/zbxe/index.php?document_srl=413254&mid=C_LIB)
+  - [Ctrl + C 키 이벤트 가로채기 · snowdeer's Code Holic](https://snowdeer.github.io/c++/2017/07/18/cpp11-ctrl-c-event-hooking/)
+  - [C언어_시스템프로그래밍 : 시그널 : 네이버 블로그](https://blog.naver.com/bitnang/70172674474)
+  - [REAKWON :: [리눅스] 시그널 (SIGNAL)1 시그널 다루기(시그널 핸들러)](https://reakwon.tistory.com/46)
+- [linux - SSH not working on Raspbian - Raspberry Pi Stack Exchange](https://raspberrypi.stackexchange.com/questions/83776/ssh-not-working-on-raspbian)
+  - [How to fix Raspberry Pi SSH connection reset](http://read.mindginative.com/post/raspberrypi-ssh-connection-reset/)
 
 
  <br/><br/>
