@@ -261,7 +261,7 @@ References
 - [DeepNatural Crew](https://www.notion.so/DeepNatural-Crew-c90ab612ac3a42a8999d59b2e54f99db)
     - [멋진 크루를 찾고 있어요!](https://www.notion.so/1371afc37e8a44039a0e8037993cb75b)
 - [CryptoQuant Job Description](https://www.notion.so/CryptoQuant-Job-Description-1068b1aa06454244b3ae3022bf8091f6)  <br><br>
-- [Work at Notion](https://www.notion.so/Work-at-Notion-e7aeb157238a4603a2964b28c646f07f)
+- [Notion – Careers](https://www.notion.so/careers)
 - [HOME | 와디즈 채용](https://www.job.wadiz.kr/)
 - [인재를 찾습니다](https://www.notion.so/772467ba686c4952a512f9e05b1ae320) (클래스 101)
 - [하이브리드앱 프론트 개발자 2명 구인 공고](https://www.notion.so/2-784ff9618b984e88a71a9befa30dc2fe) (요즘 시대 이웃 커뮤니티 '우트'에서 웹 프론트엔드 개발자 2분을 모십니다)
@@ -273,10 +273,13 @@ References
 - [우리와 함께 꿈을 키워나갈 분을 찾습니다!](https://www.notion.so/18966ccf2c514cab8b84bbf7c30c4cb7) (꿈많은 청년들)  <br><br>
 - [필통 소개](https://www.notion.so/52991bd4476f4abbb250335e4aa94466)
 - [그룹영상통화 스무디 채용](https://www.notion.so/df18abb5dfb94ea4a5a6b369bb43c7ce)
+- [메쉬코리아(VROONG)](https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc) (메쉬코리아 개발자 공개 채용)
+- [Careers at Olimplanet](https://www.notion.so/Careers-at-Olimplanet-49fb20feb6a04a5fa37157be890b29db) (올림플래닛)
 
 
  <br><br>
  
+
 ### Newsletter
 - [Morning Brew // Stories](https://www.morningbrew.com/daily/stories)
 - [뉴닉 NEWNEEK](https://newneek.co/)
