@@ -5,6 +5,35 @@ Today I Learned
  <br/><br/>
 
 
+### Current
+- [Download .NET Core 3.1 (Linux, macOS, and Windows)](https://dotnet.microsoft.com/download/dotnet-core/3.1)
+
+- [초보개발자 이야기. :: C 프로그래밍 : C 컴파일러 [gcc]](https://ra2kstar.tistory.com/176?category=431718)
+  - [Overall Options - Using the GNU Compiler Collection (GCC)](https://gcc.gnu.org/onlinedocs/gcc-4.1.2/gcc/Overall-Options.html#Overall-Options) (gcc -c)
+  - [Link Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Link-Options.html) (gcc -shared)
+  - [Code Gen Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Code-Gen-Options.html#Code-Gen-Options) (gcc -fPIC)
+  - [Preprocessor Options (Using the GNU Compiler Collection (GCC))](https://gcc.gnu.org/onlinedocs/gcc/Preprocessor-Options.html) (gcc -D[name])
+    - [unix - Trying to compile a target. It is C code. Have put #ifdef MYDEBUG. How to pass it as set during compilation? - Stack Overflow](https://stackoverflow.com/questions/16728126/trying-to-compile-a-target-it-is-c-code-have-put-ifdef-mydebug-how-to-pass-i)
+  - [linux - Build .so file from .c file using gcc command line - Stack Overflow](https://stackoverflow.com/questions/14884126/build-so-file-from-c-file-using-gcc-command-line)
+  - [수까락의 프로그래밍 이야기 : [C++] extern "C"](http://sweeper.egloos.com/1792976)
+  - [Mint & Latte_. :: 공유 라이브러리 생성](https://mintnlatte.tistory.com/156)
+  - [51%의 가능성 :: gcc 정적 라이브러리와 동적 라이브러리 (.a .so 파일)](https://blueamor.tistory.com/707)
+  - [불확정한 세상 :: gcc C++ : 리눅스 라이브러리 만들기 입문](https://karl27.tistory.com/40)
+- [C 라이브러리 함수 - signal() 시그널 처리 방법을 설정](http://forum.falinux.com/zbxe/index.php?document_srl=413254&mid=C_LIB)
+  - [Ctrl + C 키 이벤트 가로채기 · snowdeer's Code Holic](https://snowdeer.github.io/c++/2017/07/18/cpp11-ctrl-c-event-hooking/)
+  - [C언어_시스템프로그래밍 : 시그널 : 네이버 블로그](https://blog.naver.com/bitnang/70172674474)
+  - [REAKWON :: [리눅스] 시그널 (SIGNAL)1 시그널 다루기(시그널 핸들러)](https://reakwon.tistory.com/46)
+- [프로그래밍 노트 - [라즈베리파이] 라즈비안 SD 카드 백업/복사/복제 하기(디스크 이미지)](http://www.acronet.kr/24932)
+- [dotnet build command - .NET Core CLI | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-build)
+  - [.NET Core Runtime Identifier (RID) catalog | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/core/rid-catalog)
+- []()
+- []()
+- []()
+
+
+ <br/><br/>
+
+
 ### Software
 - [만들면서 배우는 AWS VPC 입문: 아마존 웹 서비스 네트워크의 기초 | 44bits.io](https://www.44bits.io/ko/post/understanding_aws_vpc)
 - [Massive service basic 대규모 서비스를 지탱하는 기술 - 기초편](https://www.slideshare.net/charsyam2/massive-service-basic)  
