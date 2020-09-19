@@ -25,3 +25,5 @@ Design Pattern
  <br/><br/>
  
 
+### Video lectures
+- [Design Patterns in Object Oriented Programming](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
