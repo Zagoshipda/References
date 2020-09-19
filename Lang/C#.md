@@ -33,6 +33,7 @@ C# Study
     - [csharp - YouTube](https://www.youtube.com/playlist?list=PLieE0qnqO2kSs3gcYldYgtPo3Mx3kuvaU)
 - [이것이 C#이다 - YouTube](https://www.youtube.com/playlist?list=PLVsNizTWUw7H1861aUZjGVEPaKqp6WMim)  <br/><br/>
 - [WPF UI Programming (C#) - YouTube](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
+- [ASP.NET app on containers | C# Architecture](https://github.com/dotnet-architecture/eShopOnContainers)
 
 
  <br/><br/>
