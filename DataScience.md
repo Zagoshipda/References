@@ -120,7 +120,8 @@ Data Science : AI & ML & DL & RL
 - [모두를 위한 컨벡스 최적화 (Convex Optimization For All) - WikiDocs](https://wikidocs.net/book/1896)
 - [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com/)
 - [dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)
-
+- [Python, Keras and TensorFlow with Applications of Deep Neural Networks. Washington University](https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN)
+- [Reinforcement Learning: Actor-Critic Networks | Oracle AI and Data Science Blog](https://blogs.oracle.com/datascience/reinforcement-learning%3a-actor-critic-networks)
 
  <br><br>
 
