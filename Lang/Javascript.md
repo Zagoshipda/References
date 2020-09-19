@@ -12,6 +12,7 @@ JavaScript Study
 - [자바스크립트 클로저](https://brunch.co.kr/@kd4/10)
 - [[JS] 클로저(Clouser)](https://victorydntmd.tistory.com/m/44)
 - [자바스크립트의 스코프와 클로저 : TOAST Meetup](https://meetup.toast.com/posts/86)
+- [JS Event loop | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
 
 
  <br/><br/>
