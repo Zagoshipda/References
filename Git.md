@@ -38,7 +38,8 @@ How to Git & Github
 
 
 ### Git 
-- [___Git - Reset Demystified___](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - ___HEAD, Index, Working Directory(tree)___/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard) 
+- [___Git - Reset Demystified___](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) (The Three Trees - ___HEAD, Index, Working Directory(tree)___/ git reset --soft, --mixed, --hard/ squashing commits/ checkout vs reset --hard)
+- [GIT - Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - [GIT4 - Reset & Revert 4.1. reset --soft vs --mixed vs --hard](https://www.youtube.com/watch?v=DZSZowycr2o&list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8&index=6)
 - [KLDP - diff 보는 법](https://kldp.org/node/103533)
 - [Outsider's Dev Story - git diff 에서 변경된 부분을 더 명확하게 보는 방법](https://blog.outsider.ne.kr/1011) 
