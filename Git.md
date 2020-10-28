@@ -100,7 +100,8 @@ How to Git & Github
     - [[Cookbook] Git, 이럴 때 이렇게 한다.](https://pinedance.github.io/blog/2019/05/28/Git-Cookbook)
 - [Git remote branch deleted, but still it appears in 'branch -a' - Stack Overflow](https://stackoverflow.com/questions/5094293/git-remote-branch-deleted-but-still-it-appears-in-branch-a) (___git branch -d -r \<remote name\>/\<branch name\>___)
     - [Git - git-branch Documentation](https://git-scm.com/docs/git-branch) (Use -r together with -d to delete remote-tracking branches)  <br/><br/>
-
+- [[git] .gitignore 변경 반영하기. 왜 지워지지 않는거야! | by Kwoncheol Shin | Medium](https://medium.com/@kwoncharles/git-gitignore-%EB%B3%80%EA%B2%BD-%EB%B0%98%EC%98%81%ED%95%98%EA%B8%B0-3f0559947c2b)
+ 
 
  <br/><br/>
   
