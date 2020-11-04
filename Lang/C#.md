@@ -45,6 +45,7 @@ C# Study
 - [Property(프로퍼티), Indexer(인덱서)](https://sghy.tistory.com/12)
 - [C# 인덱서 프로퍼티 (Indexer) : 네이버 블로그](https://blog.naver.com/beaqon/221301129951)
 - [[C#] 상속 관계에 있는 클래스의 형변환 ( is , as ) :: IT's me](https://grayt.tistory.com/99)
+    - [___Type-testing operators and cast expression - C# reference | Microsoft Docs___](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/type-testing-and-cast)
 - [Tuple types - C# Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/tuples)
     - [Tuple<T1,T2>.Item1 Property (System) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.tuple-2.item1?view=netframework-4.8)
 - [비동기 프로그래밍 - 4.1 async / await (about async / await) : 네이버블로그](https://blog.naver.com/vactorman/220340600110)
@@ -52,6 +53,8 @@ C# Study
 - [Task Class (System.Threading.Tasks) | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/api/system.threading.tasks.task?view=netframework-4.8)  <br/><br/>
 - [namespace:: hyunjin :: [C# 기초문법] 11. 쓰레드(Thread)와 테스크(Task)](https://nshj.tistory.com/entry/C-%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95-11-%EC%93%B0%EB%A0%88%EB%93%9CThread%EC%99%80-%ED%85%8C%EC%8A%A4%ED%81%ACTask)
 - [[C#] 얕은 복사와 깊은 복사](https://debuglog.tistory.com/126)
+- [oop - What is the difference between an abstract function and a virtual function? - Stack Overflow](https://stackoverflow.com/questions/391483/what-is-the-difference-between-an-abstract-function-and-a-virtual-function)
+- [___Polymorphism - C# Programming Guide | Microsoft Docs___](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism)
 
 
  <br/><br/>
