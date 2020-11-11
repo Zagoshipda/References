@@ -40,6 +40,7 @@ Programming Languages
 - [Hello! | reason](https://facebook.github.io/reason/)
     - [Reason · Reason lets you write simple, fast and quality type safe code while leveraging both the JavaScript & OCaml ecosystems.](https://reasonml.github.io/)
 - [The Julia Programming Language](https://julialang.org/)
+- [Clojure](https://clojure.org/)
 
 
  <br/><br/>
