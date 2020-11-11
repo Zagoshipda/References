@@ -82,6 +82,9 @@ References
 - [DACON : Data Science AI Competitions   - DACON](https://dacon.io/)
 - [GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.](https://archiveprogram.github.com/) <br/><br/>
 - [리눅스포털](https://www.linux.co.kr/home/index.html)
+- [The Open Group Website ](https://www.opengroup.org/)
+- [X.Org](https://www.x.org/wiki/) (The X.Org project provides an open source implementation of the X Window System)
+    - [The X Window System](http://www.opengroup.org/tech/desktop/x-window-system/)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
@@ -420,6 +423,8 @@ References
 - [mirror.kakao.com](http://mirror.kakao.com/)
 - [mirror.navercorp.com](http://mirror.navercorp.com/)
 - [To Get FLV](http://www.2getflv.co.kr/)
+- [Cursive: The IDE for beautiful Clojure(Script) code](https://cursive-ide.com/index.html)
+- [Light Table](http://lighttable.com/) (The next generation code editor)
 
 
  <br/><br/>
