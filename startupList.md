@@ -240,6 +240,8 @@ Startup lists
 - [Home | Hashed](https://www.hashed.com/) : blockchain
 - [AITRICS](https://www.aitrics.com/)
 - [Deep Bio | DeepBio - providing deep learning solutions to pathology](https://www.deepbio.co.kr/)
+- [비대면 테스트 플랫폼, 포메이커스](https://formakers.net/)
+- [레몬베이스: 건강한 성장의 시작](https://lemonbase.com/)
 
 
  <br/><br/>
