@@ -278,6 +278,8 @@ References
 - [그룹영상통화 스무디 채용](https://www.notion.so/df18abb5dfb94ea4a5a6b369bb43c7ce)
 - [메쉬코리아(VROONG)](https://www.notion.so/VROONG-5c5458e75f9142f8b37272d7d146dffc) (메쉬코리아 개발자 공개 채용)
 - [Careers at Olimplanet](https://www.notion.so/Careers-at-Olimplanet-49fb20feb6a04a5fa37157be890b29db) (올림플래닛)
+- [Qrio Studio(큐리오스튜디오) 채용](https://www.notion.so/4989e14a7e9143d0ac15bb4a4770f892#08bd7fa7b4a94a56be2d3b5fe2e2dd0b)
+- [Silvia Health 채용](https://www.notion.so/Silvia-Health-ddcf51903e24410b990fec56bf744077)
 
 
  <br><br>
