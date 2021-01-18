@@ -151,6 +151,8 @@ How to Git & Github
 - [How to write a great README for your GitHub project – dbader.org](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 - [github - What do raw.githubusercontent.com URLs represent? - Stack Overflow](https://stackoverflow.com/questions/39065921/what-do-raw-githubusercontent-com-urls-represent)
 - [Connecting to GitHub with SSH - GitHub Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+- [What happens to forks when a repository is deleted or changes visibility? - GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility)
+    - [Deleting a repository - GitHub Docs](https://docs.github.com/en/github/administering-a-repository/deleting-a-repository)
 
 
  <br/><br/>
