@@ -85,6 +85,7 @@ References
 - [The Open Group Website ](https://www.opengroup.org/)
 - [X.Org](https://www.x.org/wiki/) (The X.Org project provides an open source implementation of the X Window System)
     - [The X Window System](http://www.opengroup.org/tech/desktop/x-window-system/)
+- [안녕하세요 디디디입니다!](https://www.notion.so/7b73ca41b67c4658b292a4662581ee01) (Designer Developer Dayday)
  <br/><br/><br/><br/>
 - [노트폴리오 - 크리에이티브 네트워크](https://notefolio.net/) (Art & Design)
 - [AYA EOYEO - 아야어여](http://ayaeoyeo.com/) (모음(母音), 문화를 뒷받침하는 소리, 청년문화예술단체 아야어여)
