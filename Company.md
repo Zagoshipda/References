@@ -89,6 +89,8 @@ Company sites for Developers
 - [Red Hat - We make open source technologies for the enterprise](https://www.redhat.com/en)
 - [Investors Overview | Tesla, Inc.](https://ir.tesla.com/)
 - [Dropbox Tech Blog - Dropbox](https://dropbox.tech/)
+- [Shopify Engineering](https://shopify.engineering/)
+    - [Shopify](https://github.com/Shopify)
 <br/><br/><br/>
 - [Kakao Developers](https://developers.kakao.com/)
 - [Kakao i](https://kakao.ai/) (hey kakao, kakao mini)
