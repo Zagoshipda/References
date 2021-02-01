@@ -33,6 +33,7 @@ C# Study
     - [csharp - YouTube](https://www.youtube.com/playlist?list=PLieE0qnqO2kSs3gcYldYgtPo3Mx3kuvaU)
 - [이것이 C#이다 - YouTube](https://www.youtube.com/playlist?list=PLVsNizTWUw7H1861aUZjGVEPaKqp6WMim)  <br/><br/>
 - [WPF UI Programming (C#) - YouTube](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
+- [ASP.NET app on containers | C# Architecture](https://github.com/dotnet-architecture/eShopOnContainers)
 
 
  <br/><br/>
@@ -40,6 +41,7 @@ C# Study
 
 ## Study
 - [Model–view–viewmodel - Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+- [Onion architecture | C# Corner](https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/)
 - [[용어 정리] MVC, MVP, MVVM 비교](http://itnovice1.blogspot.com/2019/01/mvc-mvp-mvvm.html)
 - [MVC, MVP, MVVM 비교 – 마기의 개발 블로그 – 즐겁게 개발을 하고 싶은 욕심 많은 개발자](https://magi82.github.io/android-mvc-mvp-mvvm/)
 - [Property(프로퍼티), Indexer(인덱서)](https://sghy.tistory.com/12)
@@ -55,6 +57,11 @@ C# Study
 - [[C#] 얕은 복사와 깊은 복사](https://debuglog.tistory.com/126)
 - [oop - What is the difference between an abstract function and a virtual function? - Stack Overflow](https://stackoverflow.com/questions/391483/what-is-the-difference-between-an-abstract-function-and-a-virtual-function)
 - [___Polymorphism - C# Programming Guide | Microsoft Docs___](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/polymorphism)
+- [C# async-await tricks | Dev notes](https://sonyks2007.blogspot.com/2020/02/c-async-trics.html)
+- [Boxing and Unboxing | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
+- [?? and ??= operators | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator)
+- [C# Cheat Sheet | laurence](https://cheatography.com/laurence/cheat-sheets/c/)
+- [REF | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/ref)
 
 
  <br/><br/>
