@@ -154,6 +154,7 @@ How to Git & Github
 - [Connecting to GitHub with SSH - GitHub Docs](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [What happens to forks when a repository is deleted or changes visibility? - GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/what-happens-to-forks-when-a-repository-is-deleted-or-changes-visibility)
     - [Deleting a repository - GitHub Docs](https://docs.github.com/en/github/administering-a-repository/deleting-a-repository)
+- [version control - Set up git to pull and push all branches - Stack Overflow](https://stackoverflow.com/questions/1914579/set-up-git-to-pull-and-push-all-branches) (git push --all origin)
 
 
  <br/><br/>
