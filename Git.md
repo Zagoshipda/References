@@ -102,7 +102,10 @@ How to Git & Github
 - [Git remote branch deleted, but still it appears in 'branch -a' - Stack Overflow](https://stackoverflow.com/questions/5094293/git-remote-branch-deleted-but-still-it-appears-in-branch-a) (___git branch -d -r \<remote name\>/\<branch name\>___)
     - [Git - git-branch Documentation](https://git-scm.com/docs/git-branch) (Use -r together with -d to delete remote-tracking branches)  <br/><br/>
 - [[git] .gitignore 변경 반영하기. 왜 지워지지 않는거야! | by Kwoncheol Shin | Medium](https://medium.com/@kwoncharles/git-gitignore-%EB%B3%80%EA%B2%BD-%EB%B0%98%EC%98%81%ED%95%98%EA%B8%B0-3f0559947c2b)
- 
+- [___Git subtree를 활용한 코드 공유 | blog.rhostem.com___](https://blog.rhostem.com/posts/2020-01-03-code-sharing-with-git-subtree)
+    - [Git Subtree 사용법 - 하나의 저장소에서 여러 저장소를 관리하기 | Seongho's Dev Story](https://iseongho.github.io/posts/git-subtree/)
+    - [[Git] Subtree 사용법 - ThreeSnakes의 개발 삽질 기록장 및 다이어리](https://www.three-snakes.com/git/git-subtree)
+
 
  <br/><br/>
   
