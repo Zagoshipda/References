@@ -87,6 +87,7 @@ Algorithm
 - [William Lin - YouTube](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q)
 - [Errichto 2 - YouTube](https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ)
 - [Stefan Dascalescu - YouTube](https://www.youtube.com/channel/UCyTPeByJ_FvAJljtc0svt-Q)
+- [2018 알고리즘, 안경잡이개발자 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=ndb796&from=postList&categoryNo=128)
 
 
  <br/><br/>
