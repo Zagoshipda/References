@@ -52,6 +52,8 @@ C++ Study
 - [___Array of Vectors___ in C++ STL - GeeksforGeeks](https://www.geeksforgeeks.org/array-of-vectors-in-c-stl/) (___vector <data_type> V[size]___)
 - [우주의 중심 :: [C++] String과 char 배열 비교](https://mk28.tistory.com/entry/C-String%EA%B3%BC-char-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90)
 - [MultiThread Life - C++ 객체생성 두가지 방법과 의문점(___new를 이용한 동적할당객체___)](https://multithread.tistory.com/entry/C-%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1-%EB%91%90%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%9D%98%EB%AC%B8%EC%A0%90new%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%EA%B0%9D%EC%B2%B4)
+- [C++ 프로그래밍 -  평생 공부 블로그 : Today I Learned‍ 🌙](https://ansohxxn.github.io/categories/cpp)
+    - [C++ Chapter 8.10 : static 정적 멤버 변수 -  평생 공부 블로그 : Today I Learned‍ 🌙](https://ansohxxn.github.io/cpp/chapter8-10/)
 
 
  <br/><br/>
