@@ -92,6 +92,8 @@ Algorithm
 - [2018 알고리즘, 안경잡이개발자 : 네이버 블로그](https://blog.naver.com/PostList.naver?blogId=ndb796&from=postList&categoryNo=128)
 - [Jinhan's Note : 네이버 블로그](https://blog.naver.com/jinhan814)
 - [ACM-ICPC 상 탈 사람](https://jason9319.tistory.com/)
+- [leo020630의 블로그](https://leo630.tistory.com/)
+- [hijkl2e](https://hijkl2e.tistory.com/)
 
 
  <br/><br/>
