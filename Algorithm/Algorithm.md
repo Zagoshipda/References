@@ -17,6 +17,7 @@ Algorithm
     - [Open Codeforces Rating System [updated on October 2015] - Codeforces](https://codeforces.com/blog/entry/20762)
 - [___Code Jam - Google’s Coding Competitions___](https://codingcompetitions.withgoogle.com/codejam)
     - [Kick Start - Google’s Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart)
+    - [Google Code Jam Archive](https://zibada.guru/gcj/)
 - [___Facebook Hacker Cup___](https://www.facebook.com/hackercup/)
     - [Past Rounds | Facebook Hacker Cup 2019 Qualification Round](https://www.facebook.com/hackercup/past_rounds/)
 - [AtCoder](https://atcoder.jp/)
