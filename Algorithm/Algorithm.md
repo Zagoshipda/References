@@ -95,6 +95,8 @@ Algorithm
 - [ACM-ICPC 상 탈 사람](https://jason9319.tistory.com/)
 - [leo020630의 블로그](https://leo630.tistory.com/)
 - [hijkl2e](https://hijkl2e.tistory.com/)
+- [79brue의 PS 블로그](https://79brue.tistory.com/)
+- [zenith82114.github.io](https://zenith82114.github.io/)
 
 
  <br/><br/>
