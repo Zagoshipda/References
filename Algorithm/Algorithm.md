@@ -65,6 +65,7 @@ Algorithm
 - [___Advanced Algorithms (COMPSCI 224)___ - YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) (Harvard University)
 - [Welcome To PKU JudgeOnline](http://poj.org/)
     - [An archive of old USACO Problems - Codeforces](https://codeforces.com/blog/entry/95032)
+- [Olympiads in Informatics. St. Petersburg, Russia](https://neerc.ifmo.ru/school/information/index.html)
 
 
  <br/><br/>
