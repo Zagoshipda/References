@@ -79,6 +79,17 @@ Algorithm
  <br/><br/>
 
 
+### ocw
+- [___Advanced Algorithms (COMPSCI 224)___ - YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) (Harvard University)
+- [MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/)
+    - [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/) (Fall 2008)
+    - [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/) (Fall 2005)
+    - [Advanced Complexity Theory | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-405j-advanced-complexity-theory-spring-2016/)
+    - [Automata, Computability, and Complexity | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+
+ <br/><br/>
+
+
 ### Blog
 - [구사과](https://koosaga.com/)
     - [___내가 문제풀이를 연습하는 방법___](https://koosaga.com/217)
@@ -106,6 +117,7 @@ Algorithm
 - [hijkl2e](https://hijkl2e.tistory.com/)
 - [79brue의 PS 블로그](https://79brue.tistory.com/)
 - [zenith82114.github.io](https://zenith82114.github.io/)
+- [qwerasdfzxcl의 ps 블로그 :: qwerasdfzxcl의 ps 블로그](https://qwerasdfzxcl.tistory.com/)
 
 
  <br/><br/>
@@ -129,9 +141,6 @@ Algorithm
 - [리먼 소인수분해](https://www.acmicpc.net/blog/view/89)
 - [동적 계획법을 최적화하는 9가지 방법 (1/3)](https://koosaga.com/242?category=554431)
 - [컴퓨터 알고리즘 기초 | T아카데미 - YouTube](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdvKFh-wVpDuihNQv6C1gSy)
-- [___Advanced Algorithms (COMPSCI 224)___ - YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) (Harvard University)
-- [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/) (Fall 2008)
-- [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/) (Fall 2005)
 
 
  <br/><br/>
