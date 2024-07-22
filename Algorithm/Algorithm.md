@@ -130,6 +130,8 @@ Algorithm
 - [동적 계획법을 최적화하는 9가지 방법 (1/3)](https://koosaga.com/242?category=554431)
 - [컴퓨터 알고리즘 기초 | T아카데미 - YouTube](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdvKFh-wVpDuihNQv6C1gSy)
 - [___Advanced Algorithms (COMPSCI 224)___ - YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf) (Harvard University)
+- [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/) (Fall 2008)
+- [Advanced Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/) (Fall 2005)
 
 
  <br/><br/>
