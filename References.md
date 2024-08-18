@@ -428,7 +428,8 @@ References
 - [To Get FLV](http://www.2getflv.co.kr/)
 - [Cursive: The IDE for beautiful Clojure(Script) code](https://cursive-ide.com/index.html)
 - [Light Table](http://lighttable.com/) (The next generation code editor)
-
+- [How To Write Unmaintainable Code](https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html) by Roedy Green
+    - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://velog.velcdn.com/images/jinvicky/post/965b8843-2ed1-40df-b75b-c9df5fcf3b7e/image.pdf)
 
  <br/><br/>
  
