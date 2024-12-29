@@ -6,16 +6,12 @@ README
 [![HitCount](http://hits.dwyl.io/zagoshipda/References.svg)](http://hits.dwyl.io/zagoshipda/References)
 -->
 
+ <br/>
 
- <br/><br/>
+### [[resume] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/CV_JeonHyeongLee_en.pdf)
+### [[resume] JeonHyeong Lee (google docs)](https://docs.google.com/document/d/1Du29uBZT1mhaV0vdmqzQ9037OK156iJqqvuyMh9Fiyg/edit?usp=sharing)
 
-
-### [[CV] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/CV_JeonHyeongLee_en.pdf)
-### [[CV] JeonHyeong Lee (google docs)](https://docs.google.com/document/d/1Du29uBZT1mhaV0vdmqzQ9037OK156iJqqvuyMh9Fiyg/edit?usp=sharing)
-
-
- <br/><br/>
-
+ <br/>
 
 ### Repository Description
 - Lang : language study
