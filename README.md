@@ -10,8 +10,8 @@ README
  <br/><br/>
 
 
-### [[CV] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/resume_en_JeonHyeongLee.pdf)
-### [Watcha - 이전형](https://pedia.watcha.com/ko-KR/users/j4PxOnZVd5p0Q)
+### [[CV] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/CV_JeonHyeongLee_en.pdf)
+### [[CV] JeonHyeong Lee (google docs)](https://docs.google.com/document/d/1Du29uBZT1mhaV0vdmqzQ9037OK156iJqqvuyMh9Fiyg/edit?usp=sharing)
 
 
  <br/><br/>
