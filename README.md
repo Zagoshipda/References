@@ -8,7 +8,7 @@ README
 
  <br/>
 
-### [[resume] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/resume_JeonHyeongLee.pdf)
+### [[resume] JeonHyeong Lee](https://github.com/Zagoshipda/References/blob/master/resume_JeonHyeongLee_public.pdf)
 ### [[resume] JeonHyeong Lee (google docs)](https://docs.google.com/document/d/1Du29uBZT1mhaV0vdmqzQ9037OK156iJqqvuyMh9Fiyg/edit?usp=sharing)
 
  <br/>
