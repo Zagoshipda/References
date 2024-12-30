@@ -41,8 +41,6 @@ C++ Study
     - [How do I declare a 2d array in C++ using new? - Stack Overflow](https://stackoverflow.com/questions/936687/how-do-i-declare-a-2d-array-in-c-using-new)  <br/><br/>
 - [c - Correct format specifier for double in printf - Stack Overflow](https://stackoverflow.com/questions/4264127/correct-format-specifier-for-double-in-printf)
 - [___c - Is an array name a pointer? - Stack Overflow___](https://stackoverflow.com/questions/1641957/is-an-array-name-a-pointer)
-    - [씹어먹는 C 언어 - <12 - 2. 포인터는 영희이다! (포인터)>](https://modoocode.com/24) (___배열은 배열이고 포인터는 포인터다___, 배열 이름은 포인터가 아니다)
-    - [씹어먹는 C 언어 - <12 - 3. 포인터는 영희이다! (포인터)>](https://modoocode.com/25) (___배열 이름의 주소값, 배열과 포인터의 관계___, 1차원 배열에서 배열의 이름은 첫 번째 원소를 가리키는 포인터로 타입 변환, 2차원 배열에서 배열의 이름은 첫 번째 행(이 역시나 배열)을 가리키는 포인터로 타입 변환)
 - [std::qsort - cppreference.com](https://en.cppreference.com/w/cpp/algorithm/qsort)
     - [___C qsort() vs C++ sort()___ - GeeksforGeeks](https://www.geeksforgeeks.org/c-qsort-vs-c-sort/)
     - [C qsort 함수 vs C++ sort 함수 (작성중)](https://adaid.tistory.com/64)
@@ -54,7 +52,17 @@ C++ Study
 - [MultiThread Life - C++ 객체생성 두가지 방법과 의문점(___new를 이용한 동적할당객체___)](https://multithread.tistory.com/entry/C-%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1-%EB%91%90%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%9D%98%EB%AC%B8%EC%A0%90new%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9%EA%B0%9D%EC%B2%B4)
 - [C++ 프로그래밍 -  평생 공부 블로그 : Today I Learned‍ 🌙](https://ansohxxn.github.io/categories/cpp)
     - [C++ Chapter 8.10 : static 정적 멤버 변수 -  평생 공부 블로그 : Today I Learned‍ 🌙](https://ansohxxn.github.io/cpp/chapter8-10/)
-- [C Right-Left Rule (Rick Ord's CSE 30 - UC San Diego)](https://cseweb.ucsd.edu//~ricko/rt_lt.rule.html)
+- [___C Right-Left Rule (Rick Ord's CSE 30 - UC San Diego)___](https://cseweb.ucsd.edu//~ricko/rt_lt.rule.html)
+- [new expression - cppreference.com](https://en.cppreference.com/w/cpp/language/new)
+- [Initialization - cppreference.com](https://en.cppreference.com/w/cpp/language/initialization) : Copy-initialization, List-initialization, Direct-initialization
+- [Converting constructor - cppreference.com](https://en.cppreference.com/w/cpp/language/converting_constructor)
+    - [C++ 변환 생성자(Conversion Constructor)](https://psychoria.tistory.com/40)
+- [User-defined conversion function - cppreference.com](https://en.cppreference.com/w/cpp/language/cast_operator)
+    - [C++ 변환 연산자(Conversion operator)](https://psychoria.tistory.com/41)  
+    - [[C++] Conversion Function | 변환 함수 — Archive](https://dad-rock.tistory.com/162)
+- [Constructors and member initializer lists - cppreference.com](https://en.cppreference.com/w/cpp/language/constructor) : 
+Delegating constructor, Initialization order
+- [static을 이해하자](https://kldp.org/files/static____________160.htm) : static storage duration, (file / block) scope
 
 
  <br/><br/>
