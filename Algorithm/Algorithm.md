@@ -33,7 +33,7 @@ Algorithm
     - [ACM-ICPC Korea Regional Site](http://icpckorea.org/)
     - [#ICPCU](https://u.icpc.global/)  <br/><br/>
 - [HackerRank](https://www.hackerrank.com/)
-- [___Tech Recruiting Platform, Online Code Testing | Codility___](https://www.codility.com/)
+- [Developer Training | Test Coding Skills Online - Codility](https://app.codility.com/programmers/)
 - [Design & Build High-Quality Software with Crowdsourcing | Topcoder](https://www.topcoder.com/)
 - [Train with Programming Challenges/Kata | Codewars](https://www.codewars.com/)
 - [Croatian Open Competition in Informatics](http://hsin.hr/coci/)
