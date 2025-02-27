@@ -173,6 +173,8 @@ Python Study
 - [python의 soocket 통신시 send()와 sendall()의 차이에 대해서 :: 코드 조각-Android, Java, C#, C, C++, JavaScript, PHP, HTML, CSS, Delphi](https://developer-joe.tistory.com/146)
 - [5.5 패킹과 언패킹 | 파이썬 프로그래밍 입문서 (가제)](https://python.bakyeono.net/chapter-5-5.html)
 - [python - What is the difference between socket.send() and socket.sendall()? - Stack Overflow](https://stackoverflow.com/questions/34252273/what-is-the-difference-between-socket-send-and-socket-sendall)
+- [A tuple with one element requires a comma in Python](https://note.nkmk.me/en/python-tuple-single-empty/)
+- [넘파이(NumPy) 기초: 배열 및 벡터 계산](https://compmath.korea.ac.kr/appmath/NumpyBasics.html)
 
 
  <br/><br/>
