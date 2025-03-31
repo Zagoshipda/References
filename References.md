@@ -6,14 +6,12 @@ References
  
 
 ### Community
-- [___개발은 같이 하자: 개같하___](https://www.gaegata.com/)
  <br/><br/>
 - [___Talks at Google - YouTube___](https://www.youtube.com/user/AtGoogleTalks/videos)
 - [생활코딩](https://opentutorials.org/course/1)
     - [자바야학](http://java.yah.ac/)
 - [___SW마에스트로___](http://swmaestro.org/user/main.do)
     - [SW마에스트로 과정 공식 블로그 : 네이버 블로그](https://blog.naver.com/sw_maestro)
-- [Samsung Software Membership](http://www.secmem.org/)
 - [SNUPS : Seoul National University Problem Solvers](https://snups.org/)
 - [___StackShare - Software and technology stacks used by top companies___](https://stackshare.io/)
 - [Home | Microsoft Student Partners](https://studentpartners.microsoft.com/en-us)
@@ -23,7 +21,6 @@ References
 - [해시넷 - 대한민국 블록체인 및 암호화폐 정보포털](http://www.hash.kr/)
 - [AI Dev - 인공지능 개발자 모임](http://aidev.co.kr/)
 - [C<>DE & T4LK5](https://www.codentalks.com/)
-- [나가자, 해외취업을 희망하는 개발자들을 위한 커뮤니티](http://www.nagaja.net)
 - [게임코디 :: 게임프로그래머 만담 모임](http://www.gamecodi.com/)
 - [GpgStudy 메인 페이지](https://gpgstudy.com/)
 - [NEXTERS](http://teamnexters.com/) (개발자, 디자이너 IT 연합동아리)
@@ -60,12 +57,11 @@ References
 - [AWSKRUG - AWS한국사용자모임 (Seoul, Korea (South)) | Meetup](https://www.meetup.com/awskrug/)
 - [서울시 금천구 가산동  메이커스페이스 전문랩 G·캠프 (Makerspace G·CAMP, 지캠프)](https://www.g.camp/)
 - [서울  하드웨어 해커톤  | Seoul Hardware Hackathon](https://www.seoulhackathon.org/)
-- [설리번 프로젝트](https://sullivanproject.io/)
+- [설리번 프로젝트](https://nova.sullivanproject.io/) 
 - [AWS Developer Forums: Korean](https://forums.aws.amazon.com/forum.jspa?forumID=139)  <br/><br/>
 - [Saturdays.AI - Empowering anyone to learn and use Artificial Intelligence for Good](https://www.saturdays.ai/)
 - [AI•ON: Artificial Intelligence Open Network](https://ai-on.org/)
 - [Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/)
-- [programming](https://www.reddit.com/r/programming/) (reddit)
 - [리눅스 커뮤니티 하모니카(HamoniKR)](https://hamonikr.org/) (하모니카OS)
 - [DoF](https://dof.robotiq.com/) (a Robotiq Community)
 - [국내 최대 기술공유 커뮤니티 - 기술랩](https://gisullab.com/)
@@ -430,7 +426,10 @@ References
 - [Light Table](http://lighttable.com/) (The next generation code editor)
 - [How To Write Unmaintainable Code](https://cs.fit.edu/~kgallagher/Schtick/How%20To%20Write%20Unmaintainable%20Code.html) by Roedy Green
     - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://velog.velcdn.com/images/jinvicky/post/965b8843-2ed1-40df-b75b-c9df5fcf3b7e/image.pdf)
+- [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org)
+  <br/><br/>
 
+ 
  <br/><br/>
  
  
