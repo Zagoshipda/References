@@ -1,6 +1,9 @@
 Python Study
 ==========
 
+ <br/><br/>
+
+- [PEP 20 – The Zen of Python | peps.python.org](https://peps.python.org/pep-0020/)
 
  <br/><br/>
 
