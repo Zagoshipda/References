@@ -27,6 +27,9 @@ Python Study
     - [8. Compound statements — Python 3.7.4 documentation](https://docs.python.org/3/reference/compound_stmts.html#with) (with statement, Function definitions)
     - [7. Input and Output — Python 3.7.4 documentation](https://docs.python.org/3/tutorial/inputoutput.html)
     - [ast — Abstract Syntax Trees — Python 3.7.4 documentation](https://docs.python.org/3/library/ast.html) (literal_eval() method)
+    - [Sorting Techniques — Python 3.13.2 documentation](https://docs.python.org/3/howto/sorting.html#sortinghowto)
+  <br/><br/>
+    - [PEP 498 – Literal String Interpolation | peps.python.org](https://peps.python.org/pep-0498/#abstract)
 - [w3schools.com - Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [LINK: Laboratory of Intelligent Networks at KoreaTech](http://link.koreatech.ac.kr/courses2/SPE/syllabus.html) (Python Programming - E-learning)
 - [Python 3 Patterns, Recipes and Idioms — Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
