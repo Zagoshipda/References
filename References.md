@@ -428,6 +428,8 @@ References
     - [유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://velog.velcdn.com/images/jinvicky/post/965b8843-2ed1-40df-b75b-c9df5fcf3b7e/image.pdf)
 - [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org)
   <br/><br/>
+- [Plans for GitHub Copilot - GitHub Docs](https://docs.github.com/en/copilot/get-started/plans-for-github-copilot)
+- [About individual Copilot plans and benefits - GitHub Docs](https://docs.github.com/en/copilot/concepts/copilot-billing/about-individual-copilot-plans-and-benefits)
 
  
  <br/><br/>
